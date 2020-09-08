@@ -8,6 +8,8 @@ The default file locations assume that you have cloned both the `linked-data` an
 
 The properties to be downloaded are controlled by the items in the `prop_list` list. The `variable` value MUST NOT have spaces. Use underscores between words.
 
+There are three fixed reference properties that the download script uses (stated in, reference URL, and retrieved). For how I determined that, see the notes with [this script](https://github.com/HeardLibrary/linked-data/blob/master/publications/divinity-law/determine_ref_properties.ipynb). 
+
 ## Notes on editing CSVs for upload by VanderBot
 
 **Note:** the data download script currently does not support qualifiers. However, VanderBot can write qualifiers as long as they are associated with a new statement. In cases where values of a property need qualifiers, we should talk about how to handle that.
