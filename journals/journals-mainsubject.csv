@@ -1,92 +1,91 @@
-qid,label_en,main_subject_uuid,main_subject,main_subject_ref1_hash,main_subject_ref1_statedIn,main_subject_ref1_referenceUrl,main_subject_ref1_retrieved_nodeid,main_subject_ref1_retrieved_val,main_subject_ref1_retrieved_prec
-Q15754942,American Journal of Theology and Philosophy,,,,,,,,
-Q15753995,Anglican Theological Review,7B0B92EF-2D15-4096-8840-224D39DDA7CB,Q34178,,,,,,
-Q15749151,Berliner Theologische Zeitschrift,DA62F478-FA4B-4B17-9827-4FA88E75C6A0,Q34178,,,,,,
-Q4903269,Biblical Theology Bulletin,F003E2BF-3C92-4E76-8263-3FE56063B769,Q794605,,,,,,
-Q15816830,Black Theology,e8c7e4f2-42f4-258a-5a21-7b86952c8f42,Q34178,,,,,,
-Q4984286,Buddhist–Christian Studies,340DF2E0-DA25-44CE-A9A7-96F5D299D51C,Q34187,,,,,,
-Q15816920,Bulletin for the Study of Religion,c51eb1d0-4202-ddf4-2bc5-977298997557,Q34187,,,,,,
-Q15816920,Bulletin for the Study of Religion,7be3206a-47d8-2786-89cf-2e95e2d47e1a,Q34178,,,,,,
-Q5024509,Calvin Theological Journal,600FD2B9-A204-47B5-8703-1FC6B3155A7C,Q34178,,,,,,
-Q5158991,Concordia Theological Quarterly,E8A83FFA-A983-4521-94E4-90ED312C0C91,Q34178,,,,,,
-Q57615071,Critical Research on Religion,646d127e-484d-06c2-da61-2fe7f15dffde,Q34187,,,,,,
-Q15817868,East European Jewish Affairs,59569db4-407f-ea34-14d2-ea5e17695f1f,Q42002,,,,,,
-Q15817868,East European Jewish Affairs,b545c290-4c5e-a5aa-9a5a-821e4cfdec69,Q1413113,,,,,,
-Q15762548,Ecumenical Review,,,,,,,,
-Q5382167,Ephemerides Theologicae Lovanienses,BA2C374A-D49E-4CED-9467-05792F073C1C,Q34178,,,,,,
-Q50426426,Estudos de Religião,,,,,,,,
-Q50426286,Estudos Teológicos,3dbca693-491e-a86f-e4f8-4f415ede2657,Q34178,,,,,,
-Q5433232,Family Relations,4B1A7644-774D-4F3F-9364-C8C5A9F9AE1E,Q425694,,,,,,
-Q5442869,Feminist Theology,CB4E5C50-C4BB-42A4-8F97-21D7D668E1AB,Q34178,,,,,,
-Q5676604,Harvard Theological Review,F6A6C2E4-CAC7-4B44-AE68-F3996DE0A773,Q34187,,,,,,
-Q15754681,Horizons in Biblical Theology,6dfbb287-4016-ef48-6456-a6b60d292b44,Q794605,,,,,,
-Q18350356,Humanity & Society,422A504C-8290-49BE-BA75-58533EE7A329,Q21201,,,,,,
-Q15763357,International Journal for Philosophy of Religion,,,,,,,,
-Q15761107,International Journal of Practical Theology,f2a5c2ad-41cd-6f52-8ca1-f8f1e696dcb7,Q1383443,,,,,,
-Q15761107,International Journal of Practical Theology,36756672-4e53-eea9-ef0f-07a367902b4d,Q5654877,,,,,,
-Q6071283,Irish Theological Quarterly,07E015CB-18B4-42EE-B2FB-22046456FA63,Q34178,,,,,,
-Q15755037,Jewish Social Studies,548e949c-4872-0301-214e-f80b27587467,Q42002,,,,,,
-Q6294702,Journal for the Scientific Study of Religion,6b8ec0fe-472b-a868-e639-985caa200e0f,Q5891,,,,,,
-Q6294702,Journal for the Scientific Study of Religion,8addb362-4755-f7ff-f80f-173c5696f782,Q9174,,,,,,
-Q62259203,Journal of Africana Religions,,,,,,,,
-Q4041879,Journal of Biblical Literature,95ed5789-4fcc-2444-7c48-08627c5a3ec2,Q55017318,,,,,,
-Q15707782,Journal of Early Christian Studies,b434e9f5-466e-04a5-0ea3-7ac59ce027e6,Q235329,,,,,,
-Q15750019,Journal of Feminist Studies in Religion,d23460bd-4a1e-267a-4b1f-f51a1e5267c8,Q60064288,,,,,,
-Q15750019,Journal of Feminist Studies in Religion,8e6709ad-4689-25ab-373e-146d24d3f689,Q7252,,,,,,
-Q50815593,Journal of French and Francophone Philosophy,634AEC44-27E2-4F6E-ADE8-A99EE5E6645F,Q5891,cfd697a99ce1b4308e5c6bc8c44ce885d5ecf865,Q1227538,,,,
-Q6295487,Journal of Marriage and Family,6C71247F-5474-4D20-8CB8-315BE7A7F698,Q2290557,,,,,,
-Q63871713,Journal of Pastoral Theology,,,,,,,,
-Q15760154,Journal of Religious Ethics,,,,,,,,
-Q6295853,Journal of Religious History,757186D2-6C50-402A-932E-D3F597C5F6D1,Q34187,,,,,,
-Q15710071,Journal of the American Academy of Religion,E89CCFD4-D459-48BC-AC82-4F13784D08E6,Q34187,,,,,,
-Q15755692,Journal of the European Society of Women in Theological Research,,,,,,,,
-Q15767535,Journal of the Society of Christian Ethics,fa5990a0-48f4-63a8-7bb4-2e33c319bf2f,Q2665156,,,,,,
-Q91678397,Journal of theology,0c32a246-4cb0-0ae3-3696-156eb00ce317,Q34178,,,,,,
-Q63871731,Liturgy,3e0e3b5a-4b9e-0fdf-b3fc-e9bcee033754,Q172331,,,,,,
-Q15767635,Method and Theory in the Study of Religion,3e2a06eb-419c-6752-0cd6-fd6a00c47be8,Q34187,,,,,,
-Q1941982,Modern Austrian Literature,83f099cf-4331-e63d-3065-ff1911ef0316,Q303779,,,,,,
-Q15763031,Modern Judaism,05623fe6-4883-a05d-5a00-5ce80e5f8f31,Q9268,,,,,,
-Q6888892,Modern Theology,E9F685A0-5757-431E-9ED6-94F5DDFD3080,Q34178,,,,,,
-Q50432461,Nederduitse Gereformeerde Teologiese Tydskrif,b76fa9fb-46b3-432f-8259-21559b9e9323,Q258,,,,,,
-Q50432461,Nederduitse Gereformeerde Teologiese Tydskrif,68efdf04-411f-5d2a-18da-843ae96b07a4,Q875490,,,,,,
-Q15716275,Neue Zeitschrift fuer Systematische Theologie und Religionsphilosophie,0ED66663-8D55-4CDE-839B-547F4730E570,Q34178,,,,,,
-Q38312865,New Directions for Philanthropic Fundraising,9742f753-40a7-8bdc-b794-9d5f0cada078,Q185733,,,,,,
-Q38312865,New Directions for Philanthropic Fundraising,a082d317-46d1-18ad-0c53-b5af33a8e590,Q1161355,,,,,,
-Q15716715,Notre Dame Philosophical Reviews,,,,,,,,
-Q15763977,Perspectives in Religious Studies,4ed4caa1-46a4-a354-7659-53cf647b1395,Q34187,,,,,,
-Q15716423,Philosophy Today,BD531928-1435-4AD4-BB20-7BF9B96A9143,Q5891,,,,,,
-Q50816836,Podium,,,,,,,,
-Q15755002,Political Theology,,,,,,,,
-Q15756294,Practical Theology,29bf45b2-449d-209a-f0fc-a986237cea0f,Q1383443,,,,,,
-Q6087079,Proceedings of the American Philosophical Society,,,,,,,,
-Q15751172,"Race, Ethnicity and Education",D3A74C50-3C03-4533-9ED4-162AB63560BF,Q41870,,,,,,
-Q7311115,Religion,5CA2469C-9576-40A3-A79E-2499A1EDE32B,Q34187,,,,,,
-Q15749660,Religion Compass,,,,,,,,
-Q7311312,Religious Studies Review,6A4CB073-43D4-4465-807D-35808BD8A9D9,Q9174,,,,,,
-Q15763974,Review of Biblical Literature,,,,,,,,
-Q15759717,Review of Politics,646EB2AE-14A8-4317-A713-AAFFC1CA9AEE,Q7163,,,,,,
-Q15762047,Review of Religious Research,,,,,,,,
-Q7437800,Scottish Journal of Theology,5294D6A5-5D34-4128-9840-465163929744,Q34178,,,,,,
-Q68836075,Social Problems,,,,,,,,
-Q7552806,Sociological Inquiry,5F72141C-F82D-4C24-A6DE-D9813F49DC3F,Q21201,,,,,,
-Q15764425,Sociology of Religion,EDB24E6E-1C5E-4922-86C9-BC88654B918C,Q461659,,,,,,
-Q18392457,Spring,,,,,,,,
-Q50814896,Studies in Christian-Jewish Relations,258b4a73-4988-d660-35a8-849e1f0f3cb1,Q34187,,,,,,
-Q15755905,Studies in Philology,,,,,,,,
-Q7628082,Studies in World Christianity,DD7E9A36-F200-4CDD-ADAE-EC50FA157978,Q34187,,,,,,
-Q15746447,The Bible Today,365c0c5d-40a2-5d3c-06b8-08222b190063,Q794605,,,,,,
-Q50478535,The Covenant Quarterly,97281FB7-FFB1-48FB-91D2-33FC9A8E0551,Q1383443,cfd697a99ce1b4308e5c6bc8c44ce885d5ecf865,Q1227538,,,,
-Q2412214,The Jewish Quarterly Review,C4BB53C9-7513-4553-927B-CB3C95AB384C,Q42002,,,,,,
-Q7743622,The Journal of Religion,7A9D8EF0-4B1E-4E16-9992-D834D2F44529,Q34187,,,,,,
-Q4041903,The Journal of Theological Studies,729D1AB7-225D-4F3C-9FC3-BC2AAF8F62EE,Q34178,,,,,,
-Q63871802,The Review of Faith & International Affairs,,,,,,,,
-Q15755134,Theological Education,c12169c7-4a7a-5a07-7e98-e666e70bb096,Q8434,,,,,,
-Q15755134,Theological Education,7cdb8393-49ad-bbf7-1f27-bb816147a449,Q34178,,,,,,
-Q3523724,Theological Studies,5DBF0D10-79A8-46D2-B637-4B657FB9DBC2,Q34187,,,,,,
-Q4051386,Theology Today,d9450724-461f-7477-6984-75ad45b4b425,Q96737959,,,,,,
-Q4051386,Theology Today,728E71DA-3A2C-4061-BCD2-12CE14F4C878,Q9174,,,,,,
-Q15710287,Toronto Journal of Theology,CB74A534-79B5-4BED-8E37-5796C04F1B78,Q34178,,,,,,
-Q7989227,Westminster Theological Journal,bb58fd15-4ade-330b-b7e7-61d0820430ce,Q794605,,,,,,
-Q7989227,Westminster Theological Journal,B0B26539-58F9-4423-A54B-8AEEC6EA6B0C,Q34178,,,,,,
-Q88977207,"Women, Gender, and Families of Color",903b3868-4979-5af0-7410-c40d4038a8cf,Q1662673,,,,,,
-Q8075881,Zygon,86A19053-D898-4DCB-A125-141F7247963A,Q34187,,,,,,
+qid,main_subject_uuid,main_subject,main_subject_ref1_hash,main_subject_ref1_statedIn,main_subject_ref1_referenceUrl,main_subject_ref1_retrieved_nodeid,main_subject_ref1_retrieved_val,main_subject_ref1_retrieved_prec,label_en
+Q15754942,,,,,,,,,American Journal of Theology and Philosophy
+Q15753995,7B0B92EF-2D15-4096-8840-224D39DDA7CB,Q34178,,,,,,,Anglican Theological Review
+Q15749151,DA62F478-FA4B-4B17-9827-4FA88E75C6A0,Q34178,,,,,,,Berliner Theologische Zeitschrift
+Q4903269,F003E2BF-3C92-4E76-8263-3FE56063B769,Q794605,,,,,,,Biblical Theology Bulletin
+Q15816830,e8c7e4f2-42f4-258a-5a21-7b86952c8f42,Q34178,,,,,,,Black Theology
+Q4984286,340DF2E0-DA25-44CE-A9A7-96F5D299D51C,Q34187,,,,,,,Buddhist–Christian Studies
+Q15816920,c51eb1d0-4202-ddf4-2bc5-977298997557,Q34187,,,,,,,Bulletin for the Study of Religion
+Q15816920,7be3206a-47d8-2786-89cf-2e95e2d47e1a,Q34178,,,,,,,Bulletin for the Study of Religion
+Q5024509,600FD2B9-A204-47B5-8703-1FC6B3155A7C,Q34178,,,,,,,Calvin Theological Journal
+Q5158991,E8A83FFA-A983-4521-94E4-90ED312C0C91,Q34178,,,,,,,Concordia Theological Quarterly
+Q57615071,646d127e-484d-06c2-da61-2fe7f15dffde,Q34187,,,,,,,Critical Research on Religion
+Q15817868,59569db4-407f-ea34-14d2-ea5e17695f1f,Q42002,,,,,,,East European Jewish Affairs
+Q15817868,b545c290-4c5e-a5aa-9a5a-821e4cfdec69,Q1413113,,,,,,,East European Jewish Affairs
+Q15762548,,,,,,,,,Ecumenical Review
+Q5382167,BA2C374A-D49E-4CED-9467-05792F073C1C,Q34178,,,,,,,Ephemerides Theologicae Lovanienses
+Q50426426,,,,,,,,,Estudos de Religião
+Q50426286,3dbca693-491e-a86f-e4f8-4f415ede2657,Q34178,,,,,,,Estudos Teológicos
+Q5433232,4B1A7644-774D-4F3F-9364-C8C5A9F9AE1E,Q425694,,,,,,,Family Relations
+Q5442869,CB4E5C50-C4BB-42A4-8F97-21D7D668E1AB,Q34178,,,,,,,Feminist Theology
+Q5676604,F6A6C2E4-CAC7-4B44-AE68-F3996DE0A773,Q34187,,,,,,,Harvard Theological Review
+Q15754681,6dfbb287-4016-ef48-6456-a6b60d292b44,Q794605,,,,,,,Horizons in Biblical Theology
+Q18350356,422A504C-8290-49BE-BA75-58533EE7A329,Q21201,,,,,,,Humanity & Society
+Q15763357,,,,,,,,,International Journal for Philosophy of Religion
+Q15761107,f2a5c2ad-41cd-6f52-8ca1-f8f1e696dcb7,Q1383443,,,,,,,International Journal of Practical Theology
+Q15761107,36756672-4e53-eea9-ef0f-07a367902b4d,Q5654877,,,,,,,International Journal of Practical Theology
+Q6071283,07E015CB-18B4-42EE-B2FB-22046456FA63,Q34178,,,,,,,Irish Theological Quarterly
+Q15755037,548e949c-4872-0301-214e-f80b27587467,Q42002,,,,,,,Jewish Social Studies
+Q6294702,8addb362-4755-f7ff-f80f-173c5696f782,Q9174,,,,,,,Journal for the Scientific Study of Religion
+Q6294702,6b8ec0fe-472b-a868-e639-985caa200e0f,Q5891,,,,,,,Journal for the Scientific Study of Religion
+Q62259203,,,,,,,,,Journal of Africana Religions
+Q4041879,95ed5789-4fcc-2444-7c48-08627c5a3ec2,Q55017318,,,,,,,Journal of Biblical Literature
+Q15707782,b434e9f5-466e-04a5-0ea3-7ac59ce027e6,Q235329,,,,,,,Journal of Early Christian Studies
+Q15750019,8e6709ad-4689-25ab-373e-146d24d3f689,Q7252,,,,,,,Journal of Feminist Studies in Religion
+Q15750019,d23460bd-4a1e-267a-4b1f-f51a1e5267c8,Q60064288,,,,,,,Journal of Feminist Studies in Religion
+Q50815593,634AEC44-27E2-4F6E-ADE8-A99EE5E6645F,Q5891,cfd697a99ce1b4308e5c6bc8c44ce885d5ecf865,Q1227538,,,,,Journal of French and Francophone Philosophy
+Q6295487,6C71247F-5474-4D20-8CB8-315BE7A7F698,Q2290557,,,,,,,Journal of Marriage and Family
+Q63871713,,,,,,,,,Journal of Pastoral Theology
+Q15760154,,,,,,,,,Journal of Religious Ethics
+Q6295853,757186D2-6C50-402A-932E-D3F597C5F6D1,Q34187,,,,,,,Journal of Religious History
+Q15710071,E89CCFD4-D459-48BC-AC82-4F13784D08E6,Q34187,,,,,,,Journal of the American Academy of Religion
+Q15755692,,,,,,,,,Journal of the European Society of Women in Theological Research
+Q15767535,fa5990a0-48f4-63a8-7bb4-2e33c319bf2f,Q2665156,,,,,,,Journal of the Society of Christian Ethics
+Q91678397,0c32a246-4cb0-0ae3-3696-156eb00ce317,Q34178,,,,,,,Journal of theology
+Q63871731,3e0e3b5a-4b9e-0fdf-b3fc-e9bcee033754,Q172331,,,,,,,Liturgy
+Q15767635,3e2a06eb-419c-6752-0cd6-fd6a00c47be8,Q34187,,,,,,,Method and Theory in the Study of Religion
+Q1941982,83f099cf-4331-e63d-3065-ff1911ef0316,Q303779,,,,,,,Modern Austrian Literature
+Q15763031,05623fe6-4883-a05d-5a00-5ce80e5f8f31,Q9268,,,,,,,Modern Judaism
+Q6888892,E9F685A0-5757-431E-9ED6-94F5DDFD3080,Q34178,,,,,,,Modern Theology
+Q50432461,68efdf04-411f-5d2a-18da-843ae96b07a4,Q875490,,,,,,,Nederduitse Gereformeerde Teologiese Tydskrif
+Q50432461,b76fa9fb-46b3-432f-8259-21559b9e9323,Q258,,,,,,,Nederduitse Gereformeerde Teologiese Tydskrif
+Q15716275,0ED66663-8D55-4CDE-839B-547F4730E570,Q34178,,,,,,,Neue Zeitschrift fuer Systematische Theologie und Religionsphilosophie
+Q38312865,9742f753-40a7-8bdc-b794-9d5f0cada078,Q185733,,,,,,,New Directions for Philanthropic Fundraising
+Q38312865,a082d317-46d1-18ad-0c53-b5af33a8e590,Q1161355,,,,,,,New Directions for Philanthropic Fundraising
+Q15716715,,,,,,,,,Notre Dame Philosophical Reviews
+Q15763977,4ed4caa1-46a4-a354-7659-53cf647b1395,Q34187,,,,,,,Perspectives in Religious Studies
+Q15716423,BD531928-1435-4AD4-BB20-7BF9B96A9143,Q5891,,,,,,,Philosophy Today
+Q50816836,,,,,,,,,Podium
+Q15755002,,,,,,,,,Political Theology
+Q15756294,29bf45b2-449d-209a-f0fc-a986237cea0f,Q1383443,,,,,,,Practical Theology
+Q6087079,,,,,,,,,Proceedings of the American Philosophical Society
+Q15751172,D3A74C50-3C03-4533-9ED4-162AB63560BF,Q41870,,,,,,,"Race, Ethnicity and Education"
+Q7311115,5CA2469C-9576-40A3-A79E-2499A1EDE32B,Q34187,,,,,,,Religion
+Q15749660,,,,,,,,,Religion Compass
+Q7311312,6A4CB073-43D4-4465-807D-35808BD8A9D9,Q9174,,,,,,,Religious Studies Review
+Q15763974,,,,,,,,,Review of Biblical Literature
+Q15759717,646EB2AE-14A8-4317-A713-AAFFC1CA9AEE,Q7163,,,,,,,Review of Politics
+Q15762047,,,,,,,,,Review of Religious Research
+Q7437800,5294D6A5-5D34-4128-9840-465163929744,Q34178,,,,,,,Scottish Journal of Theology
+Q7552806,5F72141C-F82D-4C24-A6DE-D9813F49DC3F,Q21201,,,,,,,Sociological Inquiry
+Q15764425,EDB24E6E-1C5E-4922-86C9-BC88654B918C,Q461659,,,,,,,Sociology of Religion
+Q18392457,,,,,,,,,Spring
+Q50814896,258b4a73-4988-d660-35a8-849e1f0f3cb1,Q34187,,,,,,,Studies in Christian-Jewish Relations
+Q15755905,,,,,,,,,Studies in Philology
+Q7628082,DD7E9A36-F200-4CDD-ADAE-EC50FA157978,Q34187,,,,,,,Studies in World Christianity
+Q15746447,365c0c5d-40a2-5d3c-06b8-08222b190063,Q794605,,,,,,,The Bible Today
+Q50478535,97281FB7-FFB1-48FB-91D2-33FC9A8E0551,Q1383443,cfd697a99ce1b4308e5c6bc8c44ce885d5ecf865,Q1227538,,,,,The Covenant Quarterly
+Q2412214,C4BB53C9-7513-4553-927B-CB3C95AB384C,Q42002,,,,,,,The Jewish Quarterly Review
+Q7743622,7A9D8EF0-4B1E-4E16-9992-D834D2F44529,Q34187,,,,,,,The Journal of Religion
+Q4041903,729D1AB7-225D-4F3C-9FC3-BC2AAF8F62EE,Q34178,,,,,,,The Journal of Theological Studies
+Q63871802,,,,,,,,,The Review of Faith & International Affairs
+Q15755134,c12169c7-4a7a-5a07-7e98-e666e70bb096,Q8434,,,,,,,Theological Education
+Q15755134,7cdb8393-49ad-bbf7-1f27-bb816147a449,Q34178,,,,,,,Theological Education
+Q3523724,5DBF0D10-79A8-46D2-B637-4B657FB9DBC2,Q34187,,,,,,,Theological Studies
+Q4051386,d9450724-461f-7477-6984-75ad45b4b425,Q96737959,,,,,,,Theology Today
+Q4051386,728E71DA-3A2C-4061-BCD2-12CE14F4C878,Q9174,,,,,,,Theology Today
+Q15710287,CB74A534-79B5-4BED-8E37-5796C04F1B78,Q34178,,,,,,,Toronto Journal of Theology
+Q7989227,bb58fd15-4ade-330b-b7e7-61d0820430ce,Q794605,,,,,,,Westminster Theological Journal
+Q7989227,B0B26539-58F9-4423-A54B-8AEEC6EA6B0C,Q34178,,,,,,,Westminster Theological Journal
+Q88977207,903b3868-4979-5af0-7410-c40d4038a8cf,Q1662673,,,,,,,"Women, Gender, and Families of Color"
+Q8075881,86A19053-D898-4DCB-A125-141F7247963A,Q34187,,,,,,,Zygon
