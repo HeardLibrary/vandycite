@@ -8,6 +8,8 @@ The default file locations assume that you have cloned both the `linked-data` an
 
 The properties to be downloaded are controlled by the items in the `prop_list` list. The `variable` value MUST NOT have spaces. Use underscores between words.
 
+If the flag `manage_labels_descriptions` is `True`, the label and description column will follow immediately after the `qid` column and making changes to either field will result in changing the metadata on Wikidata. If the flag `manage_labels_descriptions` is `False`, the label will be the last column in the spreadsheet and will be ignored by VanderBot. The description will not be given. In this situation, the purpose of the label is simply to make it easier to know what the subject of the row is.
+
 There are three fixed reference properties that the download script uses (stated in, reference URL, and retrieved). For how I determined that, see the notes with [this script](https://github.com/HeardLibrary/linked-data/blob/master/publications/divinity-law/determine_ref_properties.ipynb). 
 
 ## Notes on editing CSVs for upload by VanderBot
@@ -53,7 +55,7 @@ Here are the general rules:
 - If an item is new, none of its statements should have UUIDs nor its references hashes. VanderBot knows it should create a new item when the Q ID cell is empty. 
 - To add an new statement to an existing item, none of its references should have hashes. VanderBot knows it should create a new statement when a property's UUID cell is empty. 
 - To add a new reference to an existing statement, its hash cell should be empty.
-- You CANNOT change or delete values. You can only add them. To make changes, use the online editor. The exception to this is labels and descriptions (but not covered here).
+- You CANNOT change or delete values. You can only add them. To make changes, use the online editor. The exception to this is labels and descriptions. If the flag `manage_labels_descriptions` was set to `True` and the label and description are in the columns immediately to the right of the `qid` column, then making changes to the value of either will result in a change in Wikidata. If the flag `manage_labels_descriptions` is `False` and the label column is the last column, then changing the label will have no effect at Wikidata.
 
 Because references cannot be changed once written, make sure that you have filled in all of the fields you care about before writing. For example, include both the reference URL and the date retrieved at the same time. Don't write one first and plan to do the other one later. If an existing reference has a reference URL but no retrieved date, try retrieving it and add the date using the web editor.
 
