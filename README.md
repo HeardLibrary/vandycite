@@ -49,7 +49,7 @@ There is a fourth kind of identifier: dates have node IDs. But these cannot be c
 Here is the general pattern of column headers:
 - columns related to the same property begin with the same string. For example, `language_of_work`, `language_of_work_ref1_statedIn`, and `language_of_work_ref1_retrieved_prec` are all related to the "language of work" property.
 - columns related to the same reference begin with the same string and have `ref1`, `ref2`, etc. in their string. For example: `language_of_work_ref1_statedIn` and `language_of_work_ref1_retrieved_val` both are related to the same reference for a "language of work" statement.
-- there are always three columns for each data. They always have the same beginning string and end with `_nodeid`, `_val` (the date value), and `_prec` (the level of precision with 11=day, 10=month, and 9=year).
+- there are always three columns for each date. They always have the same beginning string and end with `_nodeid`, `_val` (the date value), and `_prec` (the level of precision with 11=day, 10=month, and 9=year).
 
 Here are the general rules: 
 - If an item is new, none of its statements should have UUIDs nor its references hashes. VanderBot knows it should create a new item when the Q ID cell is empty. 
