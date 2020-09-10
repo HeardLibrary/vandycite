@@ -71,5 +71,69 @@ Eventually, the `_nodeid`, `_val`, and `_prec` columns will be modified or fille
 
 Note that the order is yyyy-mm-dd and that months and days less than 10 must have a leading zero. DO NOT try to edit dates in a CSV spreadsheet with Excel! Use Libre Office or Open Office. If the software insists on changing the format of a date, preceed the date with a single quote, like this: `'1941-12-07`. The quote will not be part of the date - it is just a signal to the software that the value should be treated as a string and not interpreted.
 
+# Property lists
+
+## Divinity journals
+
+```
+prop_list = [
+    {'pid': 'P495', 'variable': 'country_of_origin', 'value_type': 'item'},
+    {'pid': 'P571', 'variable': 'inception', 'value_type': 'date'},
+    {'pid': 'P2669', 'variable': 'discontinued_date', 'value_type': 'date'},
+    {'pid': 'P856', 'variable': 'official_website', 'value_type': 'uri'},
+    {'pid': 'P155', 'variable': 'follows', 'value_type': 'item'},
+    {'pid': 'P156', 'variable': 'followed_by', 'value_type': 'item'},
+    {'pid': 'P2896', 'variable': 'publication_interval', 'value_type': 'decimal'}
+]
+
+# The following properties can contain multiple values per item, so need to be managed in separate CSVs.
+# The script needs to be rerun with each one as a single item on the prop_list.
+
+#prop_list = [
+#    {'pid': 'P123', 'variable': 'publisher', 'value_type': 'item'}
+#    {'pid': 'P1476', 'variable': 'title', 'value_type': 'string'}
+#    {'pid': 'P31', 'variable': 'instance_of', 'value_type': 'item'}
+#    {'pid': 'P407', 'variable': 'language_of_work', 'value_type': 'item'}
+#    {'pid': 'P236', 'variable': 'issn', 'value_type': 'string'}
+#    {'pid': 'P921', 'variable': 'main_subject', 'value_type': 'item'}
+#]
+```
+
+## Gallery works
+
+```
+prop_list = [
+    {'pid': 'P18', 'variable': 'image', 'value_type': 'string'},
+    {'pid': 'P17', 'variable': 'country', 'value_type': 'item'},
+    {'pid': 'P135', 'variable': 'movement', 'value_type': 'item'},
+    {'pid': 'P170', 'variable': 'creator', 'value_type': 'item'},
+    {'pid': 'P136', 'variable': 'genre', 'value_type': 'item'},
+    {'pid': 'P108', 'variable': 'depicts', 'value_type': 'item'},
+    {'pid': 'P921', 'variable': 'main_subject', 'value_type': 'item'},
+    {'pid': 'P186', 'variable': 'material_used', 'value_type': 'date'},
+    {'pid': 'P1476', 'variable': 'title', 'value_type': 'string'},
+    {'pid': 'P127', 'variable': 'owned_by', 'value_type': 'item'},
+    {'pid': 'P571', 'variable': 'inception', 'value_type': 'date'},
+    {'pid': 'P2048', 'variable': 'height', 'value_type': 'string'},
+    {'pid': 'P2049', 'variable': 'width', 'value_type': 'string'},
+    {'pid': 'P495', 'variable': 'country_of_origin', 'value_type': 'item'},
+    {'pid': 'P528', 'variable': 'catalog_code', 'value_type': 'string'},
+    {'pid': 'P6216', 'variable': 'copyright_status', 'value_type': 'item'},
+    {'pid': 'P2610', 'variable': 'thickness', 'value_type': 'string'},
+    {'pid': 'P2596', 'variable': 'culture', 'value_type': 'item'}
+]
+
+# The following properties can contain multiple values per item, so need to be managed in separate CSVs.
+# The script needs to be rerun with each one as a single item on the prop_list.
+
+#prop_list = [
+#    {'pid': 'P195', 'variable': 'collection', 'value_type': 'item'},
+#    {'pid': 'P276', 'variable': 'location', 'value_type': 'item'},
+#    {'pid': 'P31', 'variable': 'instance_of', 'value_type': 'item'},
+#    {'pid': 'P217', 'variable': 'inventory_number', 'value_type': 'string'},
+#    {'pid': 'P973', 'variable': 'described_at_URL', 'value_type': 'uri'},
+#]
+```
+
 ----
-Last modified 2020-09-07
+Last modified 2020-09-10
