@@ -99,6 +99,50 @@ prop_list = [
 #]
 ```
 
+Note 2020-11-11:
+
+I ran the following query to determine what languages were used for the journal titles (only one journal title is supposed to be given):
+
+```
+select distinct ?language where {
+  VALUES ?qid
+{
+wd:Q100718707
+wd:Q97446840
+wd:Q11956877
+...
+wd:Q99578960
+wd:Q8075881
+}
+?qid p:P1476 ?title_uuid.
+?title_uuid ps:P1476 ?title.
+bind(lang(?title) as ?language)
+  }
+```
+
+The result was de, la, en, af, it, hu, fr, nb, pt, ko, sk, and es.
+
+## Determining qualifiers in use with a property
+
+The following query finds the qualifiers that are used with a property and the number of times they have been used:
+
+```
+select distinct ?qualProp ?qualPropLabel ?count where 
+  {
+    {
+    select distinct ?qualProp (count(distinct ?statement) as ?count)  where 
+      {
+      ?journal p:P2896 ?statement.
+      ?statement ?qual ?value.
+      ?qualProp wikibase:qualifier ?qual.
+      }
+      group by ?qualProp
+    }
+  SERVICE wikibase:label {bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".}
+  }
+order by desc(?count)
+```
+
 ## Gallery works
 
 ```
