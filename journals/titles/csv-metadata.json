@@ -1,0 +1,177 @@
+{
+        "@type": "TableGroup",
+        "@context": "http://www.w3.org/ns/csvw",
+        "tables": [
+            {
+                "url": "journals-title.csv",
+                "tableSchema": {
+                    "columns": [ 
+                        {
+                            "titles": "qid",
+                            "name": "qid",
+                            "datatype": "string",
+                            "suppressOutput": true
+                        },
+                        {
+                            "titles": "label_en",
+                            "name": "label_en",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "rdfs:label",
+                            "lang": "en"
+                        },
+                        {
+                            "titles": "label_zh",
+                            "name": "label_zh",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "rdfs:label",
+                            "lang": "zh"
+                        },
+                        {
+                            "titles": "label_zh_hans",
+                            "name": "label_zh_hans",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "rdfs:label",
+                            "lang": "zh-hans"
+                        },
+                        {
+                            "titles": "label_zh_hant",
+                            "name": "label_zh_hant",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "rdfs:label",
+                            "lang": "zh-hant"
+                        },
+                        {
+                            "titles": "label_de",
+                            "name": "label_de",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "rdfs:label",
+                            "lang": "de"
+                        },
+                        {
+                            "titles": "label_fr",
+                            "name": "label_fr",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "rdfs:label",
+                            "lang": "fr"
+                        },
+                        {
+                            "titles": "description_en",
+                            "name": "description_en",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "schema:description",
+                            "lang": "en"
+                        },
+                        {
+                            "titles": "description_zh",
+                            "name": "description_zh",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "schema:description",
+                            "lang": "zh"
+                        },
+                        {
+                            "titles": "description_zh_hans",
+                            "name": "description_zh_hans",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "schema:description",
+                            "lang": "zh-hans"
+                        },
+                        {
+                            "titles": "description_zh_hant",
+                            "name": "description_zh_hant",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "schema:description",
+                            "lang": "zh-hant"
+                        },
+                        {
+                            "titles": "description_de",
+                            "name": "description_de",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "schema:description",
+                            "lang": "de"
+                        },
+                        {
+                            "titles": "description_fr",
+                            "name": "description_fr",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "schema:description",
+                            "lang": "fr"
+                        },
+                        {
+                            "titles": "title_en_uuid",
+                            "name": "title_en_uuid",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "http://www.wikidata.org/prop/P1476",
+                            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{title_en_uuid}"
+                        },
+                        {
+                            "titles": "title_en",
+                            "name": "title_en",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{title_en_uuid}",
+                            "propertyUrl": "http://www.wikidata.org/prop/statement/P1476",
+                            "lang": "en"
+                        },
+                        {
+                            "titles": "title_en_ref1_hash",
+                            "name": "title_en_ref1_hash",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{title_en_uuid}",
+                            "propertyUrl": "prov:wasDerivedFrom",
+                            "valueUrl": "http://www.wikidata.org/reference/{title_en_ref1_hash}"
+                        },
+                        {
+                            "titles": "title_en_ref1_statedIn",
+                            "name": "title_en_ref1_statedIn",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/reference/{title_en_ref1_hash}",
+                            "propertyUrl": "http://www.wikidata.org/prop/reference/P248",
+                            "valueUrl": "http://www.wikidata.org/entity/{title_en_ref1_statedIn}"
+                        },
+                        {
+                            "titles": "title_en_ref1_referenceUrl",
+                            "name": "title_en_ref1_referenceUrl",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/reference/{title_en_ref1_hash}",
+                            "propertyUrl": "http://www.wikidata.org/prop/reference/P854",
+                            "valueUrl": "{+title_en_ref1_referenceUrl}"
+                        },
+                        {
+                            "titles": "title_en_ref1_retrieved_nodeId",
+                            "name": "title_en_ref1_retrieved_nodeId",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/reference/{title_en_ref1_hash}",
+                            "propertyUrl": "http://www.wikidata.org/prop/reference/value/P813",
+                            "valueUrl": "http://example.com/.well-known/genid/{title_en_ref1_retrieved_nodeId}"
+                        },
+                        {
+                            "titles": "title_en_ref1_retrieved_val",
+                            "name": "title_en_ref1_retrieved_val",
+                            "datatype": "dateTime",
+                            "aboutUrl": "http://example.com/.well-known/genid/{title_en_ref1_retrieved_nodeId}",
+                            "propertyUrl": "http://wikiba.se/ontology#timeValue"
+                        },
+                        {
+                            "titles": "title_en_ref1_retrieved_prec",
+                            "name": "title_en_ref1_retrieved_prec",
+                            "datatype": "integer",
+                            "aboutUrl": "http://example.com/.well-known/genid/{title_en_ref1_retrieved_nodeId}",
+                            "propertyUrl": "http://wikiba.se/ontology#timePrecision"
+                        }
+                    ]
+                }
+            }
+        ]
+}
