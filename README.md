@@ -179,5 +179,23 @@ prop_list = [
 #]
 ```
 
+# Determining the collections with the largest number of works in Wikidata
+
+```
+select distinct ?gallery ?galleryLabel ?count where 
+  {
+    {
+    select distinct ?gallery (count(distinct ?item) as ?count)  where 
+      {
+      ?item wdt:P195 ?gallery.
+      ?item wdt:P31 wd:Q3305213.
+      }
+      group by ?gallery
+    }
+  SERVICE wikibase:label {bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".}
+  }
+order by desc(?count)
+'''
+
 ----
-Last modified 2020-09-10
+Last modified 2020-11-13
