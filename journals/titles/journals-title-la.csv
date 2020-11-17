@@ -1,4 +1,4 @@
-qid,label_en,title_la_uuid,title_la,title_la_ref1_hash,title_la_ref1_statedIn,title_la_ref1_referenceUrl,title_la_ref1_retrieved_nodeId,title_la_ref1_retrieved_val,title_la_ref1_retrieved_prec,title_la_subtitle
+qid,label_en,title_la_uuid,title_la,title_la_subtitle,title_la_ref1_hash,title_la_ref1_statedIn,title_la_ref1_referenceUrl,title_la_ref1_retrieved_nodeId,title_la_ref1_retrieved_val,title_la_ref1_retrieved_prec
 Q100138720,Mari Annales de Recherches Interdisciplinaires,,,,,,,,,
 Q100144386,NABU Nouvelles Assyriologiques Breves et Utilitaires,,,,,,,,,
 Q100145461,Ideas: From the National Humanities Center,,,,,,,,,
@@ -106,7 +106,7 @@ Q15759600,Enchoria,,,,,,,,,
 Q15759659,Scriptura,,,,,,,,,
 Q15759717,Review of Politics,,,,,,,,,
 Q15759761,Journal of Ecumenical Studies,,,,,,,,,
-Q15759788,Bibliotheca Orientalis,7596DD0C-0AA4-4DB0-A2A6-E80ABE1C0361,Bibliotheca Orientalis,1643281ef6e577673e4272176fc12a9fcfa37747,Q15735759,,,,,
+Q15759788,Bibliotheca Orientalis,7596DD0C-0AA4-4DB0-A2A6-E80ABE1C0361,Bibliotheca Orientalis,,1643281ef6e577673e4272176fc12a9fcfa37747,Q15735759,,,,
 Q15760054,"Black Women, Gender and Families",,,,,,,,,
 Q15760154,Journal of Religious Ethics,,,,,,,,,
 Q15760387,Studia Liturgica,,,,,,,,,

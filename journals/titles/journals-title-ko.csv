@@ -1,4 +1,4 @@
-qid,label_en,title_ko_uuid,title_ko,title_ko_ref1_hash,title_ko_ref1_statedIn,title_ko_ref1_referenceUrl,title_ko_ref1_retrieved_nodeId,title_ko_ref1_retrieved_val,title_ko_ref1_retrieved_prec,title_ko_subtitle
+qid,label_en,title_ko_uuid,title_ko,title_ko_subtitle,title_ko_ref1_hash,title_ko_ref1_statedIn,title_ko_ref1_referenceUrl,title_ko_ref1_retrieved_nodeId,title_ko_ref1_retrieved_val,title_ko_ref1_retrieved_prec
 Q100138720,Mari Annales de Recherches Interdisciplinaires,,,,,,,,,
 Q100144386,NABU Nouvelles Assyriologiques Breves et Utilitaires,,,,,,,,,
 Q100145461,Ideas: From the National Humanities Center,,,,,,,,,
@@ -308,7 +308,7 @@ Q96703173,Conversations in Religion and Theology,,,,,,,,,
 Q96710822,International Journal of Applied Sociology,,,,,,,,,
 Q96720788,Kalfou,,,,,,,,,
 Q96721542,Kirche und Israel,,,,,,,,,
-Q96722512,Korean Journal of Christian Counseling,873d80cd-4119-43c2-f540-f4c1ed6ba4f3,한국기독교상담학회지,db68d5419edbddf66beafb95b95f233df8b860ce,,http://kiss.kstudy.com/journal/journal-view.asp?key1=24676&key2=2187,61eed49ff45253b253495335c3667c77,2020-11-11T00:00:00Z,11,
+Q96722512,Korean Journal of Christian Counseling,873d80cd-4119-43c2-f540-f4c1ed6ba4f3,한국기독교상담학회지,,db68d5419edbddf66beafb95b95f233df8b860ce,,http://kiss.kstudy.com/journal/journal-view.asp?key1=24676&key2=2187,61eed49ff45253b253495335c3667c77,2020-11-11T00:00:00Z,11
 Q96727151,Mandrágora,,,,,,,,,
 Q96729370,Melilah Manchester Journal of Jewish Studies (1759-1953),,,,,,,,,
 Q96747411,Faith and Freedom,,,,,,,,,
