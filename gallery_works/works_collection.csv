@@ -1,7 +1,7 @@
-qid,label_en,collection_uuid,collection,collection_ref1_hash,collection_ref1_statedIn,collection_ref1_referenceUrl,collection_ref1_retrieved_nodeId,collection_ref1_retrieved_val,collection_ref1_retrieved_prec,collection_start_time_nodeId,collection_start_time_val,collection_start_time_prec,collection_end_time_nodeId,collection_end_time_val,collection_end_time_prec
-Q80566046,Madonna and Child with Apollonia and Another Female Saint,2B2B822E-FE17-4490-9604-69BABADA9D1A,Q74149551,68f59ce09a539d3c23954e3749e2b1736537de59,,https://archive.org/details/gri_33125001303847/page/n321,,,,,,,,,
+qid,label_en,collection_uuid,collection,collection_start_time_nodeId,collection_start_time_val,collection_start_time_prec,collection_end_time_nodeId,collection_end_time_val,collection_end_time_prec,collection_ref1_hash,collection_ref1_statedIn,collection_ref1_referenceUrl,collection_ref1_retrieved_nodeId,collection_ref1_retrieved_val,collection_ref1_retrieved_prec
+Q80566046,Madonna and Child with Apollonia and Another Female Saint,2B2B822E-FE17-4490-9604-69BABADA9D1A,Q74149551,,,,,,,68f59ce09a539d3c23954e3749e2b1736537de59,,https://archive.org/details/gri_33125001303847/page/n321,,,
 Q80566046,Madonna and Child with Apollonia and Another Female Saint,964FCE8D-B104-41B0-AA9B-A7C1BD82382A,Q18563658,,,,,,,,,,,,
-Q90716090,Emily Thorn Vanderbilt Sloane,71841F9A-2182-4794-B26F-44C58A3DE77F,Q18563658,75da126b09f294405739d2c1ab7814bd4943c2f6,,,28c026f855e3967e337424f56f9607cc,2020-04-15T00:00:00Z,11,,,,,,
+Q90716090,Emily Thorn Vanderbilt Sloane,71841F9A-2182-4794-B26F-44C58A3DE77F,Q18563658,,,,,,,75da126b09f294405739d2c1ab7814bd4943c2f6,,,28c026f855e3967e337424f56f9607cc,2020-04-15T00:00:00Z,11
 Q94002062,Marine Landscape,3f03ddb2-4ed2-1117-c3a5-e6213d91c883,Q18563658,,,,,,,,,,,,
 Q94440586,Portrait of a Gentleman,1fdfed4a-4ab8-e360-bba9-6ae010282aee,Q18563658,,,,,,,,,,,,
 Q94543371,"Saint Barbara, in the shape of a roundel, with the four corners of the work added at a later date",0beb8b16-461c-ac4f-7fdd-641d5caf1d3b,Q18563658,,,,,,,,,,,,

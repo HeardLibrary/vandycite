@@ -1,16 +1,16 @@
-qid,label_en,material_used_uuid,material_used,material_used_ref1_hash,material_used_ref1_statedIn,material_used_ref1_referenceUrl,material_used_ref1_retrieved_nodeId,material_used_ref1_retrieved_val,material_used_ref1_retrieved_prec,material_used_applies_to_part
+qid,label_en,material_used_uuid,material_used,material_used_applies_to_part,material_used_ref1_hash,material_used_ref1_statedIn,material_used_ref1_referenceUrl,material_used_ref1_retrieved_nodeId,material_used_ref1_retrieved_val,material_used_ref1_retrieved_prec
 Q80566046,Madonna and Child with Apollonia and Another Female Saint,97F09055-7138-47A3-9501-364DD1E03917,Q296955,,,,,,,
-Q90716090,Emily Thorn Vanderbilt Sloane,73F4192A-BE1A-43BC-A8A5-2C53A54E6947,Q296955,75da126b09f294405739d2c1ab7814bd4943c2f6,,,28c026f855e3967e337424f56f9607cc,2020-04-15T00:00:00Z,11,
-Q90716090,Emily Thorn Vanderbilt Sloane,C1305493-657F-4829-AB42-DE409A61CE5A,Q12321255,75da126b09f294405739d2c1ab7814bd4943c2f6,,,28c026f855e3967e337424f56f9607cc,2020-04-15T00:00:00Z,11,Q861259
+Q90716090,Emily Thorn Vanderbilt Sloane,73F4192A-BE1A-43BC-A8A5-2C53A54E6947,Q296955,,75da126b09f294405739d2c1ab7814bd4943c2f6,,,28c026f855e3967e337424f56f9607cc,2020-04-15T00:00:00Z,11
+Q90716090,Emily Thorn Vanderbilt Sloane,C1305493-657F-4829-AB42-DE409A61CE5A,Q12321255,Q861259,75da126b09f294405739d2c1ab7814bd4943c2f6,,,28c026f855e3967e337424f56f9607cc,2020-04-15T00:00:00Z,11
 Q94002062,Marine Landscape,,,,,,,,,
 Q94440586,Portrait of a Gentleman,90beb639-41ca-7ab5-e667-552fadeb27b7,Q296955,,,,,,,
-Q94440586,Portrait of a Gentleman,2bbc02a4-4552-d837-dcbf-3ff37450e603,Q12321255,,,,,,,Q861259
+Q94440586,Portrait of a Gentleman,2bbc02a4-4552-d837-dcbf-3ff37450e603,Q12321255,Q861259,,,,,,
 Q94543371,"Saint Barbara, in the shape of a roundel, with the four corners of the work added at a later date",16ed8c26-4fdd-0ec8-57a5-388ce0afef8e,Q1473346,,,,,,,
 Q94543371,"Saint Barbara, in the shape of a roundel, with the four corners of the work added at a later date",c5762971-48ac-42d2-bb94-806e4ab931bc,Q16466835,,,,,,,
 Q94544652,"The Crucifixion with the Virgin Mary, St. Mary Magdalene, St. John the Evangelist, and a Female Saint",10412300-46c0-f287-fe3d-9c9b809bab02,Q175166,,,,,,,
 Q94544652,"The Crucifixion with the Virgin Mary, St. Mary Magdalene, St. John the Evangelist, and a Female Saint",b04234a3-4142-c4b1-b9bd-b78f4efaad2c,Q1348059,,,,,,,
 Q94549679,Crucifixion of St. Andrew,021e35fe-4f52-8462-57bb-6fffab35aaef,Q296955,,,,,,,
-Q94549679,Crucifixion of St. Andrew,593d1b02-482b-b08d-ebd9-0f4fc92ead79,Q753,,,,,,,Q861259
+Q94549679,Crucifixion of St. Andrew,593d1b02-482b-b08d-ebd9-0f4fc92ead79,Q753,Q861259,,,,,,
 Q94553168,Bishop or Saint,4789add7-45d9-591a-e5c8-cef84b274471,Q287,,,,,,,
 Q94553168,Bishop or Saint,252935f7-4d66-b685-94c3-871b4dcd7ad7,Q174219,,,,,,,
 Q94696481,Madonna and Child with St. Anne,35d9f69c-4da1-97a0-7e3a-349a42a51873,Q174219,,,,,,,
@@ -20,8 +20,8 @@ Q94696638,St. Sebastian,ee41f08e-4123-5be0-9a4d-e3c2a8fd10a0,Q175166,,,,,,,
 Q94696638,St. Sebastian,cf1aea5a-4a06-1775-1791-bf1b413e982d,Q1348059,,,,,,,
 Q94696965,Madonna and Child,3532a08d-454f-8d07-462d-060a8e1aeae3,Q1348059,,,,,,,
 Q94696965,Madonna and Child,8db3c308-46e9-bcae-4a33-438dc3df4a3c,Q175166,,,,,,,
-Q94701366,Seated Warrior,527b44c8-4efa-b493-9c90-38cc5be29105,Q42302,,,,,,,Q174219
-Q94701366,Seated Warrior,527b44c8-4efa-b493-9c90-38cc5be29105,Q42302,,,,,,,Q860861
+Q94701366,Seated Warrior,527b44c8-4efa-b493-9c90-38cc5be29105,Q42302,Q174219,,,,,,
+Q94701366,Seated Warrior,527b44c8-4efa-b493-9c90-38cc5be29105,Q42302,Q860861,,,,,,
 Q94702218,"Madonna and Child with the Holy Trinity and the Annunciation; Anonymous Martyr Saint; Resurrection; ""Noli me tangere""",1e6f33b0-44a5-c23d-481b-a43a276070f6,Q175166,,,,,,,
 Q94702218,"Madonna and Child with the Holy Trinity and the Annunciation; Anonymous Martyr Saint; Resurrection; ""Noli me tangere""",ec2285ad-47a1-333d-ce32-1b5c11151dc1,Q1348059,,,,,,,
 Q94702395,St. Louis of Toulouse,1ce89590-4a20-af72-3b96-fb0255b6e64f,Q175166,,,,,,,
@@ -34,7 +34,7 @@ Q94702774,A Baptismal Ceremony,42de8307-4330-7b78-ae77-de5cb0ef0876,Q1348059,,,,
 Q94702774,A Baptismal Ceremony,6a29a319-4e4f-b1ce-2fd9-a8f16180e4eb,Q175166,,,,,,,
 Q94702974,St. Sebastian,8638011f-4548-4f23-a6f6-c49e7efa4826,Q175166,,,,,,,
 Q94702974,St. Sebastian,cebed321-4b68-39dc-bc91-a972220da4ea,Q296955,,,,,,,
-Q94702974,St. Sebastian,d3082923-4957-2784-7d4c-20470bfb2c89,Q1348059,,,,,,,Q861259
+Q94702974,St. Sebastian,d3082923-4957-2784-7d4c-20470bfb2c89,Q1348059,Q861259,,,,,,
 Q94824558,Cat,2d87420e-4817-4939-1dc2-0eabc6fc6310,Q34095,,,,,,,
 Q94826345,Ding ware vessel with incised designs of lilies,bde21493-4da7-3a94-304b-fb8b7eb05c24,Q130693,,,,,,,
 Q94827808,Byzantine coin,c7980e14-4180-68de-d4f9-7d60d52b51aa,Q897,,,,,,,
