@@ -491,8 +491,10 @@ for creator_index in range(len(creator_data)):
         if len(results) == 0:
             print('No results')
             print()
+            creator_data[creator_index]['matches'] = 'no'
         else:
             display_strings = []
+            creator_data[creator_index]['matches'] = 'yes'
             for result_index in range(len(results)):
                 if human(results[result_index]['qId']):
                     wikidata_descriptions = searchWikidataDescription(results[result_index]['qId'])
