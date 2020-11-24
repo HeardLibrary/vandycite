@@ -47,4 +47,4 @@ latest_date_prec,latest date,P1326,date qualifier of inception
 sourcing_circumstances,sourcing circumstances,P1480,item qualifier of inception with constant Q5727902 (circa)
 ?,image,P18,leave for now
 [hard code],collection,P195,item with constant Q18563658 (VU Fine Arts Gallery)
-[hard code],location,P276,item with constant 
+[hard code],location,P276,item with constant Q29052 (Vanderbilt University)
