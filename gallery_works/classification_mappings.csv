@@ -1,17 +1,17 @@
 string,qid,label
-Applied Arts,,
+Applied Arts,Q838948,work of art
 Artifact,Q8205328,artificial physical object
 Artists' Books,Q1062404,artist's book
 Artists' Books24.,Q1062404,artist's book
 Ceramics,Q13464614,ceramics
 Coins,Q41207,coin
 Currency,Q8142,currency
-Decorative Arts,,
+Decorative Arts,Q838948,work of art
 Decorative Arts-Sculpture,Q860861,sculpture
 Documents,Q49848,document
 Furniture,Q14745,furniture
 Graphic Art-Printmaking,Q11060274,print
-Graphic Arts,,
+Graphic Arts,Q478798,image
 Graphic Arts - Printmaking,Q11060274,print
 Graphic Arts-Drawing,Q93184,drawing
 Graphic Arts-Painting,Q3305213,painting
@@ -47,7 +47,7 @@ ceramics ,Q13464614,ceramics
 ceramics (objects),Q13464614,ceramics
 ceremonial masks,Q161524,mask
 ceremonial weapons,Q728,weapon
-decorative arts,,
+decorative arts,Q838948,work of art
 drawing,Q93184,drawing
 drawing (image-making),Q93184,drawing
 manuscript,Q87167,manuscript
