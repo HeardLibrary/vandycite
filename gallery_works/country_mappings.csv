@@ -13,11 +13,11 @@ Africa,
 "African, Nakamai, Bubu Village",
 Ancient Rome,
 Angola,Q916
-Annam,
-Annam (Present Day Vietnam),
-"Annam, Viet Nam",
+Annam,Q10828323
+Annam (Present Day Vietnam),Q10828323
+"Annam, Viet Nam",Q10828323
 Apulia (Present day Italy),
-"Apulia, Italy",
+"Apulia, Italy",Q38
 Argentina,Q414
 Asia,
 Australia,Q408
@@ -27,19 +27,19 @@ Austria,Q40
 Belgium,Q31
 Benin,Q962
 Bhutan,Q917
-"Bologna, Emilia-Romagna, Italy",
+"Bologna, Emilia-Romagna, Italy",Q38
 Brazil,Q155
-Brussels (Southern Netherlandish),
+Brussels (Southern Netherlandish),Q31
 "Cahokia Mounds, Saint Clair, Illinois, United States",
 Cambodia,Q424
 Canada,Q16
 Central America,
 "Central America, Chipicuaro, Guanaguato, Mexico",
-"Central America, Coastal  Mexico, Veracruz",
+"Central America, Coastal  Mexico, Veracruz",Q96
 "Central America, Mexico",Q96
-"Central America, West Mexico, Colima",
+"Central America, West Mexico, Colima",Q96
 Chile,Q298
-"Chimbote, Ancash, Peru",
+"Chimbote, Ancash, Peru",Q419
 China,Q148
 China or Thailand,
 Cochiti,
@@ -59,12 +59,12 @@ England,Q21
 Ethiopia,Q115
 Etruria (Present day Italy),
 Europe,
-"Eyre, Lake, South Australia, Australia",
-"Firenze, Tuscany, Italy",
+"Eyre, Lake, South Australia, Australia",Q408
+"Firenze, Tuscany, Italy",Q38
 Flanders,Q234
 France,Q142
-France (Northern),
-France (Southern),
+France (Northern),Q142
+France (Southern),Q142
 France or Italy,
 "France, Aquitaine, France",
 Germany,Q183
@@ -74,7 +74,7 @@ Guatemala,Q774
 Haiti,Q790
 Hungary,Q28
 India,Q668
-"India, Northwestern",
+"India, Northwestern",Q668
 Indonesia,Q252
 Iran,Q794
 Iran and United States,
@@ -87,26 +87,26 @@ Italy,Q38
 Japan,Q17
 "Japan, United States",
 Kenya,Q114
-"Kingdom of Etruria, Italy",
+"Kingdom of Etruria, Italy",Q223793
 Korea,Q18097
 Latvia,Q211
-"Limoges, Haute-Vienne, Limousin, France",
-"Lorestān, Iran",
+"Limoges, Haute-Vienne, Limousin, France",Q142
+"Lorestān, Iran",Q794
 Luxembourg,Q32
 Macedonia,Q221
 Mali,Q912
 Melanesia,
-"Melville Island, Northern Territory, Australia",
+"Melville Island, Northern Territory, Australia",Q408
 Mexico,Q96
 Middle East,
-"Milan, Milano, Lombardy, Italy",
+"Milan, Milano, Lombardy, Italy",Q38
 Morocco,Q1028
 Mozambique,Q1029
 Myanmar,Q836
 Netherlands,Q55
 "Netherlands, Ukraine",
 New Guinea,
-"New Ireland, New Ireland, Papua New Guinea",
+"New Ireland, New Ireland, Papua New Guinea",Q691
 Nicaragua,Q811
 Nigeria,Q1033
 North Africa,
@@ -118,7 +118,7 @@ Persia,Q794
 Peru,Q419
 Poland,Q36
 Portugal,Q45
-"Republic of Florence, Tuscany, Italy",
+"Republic of Florence, Tuscany, Italy",Q148540
 "Rhodes, Rhodes, Sporades, Aegean Islands, Greece",
 Romania,Q218
 Russia,Q159
@@ -127,7 +127,7 @@ Scotland and England,
 "Scotland, United Kingdom",Q22
 Serbia and Montenegro,Q37024
 "Serbia, Serbia and Montenegro",
-"Siena, Tuscany, Italy",
+"Siena, Tuscany, Italy",Q38
 Solomon Islands,Q685
 South Africa,Q258
 South America,
@@ -137,7 +137,7 @@ Southeast Asia,
 Soviet Union,Q15180
 Spain,Q29
 Sri Lanka,Q854
-"Sumatra, Lampung District",
+"Sumatra, Lampung District",Q252
 Sweden,Q34
 Switzerland,Q39
 Syria,Q858
@@ -156,7 +156,7 @@ United Kingdom,Q145
 United States,Q30
 United States and Poland,
 "United States, France",
-"Venice, Venezia, Veneto, Italy",
+"Venice, Venezia, Veneto, Italy",Q38
 Western Panama & adjoining areas of Costa Rica,
 Yugoslavia,Q36704
 "Zaire, Angola",
