@@ -37,11 +37,6 @@ inventory_number,string
 #2000.001,"Mazur, Michael (American painter and engraver, 1935-2009)"
 #2000.004,"Sloan, John (American painter, etcher, and illustrator, 1871-1951)"
 #2000.005,Artist Unknown
-#2000.020,"Frederick, Michael (1966-, born Chabanse, IL)"
-#2000.025,"Frederick, Michael (1966-, born Chabanse, IL)"
-#2000.068,"Haberman, Gwen"
-#2000.078,"Frederick, Michael (1966-, born Chabanse, IL)"
-#2000.080,"McCloud, Bryce (1975, born Nashville, TN)"
 #2000.110,Artist Unknown
 #2000.111,Artist Unknown
 #2000.112,Artist Unknown
@@ -55,16 +50,8 @@ inventory_number,string
 #2001.003,"Winters, Terry (American painter, born 1949)"
 #2001.004,Artist Unknown
 #2001.007,"Chin, Mel (American sculptor and environmental artist, born 1951)"
-#2001.021,"Jimerfield, Dan (1974-, born Cumberland, MO)"
-#2001.022,"Jimerfield, Dan (1974-, born Cumberland, MO)"
 #2001.045,Hatch Show Print
 #2001.052,Hatch Show Print
-#2001.079,"Frederick, Michael (1966-, born Chabanse, IL)"
-#2001.092,"Maynard, Jeremy D. (1977-, born Nashville, TN)"
-#2001.122,"Frederick, Michael (1966-, born Chabanse, IL)"
-#2001.135,"Gill, Jenny (1979-, born Monterey, CA)"
-#2001.142,"Gill, Casey (1981-, born Monterey, CA)"
-#2001.146,"Maynard, Jeremy D. (1977-, born Nashville, TN)"
 #2001.157,"Rockman, Alexis (American painter, born 1962)"
 "#2001.159a,b,c",Artist Unknown
 #2001.161,Artist Unknown
@@ -81,12 +68,9 @@ inventory_number,string
 #2002.024,"Adams, Ron (American painter and printmaker, born 1934)"
 #2002.025,"Drury, Chris (British installation and assemblage artist, born 1948 in Sri Lanka)"
 #2002.026,"Rauschenberg, Robert (American painter, sculptor, and photographer, 1925-2008)"
-#2002.028,Artist Unknown
-#2002.029,Artist Unknown
 #2002.030,Artist Unknown
 #2002.031,Artist Unknown
 #2002.032,Artist Unknown
-#2002.033,Artist Unknown
 #2002.034,Artist Unknown
 #2002.036b,Artist Unknown
 #2002.036c,Artist Unknown
@@ -94,7 +78,6 @@ inventory_number,string
 #2002.039,Artist Unknown
 #2002.040,Artist Unknown
 #2002.042,"Kunkel, Don (1933-, born New Jersey)"
-#2003.001,Multiple Artists
 #2003.003a,"Tàpies, Antoni (Spanish painter, 1923-2012)"
 #2003.003b,"Tàpies, Antoni (Spanish painter, 1923-2012)"
 #2003.003c,"Tàpies, Antoni (Spanish painter, 1923-2012)"
@@ -134,7 +117,6 @@ inventory_number,string
 #2003.016,"Costigan, John E. (American painter, 1888-1972)"
 #2003.018,"Levine, David (American painter, caricaturist, illustrator, 1926-2009)"
 #2003.020,"Shannon, Charles Haslewood (English painter and printmaker, 1863-1937)"
-#2003.027,"Sietens, Guntars (1962-, born Kuldiga, Latvia)"
 #2003.028,"Zorn, Anders Leonard (Swedish painter, etcher, and sculptor, 1860-1920)"
 #2003.036,"Bosboom, Johannes (Dutch artist, 1817-1891)"
 #2003.038,"Gheyn, Jacques de, II (Dutch draftsman, painter, and engraver, 1565-1629)"
@@ -153,8 +135,6 @@ inventory_number,string
 #2004.029,"Loutherbourg, Philip James de (French painter and scenographer, 1740-1812, active in Great Britain)"
 #2004.030,"Loutherbourg, Philip James de (French painter and scenographer, 1740-1812, active in Great Britain)"
 #2004.033,"Watanabe, Mikio (1954-, born Yokohama, Japan)"
-#2004.035,"Berger, Paul Eric (American photographer and printmaker, born 1948)"
-#2004.037,"D'Amato, Paul (American photographer, 1956 CE-)"
 #2004.038,"Tourlentes, Stephen (1959-, born Galesburg, IL)"
 #2004.039,"Bellows, George Wesley (American painter and lithographer, 1882-1925)"
 #2004.044,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
@@ -163,10 +143,8 @@ inventory_number,string
 #2004.051,"Long, Richard (English sculptor and conceptual artist, born 1945)"
 #2004.053,"Sutton, Trevor (British painter, born 1948)"
 #2004.054,"Dalessi, Giovanni (1964-, born Eindhoven, Netherlands)"
-#2004.057,Multiple Artists
 #2004.058,"Clark, Thomas A.  (1944-, born Greenock, Glasgow, Scotland, UK)"
 #2004.059,"Gordon, Douglas (1966-, born Glasgow, Scotland)"
-#2004.060,"Waanders, Hans (1951-2001, born Enschede, Netherlands)"
 #2004.061,"Weiner, Lawrence (American conceptual artist, born 1940)"
 #2004.063,"Finlay, Ian Hamilton (Scottish sculptor, graphic artist, and poet, 1925-2006)"
 #2004.065,"Long, Richard (English sculptor and conceptual artist, born 1945)"
@@ -187,7 +165,6 @@ inventory_number,string
 #2004.075g,"Foxcroft, Lesley (British sculptor, born 1949)"
 #2004.075h,"Foxcroft, Lesley (British sculptor, born 1949)"
 #2004.077,"Long, Richard (English sculptor and conceptual artist, born 1945)"
-#2004.082,"Verbeek, Kees (1961-, born Son, Netherlands)"
 #2004.084a,"Craig-Martin, Michael (Irish painter, born 1941, active in England)"
 #2004.084b,"Craig-Martin, Michael (Irish painter, born 1941, active in England)"
 #2004.085a,"Craig-Martin, Michael (Irish painter, born 1941, active in England)"
@@ -196,17 +173,8 @@ inventory_number,string
 #2004.086b,"Craig-Martin, Michael (Irish painter, born 1941, active in England)"
 #2004.087a,"Craig-Martin, Michael (Irish painter, born 1941, active in England)"
 #2004.087b,"Craig-Martin, Michael (Irish painter, born 1941, active in England)"
-#2004.091,Artist Unknown
 #2004.093b,"Baumgartner, Christiane (1967-, born Leipzig, Germany)"
-#2005.003,"McCloud, Bryce (1975-, born Nashville, TN)"
-#2005.013,"McCloud, Bryce (1975-, born Nashville, TN)"
-#2005.018,"McCloud, Bryce (1975-, born Nashville, TN)"
-#2005.019,"McCloud, Bryce (1975-, born Nashville, TN)"
-#2005.023,"McCloud, Bryce (1975-, born Nashville, TN)"
-#2005.024,"McCloud, Bryce (1975-, born Nashville, TN)"
-#2005.028,"McCloud, Bryce (1975-, born Nashville, TN)"
 #2005.034,Artist Unknown
-#2006.006,The Little Friends of Printmaking
 #2006.009,Artist Unknown
 #2006.010,Artist Unknown
 #2006.011,Artist Unknown
@@ -215,26 +183,18 @@ inventory_number,string
 #2006.016,"Drury, Chris (British installation and assemblage artist, born 1948 in Sri Lanka)"
 #2007.002,Artist Unknown
 #2007.003,Artist Unknown
-#2007.004,"Hond, Hendrik (1588-1658)"
 #2007.005,"Galle, Philip (Flemish draftsman, engraver, and publisher, 1537-1612)"
 #2007.006,"Sadeler, Aegidius, II (Flemish engraver, draftsman, and painter, ca. 1570-1629)"
 #2007.009,"Galle, Philip (Flemish draftsman, engraver, and publisher, 1537-1612)"
-#2007.011,"Bernards, B."
-#2007.012,"Mulder, John"
-#2007.013,"Clark, J."
 #2007.017,"Feoli, Vincenzo (Italian copper engraver and draftsman, ca. 1760-1827)"
 #2007.018,"Acquaroni, Giovanni (Italian engraver, 1780-1847)"
 #2007.021,Artist Unknown
 #2007.022,Artist Unknown
-#2007.023,"Goodyear, J."
-#2007.024,"Goodyear, J."
 #2007.028,"Straet, Jan van der (Flemish painter, died 1535)"
 #2007.029,"Straet, Jan van der (Flemish painter, died 1535)"
 #2007.032,"Sadeler, Aegidius, II (Flemish engraver, draftsman, and painter, ca. 1570-1629)"
 #2007.033,"Bartolozzi, Francesco (Italian engraver, 1727-1815)"
 #2007.038,"Fittler, James (English etcher and engraver, 1758-1835)"
-#2007.039,"Adam, G."
-#2007.040,"Couche, Jacques (b. 1759, born Abbeville)"
 #2007.041a,"Sadeler, Rafael, I (Flemish painter and engraver, born 1560-1561, died 1628 or 1632)"
 #2007.041b,"Sadeler, Rafael, I (Flemish painter and engraver, born 1560-1561, died 1628 or 1632)"
 #2007.041c,"Sadeler, Rafael, I (Flemish painter and engraver, born 1560-1561, died 1628 or 1632)"
@@ -247,12 +207,10 @@ inventory_number,string
 #2007.053,"Labouchere, A.M."
 #2007.054a,"Della Bella, Stefano (Italian engraver and draftsman, 1610-1664)"
 #2007.054b,"Della Bella, Stefano (Italian engraver and draftsman, 1610-1664)"
-#2007.055,"Adam, G."
 #2007.056,Artist Unknown
 #2007.060,Artist Unknown
 #2007.061,"Jan Wijga, Kunstdr. Luii & Co."
 #2007.062,"Richter & Co., Naples"
-#2007.063,Thos. Forman & Sons
 #2007.064,"Taylor, Fred (English painter, illustrator, and poster artist, 1875-1963)"
 #2007.065,"Grassi, Vittorio (Italian artist, 1878-1958)"
 #2007.066,"Hardy, Dudley (English painter and illustrator, 1867-1922)"
@@ -265,18 +223,12 @@ inventory_number,string
 #2007.071c,"Mathis, Jill (1964-, born Belleville, IL)"
 #2007.071d,"Mathis, Jill (1964-, born Belleville, IL)"
 #2007.071e,"Mathis, Jill (1964-, born Belleville, IL)"
-#2007.071f,"Marcus, Caleb Cain (1978-, born U.S.A.)"
-#2007.071g,"Marcus, Caleb Cain (1978-, born U.S.A.)"
-#2007.071h,"Marcus, Caleb Cain (1978-, born U.S.A.)"
-#2007.071i,"Marcus, Caleb Cain (1978-, born U.S.A.)"
-#2007.071j,"Marcus, Caleb Cain (1978-, born U.S.A.)"
 #2008.157,"Guayasamín, Oswaldo (Ecuadorian painter and muralist, 1919-1999)"
 #2008.159,"Taylor, Fred (English painter, illustrator, and poster artist, 1875-1963)"
 #2008.160,"Taylor, Fred (English painter, illustrator, and poster artist, 1875-1963)"
 #2008.161,"Taylor, Fred (English painter, illustrator, and poster artist, 1875-1963)"
 #2008.162,"Metzl, Ervine (1899-)"
 #2008.163,"Lingstrom, Freda (1893-1989, born Chelsea, London)"
-#2008.164,"Bruegel, Pieter, I (Flemish painter, ca. 1525-1569) (after)"
 #2009.001kk,"Korine, Harmony (American filmmaker, born 1974)"
 #2009.001ll,"Korine, Harmony (American filmmaker, born 1974)"
 #2009.001mm,"Korine, Harmony (American filmmaker, born 1974)"
@@ -291,29 +243,17 @@ inventory_number,string
 #2009.017,"Ferrato, Donna (American photographer, born 1949)"
 #2009.022,"Lennard, Erica (American photographer, born 1950)"
 #2010.001,"Richter, Gerhard (German painter, born 1932)"
-#2010.002e,"Michael, Creighton (American sculptor, born 1949)"
 #2010.003,"Pennell, Joseph (American printmaker, illustrator, and author, ca. 1860-1926)"
 #2010.004,"Artist Unknown (1697-1764, born London, England)"
 #2010.005,"Cotman, John Sell (English painter and etcher, 1782-1842)"
 #2010.007,"Martínez, Raúl (Cuban painter, 1927-1995)"
 #2010.013,"Kruger, Barbara (American conceptual artist, designer, and writer, born 1945)"
 #2011.001,"Williams, John Scott (British painter and graphic artist, 1877-1976)"
-#2011.002,Artist Unknown
-#2011.003,Artist Unknown
 #2011.012k,"Hogarth, William (English painter and engraver, 1697-1764)"
 #2011.012l,"Hogarth, William (English painter and engraver, 1697-1764)"
-#2011.013,"Raymond, José Luis (1954-)"
-#2011.014,"Raymond, José Luis (1954-)"
 #2011.015,"Campos-Pons, María Magdalena (Cuban installation artist, painter, and photographer, born 1959)"
 #2012.001o,"Télémaque, Hervé (French painter and sculptor, born 1937)"
 #2012.003,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#2012.004a,"Michael, Creighton (American sculptor, born 1949)"
-#2012.004b,"Michael, Creighton (American sculptor, born 1949)"
-#2012.004c,"Michael, Creighton (American sculptor, born 1949)"
-#2012.004d,"Michael, Creighton (American sculptor, born 1949)"
-#2012.004e,"Michael, Creighton (American sculptor, born 1949)"
-#2012.004f,"Michael, Creighton (American sculptor, born 1949)"
-#2012.004g,"Michael, Creighton (American sculptor, born 1949)"
 #2012.008a,"Adams, Alice (American sculptor, born 1930)"
 #2012.008aa,"Pozzi, Lucio (American painter, born 1935)"
 #2012.008b,"Anuszkiewicz, Richard Joseph (American painter, born 1930)"
@@ -328,23 +268,17 @@ inventory_number,string
 #2012.008ff,"Roser, Ce (American painter, active 20th century)"
 #2012.008g,"Bushnell, Kenneth Wayne (American painter, designer, and scenographer, born 1933)"
 #2012.008gg,"Rousseau, Irene Victoria (1941-)"
-#2012.008h,"Cohen, Jean (1927-2013, born Brooklyn, NY, died Long Island, NY)"
-#2012.008hh,"Schwerin von Krosigk, Wifred Graf"
 #2012.008i,"Eckstein, Ruth (1916-2011, born Nuremberg, Germany, died Newton, MA)"
 #2012.008ii,"Seawright, James (American sculptor, born 1936)"
 #2012.008j,"Evertz, Gabriele"
 #2012.008jj,"Silverstein, Louis (ca. 1980)"
-#2012.008k,"Gilbert, Helen (1938-2001)"
 #2012.008kk,"Slobodkina, Esphyr (American painter, illustrator, and textile designer, 1914-2002, born in Russia)"
 #2012.008l,"Goodyear, John L. (American painter and sculptor, born 1930 )"
 #2012.008ll,"Stroud, Peter (American painter, born 1921)"
-#2012.008m,"Gross, James (American painter, active 20th century)"
 #2012.008mm,"Wells, Mac (1925-2009, born Cleveland, OH)"
-#2012.008n,"Heald, Paul (American painter, born 1936)"
 #2012.008nn,"Westfall, Stephen (American painter and critic, born 1953)"
 #2012.008o,"Hill, Clinton J. (American painter and printmaker, born 1922)"
 #2012.008p,"Jackson, Ward (1928-2004, born Petersburg, VA, died New York, NY)"
-#2012.008q,"Juszczk, James Joseph (1943-, born Chicago, IL)"
 #2012.008r,"Keller, Martha (American painter, born 1949)"
 #2012.008s,"Lassaw, Ibram (American sculptor, 1913-2003)"
 #2012.008t,"Logemann, Jane Marie (1942-, born Milwaukee, WI)"
@@ -360,9 +294,7 @@ inventory_number,string
 #2012.012,"Ferrato, Donna (American photographer, born 1949)"
 #2013.004,Artist Unknown
 #2013.006,Artist Unknown
-#2013.009,"Starowieysky, Franciszek (1930-, born Bratkówka, Poland)"
 #2013.012,"Sawka, Jan (Polish painter, printmaker, and sculptor, 1946-2012)"
-#2013.013,"Slowicki, M."
 #2013.016,"Klimowski, Andrzej (Polish printmaker, born 1949)"
 #2013.023,"Di Suvero, Mark (American sculptor, born 1933)"
 #2013.024,"Clergue, Lucien (French photographer, born 1934)"
@@ -409,8 +341,6 @@ inventory_number,string
 #2015.003,"Anastasi, William (American painter and sculptor, born 1933)"
 #2015.007,"Fraser, John (1952-, born Chicago, IL)"
 #2015.008,"Fraser, John (1952-, born Chicago, IL)"
-#2015.009,"Friesicke, Sabine (1960-, born Hamburg, Germany)"
-#2015.012,"Gonzáles, Teo (1964-, born Quinto, Spain)"
 #2015.017,"Ferrato, Donna (American photographer, born 1949)"
 #2015.019,"Ferrato, Donna (American photographer, born 1949)"
 #2015.020,"Ferrato, Donna (American photographer, born 1949)"
@@ -435,52 +365,35 @@ inventory_number,string
 #2015.037ll,"Seawright, James (American sculptor, born 1936)"
 #2015.037m,"Goodyear, John L. (American painter and sculptor, born 1930 )"
 #2015.037nn,"Slobodkina, Esphyr (American painter, illustrator, and textile designer, 1914-2002, born in Russia)"
-#2015.037oo,"Soreff, Helen (American painter, 20th century)"
 #2015.037pp,"Stroud, Peter (American painter, born 1921)"
 #2015.037qq,"Wagner, Merrill (American painter, born 1935)"
+#2015.037r,"Juszcyk, James (1943-, born Chicago, IL)"
 #2015.037rr,"Wells, Mac (1925-2009, born Cleveland, OH)"
 #2015.037s,"Krisel, Harold (American painter and printmaker, 1920-1995)"
 #2015.037t,"Lamis, Leroy (American sculptor, born 1925)"
 #2015.037u,"Lassaw, Ibram (American sculptor, 1913-2003)"
-#2015.037x,"Magnan, Oscar (1937-, born Cienfuegos, Cuba)"
 #2015.038a,"Adams, Alice (American sculptor, born 1930)"
-#2015.038aa,"Maine, Stephen (1958-, born Hartford, CT)"
 #2015.038cc,"Manter, Nancy (1952-, born Maine)"
-#2015.038dd,"Michael, Creighton (American sculptor, born 1949)"
 #2015.038e,"Boothe, Power Robert (American painter, born 1945)"
 #2015.038ee,"Mohr, Manfred (German computer artist and painter, born 1938, active in the United States)"
 #2015.038f,"Brown, Henry (1965-, born Washington, D.C.)"
 #2015.038ff,"Murata, Hiroshi (American painter and printmaker, born 1941)"
 #2015.038g,"Bushnell, Kenneth Wayne (American painter, designer, and scenographer, born 1933)"
-#2015.038gg,"Phillips, John (1953-, born Chicago, IL)"
 #2015.038h,"Clark, James O. (American sculptor, born 1948)"
 #2015.038ii,"Rabkin, Leo (American painter, sculptor and collector, born 1919)"
 #2015.038j,"Goodyear, John L. (American painter and sculptor, born 1930 )"
 #2015.038jj,"Roser, Ce (American painter, active 20th century)"
 #2015.038k,"Gregg, Gail (1951-, born Topeka, KS)"
 #2015.038kk,"Row, David (American painter, born 1949)"
-#2015.038ll,"Shalala, Edward (1949-, born Cleveland, OH)"
-#2015.038n,"Held, Mara (1954-, born New York, NY)"
-#2015.038qq,"Voisine, Don (1959-, born Buffalo, NY)"
 #2015.038rr,"Westfall, Stephen (American painter and critic, born 1953)"
-#2015.038s,"Juszczyk, James Joseph (American painter, born 1943)"
-#2015.038ss,"Wilkinson, Jeanne (1949-, born Duluth, MN)"
-#2015.038u,"Karlik, Steve (1960-, born Portland, OR)"
 #2015.075.45,Artist Unknown
-#2015.075.46,"Kutner, Christophe"
 #2015.075.47,Artist Unknown
 #2015.076,"Gilbert, Cass (American architect, 1859-1934)"
 #2016.002.01,"Conner, Bruce (American assemblage artist and filmmaker, 1933-2008)"
 #2016.002.03,"Conner, Bruce (American assemblage artist and filmmaker, 1933-2008)"
 #2016.002.04,"Conner, Bruce (American assemblage artist and filmmaker, 1933-2008)"
 #2016.003.3,"Krueger, Michael (1967-, born Kenosha, WI)"
-#2016.003.4,"Millard, Travis (1975-, born St. Joseph, MO)"
-#2016.003.5,"Millard, Travis"
-#2016.005.07,"Chiplis, Martha (1964-, born Indianapolis, IN)"
-#2016.005.11,"Walkup, Kathleen  (1946-, born Portland, OR)"
-#2016.005.22,"Fries, Katherine J. (, born Lincoln, NE)"
 #2016.007.1,"Morgan, Barbara (American photographer and painter, 1900-1992)"
-#2016.007.3,"Kanner, Chaim (1943-2000, born Nice, France)"
 #2016.011.01,"Turnley, Peter (1955-, born Fort Wayne, IN)"
 #2016.011.02,"Turnley, Peter (1955-, born Fort Wayne, IN)"
 #2016.011.03,"Turnley, Peter (1955-, born Fort Wayne, IN)"
@@ -511,7 +424,6 @@ inventory_number,string
 #2017.001.013,"Fini, Leonor (French painter and scenographer, 1908-1996)"
 #2017.001.015,"Riggs, Robert (American printmaker, 1896-1970)"
 #2017.001.020,"Shokler, Harry (American painter and printmaker, 1896-1978)"
-#1992.476,Artist Unknown
 #1992.479,Artist Unknown
 #1992.480,Artist Unknown
 #1992.481,Artist Unknown
@@ -528,7 +440,6 @@ inventory_number,string
 #1992.496,Artist Unknown
 #1992.497,Artist Unknown
 #1992.498,Artist Unknown
-#1992.499,Artist Unknown
 #1992.500,Artist Unknown
 #1992.501A-H,Artist Unknown
 #1992.502,Artist Unknown
@@ -545,8 +456,6 @@ inventory_number,string
 #1992.513,Artist Unknown
 #1992.515,Artist Unknown
 #1992.517,Artist Unknown
-#1992.519,Artist Unknown
-#1992.520,Artist Unknown
 #1992.522,Artist Unknown
 #1992.523,Artist Unknown
 #1992.524,Artist Unknown
@@ -554,22 +463,12 @@ inventory_number,string
 #1992.526,Artist Unknown
 #1992.527,Artist Unknown
 #1992.528,Artist Unknown
-#1992.529,Artist Unknown
-#1992.530,Artist Unknown
-#1992.531,Artist Unknown
-#1992.532,Artist Unknown
-#1992.533,Artist Unknown
-#1992.534,Artist Unknown
-#1992.535,Artist Unknown
-#1992.536,Artist Unknown
-#1992.537,Artist Unknown
 #1992.538,Artist Unknown
 #1992.540,Artist Unknown
 #1992.541,Artist Unknown
 #1992.542,Artist Unknown
 #1992.549,"Baskin, Leonard (American sculptor and printmaker, 1922-2000)"
 #1992.550,"Sadeler, Aegidius, II (Flemish engraver, draftsman, and painter, ca. 1570-1629)"
-#1993.001,"DeCredico, Alfred (American artist, 20th-21st century )"
 #1993.003,"Dalí, Salvador (Spanish painter and printmaker, 1904-1989)"
 #1993.004,Artist Unknown
 #1993.006A-C,Artist Unknown
@@ -577,8 +476,6 @@ inventory_number,string
 #1993.010,Artist Unknown
 #1993.011,"Bosse, Abraham (French printmaker, 1602-1676)"
 #1993.012,"Bosse, Abraham (1602/04-1676)"
-#1993.013,"Bong, Woo (ca. 1948)"
-#1993.014,"Bong, Woo (ca. 1948)"
 #1993.015,Artist Unknown
 #1993.016,Artist Unknown
 #1993.017,Artist Unknown
@@ -740,7 +637,6 @@ inventory_number,string
 #1993.177,Artist Unknown
 #1993.178,Artist Unknown
 #1993.179,"Kanjiro, Kawai (attributed to nephew of)"
-#1993.179,"Kanjiro, Kawai (attributed to nephew of)"
 #1993.180,Artist Unknown
 #1993.181,Artist Unknown
 #1993.182,Artist Unknown
@@ -756,7 +652,6 @@ inventory_number,string
 #1993.192,Artist Unknown
 #1993.193,Artist Unknown
 #1993.194,"Leach, Bernard (English potter, 1887-1979)"
-#1993.195,"Leach, John"
 #1993.196,"Leach, David (British potter, active 20th century)"
 #1993.197,Artist Unknown
 #1993.198,Artist Unknown
@@ -777,15 +672,11 @@ inventory_number,string
 #1993.211,Artist Unknown
 #1993.212,Artist Unknown
 #1993.213,Artist Unknown
-#1993.215a,"Kanō Yashunobu (Japanese painter, 1613-1685)"
-#1993.215b,"Kanō Yashunobu (Japanese painter, 1613-1685)"
-#1993.215c,"Kanō Yashunobu (Japanese painter, 1613-1685)"
 #1993.221,Artist Unknown
 #1993.222,Artist Unknown
 #1993.223,Artist Unknown
 #1993.224,Artist Unknown
 #1993.225,Artist Unknown
-#1994.001,"Kadi, Ramon Marcus (1967, born Surabaya, Indonesia)"
 #1994.006,"Koscianski, Leonard J. (American painter, born 1952)"
 #1994.007,Artist Unknown
 #1994.008,Artist Unknown
@@ -1055,10 +946,8 @@ inventory_number,string
 #1994.541,"Coe, Sue (English painter, draftsman, and etcher, born 1951, active in the United States)"
 #1994.542,"Coe, Sue (English painter, draftsman, and etcher, born 1951, active in the United States)"
 #1994.543,"Coe, Sue (English painter, draftsman, and etcher, born 1951, active in the United States)"
-#1995.001,"Kunisada (Japanese woodcutter and graphic artist, 1848-1920)"
 #1995.002,Artist Unknown
 #1995.003,"Nobukazu (Japanese woodcutter and graphic artist, 1872-1944)"
-#1995.004,"Toshiaki, Yu-u sai"
 #1995.005,Artist Unknown
 #1995.008,Artist Unknown
 #1995.009,Artist Unknown
@@ -1074,12 +963,9 @@ inventory_number,string
 #1995.025,Artist Unknown
 #1995.026,Artist Unknown
 #1995.032,Artist Unknown
-#1995.033,Artist Unknown
-#1995.034,Artist Unknown
 #1995.038,Artist Unknown
 #1995.039,Artist Unknown
 #1995.040,Artist Unknown
-#1995.052,"Ross, Elliot  (1947-, born Chicago, IL)"
 #1995.056a,Artist Unknown
 #1995.056b,Artist Unknown
 #1995.056c,Artist Unknown
@@ -1114,9 +1000,8 @@ inventory_number,string
 #1996.011,"Tàpies, Antoni (Spanish painter, 1923-2012)"
 #1996.013,"Gabino, Amadeo (Spanish sculptor, born 1922)"
 #1996.016,"Picasso, Pablo (Spanish painter, sculptor, and printmaker, 1881-1973)"
-#1996.021,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
+#1996.024,Departament de Cultura de la Generalitat de Catalunya
 #1996.026,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1996.032,"Stackelhaus, Heiner"
 #1996.033,"Vedova, Emilio (Italian painter, sculptor, and printmaker, 1919-2006)"
 #1996.039,"Argimón Granell, Daniel (Spanish painter, born 1929)"
 #1996.040,"Argimón Granell, Daniel (Spanish painter, born 1929)"
@@ -1124,16 +1009,10 @@ inventory_number,string
 #1996.043,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
 #1996.053,"Birker, Joop (1935-1993)"
 #1996.054,"Broner, Erwin (Spanish architect, 1898-1971)"
-#1996.059,"Fandos, Manuel"
 #1996.061,"Fauteux, André Lucien (Canadian sculptor, born 1946)"
 #1996.063,"Fauteux, André Lucien (Canadian sculptor, born 1946)"
-#1996.064,"Husein, Faik"
 #1996.065,"Irriguible, Leopoldo Celorrio (1946-, born Zaragoza, Spain)"
 #1996.067,"Laabs, Hans (German painter, 1915-2004)"
-#1996.071,"Lukas, Dennis (1947-, born Hamilton, Ontario)"
-#1996.072,"Lukas, Dennis (1947-, born Hamilton, Ontario)"
-#1996.073,"Lukas, Dennis (1947-, born Hamilton, Ontario)"
-#1996.074,"Lukas, Dennis (1947-, born Hamilton, Ontario)"
 #1996.075,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
 #1996.076,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
 #1996.077,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
@@ -1153,35 +1032,6 @@ inventory_number,string
 #1996.109,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
 #1996.122,"Paluzzi, Rinaldo (American painter, born 1927)"
 #1996.123,"Paluzzi, Rinaldo (American painter, born 1927)"
-#1996.130,"Quijada, Robert (American artist, 1937-1994)"
-#1996.133,"Richman, Pablo"
-#1996.135,"Rutherford, Eric (British artist, active from 1963)"
-#1996.136,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.137,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.138,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.139,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.140,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.141,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.142,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.143,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.144,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.145,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.146,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.147,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.148,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.149,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.150,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.151,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.152,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.153,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.154,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.155,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1996.157,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1996.158,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1996.159,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1996.160,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1996.161,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1996.163,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
 #1996.164,"Walsh, David (1927-1981, born India)"
 #1996.165,"Walsh, David (1927-1981, born India)"
 #1996.166,"Walsh, David (1927-1981, born India)"
@@ -1189,14 +1039,11 @@ inventory_number,string
 #1996.168,"Weber, Willy"
 #1996.169,"Utagawa Kunisada (Japanese printmaker and illustrator, 1786-1864)"
 #1996.171,Artist Unknown
-#1996.172,"Kai, Liang"
 #1996.173,Artist Unknown
 #1996.174,"Andō Hiroshige (Japanese painter and printmaker, 1797-1858)"
 #1996.175,"Andō Hiroshige (Japanese painter and printmaker, 1797-1858)"
 #1996.177,Artist Unknown
 #1996.180,Artist Unknown
-#1996.184,Ryosen
-#1996.185,Kado
 #1996.186,Artist Unknown
 #1996.187,Artist Unknown
 #1996.188,Artist Unknown
@@ -1206,8 +1053,6 @@ inventory_number,string
 #1996.201,Artist Unknown
 #1996.202,Artist Unknown
 #1996.203,Artist Unknown
-#1997.004,Artist Unknown
-#1997.047,"Puiggros, Pere (1942-)"
 #1997.058,"Irriguible, Leopoldo Celorrio (1946-, born Zaragoza, Spain)"
 #1997.079a-f,"Hernández Pijuan, Joan (Spanish painter and printmaker, born 1931)"
 #1997.082a,"Bechtold, Erwin (1925-, born Cologne, Germany)"
@@ -1223,74 +1068,32 @@ inventory_number,string
 #1997.083b,"Kunkel, Don (1933-, born New Jersey)"
 #1997.083c,"Kunkel, Don (1933-, born New Jersey)"
 #1997.083d,"Kunkel, Don (1933-, born New Jersey)"
-#1997.084,"Abad, Antonio (1956-, born Barcelona, Spain)"
 #1997.085,"Amengual, Rafael (1938-, born Mendoza, Argentina)"
 #1997.086,"Amengual, Rafael (1938-, born Mendoza, Argentina)"
 #1997.090,"Ballaine, Jerrold (American sculptor, born 1934)"
-#1997.098,"Estellido, Comp"
 #1997.101,"Evrard, Andre (1936-, born La Chaux-de-fonds, Switzerland)"
 #1997.112,"Gabino, Amadeo (Spanish sculptor, born 1922)"
 #1997.113,"Gabino, Amadeo (Spanish sculptor, born 1922)"
-#1997.114,"Gibian, Mark (1954-)"
-#1997.117,"Husein, Faik (1944-2004, born Nasria, Iraq, died New York, NY)"
 #1997.119,"Lerin, Fernando (1929-2016, born Barcelona, Spain)"
 #1997.127,"Martinez, Juan (Spanish painter, born 1942)"
 #1997.130,"Novoa, Leopoldo (1919-2012, born Pontevedra, Spain, died Paris, France)"
 #1997.135,"Úrculo, Eduardo (1938-2003, born Santurce, Spain)"
-#1997.140,"Vilà, Miquel (1940-, born Barcelona, Spain)"
 #1997.141,"Waske, Felix (1942-)"
 #1997.144,"Scheier, Edwin (American ceramicist, 1910-2008)"
 #1997.146,Artist Unknown
 #1997.147,Artist Unknown
 #1997.149,Artist Unknown
-#1997.152,Artist Unknown
 #1997.153,"Watanabe, Sadao (1913-1996)"
 #1997.157,"Davis, Stuart (American painter and printmaker, 1892-1964)"
 #1998.001,"Ikeda Eisen (Japanese printmaker and painter, 1790-1848)"
 #1998.002,"Hokusai, Katsushika (Japanese printmaker and painter, 1760-1849)"
 #1998.003,"Hokusai, Katsushika (Japanese printmaker and painter, 1760-1849)"
 #1998.005,Artist Unknown
-#1998.008,"McBurnie, Ronald"
 #1998.014,Artist Unknown
-#1998.015,ADGFAD
-#1998.017,ADGFAD
-#1998.019,ADGFAD
-#1998.020,ADGFAD
-#1998.021,ADGFAD
-#1998.022,ADGFAD
-#1998.023,ADGFAD
-#1998.024,ADGFAD
-#1998.025,ADGFAD
-#1998.026,ADGFAD
-#1998.028,ADGFAD
-#1998.032,ADGFAD
-#1998.033,ADGFAD
-#1998.034,ADGFAD
-#1998.037,ADGFAD
-#1998.038,ADGFAD
-#1998.039,ADGFAD
-#1998.042,ADGFAD
 #1998.052,"Utagawa Kuniyoshi (Japanese painter, printmaker, and illustrator, 1798-1861)"
 #1998.053,"Utagawa Kuniyoshi (Japanese painter, printmaker, and illustrator, 1798-1861)"
 #1998.054,"Utagawa Kuniyoshi (Japanese painter, printmaker, and illustrator, 1798-1861)"
 #1999.005,"Viera, Ricardo"
-#1999.006,"Thompson, Donald (1936-)"
-#1999.017,"Cameron, Don (1936-)"
-#1999.018,"Cameron, Don (1936-)"
-#1999.019,"Cameron, Don (1936-)"
-#1999.020,"Floris, Marcel (1914-2007)"
-#1999.021,"Floris, Marcel (1914-2007)"
-#1999.022,"Floris, Marcel (1914-2007)"
-#1999.023,"Floris, Marcel (1914-2007)"
-#1999.024,"Floris, Marcel (1914-2007)"
-#1999.025,"Floris, Marcel (1914-2007)"
-#1999.026,"Floris, Marcel (1914-2007)"
-#1999.033,"Herreyns, Gilbert (1943-, born Uccle, Belgium)"
-#1999.035,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.036,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.037,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.038,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.039,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
 #1999.041,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
 #1999.042,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
 #1999.043,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
@@ -1303,57 +1106,20 @@ inventory_number,string
 #1999.079b,"Kunkel, Don (1933-, born New Jersey)"
 #1999.079c,"Kunkel, Don (1933-, born New Jersey)"
 #1999.081,"Kunkel, Don (1933-, born New Jersey)"
-#1999.087,"Lenerts, Cis (1940)"
-#1999.088,"Lenerts, Cis (1940)"
 #1999.090,"Marca-Relli, Conrad (American painter, 1913-2000)"
 #1999.091,"Marca-Relli, Conrad (American painter, 1913-2000)"
 #1999.096,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
 #1999.098,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1999.108,"Mitchell, Jane (1912-1988)"
-#1999.109,"Mitchell, Jane (1912-1988)"
-#1999.111,"Mitchell, Jane"
-#1999.113,"Pagliari, Giorgio (1933-, born Rome, Italy)"
 #1999.115,"Hernández Pijuan, Joan (Spanish painter and printmaker, born 1931)"
-#1999.116,"Puiggros, Pere (1942-)"
-#1999.118,"Quijada, Robert (American artist, 1937-1994)"
-#1999.119,"Quijada, Robert (American artist, 1937-1994)"
-#1999.120,"Quijada, Robert (American artist, 1937-1994)"
-#1999.128,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1999.129,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1999.132,"Putten, Henk van (Dutch sculptor, born 1936)"
 #1999.137,Artist Unknown
 #1999.138,Artist Unknown
 #1999.144,"Bruyn, Nicolaes de (Flemish painter, engraver, and dealer, 1571-1656)"
-#1999.148,Artist Unknown
-#1999.149,"Frederick, Michael (1966-, born Chabanse, IL)"
-#1999.150,"Frederick, Michael, (1966-, born Chabanse, IL)"
-#1999.151,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.152,"Frederick, Michael, (1966-, born Chabanse, IL)"
-#1999.153,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.154,"McCloud, Bryce, (1975-, born Nashville, TN)"
-#1999.155,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.156,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.158,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.159,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.160,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.161,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.162,"Sherraden, Jim, (1957-, born Salina, KS)"
-#1999.164,"McCloud, Bryce, (1975-, born Nashville, TN)"
-#1999.165,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.166,"Frederick, Michael, (1966-, born Chabanse, IL)"
-#1999.167,"Maynard, Jeremy D., (1977-, born Nashville, TN)"
-#1999.168,"McCloud, Bryce, (1975-, born Nashville, TN)"
-#1999.170,ADGFAD
 #1999.173,"Solow, Peter (American painter, active 20th century)"
-#1999.175,"Kirkall, Elisha (English printmaker, ca.1682-1742)"
 #1999.176,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
 #1999.177,"Tonnancour, Jacques de (Canadian painter and printmaker, 1917-2005)"
 #1999.179,"Romney, George (English painter, 1734-1802)"
 #1999.180,"Jacque, Charles Émile (French painter, illustrator, and printmaker, 1813-1894)"
 #1999.181,Artist Unknown
-#1999.225,Artist Unknown
-#1999.226,Artist Unknown
-#1999.227,Artist Unknown
 #1999.234,Artist Unknown
 #1999.236,Artist Unknown
 #1999.237,Artist Unknown
@@ -1362,12 +1128,10 @@ inventory_number,string
 #1999.242,Artist Unknown
 #1999.246,Artist Unknown
 #1999.248,"Dill, Lesley (American sculptor, born 1950)"
-#1999.249,"DeMay, Susan"
 #1999.250,"Gavarni, Paul (French printmaker, illustrator, and painter, 1804-1866)"
 #1999.251,Artist Unknown
 #1999.253,Artist Unknown
 #1979.0915P,"Guttenberg, Heinrich (German engraver, 1749-1818)"
-#1979.0916P,Fantarini? (1612-1648)
 #1979.0919P,"Bartolozzi, Francesco (Italian engraver, 1727-1815)"
 #1979.0921P,"von Bocholt, Franz (after)"
 #1979.0922P,"Sparks, Nathaniel (English watercolorist and etcher, 1880-1957)"
@@ -1377,17 +1141,12 @@ inventory_number,string
 #1979.0968P,Artist Unknown
 #1979.0979P,Artist Unknown
 #1979.0980P,Artist Unknown
-#1979.0982P,"Spinola, Lily"
-#1979.0986P,"Schaever, C. W."
+#1979.0984P,"Pildas, M."
 #1979.0987P,Artist Unknown
-#1979.0988P,"Howard, John"
-#1979.0989P,Artist Unknown
 #1979.0991P,Artist Unknown
 #1979.0992P,Artist Unknown
 #1979.0993P,Artist Unknown
 #1979.0994P,Artist Unknown
-#1979.0995P,Artist Unknown
-#1979.0996P,Artist Unknown
 #1979.1008P,Artist Unknown
 #1979.1010P,Artist Unknown
 #1979.1028P,Artist Unknown
@@ -1408,22 +1167,16 @@ inventory_number,string
 #1979.1058P,Artist Unknown
 #1979.1059P,Artist Unknown
 #1979.1060P,Artist Unknown
-#1979.1061P,Artist Unknown
-#1979.1062P,Artist Unknown
-#1979.1064P,Artist Unknown
 #1979.1066P,Artist Unknown
 #1979.1067P,Artist Unknown
 #1979.1069P,Artist Unknown
-#1979.1071P,Artist Unknown
 #1979.1073P,Artist Unknown
 #1979.1076P,Artist Unknown
 #1979.1081P,Artist Unknown
 #1979.1084P,Artist Unknown
 #1979.1087P,Artist Unknown
 #1979.1088P,Artist Unknown
-#1979.1089P,Artist Unknown
 #1979.1090P,Artist Unknown
-#1979.1095P,Artist Unknown
 #1979.1096P,Artist Unknown
 #1979.1097P,Artist Unknown
 #1979.1100P,Artist Unknown
@@ -1431,41 +1184,28 @@ inventory_number,string
 #1979.1102P,Artist Unknown
 #1979.1103P,Artist Unknown
 #1979.1104P,Artist Unknown
-#1979.1105P,Artist Unknown
-#1979.1106P,Artist Unknown
-#1979.1107P,Artist Unknown
-#1979.1108P,Artist Unknown
-#1979.1109P,Artist Unknown
 #1979.1111P,Artist Unknown
-#1979.1112P,Artist Unknown
-#1979.1113P,Artist Unknown
 #1979.1116P,Artist Unknown
-#1979.1118P,"Fisher, E."
 #1979.1121P,"Raemaekers, Louis (Dutch painter, illustrator, and draftsman, 1869-1956)"
 #1979.1132P,Artist Unknown
 #1979.1136P,"Mora, F. Luis (American painter, illustrator, and teacher, 1874-1940)"
+#1979.1138P,"Brown, Clinton"
 #1979.1175P,Artist Unknown
 #1979.1179P,Artist Unknown
 #1979.1186P,"Coplan, Maxwell Frederic (1912-1985)"
-#1979.1210P,"Würbel, Franz (1896-)"
 #1979.1229P,"Beneker, Gerrit Albertus (American painter and illustrator, 1882-1934)"
 #1979.1231P,"Wright, George Hand (American painter, 1872-1951)"
 #1979.1233P,"Raemaekers, Louis (Dutch painter, illustrator, and draftsman, 1869-1956)"
 #1979.1239P,Artist Unknown
-#1980.001,"Shwab, Paul"
 #1980.003,"Rauschenberg, Robert (American painter, sculptor, and photographer, 1925-2008)"
-#1980.009,"Huggins, Victor  (1936-)"
 #1980.010,"Lewis, Martin (American painter, 1881-1962)"
 #1980.013,"Deuchar, David (Scottish engraver, 1743-1808)"
 #1980.018,"Pogue, Stephanie E. (American printmaker, born 1944)"
 #1980.019,"Pogue, Stephanie E. (American printmaker, born 1944)"
-#1980.020,"Schwarz, Joseph (American painter, born 1929)"
 #1980.027,"Meng, Wang (after)"
-#1980.027,"Meng, Wang (after)"
+#1980.028,"Xie, Zheng (after)"
 #1980.030,Artist Unknown
-#1980.034,Artist Unknown
 #1980.038,"Fantin-Latour, Henri (French painter and printmaker, 1836-1904)"
-#1980.039,Artist Unknown
 #1980.040,"Inness, George, Sr. (American painter, 1825-1894)"
 #1980.041,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
 #1980.042,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
@@ -1487,7 +1227,6 @@ inventory_number,string
 #1980.069,"Cohen, Bernard (British painter and printmaker, born 1933)"
 #1980.070,"Gottlieb, Adolph (American painter, 1903-1974)"
 #1980.071,"Genovés, Juan (Spanish painter, born 1930)"
-#1980.077,Chang Tse-tuan
 #1980.097,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
 #1980.098,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
 #1980.099,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
@@ -1539,15 +1278,11 @@ inventory_number,string
 #1982.004,Artist Unknown
 #1982.005,Artist Unknown
 #1982.006,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1982.007,"Heras, Arturo (or Heras Sanz)  (1945-, born Valencia, Spain)"
 #1982.008,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
 #1982.009,"Kunkel, Don (1933-, born New Jersey)"
 #1982.010,"Laabs, Hans (German painter, 1915-2004)"
-#1982.011,"Quijada, Robert (American artist, 1937-1994)"
 #1982.012,"Snelson, Kenneth (1927-2016, born Pendleton, OR, died New York, NY)"
-#1982.013,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
 #1982.014,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1982.015,"Floris, Marcel (1914-2007)"
 #1982.016,"Gomis, Joaquim (1902-1991, born Barcelona, Spain)"
 #1982.017,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
 #1982.018,"Kunkel, Don (1933-, born New Jersey)"
@@ -1555,49 +1290,29 @@ inventory_number,string
 #1982.020,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
 #1982.021,"Martinez, Juan (Spanish painter, born 1942)"
 #1982.022,"Hernández Pijuan, Joan (Spanish painter and printmaker, born 1931)"
-#1982.023,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
-#1982.024,"Putten, Henk van (Dutch sculptor, born 1936)"
-#1982.025,"Acisclo, Manzano (1940-)"
 #1982.026,"Armengol, Rafael (Spanish painter and printmaker, born 1940)"
-#1982.027,"Alvarez, Manuel Boix (1942-)"
 #1982.028,"Evrard, Andre (1936-, born La Chaux-de-fonds, Switzerland)"
-#1982.029,"Heras, Arturo (or Heras Sanz)  (1945-, born Valencia, Spain)"
-#1982.030,"Herreyns, Gilbert (1943-, born Uccle, Belgium)"
 #1982.031,"Kunkel, Don (1933-, born New Jersey)"
 #1982.032,"Laabs, Hans (German painter, 1915-2004)"
 #1982.033,"Martinez, Juan (Spanish painter, born 1942)"
-#1982.034,"Pagliari, Giorgio (1933-, born Rome, Italy)"
-#1982.035,"Quijada, Robert (American artist, 1937-1994)"
 #1982.036,"Saura, Antonio (Spanish painter, 1930-1988)"
-#1982.037,"Schlosser, Adolf (1939-)"
 #1982.038,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
-#1982.039,"Floris, Marcel (1914-2007)"
 #1982.040,"Gabino, Amadeo (Spanish sculptor, born 1922)"
-#1982.041,"Gibson, Anita  (born Lima, Peru)"
 #1982.042,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
 #1982.043,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
 #1982.044,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
 #1982.045a,"Hernández Pijuan, Joan (Spanish painter and printmaker, born 1931)"
 #1982.045b,"Hernández Pijuan, Joan (Spanish painter and printmaker, born 1931)"
 #1982.046,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#1982.047,"Teixidor, Ferran (Spanish painter, born 1936)"
-#1982.048,"Tur Costa, Rafael (1927-, born Santa Eulalia, Ibiza, Spain)"
 #1982.049,"Weber, Willy (1933-, born Berne, Switzerland)"
 #1982.050,"Bechtold, Erwin (1925-, born Cologne, Germany)"
 #1982.051,"Chillida, Eduardo (Spanish sculptor, architect, and printmaker, 1924-2002)"
-#1982.052,"Herreyns, Gilbert (1943-, born Uccle, Belgium)"
 #1982.053,"Kunkel, Don (1933-, born New Jersey)"
 #1982.054,"Marca-Relli, Conrad (American painter, 1913-2000)"
 #1982.055,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
 #1982.056,"Micus, Eduard (1925-2000, born Höxter-Weser, Germany)"
-#1982.057,"Puiggros, Pere (1942-)"
-#1982.058,"Quijada, Robert (American artist, 1937-1994)"
 #1982.059,"Schumacher, Emil (German painter, 1912-1999)"
 #1982.060,"Vallmitjana Garrido, August (Spanish painter, born 1894)"
-#1982.061,"Gerardia, Helen (Russian-American painter, born 1913)"
-#1982.062,"Gerardia, Helen (Russian-American painter, born 1913)"
-#1982.063,"Gerardia, Helen (Russian-American painter, born 1913)"
-#1982.064,"Gerardia, Helen (Russian-American painter, born 1913)"
 #1982.065,"Smith, Richard (British painter, born 1931)"
 #1982.080,"Agnetti, Vincenzo (Italian conceptual artist, 1926-1981)"
 #1982.081,"Antin, Eleanor (American performance artist, conceptual artist, and photographer, born 1935)"
@@ -1610,36 +1325,25 @@ inventory_number,string
 #1982.088,"Fox, Terry (American video artist and sculptor, born 1943)"
 #1982.089,"Fuller, R. Buckminster (American architect and inventor, 1895-1983)"
 #1982.090,"Harrison, Helen Mayer and Harrison, Newton"
-#1982.090,"Harrison, Helen Mayer and Harrison, Newton"
 #1982.091,"Harrison, Margaret (British mixed-media artist, born 1940)"
 #1982.094,"Levine, Les (Canadian sculptor and video artist, born 1935)"
 #1982.095,"Schlossberg, Edwin (American artist, born 1945)"
 #1982.096,"Shannon, Thomas (American sculptor and painter, born 1947)"
 #1982.097,"Siler, Todd (American sculptor, born 1953)"
-#1982.098,SITE
-#1982.099,"Smyth, David (American painter, born 1943)"
 #1982.100,"Wilke, Hannah (American sculptor, 1940-1993)"
 #1982.101,Artist Unknown
 #1982.102,Artist Unknown
 #1982.104,Artist Unknown
 #1983.003,"Tsukioka Yoshitoshi (Japanese painter, 1839-1892)"
-#1983.005,"Richardson, Deborah"
-#1983.008,"Josephson, Laura"
 #1983.010,Artist Unknown
-#1983.011,"Smith, David (American sculptor, 1906-1965)"
-#1983.012,"Lavender, Randall (b. 1956)"
 #1983.013,Artist Unknown
 #1983.015,Artist Unknown
 #1983.016,Artist Unknown
 #1983.018,"Bannard, Walter Darby (American painter, critic, born 1934)"
 #1983.020,Artist Unknown
 #1984.002,Joseph Fiore
-#1984.006,"Loberg, Robert W. (1927-1999, born Chicago, IL)"
 #1984.010,"Larraín, Emilio Rodríguez (Peruvian painter, born 1927)"
 #1984.011,"Larraín, Emilio Rodríguez (Peruvian painter, born 1927)"
-#1984.015,"Lequire, Louise"
-#1984.016,"Robertson, Jack"
-#1984.017,"Robertson, Jack"
 #1984.019,Artist Unknown
 #1984.020,"Flaxman, John (English sculptor, draftsman, and designer, 1755-1826)"
 #1984.021,"Flaxman, John (English sculptor, draftsman, and designer, 1755-1826)"
@@ -1652,16 +1356,12 @@ inventory_number,string
 #1984.030,"Rousseau, Théodore (French painter, 1812-1867)"
 #1984.031,"Renault, Charles Edmond  (1829-1905, born Paris, France)"
 #1984.033,"Leaf, Ruth (American printmaker and author, contemporary)"
-#1984.038,"Handly, Avery (1913-1958)"
 #1984.040,Artist Unknown
 #1984.043,Artist Unknown
 #1984.048,"Janson, Jonathan (American artist, born 1950)"
 #1984.049,"Larraín, Emilio Rodríguez (Peruvian painter, born 1927)"
 #1984.050,"Larraín, Emilio Rodríguez (Peruvian painter, born 1927)"
 #1985.002,Artist Unknown
-#1985.006,"Robertson, Jack"
-#1985.013,"Hochstetler, T. Max"
-#1985.015,"Haverford Painter (Greek vase painter, active ca. 375-ca. 350 BCE in Apulia)"
 #1985.019,"Cheffetz, Asa (American printmaker, 1896-1965)"
 #1985.022,Artist Unknown
 #1985.023,Artist Unknown
@@ -1681,7 +1381,6 @@ inventory_number,string
 #1985.056,Artist Unknown
 #1985.057,Artist Unknown
 #1985.061,Artist Unknown
-#1985.062,Artist Unknown
 #1985.063,Artist Unknown
 #1985.064,Artist Unknown
 #1985.065,Artist Unknown
@@ -1710,8 +1409,6 @@ inventory_number,string
 #1986.005,Artist Unknown
 #1986.015a,"Audubon, John James (American painter and naturalist, 1785-1851)"
 #1986.016,Artist Unknown
-#1986.017,"Katsushika, Isai"
-#1986.020,"Duret, A."
 #1986.021,Artist Unknown
 #1986.022,Artist Unknown
 #1986.023,Artist Unknown
@@ -1727,35 +1424,20 @@ inventory_number,string
 #1986.039,Artist Unknown
 #1986.040,Artist Unknown
 #1986.043,Artist Unknown
-#1986.044,Artist Unknown
-#1986.045,Artist Unknown
 #1986.046,Artist Unknown
 #1986.048,Artist Unknown
-#1986.049,Artist Unknown
-#1986.052,Artist Unknown
-#1986.053,Artist Unknown
-#1986.054,Artist Unknown
-#1986.055,Artist Unknown
-#1986.056,Artist Unknown
 #1986.058,Artist Unknown
 #1986.059,Artist Unknown
 #1986.060,Artist Unknown
 #1986.061,Artist Unknown
 #1986.062,Artist Unknown
-#1986.064,Artist Unknown
 #1986.065,Artist Unknown
-#1986.066,Artist Unknown
-#1986.073,"Zivkovic, Zdenka (born Czechoslovakia)"
-#1986.074,"Zivkovic, Zdenka (born Czechoslovakia)"
-#1986.075,"Zivkovic, Zdenka (born Czechoslovakia)"
-#1987.002,Koshin
 #1987.003,Tao Kuang (1821-1850)
 #1987.005,Artist Unknown
 #1987.008,"Pinelli, Bartolomeo (Italian sculptor, painter, and printmaker, 1781-1835)"
 #1987.009,"Pinelli, Bartolomeo (Italian sculptor, painter, and printmaker, 1781-1835)"
 #1987.010a,"Pinelli, Bartolomeo (Italian sculptor, painter, and printmaker, 1781-1835)"
 #1987.010b,"Pinelli, Bartolomeo (Italian sculptor, painter, and printmaker, 1781-1835)"
-#1987.011,"Lyles, Karen Leonard (1955-)"
 #1987.013,Artist Unknown
 #1987.014,"Marin, Joseph-Charles (French sculptor, 1759-1834)"
 #1987.015,Artist Unknown
@@ -1797,7 +1479,6 @@ inventory_number,string
 #1988.004,"Delaunay, Nicolas (French engraver, 1739-1792)"
 #1988.005,"DeLaunay, Nicolas (1739-1792)"
 #1988.007,"Moses, Thomas G. (American artist and scenographer, 1856-1934)"
-#1988.008,"Lafitte, Andrew"
 #1988.009,"Forbes, Charles Stuart (American painter, 1860-1926)"
 #1988.010,"Tavella, Carlo Antonio (Italian painter, 1668-1738)"
 #1988.011,"Noda, Tetsuya (Japanese photographer, printmaker, born 1940)"
@@ -1816,14 +1497,12 @@ inventory_number,string
 #1988.033g,Artist Unknown
 #1988.033h,Artist Unknown
 #1988.039,Artist Unknown
-#1988.042,"Scharf, Ralph H. (1923-1993, born Chicago, IL)"
 #1988.046,Artist Unknown
 #1988.058,Artist Unknown
 #1988.061,Artist Unknown
 #1988.064,Artist Unknown
 #1988.074,Artist Unknown
 #1988.075,"Gaul, Gilbert (American painter, 1855-1919)"
-#1988.076,"DeArcangelis, Gloria (1957-, born Munich, Germany)"
 #1988.078,"Hogarth, William (English painter and engraver, 1697-1764)"
 #1988.079,"Audubon, John James (American painter and naturalist, 1785-1851)"
 #1988.080,"Audubon, John James (American painter and naturalist, 1785-1851)"
@@ -1857,16 +1536,11 @@ inventory_number,string
 #1988.130,Artist Unknown
 #1988.131,Artist Unknown
 #1988.132,Artist Unknown
-#1988.133,Artist Unknown
 #1988.135,Artist Unknown
-#1988.136,Artist Unknown
-#1988.137,Artist Unknown
-#1988.138,Artist Unknown
 #1988.140,Artist Unknown
 #1988.143a,Artist Unknown
 #1988.143b,Artist Unknown
 #1988.188,Artist Unknown
-#1989.001,"Holly, Gerald (1917-2004, born Lewisburg, TN)"
 #1989.007,"Castellon, Federico (American painter, 1914-1971)"
 #1989.010,"Isabey, Eugène (French draftsman, 1803-1886)"
 #1989.013,"Jacque, Charles Émile (French painter, illustrator, and printmaker, 1813-1894)"
@@ -1881,23 +1555,17 @@ inventory_number,string
 #1989.024,"Duclos, Antoine-Jean (French engraver and etcher, 1742-1795)"
 #1989.025,"Sandby, Paul (English artist and architect, 1725-1809)"
 #1989.027,"Wise, W., after J. Ward, R. A."
-#1989.028,"Wachsmity, F.S."
 #1989.031,"Hooghe, Romeyn de (Dutch etcher, draftsman, and painter, baptized 1645, died 1708)"
-#1989.039,"Bregeon, Angélique (1743-1782)"
+#1989.032,"Bloemaert, Abraham and Saenredam, Jan"
 #1989.040,"Stuck, Franz von (German painter, sculptor, and draftsman, 1863-1928)"
-#1989.043,Keisui
 #1989.043,Keisui
 #1989.044,"Takahashi, Hiroaki (Shōtei)  (1871-1945)"
 #1989.045,"Takahashi, Hiroaki (Shōtei)  (1871-1945)"
 #1989.046,"Barber, Sam (1943-)"
 #1989.047,"Driskell, David Clyde (American painter, born 1931)"
 #1989.050,"Roth, Ernest David (American painter and etcher, 1879-1964)"
-#1990.001,"Jimenez, Luis"
 #1990.006,Artist Unknown
-#1990.007,"Raffetto, Giuseppe (ca. 1750, born Genoa, Italy)"
-#1990.008,"Raffetto, Giuseppe"
 #1990.009,"Gaul, Gilbert (American painter, 1855-1919)"
-#1990.010,"Sato, T."
 #1990.011,"Barrymore, Lionel (American actor and printmaker, 1878-1954)"
 #1990.012,"Barrymore, Lionel (American actor and printmaker, 1878-1954)"
 #1991.004,Artist Unknown
@@ -1906,64 +1574,14 @@ inventory_number,string
 #1991.009,Artist Unknown
 #1991.011,Artist Unknown
 #1991.012,Artist Unknown
-#1991.016,Artist Unknown
-#1991.017,Mackert
-#1991.019,"Garman, Michael (1938-)"
-#1991.020,"Wattana Wattanapun (Thai painter, born 1941)"
 #1991.025,"Mapplethorpe, Robert (American photographer, sculptor, and collagist, 1946-1989)"
 #1991.026,"Mapplethorpe, Robert (American photographer, sculptor, and collagist, 1946-1989)"
 #1991.027,Artist Unknown
-#1992.003,"Hayashi, Genzaburo (born Kyoto, Japan)"
 #1992.005,Artist Unknown
 #1992.010,Artist Unknown
-#1992.011,Meitō
-#1992.012,Seizan
-#1992.013,Yosho
-#1992.016,Suison
 #1992.019,Artist Unknown
-#1992.025,Artist Unknown
-#1992.026,Artist Unknown
-#1992.027,Artist Unknown
-#1992.028,Artist Unknown
-#1992.029,Artist Unknown
-#1992.030,Artist Unknown
-#1992.031,Artist Unknown
-#1992.032,Artist Unknown
-#1992.033,Artist Unknown
-#1992.034,Artist Unknown
-#1992.035,Artist Unknown
-#1992.036,Artist Unknown
-#1992.037,Artist Unknown
-#1992.038,Artist Unknown
-#1992.039,Artist Unknown
-#1992.040,Artist Unknown
-#1992.041,Artist Unknown
-#1992.042,Artist Unknown
-#1992.043,Artist Unknown
-#1992.044,Artist Unknown
-#1992.045,Artist Unknown
-#1992.046,Artist Unknown
-#1992.047,Artist Unknown
-#1992.048,Artist Unknown
-#1992.049,Artist Unknown
-#1992.050,Artist Unknown
-#1992.051,Artist Unknown
-#1992.052,Artist Unknown
-#1992.053,Artist Unknown
-#1992.054,Artist Unknown
-#1992.055,Artist Unknown
-#1992.056,Artist Unknown
-#1992.057,Artist Unknown
-#1992.058,Artist Unknown
-#1992.059,Artist Unknown
-#1992.060,Artist Unknown
+#1992.021,"Nakajima,Raisho   (1796-1871, born Otsu)"
 #1992.061,Artist Unknown
-#1992.062,Artist Unknown
-#1992.063,Artist Unknown
-#1992.064,Artist Unknown
-#1992.065,Artist Unknown
-#1992.066,Artist Unknown
-#1992.067,Artist Unknown
 #1992.068,Artist Unknown
 #1992.069,Artist Unknown
 #1992.070,Artist Unknown
@@ -2033,7 +1651,6 @@ inventory_number,string
 #1992.172,Artist Unknown
 #1992.173,Artist Unknown
 #1992.176,Artist Unknown
-#1992.177,Artist Unknown
 #1992.179,Artist Unknown
 #1992.180,Artist Unknown
 #1992.183,Artist Unknown
@@ -2050,8 +1667,6 @@ inventory_number,string
 #1992.224,Artist Unknown
 #1992.225,Artist Unknown
 #1992.226,Artist Unknown
-#1992.228,Artist Unknown
-#1992.229,Artist Unknown
 #1992.231,Artist Unknown
 #1992.232,Artist Unknown
 #1992.233,Artist Unknown
@@ -2061,8 +1676,6 @@ inventory_number,string
 #1992.237A-C,Artist Unknown
 #1992.238A-D,Artist Unknown
 #1992.239a-c,Artist Unknown
-#1992.241,Artist Unknown
-#1992.242,Artist Unknown
 #1992.243A-D,Artist Unknown
 #1992.244A-D,Artist Unknown
 #1992.245A-D,Artist Unknown
@@ -2080,10 +1693,6 @@ inventory_number,string
 #1992.270,Artist Unknown
 #1992.271,Artist Unknown
 #1992.274A-C,Artist Unknown
-#1992.276,"Taguchi, Hidekichi"
-#1992.281,"Taguchi, Hidekichi"
-#1992.292,"Taguchi, Hidekichi"
-#1992.293,"Taguchi, Hidekichi"
 #1992.297,Artist Unknown
 #1992.298,Artist Unknown
 #1992.302,Artist Unknown
@@ -2108,8 +1717,6 @@ inventory_number,string
 #1992.326,"Ikeda Eisen (Japanese printmaker and painter, 1790-1848)"
 #1992.329,"Ikeda Eisen (Japanese printmaker and painter, 1790-1848)"
 #1992.330A-S,Artist Unknown
-#1992.337a,"Rogers, William Gibbs (English woodcarver and architect, 1792-1875)"
-#1992.337b,"Rogers, William Gibbs (English woodcarver and architect, 1792-1875)"
 #1992.339,"Downing, Joe (American painter, born 1925)"
 #1992.340,"Downing, Joe (American painter, born 1925)"
 #1992.341,Artist Unknown
@@ -2134,7 +1741,6 @@ inventory_number,string
 #1992.388,Artist Unknown
 #1992.389,Artist Unknown
 #1992.390,Artist Unknown
-#1992.391A-F,"Hoseki, Sanji"
 #1992.401,"Andō Hiroshige (Japanese painter and printmaker, 1797-1858)"
 #1992.402,Artist Unknown
 #1992.406,Artist Unknown
@@ -2190,15 +1796,6 @@ inventory_number,string
 #1992.459,Artist Unknown
 #1992.460,Artist Unknown
 #1957.042,"Whistler, James McNeill (American painter and printmaker, 1834-1903, active in England and France)"
-#1957.046,"Zartarian, Miriam"
-#1964.005,"Pittman, A. Ross (1883-1969)"
-#1964.006,"Pittman, A. Ross (1883-1969)"
-#1964.009,"Pittman, A. Ross (1883-1969)"
-#1964.010,"Pittman, A. Ross (1883-1969)"
-#1964.011,"Pittman, A. Ross (1883-1969)"
-#1964.013,"Pittman, A. Ross (1883-1969)"
-#1964.016,"Pittman, A. Ross (1883-1969)"
-#1964.018,"Pittman, A. Ross (1883-1969)"
 #1965.001,"Bracquemond, Félix (French painter, etcher, and ceramicist, 1833-1914)"
 #1965.003,"Lichtenstein, Roy (American painter, sculptor, and printmaker, 1923-1997)"
 #1965.004,"Haden, Seymour (English surgeon, etcher, and collector, 1818-1910)"
@@ -2212,7 +1809,6 @@ inventory_number,string
 #1965.027,"Lalanne, Maxime (French painter, etcher, and draftsman, 1827-1886)"
 #1965.028,"Lalanne, Maxime (French painter, etcher, and draftsman, 1827-1886)"
 #1965.030,"Balfourier, Adolphe Paul Emile (French artist, 1816-1875)"
-#1965.031,"White, Joy Rice"
 #1965.032,"Moore, Henry (English sculptor, 1898-1986)"
 #1965.036,"Lucas, Horatio Joseph (English etcher, 1839-1873)"
 #1965.037,"Heseltine, John Postle (British printmaker, art administrator, and collector, 1843-1929)"
@@ -2222,11 +1818,8 @@ inventory_number,string
 #1966.002,"Barlach, Ernst (German sculptor, printmaker, and graphic artist, 1870-1938)"
 #1966.003,"Kollwitz, Käthe (German printmaker and sculptor, 1867-1945)"
 #1966.006,"Wiley, William T. (American painter, born 1937)"
-#1966.007,"Pittman, A. Ross (1883-1969)"
-#1966.008,"Pittman, A. Ross (1883-1969)"
 #1966.010,"Thomas, Howard (American painter, engraver, lithographer, and educator, 1899-1971)"
 #1966.011,"Thomas, Anne Wall (1928-2014, born Lilesville, NC, died Chapel Hill, North Carolina)"
-#1966.014,"Pittman, A. Ross (1883-1969)"
 #1967.001,Artist Unknown
 #1968.002,"Strauser, Sterling Boyd (American painter, 1907-1995)"
 #1968.003,"Shunsensai, Takehara  (1775-1825)"
@@ -2252,14 +1845,12 @@ inventory_number,string
 #1969.069,Artist Unknown
 #1969.070,Artist Unknown
 #1969.079,"Watanabe, Sadao (1913-1996)"
-#1970.008,"McKay, Donald"
 #1970.011,"Fink, Herbert L. (1921-2006)"
 #1970.012,"Fink, Herbert L. (1921-2006)"
 #1970.015,"Fink, Herbert L. (1921-2006)"
 #1970.016,"Gaudez-Chennevierre, Cecile Delphine (French artist, born 1851)"
 #1970.017,"Shunsensai, Takehara  (1775-1825)"
 #1970.020,"Curry, John Steuart (American painter, illustrator, and muralist, 1897-1946)"
-#1970.027,"Gualdoni, Daniel (1943-)"
 #1970.029,"Forain, Jean Louis (French painter, lithographer, and caricaturist, 1852-1931)"
 #1970.030,"Renoir, Pierre-Auguste (French painter, printmaker, and sculptor, 1841-1919)"
 #1970.031,"Denis, Maurice (French painter and author, 1870-1943)"
@@ -2267,7 +1858,6 @@ inventory_number,string
 #1970.033,"Dulac, Charles Marie (French painter and lithographer, 1865-1898)"
 #1970.036,"Chattock, Richard Samuel (1825-1906)"
 #1970.037,"Legros, Alphonse (French and British etcher, painter, and sculptor, 1837-1911)"
-#1970.042,"Varin, R."
 #1970.044,"Calder, Alexander (American sculptor, painter, and designer, 1898-1976)"
 #1970.048,"Aman-Jean, François (author, probably French, born 1894)"
 #1970.055,"Kikukawa Eizan (Japanese printmaker, 1787-1867)"
@@ -2285,23 +1875,17 @@ inventory_number,string
 #1971.002,"Compton, Edward Theodore (British painter, 1849-1921)"
 #1971.005,"Mallet, Jean Baptiste (French painter and printmaker, 1759-1835)"
 #1971.006,Artist Unknown
-#1971.011,"Nussbaum, Jacob (1873-1934)"
-#1971.012,"Nussbaum, Jacob (1873-1934)"
-#1971.013,"Nussbaum, Jacob (1873-1934)"
-#1971.020,"Bradley, Marvin"
 #1971.023,Artist Unknown
 #1971.026,"Morin, Jean (French engraver, ca. 1590-1650)"
 #1971.029,"Mariette, Pierre-Jean (French printmaker, 1694-1774)"
 #1971.030,Artist Unknown
 #1971.031,Artist Unknown
 #1971.032,Artist Unknown
+#1971.033,"Visscher, Jan"
 #1971.035,Artist Unknown
 #1971.041,"Le Bas, Jacques Philippe (French engraver and draftsman, 1707-1783)"
-#1971.043,"Pallot, S."
-#1971.046,"Weyen, Herman (1643-1672)"
 #1971.048,"Leblond, Abraham (British engraver, 1819-1894)"
 #1971.049,"Berchem, Nicolaes, the elder (Dutch painter, printmaker, and draftsman, 1620-1683)"
-#1971.050,"Landry, G."
 #1971.053,"Delafosse, Jean Baptiste (French printmaker, 1721-1775)"
 #1971.054,"Wagner, Joseph (German painter and printmaker, 1706-1780, active in Italy)"
 #1971.056,"Hertel, Johann Georg (German print publisher, active 1750-1760)"
@@ -2309,15 +1893,12 @@ inventory_number,string
 #1971.058,Artist Unknown
 #1971.059,"Drevet, Pierre (French engraver, 1663-1738)"
 #1971.060,"Aquila, Francesco Faraone (Italian printmaker and engraver, ca. 1676 - ca. 1740)"
-#1971.062,"Prou, Jacques"
 #1971.063,"Jacob, Louis (French engraver, 1712-1802)"
 #1971.070,"Strang, William (Scottish painter and printmaker, 1859-1921)"
-#1972.001,"Phillips, Gray (1923-2005, born Chattanooga, TN, died Pacific Palisades, CA)"
 #1972.005,Artist Unknown
 #1972.007,"Pennell, Joseph (American printmaker, illustrator, and author, ca. 1860-1926)"
 #1972.009,"Pennell, Joseph (American printmaker, illustrator, and author, ca. 1860-1926)"
 #1972.011,"Armin, Emil (American painter, graphic artist, and illustrator, 1883-1971)"
-#1972.012,"Wire, Melville Thomas (American painter and printmaker, 1887-1966)"
 #1972.019,"Andō Hiroshige (Japanese painter and printmaker, 1797-1858)"
 #1972.020,"Andō Hiroshige (Japanese painter and printmaker, 1797-1858)"
 #1972.021,"Andō Hiroshige (Japanese painter and printmaker, 1797-1858)"
@@ -2328,14 +1909,10 @@ inventory_number,string
 #1972.034,"Utagawa Kunisada (Japanese printmaker and illustrator, 1786-1864)"
 #1972.037,"Utagawa Toyokuni (Japanese painter and printmaker, 1769-1825)"
 #1972.044,"Toyokuni II (Japanese painter and printmaker, 1777-1835)"
-#1972.048,"Nobukazu, Watanabe (Attributed to)"
 #1972.052,"Chikanobu, Toyohara (Japanese printmaker and illustrator, 1838-1912)"
 #1972.053,"Chikanobu, Toyohara (Japanese printmaker and illustrator, 1838-1912)"
 #1972.055,Artist Unknown
 #1972.056,"Hoitsu, Sakai (1761-1829, born Edo, Japan (present day Tokyo))"
-#1972.057,Sesshu
-#1972.058,Sesshu
-#1972.059,Sesshu
 #1972.061,Artist Unknown
 #1972.066,"Venturini, Giovanni Francesco (Italian engraver and etcher, 1650-ca. 1710)"
 #1972.070,"Le Clerc, Sébastien, the elder (French draftsman and engraver, 1637-1714)"
@@ -2348,10 +1925,9 @@ inventory_number,string
 #1972.085,"Della Bella, Stefano (Italian engraver and draftsman, 1610-1664)"
 #1972.086,"Della Bella, Stefano (Italian engraver and draftsman, 1610-1664)"
 #1972.087,"Della Bella, Stefano (Italian engraver and draftsman, 1610-1664)"
-#1972.088,"Pérelle family (French artists, active 17th century)"
 #1972.089,"Drevet, Pierre (1663-1738) and de Iode, Arnoldus (1638-1667)"
+#1973.001,Attributed to Giuseppe Maria Mazza
 #1973.005,"Gaul, Gilbert (American painter, 1855-1919)"
-#1973.008,"Gyra, Francis Joseph, Jr. (1914-2007)"
 #1973.010,"Utagawa Kunisada (Japanese printmaker and illustrator, 1786-1864)"
 #1973.012,"Cave, Peter le (British painter, 1769-1801)"
 #1973.013,"Porta, Guglielmo della (Italian architect, sculptor, and restorer, born between 1500 and 1510, died 1577)"
@@ -2362,11 +1938,9 @@ inventory_number,string
 #1973.022,"Wolf, Henry (American engraver, 1852-1916)"
 #1973.025,"Clavé, Antoni (Spanish painter and sculptor, 1913-2005, active in France)"
 #1973.026,Baviera
-#1973.026,Baviera
 #1973.027,Artist Unknown
 #1973.028,Artist Unknown
 #1973.029,Artist Unknown
-#1973.031,"Lancaster, Paul"
 #1974.001,"David d'Angers, Pierre-Jean (French sculptor and teacher, 1788-1856)"
 #1974.002,"Courtois, Jacques (French painter and printmaker, 1621-1676, active in Italy)"
 #1974.004,"Reinhardt, Ad (American painter, collagist, and writer, 1913-1967)"
@@ -2375,14 +1949,10 @@ inventory_number,string
 #1974.009,"Cage, John (1912-1992) and Sumison, Calvin (1942-2014)"
 #1974.016,"Saito, Kiyoshi (Japanese painter and woodcutter, 1907-1997)"
 #1974.017,"Maki, Haku (1924-2000, born Asomachi, Ibaragi Province)"
-#1974.018,"Chamberlain, Mitchell"
-#1974.019,"Chamberlain, Mitchell"
-#1974.020,"Chamberlain, Mitchell"
 #1974.021,Artist Unknown
 #1974.022,Artist Unknown
 #1974.025,"Hogarth, William (English painter and engraver, 1697-1764)"
 #1974.031,"Thomas, Anne Wall (1928-2014, born Lilesville, NC, died Chapel Hill, NC)"
-#1974.032,"Whitney, William"
 #1975.001,"Nagler, Fred (American painter, 1891-1983)"
 #1975.002,"Bramer, Leonard (Dutch painter and printmaker, 1596-1674)"
 #1975.006,"Valadon, Suzanne (French painter, model, 1865-1938)"
@@ -2401,31 +1971,26 @@ inventory_number,string
 #1975.047,Artist Unknown
 #1975.048,"Janscha, Laurenz (Austrian painter, printmaker, and collector, 1749-1812)"
 #1975.051,Artist Unknown
-#1975.052,"LeQuire, Louise"
-#1975.053,"Gwinn, John"
 #1975.054,"Earlom, Richard (English printmaker, 1743-1822)"
 #1975.055,"Bayer, Herbert (German or Austrian designer and painter, 1900-1985, active in the United States)"
 #1975.060,"Rouault, Georges (French painter and printmaker, 1871-1958)"
 #1975.065,Artist Unknown
 #1976.001,"Bleker, Gerrit Claesz (Dutch painter, active by 1625, died 1656)"
+#1976.002,"Canova, Antonio (Italian sculptor, painter, draftsman, and architect, 1757-1822) attributed"
 #1976.004,"Yoshida, Toshi (Japanese printmaker, 1911-1995)"
 #1976.005,"Currier & Ives (American printing firm, 1834-1907)"
 #1976.006,"Currier & Ives (American printing firm, 1834-1907)"
 #1976.013,"Arms, John Taylor (American printmaker, 1887-1953)"
 #1976.014,"Salamanca, Antonio (Milanese engraver, ca. 1500-1562)"
 #1976.017,"Chapin, James Ormsbee (American painter, 1887-1975)"
-#1976.019,"MacLean, William (1897-1977)"
 #1976.020,"De Martelly, John Stockton (American printmaker, 1903-1979)"
 #1976.031,"Ehrlich, Georg (British sculptor, painter, and illustrator, 1897-1966)"
-#1976.036,"Schmidt-Felling, Hans (1854-1910)"
 #1977.004,"Gordy, Robert (American painter, 1933-1986)"
-#1977.008,"Thacker, Terry (1955-)"
 #1977.009,"Villabrille y Ron, Juan Alonso (Spanish sculptor, 1663-after 1728)"
 #1977.013,"Earlom, Richard (English printmaker, 1743-1822)"
 #1977.014,"Hokusai, Katsushika (Japanese printmaker and painter, 1760-1849)"
 #1978.001,Artist Unknown
 #1978.002,Artist Unknown
-#1978.003,Ikkoku-sai
 #1978.005,Artist Unknown
 #1978.006,Artist Unknown
 #1978.011,Artist Unknown
@@ -2439,7 +2004,6 @@ inventory_number,string
 #1978.023,Artist Unknown
 #1978.024,Artist Unknown
 #1978.025,Artist Unknown
-#1978.026,Artist Unknown
 #1978.030,Artist Unknown
 #1978.031,Artist Unknown
 #1978.034,"Bishop, Isabel (American painter and etcher, 1902-1988)"
@@ -2447,7 +2011,7 @@ inventory_number,string
 #1978.038,Artist Unknown
 #1978.039,Artist Unknown
 #1978.041,"Pearlstein, Philip (American painter and printmaker, born 1924)"
-#1978.044,"Soken (Japanese painter, 1759-1818)"
+#1978.058,"Suzuki, Rinsho"
 #1978.083egh,Artist Unknown
 #1978.090,Artist Unknown
 #1978.091,Artist Unknown
@@ -2470,11 +2034,7 @@ inventory_number,string
 #1979.0028,"Miller, Kenneth Hayes (American painter, printmaker, and sculptor, 1876-1952)"
 #1979.0048,"Tōyō Sesshū (Japanese painter and monk, 1420-1506)"
 #1979.0054,"Carsman, Jon (American painter, 1944-1987)"
-#1979.0067,Artist Unknown
-#1979.0068,Artist Unknown
-#1979.0069,Artist Unknown
 #1979.0071,Artist Unknown
-#1979.0072,Artist Unknown
 #1979.0074,"Rembrandt van Rijn (Dutch painter, draftsman, and printmaker, 1606-1669)"
 #1979.0076,"Breker, Arno (German sculptor, 1900-1991)"
 #1979.0078,"Breker, Arno (German sculptor, 1900-1991)"
@@ -2483,13 +2043,10 @@ inventory_number,string
 #1979.0082,"Breker, Arno (German sculptor, 1900-1991)"
 #1979.0084,"Breker, Arno (German sculptor, 1900-1991)"
 #1979.0085,Artist Unknown
+#1979.0086,"Kauffmann, Angelica (attributed to) (1741-1807)"
 #1979.0090,"Weston, Harold (1894-1972, born Merion, PA, died New York, NY)"
 #1979.0094,"Winters, Denny (1909-1985)"
 #1979.0098,"Haydon, Benjamin Robert (English painter, teacher, and author, 1786-1846)"
-#1979.0101,"Anguier, Michel (French sculptor, 1612-1686)"
-#1979.0102,Artist Unknown
-#1979.0103,Artist Unknown
-#1979.0104,Artist Unknown
 #1979.0105,Artist Unknown
 #1979.0113,Artist Unknown
 #1979.0114,Artist Unknown
@@ -2504,9 +2061,7 @@ inventory_number,string
 #1979.0126,"Bury, Thomas Talbot (1811-1877) and Pyall, H. (active ca. 1833)"
 #1979.0127,"Bury, Thomas Talbot (1811-1877) and Pyall, H. (active ca. 1833)"
 #1979.0128,"Moran, Edward (American painter, 1829-1901)"
-#1979.0129,"Hallmandel, C."
 #1979.0130,"Picken, Andrew (British lithographer, 1815-1845)"
-#1979.0131,"Bourne, Jean-Baptiste-Clement (1844-1866)"
 #1979.0132,Artist Unknown
 #1979.0134,"Cockburn, James Pattison (British painter, illustrator, and soldier, 1779-1847)"
 #1979.0137,Artist Unknown
@@ -2516,9 +2071,7 @@ inventory_number,string
 #1979.0142,"West, Levon (American etcher, printmaker, and photographer, 1900-1968)"
 #1979.0143,"West, Levon (American etcher, printmaker, and photographer, 1900-1968)"
 #1979.0144p,Artist Unknown
-#1979.0145,S.D.
 #1979.0146,Artist Unknown
-#1979.0147,"Sutherland, Thomas & Wolstenhome, Dean"
 #1979.0147,"Sutherland, Thomas & Wolstenhome, Dean"
 #1979.0148,"Levachez, Charles François Gabriel, I (French printmaker, active late 18th-early 19th centuries)"
 #1979.0149,"Levachez, Charles François Gabriel, I (French printmaker, active late 18th-early 19th centuries)"
@@ -2533,72 +2086,39 @@ inventory_number,string
 #1979.0158,"Levachez, Charles François Gabriel, I (French printmaker, active late 18th-early 19th centuries)"
 #1979.0160,Artist Unknown
 #1979.0161,"Bush, Charles Green (American draftsman, caricaturist, and woodcutter, 1842-1909)"
-#1979.0163,Ravagnant
-#1979.0164,Ravagnant
-#1979.0165,Ravagnant
-#1979.0167,Ravagnant
 #1979.0169,Artist Unknown
-#1979.0170,"Birchall, L. M."
 #1979.0171,"Salt, Henry (1780-1827)"
 #1979.0172,Artist Unknown
 #1979.0173,Artist Unknown
-#1979.0182P,"Carone, Matthew (1930-, born New Jersey)"
 #1979.0185P,"Tomlinson, Frank"
 #1979.0188P,"Avery, Milton (American painter, 1885 or 1893-1965)"
 #1979.0189P,"Ballin, Hugo (American painter and filmmaker, 1879-1956)"
 #1979.0190P,"Bechi, Luigi (Italian painter, 1830-1919)"
-#1979.0191P,"Beeldemaker, Johannes (Dutch painter, born 1630 or 1636, died after 1710)"
 #1979.0192P,"Berchem, Nicolaes, the elder (Dutch painter, printmaker, and draftsman, 1620-1683)"
 #1979.0194P,"Blanch, Arnold (American painter, 1896-1968)"
 #1979.0195P,"Both, Jan (Dutch painter, ca. 1618-1652)"
-#1979.0196P,Bouslough
 #1979.0197P,"Bracony, Armand Etienne (1825-1894)"
 #1979.0199P,"Butler, Mary (American painter, 1865-1946)"
-#1979.0200P,"Carey, Henry"
-#1979.0202P,"Carsen, Emil Soren (1848-1932)"
 #1979.0203P,"Chase, William Merritt (American painter and printmaker, 1849-1916)"
-#1979.0204P,"Collado, Lisa"
 #1979.0205P,"Cozzens, Frederick Schiller (American painter and illustrator, 1846-1928)"
 #1979.0206P,"Cozzens, Frederick Schiller (American painter and illustrator, 1846-1928)"
 #1979.0207P,"Cozzens, Frederick Schiller (American painter and illustrator, 1846-1928)"
 #1979.0210P,"Daderian, Dikran (French painter, born 1929)"
-#1979.0211P,"Darnaud, Maxime (1931-, born Lyon, France)"
-#1979.0212P,"Darnaud, Maxime (1931-, born Lyon, France)"
-#1979.0213P,"d'Harcourt, Childe de Rohan"
 #1979.0214P,"Dufour, Bernard (French painter, born 1922)"
 #1979.0215P,"Eilshemius, Louis Michel (American painter and illustrator, 1864-1941)"
 #1979.0216P,"Erlanger, Elizabeth N. (American painter, 1901-1975)"
-#1979.0218P,"Foster, Tom"
 #1979.0220P,"Fuller, Sue (American painter, printmaker, and sculptor, born 1914)"
 #1979.0222P,"Goetz, Henri Bernard (French painter, born 1909)"
-#1979.0225P,"Griffith, E.N."
-#1979.0227P,"Hart, W.C."
 #1979.0227P,"Hart, W.C."
 #1979.0230P,"Hulk, Hendrik (Dutch painter, 1842-1937)"
 #1979.0232P,"Johnson, David (American painter, 1827-1908)"
 #1979.0234P,"Koopman, Augustus (American painter, etcher, and teacher, 1869-1914)"
-#1979.0235P,"La Rouke, Hector"
-#1979.0240P,"Levy, Tibbie (1908-)"
-#1979.0243P,"Miguel, Adro"
-#1979.0244P,"Mittelman, Ann (1898-1996)"
-#1979.0245P,"Moore, Beveridge (1915-2004, born Richmond, VA)"
 #1979.0246P,"Moran, Leon (American painter, 1864-1941)"
 #1979.0247P,"Morland, George (English painter, 1763-1804)"
-#1979.0257P,"Bauer, Ann"
 #1979.0258P,"Redein, Alex S. (American painter, born 1912)"
 #1979.0259P,"Resnick, Milton (American painter, 1917-2004)"
-#1979.0260P,Ripolles
 #1979.0264P,"Rottenhammer, Hans, I (German painter, 1564-1625)"
-#1979.0265P,"Sanh, Phillipe (1908-)"
 #1979.0269P,"Takacs, Paul"
-#1979.0270P,"Thompson, Kenneth K."
-#1979.0273P,"Turmohlen, Karl"
-#1979.0274P,"Turner, Arthur"
-#1979.0275P,"Turner, Arthur"
-#1979.0276P,"Ubeda, Augustin (Spanish artist, born 1925)"
-#1979.0277P,"Ubeda, Augustin (Spanish artist, born 1925)"
-#1979.0278P,"Ulman, Elenor"
-#1979.0282P,"Young, August M. (1837-1913)"
 #1979.0284P,Artist Unknown
 #1979.0285P,Artist Unknown
 #1979.0286P,Artist Unknown
@@ -2633,63 +2153,34 @@ inventory_number,string
 #1979.0335P,"Bertini, Gianni (Italian painter, born 1922)"
 #1979.0336P,"Braque, Georges (French painter, sculptor, and draftsman, 1882-1963)"
 #1979.0337P,"Chagall, Marc (Belorussian painter and designer, 1887-1985, active in France)"
-#1979.0341P,"Connor, Colin"
-#1979.0343P,Docenud
 #1979.0348P,"Grosz, George (German painter and printmaker, 1893-1959)"
 #1979.0351P,"Hartung, Hans (French painter, printmaker, and photographer of German birth, 1904-1989)"
 #1979.0353P,"Kollwitz, Käthe (German printmaker and sculptor, 1867-1945)"
 #1979.0359P,"Maillol, Aristide (French sculptor, painter, and tapestry designer, 1861-1944)"
 #1979.0360P,"Maillol, Aristide (French sculptor, painter, and tapestry designer, 1861-1944)"
 #1979.0363P,"McKeeby, Byron (1936-)"
-#1979.0364P,"Peel, Michael (British painter, born 1951)"
 #1979.0365P,"Peterdi, Gabor F. (American painter and printmaker, 1915-2001)"
 #1979.0366P,"Picasso, Pablo (Spanish painter, sculptor, and printmaker, 1881-1973)"
 #1979.0368P,"Poliakoff, Serge (Russian painter, 1906-1969, active in France)"
 #1979.0371P,"Reopel, Joyce (1933-)"
-#1979.0374P,"Schreiber, Georges (b. 1887)"
 #1979.0377P,"Tamayo, Rufino (Mexican painter, printmaker, and sculptor, 1899-1991)"
 #1979.0378P,"Utrillo, Maurice (French painter, 1883-1955)"
 #1979.0379P,"Vasarely, Victor (French painter and printmaker, 1906 or 1908-1997)"
 #1979.0380P,"Villon, Jacques (French painter and printmaker, 1875-1963)"
-#1979.0382P,"Warner, Earl A. (1883-1918)"
-#1979.0383P,"Warner, Earl A. (1883-1918)"
-#1979.0384P,"Warner, Earl A. (1883-1918)"
 #1979.0388P,"Webb, Alonzo C. (1888-1975, born Nashville, TN)"
 #1979.0390P,"Webb, Alonzo C. (1888-1975, born Nashville, TN)"
-#1979.0391P,Artist Unknown
 #1979.0392P,Artist Unknown
-#1979.0393P,Artist Unknown
-#1979.0394P,Artist Unknown
-#1979.0395P,"Stang, George"
 #1979.0396P,Artist Unknown
 #1979.0399P,Artist Unknown
-#1979.0400P,Artist Unknown
-#1979.0401P,Artist Unknown
-#1979.0402P,Artist Unknown
-#1979.0403P,Artist Unknown
-#1979.0405P,Artist Unknown
 #1979.0413P,Artist Unknown
 #1979.0420P,Artist Unknown
 #1979.0421P,Artist Unknown
-#1979.0429P,Artist Unknown
-#1979.0430P,Artist Unknown
 #1979.0432P,Artist Unknown
 #1979.0435P,Artist Unknown
 #1979.0437P,Artist Unknown
 #1979.0438P,Artist Unknown
-#1979.0440P,Artist Unknown
-#1979.0441P,Artist Unknown
-#1979.0442P,Artist Unknown
-#1979.0444P,Artist Unknown
 #1979.0445P,"Takaezu, Toshiko (American ceramicist, 1922-2011)"
-#1979.0449P,Artist Unknown
-#1979.0450P,Artist Unknown
-#1979.0451P,"Boysen, William H."
-#1979.0453P,Artist Unknown
 #1979.0458P,Artist Unknown
-#1979.0459P,Artist Unknown
-#1979.0466P,Artist Unknown
-#1979.0467P,Artist Unknown
 #1979.0477P,Artist Unknown
 #1979.0478P,Artist Unknown
 #1979.0479P,Artist Unknown
@@ -2697,12 +2188,9 @@ inventory_number,string
 #1979.0482P,Artist Unknown
 #1979.0484P,Artist Unknown
 #1979.0485P,Artist Unknown
-#1979.0488P,Artist Unknown
 #1979.0489P,Artist Unknown
-#1979.0491P,Artist Unknown
-#1979.0493P,Artist Unknown
+#1979.0494P,
 #1979.0495P,Artist Unknown
-#1979.0496P,Artist Unknown
 #1979.0497P,Artist Unknown
 #1979.0501P,Artist Unknown
 #1979.0504P,Artist Unknown
@@ -2710,6 +2198,7 @@ inventory_number,string
 #1979.0508P,"Sugarman, George (American sculptor, 1912-1999)"
 #1979.0509P,Unknown Peabody Student
 #1979.0513P,Artist Unknown
+#1979.0520P,
 #1979.0530P,Artist Unknown
 #1979.0532P,Artist Unknown
 #1979.0539P,Artist Unknown
@@ -2717,40 +2206,12 @@ inventory_number,string
 #1979.0541P,Artist Unknown
 #1979.0542P,Artist Unknown
 #1979.0543P,Artist Unknown
-#1979.0546P,Artist Unknown
-#1979.0547P,Artist Unknown
-#1979.0548P,Artist Unknown
-#1979.0549P,Artist Unknown
-#1979.0550P,Artist Unknown
-#1979.0551P,Artist Unknown
-#1979.0552P,Artist Unknown
-#1979.0553,Artist Unknown
-#1979.0554P,Artist Unknown
-#1979.0555P,Artist Unknown
 #1979.0556P,Artist Unknown
-#1979.0557P,Artist Unknown
-#1979.0558P,Artist Unknown
-#1979.0560P,Artist Unknown
-#1979.0561P,Artist Unknown
-#1979.0562P,Artist Unknown
-#1979.0563P,Artist Unknown
-#1979.0564P,Artist Unknown
-#1979.0565P,Artist Unknown
 #1979.0566P,Artist Unknown
 #1979.0568P,Artist Unknown
-#1979.0569P,Artist Unknown
-#1979.0570P,Artist Unknown
-#1979.0571P,Artist Unknown
-#1979.0572P,Artist Unknown
-#1979.0573P,Artist Unknown
-#1979.0574P,Artist Unknown
-#1979.0575P,Artist Unknown
 #1979.0576P,Artist Unknown
 #1979.0577P,Artist Unknown
-#1979.0578P,Artist Unknown
-#1979.0579P,Artist Unknown
 #1979.0580P,Artist Unknown
-#1979.0581P,Artist Unknown
 #1979.0582P,Artist Unknown
 #1979.0583P,Artist Unknown
 #1979.0584P,Artist Unknown
@@ -2762,20 +2223,13 @@ inventory_number,string
 #1979.0591P,Artist Unknown
 #1979.0592P,Artist Unknown
 #1979.0593P,Artist Unknown
-#1979.0594P,Artist Unknown
-#1979.0595P,Artist Unknown
-#1979.0597P,Artist Unknown
 #1979.0598P,"Wildenhain, Frans Rudolf (German ceramicist and sculptor, 1905-1980)"
-#1979.0599P,"Key-Oberg, Rolf (American ceramicist, 1900-1959)"
 #1979.0602P,Artist Unknown
-#1979.0604P,Artist Unknown
-#1979.0605P,Artist Unknown
 #1979.0606P,Artist Unknown
 #1979.0608P,Artist Unknown
 #1979.0609P,Artist Unknown
 #1979.0610P,Artist Unknown
 #1979.0611P,Artist Unknown
-#1979.0612P,Artist Unknown
 #1979.0613P,Artist Unknown
 #1979.0614P,Artist Unknown
 #1979.0616P,Artist Unknown
@@ -2784,80 +2238,44 @@ inventory_number,string
 #1979.0619P,Artist Unknown
 #1979.0620p,Artist Unknown
 #1979.0621P,Artist Unknown
-#1979.0622P,Artist Unknown
 #1979.0623P,Artist Unknown
 #1979.0626P,"Blanch, Arnold (American painter, 1896-1968)"
-#1979.0627P,"Blum, Dorothea"
 #1979.0628P,"Cherkaoui, Ahmed (Moroccan painter, 1934-1967)"
 #1979.0631P,"Gross, Chaim (American sculptor, painter, and printmaker, 1904-1991)"
-#1979.0637P,"Orr, Arthur Anselm (English glass painter and draftsman, 1868-1949)"
 #1979.0638P,"Papart, Max (French painter, printmaker, and draftsman, born 1911)"
-#1979.0639P,"Paris, Dorothy"
-#1979.0642P,"Wilson, Thomas Zvi (1931-)"
 #1979.0643P,Artist Unknown
-#1979.0645P,"Axelrod, H."
-#1979.0663P,Artist Unknown
-#1979.0665P,"McPharlin, Vincent (1910-1985, born Hastings, MI)"
-#1979.0673P,"Littleton, Harvey K. (American sculptor, born 1922)"
 #1979.0674P,Artist Unknown
-#1979.0675P,Artist Unknown
 #1979.0684P,"Ben-Zion (American painter, 1897-1987)"
-#1979.0689P,"Boichard, S."
 #1979.0690P,"Braque, Georges (French painter, sculptor, and draftsman, 1882-1963)"
 #1979.0691P,"Burn, Bruce"
-#1979.0693P,"Clayton, Charles"
 #1979.0704P,"Rosalyn Drexler (American , 1926 CE-)"
-#1979.0708P,"Gerardia, Helen (Russian-American painter, born 1913)"
-#1979.0710P,"Gerardia, Helen (Russian-American painter, born 1913)"
 #1979.0713P,"Goetz, Henri Bernard (French painter, born 1909)"
 #1979.0720P,"Icart, Louis (French painter, 20th century)"
 #1979.0722P,"Icart, Louis (French painter, 20th century)"
 #1979.0730P,"Lanskoy, André (French tapestry designer, mosaicist, painter, 1902-1976)"
 #1979.0731P,"Lansner, Fay G. (American painter and tapestry designer, born 1921)"
-#1979.0732P,"Janus, Jan"
 #1979.0733P,"Lapoujade, Robert (French painter, 1921-1993)"
 #1979.0735P,"Lapoujade, Robert (French painter, 1921-1993)"
 #1979.0736P,"Lapoujade, Robert (French painter, 1921-1993)"
-#1979.0742P,"Lurnson, Mon"
 #1979.0745P,Artist Unknown
-#1979.0747P,"Merrick, James Kirk  (1905-1985)"
 #1979.0750P,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
 #1979.0751P,"Morley, Malcolm (English painter, born 1931)"
 #1979.0752P,"Morin, Louis (French painter, illustrator, and writer, 1855-1938)"
 #1979.0753P,"Music, Zoran (Slovene painter, printmaker, 1909-2005)"
 #1979.0754P,"Music, Zoran (Slovene painter, printmaker, 1909-2005)"
-#1979.0758P,"Phillips, W.T."
-#1979.0759P,"Phillips, W.T."
 #1979.0761P,"Piper, John (English painter, illustrator, 1903-1992)"
-#1979.0765P,"Putnam, H."
-#1979.0766P,"Ritteng, George"
-#1979.0768P,"Rogers, Louise De Gignilliet (born Macon, GA)"
-#1979.0770P,"Rothy, Carl"
 #1979.0776P,"Summers, Carol (American printmaker, born 1925)"
 #1979.0779P,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
 #1979.0780P,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
 #1979.0781P,"Zoellner, Richard Charles (American artist, 1908-2003)"
-#1979.0786P,Frankenstein
-#1979.0787P,Frankenstein
-#1979.0788P,Frankenstein
-#1979.0789P,Frankenstein
-#1979.0790P,Frankenstein
-#1979.0791P,Frankenstein
-#1979.0792P,Frankenstein
-#1979.0793P,Frankenstein
-#1979.0794P,Frankenstein
-#1979.0795P,Frankenstein
 #1979.0796P,Artist Unknown
-#1979.0797P,"Bush, Claire (1933-, born Pocono Lake, PA)"
 #1979.0805P,Artist Unknown
 #1979.0806P,"Dunn, Harvey T. (American illustrator, 1884-1952)"
 #1979.0814P,Artist Unknown
 #1979.0816P,Gericault (after)
 #1979.0817P,Artist Unknown
-#1979.0820P,"Picaut, Bernard"
 #1979.0821P,"Piranesi, Giovanni Battista (Italian draftsman, architect, and etcher, 1720-1778)"
 #1979.0822P,"Giulio Romano (Italian painter and architect, probably 1499-1546)"
-#1979.0835P,"Mabuchi, Toru (1920-1994, born Tokyo, Japan)"
 #1979.0839P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0848.1P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0861P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
@@ -2868,7 +2286,6 @@ inventory_number,string
 #1979.0866P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0867P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0879P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0882P,Artist Unknown
 #1979.0884P,"Dujardin, Karel (Dutch painter and printmaker, 1626-1678)"
 #1979.0885P,"Dehn, Adolf (American painter and printmaker, 1895-1968)"
 #1979.0886P,"Dehn, Adolf (American painter and printmaker, 1895-1968)"
@@ -2880,7 +2297,6 @@ inventory_number,string
 #1979.0892P,Artist Unknown
 #1979.0893P,Artist Unknown
 #1979.0894P,Artist Unknown
-#1979.0895P,"Kings, John"
 #1979.0902P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0903P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0904P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
@@ -2898,7 +2314,6 @@ inventory_number,string
 #1956.014,"Delaune, Etienne (French goldsmith, medalist, and draftsman, ca. 1519-1583)"
 #1956.015,"Delaune, Etienne (French goldsmith, medalist, and draftsman, ca. 1519-1583)"
 #1956.016,"Le Prince, Jean-Baptiste (French painter and draftsman, 1734-1781)"
-#1956.017,"Sueur, Nicolas Le and Comte de Caylus"
 #1956.017,"Sueur, Nicolas Le and Comte de Caylus"
 #1956.028,"Baldung, Hans (German painter, born 1484 or 1485, died 1545)"
 #1956.034,"Dürer, Albrecht (German printmaker and painter, 1471-1528)"
