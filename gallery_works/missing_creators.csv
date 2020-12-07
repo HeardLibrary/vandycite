@@ -24,6 +24,7 @@ inventory_number,string
 #1999.259,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
 #2000.106,Artist Unknown
 #2000.107,Artist Unknown
+"#2001.160a,b",Artist Unknown
 #2002.004,"Polke, Sigmar (German painter, 1941-2010)"
 #2002.015,"Stillman, Ary (American painter, 1891-1967)"
 #2002.041.001,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
@@ -188,6 +189,9 @@ inventory_number,string
 #2010.011,"Taylor, Fred (English painter, illustrator, and poster artist, 1875-1963)"
 #2011.007,"Gibson, Ralph (American photographer, born 1939)"
 #2011.008,"Gibson, Ralph (American photographer, born 1939)"
+#2012.008k,"Gilbert, Helen (1938-2001)"
+#2012.008m,"Gross, James (American painter, active 20th century)"
+#2012.008n,"Heald, Paul (American painter, born 1936)"
 #2013.017,"Klimowski, Andrzej (Polish printmaker, born 1949)"
 #2013.018,"Klimowski, Andrzej (Polish printmaker, born 1949)"
 #2014.017,"Ferrato, Donna (American photographer, born 1949)"
@@ -203,7 +207,10 @@ inventory_number,string
 #2015.033,"Ferrato, Donna (American photographer, born 1949)"
 #2015.034,"Kostabi, Mark (American painter and sculptor, born 1960)"
 #2015.035,"Kostabi, Mark (American painter and sculptor, born 1960)"
+#2015.037n,"Gross, James (American painter, active 20th century)"
 #2015.037r,"Juszcyk, James (1943-, born Chicago, IL)"
+#2015.038l,"Gross, James (American painter, active 20th century)"
+#2015.038qq,"Voisine, Don (1959-, born Buffalo, NY)"
 #2015.056,"Tenneson, Joyce (American photographer and author, born 1945)"
 #2015.060,"Tenneson, Joyce (American photographer and author, born 1945)"
 #2015.069,"Tenneson, Joyce (American photographer and author, born 1945)"
@@ -262,6 +269,7 @@ inventory_number,string
 #1992.483,Artist Unknown
 #1992.494,Artist Unknown
 #1992.547,Artist Unknown
+#1993.001,"DeCredico, Alfred (American artist, 20th-21st century )"
 #1993.011,"Bosse, Abraham (French printmaker, 1602-1676)"
 #1993.012,"Bosse, Abraham (1602/04-1676)"
 #1993.030,Artist Unknown
@@ -427,6 +435,8 @@ inventory_number,string
 #1996.024,Departament de Cultura de la Generalitat de Catalunya
 #1996.027a,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
 #1996.027b,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
+#1996.035,"Caillois, Roger"
+#1996.037,"Leymarie, Jean"
 #1996.042,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
 #1996.043,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
 #1996.044,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
@@ -478,10 +488,30 @@ inventory_number,string
 #1996.116,"Morehouse, William P. (American painter, born 1929)"
 #1996.117,"Morehouse, William P. (American painter, born 1929)"
 #1996.120,"Morehouse, William P. (American painter, born 1929)"
+#1996.136,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.137,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.138,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.139,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.140,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.141,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.142,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.143,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.144,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.145,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.146,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.147,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.148,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.149,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.150,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.151,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.152,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.153,"Thompson, Donald (1933-, born Fowler, CA)"
+#1996.154,"Thompson, Donald (1933-, born Fowler, CA)"
 #1996.164,"Walsh, David (1927-1981, born India)"
 #1996.165,"Walsh, David (1927-1981, born India)"
 #1996.166,"Walsh, David (1927-1981, born India)"
 #1996.167,"Walsh, David (1927-1981, born India)"
+#1996.172,"Kai, Liang"
 #1996.193a,Artist Unknown
 #1996.193b,Artist Unknown
 #1996.193c,Artist Unknown
@@ -546,6 +576,8 @@ inventory_number,string
 #1997.134,"Úrculo, Eduardo (1938-2003, born Santurce, Spain)"
 #1997.136,"Valles, Roman (Spanish artist, born 1923)"
 #1997.137,"Valles, Roman (Spanish artist, born 1923)"
+#1998.058,Artist Unknown
+#1999.006,"Thompson, Donald (1936-)"
 #1999.008,"Bechtold, Erwin (1925-, born Cologne, Germany)"
 #1999.009,"Bechtold, Erwin (1925-, born Cologne, Germany)"
 #1999.010,"Bechtold, Erwin (1925-, born Cologne, Germany)"
@@ -587,6 +619,12 @@ inventory_number,string
 #1999.091,"Marca-Relli, Conrad (American painter, 1913-2000)"
 #1999.092,"Martinez, Juan (Spanish painter, born 1942)"
 #1999.096,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
+#1999.107,"Mitchell, Jane (1912-1998)"
+#1999.108,"Mitchell, Jane (1912-1988)"
+#1999.109,"Mitchell, Jane (1912-1988)"
+#1999.110,"Mitchell, Jane"
+#1999.111,"Mitchell, Jane"
+#1999.112,"Mitchell, Jane"
 #1999.134,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
 #1999.135,"Kunkel, Don (1933-, born New Jersey)"
 #1999.174a,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
@@ -601,6 +639,7 @@ inventory_number,string
 #1999.174j,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
 #1999.174k,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
 #1999.174l,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
+#1999.235,Artist Unknown
 #1999.255,Artist Unknown
 #1979.0961P,Artist Unknown
 #1979.0962p,Artist Unknown
@@ -655,6 +694,7 @@ inventory_number,string
 #1979.1195P,Artist Unknown
 #1979.1196P,Artist Unknown
 #1980.008,Artist Unknown
+#1980.016,"Granville, J. J. (French illustrator and caricaturist, 1803-1847)"
 #1980.027,"Meng, Wang (after)"
 #1980.028,"Xie, Zheng (after)"
 #1980.041,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
@@ -678,6 +718,7 @@ inventory_number,string
 #1980.107,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
 #1980.108,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
 #1980.109,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
+#1981.002,"Allen, Thomas B."
 #1981.008,Artist Unknown
 #1981.015,"Marca-Relli, Conrad (American painter, 1913-2000)"
 #1981.016,"Marca-Relli, Conrad (American painter, 1913-2000)"
@@ -699,8 +740,13 @@ inventory_number,string
 #1982.053,"Kunkel, Don (1933-, born New Jersey)"
 #1982.054,"Marca-Relli, Conrad (American painter, 1913-2000)"
 #1982.055,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
+#1982.061,"Gerardia, Helen (Russian-American painter, born 1913)"
+#1982.062,"Gerardia, Helen (Russian-American painter, born 1913)"
+#1982.063,"Gerardia, Helen (Russian-American painter, born 1913)"
+#1982.064,"Gerardia, Helen (Russian-American painter, born 1913)"
 #1982.090,"Harrison, Helen Mayer and Harrison, Newton"
 #1984.029,"Daubigny, Charles François (French landscapist, 1817-1878)"
+#1985.044,Artist Unknown
 #1985.066,Artist Unknown
 #1985.096,Artist Unknown
 #1985.097,Artist Unknown
@@ -765,6 +811,7 @@ inventory_number,string
 #1992.383,Artist Unknown
 #1957.040,"Turner, Joseph Mallord William (English painter and draftsman, 1775-1851)"
 #1965.034,"Romney, George (English painter, 1734-1802)"
+#1967.003,"Pigouchet, Philippe (French publisher and printer, active 1488-1518)"
 #1968.009,Artist Unknown
 #1968.010,Artist Unknown
 #1969.003,Artist Unknown
@@ -779,8 +826,10 @@ inventory_number,string
 #1969.056,Artist Unknown
 #1969.058,Artist Unknown
 #1969.068,Artist Unknown
+#1969.077,"Grosz, Georg (German draftsman, active ca. 1727)"
 #1970.032,"Kollwitz, Käthe (German printmaker and sculptor, 1867-1945)"
 #1971.004,"Greuze, Jean-Baptiste (French painter and draftsman, 1725-1805)"
+#1971.020,"Bradley, Marvin"
 #1971.033,"Visscher, Jan"
 #1972.049,Artist Unknown
 #1972.050,Artist Unknown
@@ -794,7 +843,6 @@ inventory_number,string
 #1975.032,Artist Unknown
 #1975.033,Artist Unknown
 #1976.002,"Canova, Antonio (Italian sculptor, painter, draftsman, and architect, 1757-1822) attributed"
-#1976.009,Artist Unknown
 #1976.009,Artist Unknown
 #1978.005,Artist Unknown
 #1978.006,Artist Unknown
@@ -816,6 +864,7 @@ inventory_number,string
 #1979.0086,"Kauffmann, Angelica (attributed to) (1741-1807)"
 #1979.0147,"Sutherland, Thomas & Wolstenhome, Dean"
 #1979.0203P,"Chase, William Merritt (American painter and printmaker, 1849-1916)"
+#1979.0221P,"Gerardia, Helen (Russian-American painter, born 1913)"
 #1979.0227P,"Hart, W.C."
 #1979.0247P,"Morland, George (English painter, 1763-1804)"
 #1979.0252P,"Poliakoff, Serge (Russian painter, 1906-1969, active in France)"
@@ -824,6 +873,7 @@ inventory_number,string
 #1979.0338P,"Cheesman, Thomas (English engraver and miniaturist, 1760-after 1834)"
 #1979.0339P,"Cheesman, Thomas (English engraver and miniaturist, 1760-after 1834)"
 #1979.0353P,"Kollwitz, Käthe (German printmaker and sculptor, 1867-1945)"
+#1979.0374P,"Schreiber, Georges (b. 1887)"
 #1979.0397P,Artist Unknown
 #1979.0410P,Artist Unknown
 #1979.0420P,Artist Unknown
@@ -850,8 +900,22 @@ inventory_number,string
 #1979.0614P,Artist Unknown
 #1979.0617P,Artist Unknown
 #1979.0619P,Artist Unknown
+#1979.0708P,"Gerardia, Helen (Russian-American painter, born 1913)"
+#1979.0709P,"Gerardia, Helen (Russian-American painter, born 1913)"
+#1979.0710P,"Gerardia, Helen (Russian-American painter, born 1913)"
 #1979.0779P,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
 #1979.0780P,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
+#1979.0786P,Frankenstein
+#1979.0787P,Frankenstein
+#1979.0788P,Frankenstein
+#1979.0789P,Frankenstein
+#1979.0790P,Frankenstein
+#1979.0791P,Frankenstein
+#1979.0792P,Frankenstein
+#1979.0793P,Frankenstein
+#1979.0794P,Frankenstein
+#1979.0795P,Frankenstein
+#1979.0819P,"Hughes, Myra H."
 #1979.0842P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0843P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
 #1979.0845P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
