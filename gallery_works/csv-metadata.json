@@ -562,7 +562,7 @@
                         {
                             "titles": "height_val",
                             "name": "height_val",
-                            "datatype": "dateTime",
+                            "datatype": "decimal",
                             "aboutUrl": "http://example.com/.well-known/genid/{height_nodeId}",
                             "propertyUrl": "http://wikiba.se/ontology#quantityAmount"
                         },
@@ -639,7 +639,7 @@
                         {
                             "titles": "width_val",
                             "name": "width_val",
-                            "datatype": "dateTime",
+                            "datatype": "decimal",
                             "aboutUrl": "http://example.com/.well-known/genid/{width_nodeId}",
                             "propertyUrl": "http://wikiba.se/ontology#quantityAmount"
                         },
@@ -716,7 +716,7 @@
                         {
                             "titles": "thickness_val",
                             "name": "thickness_val",
-                            "datatype": "dateTime",
+                            "datatype": "decimal",
                             "aboutUrl": "http://example.com/.well-known/genid/{thickness_nodeId}",
                             "propertyUrl": "http://wikiba.se/ontology#quantityAmount"
                         },
@@ -793,7 +793,7 @@
                         {
                             "titles": "diameter_val",
                             "name": "diameter_val",
-                            "datatype": "dateTime",
+                            "datatype": "decimal",
                             "aboutUrl": "http://example.com/.well-known/genid/{diameter_nodeId}",
                             "propertyUrl": "http://wikiba.se/ontology#quantityAmount"
                         },
