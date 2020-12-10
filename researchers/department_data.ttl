@@ -1,0 +1,310 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix hint: <http://www.bigdata.com/queryHints#> .
+@prefix bd: <http://www.bigdata.com/rdf#> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix mwapi: <https://www.mediawiki.org/ontology#API/> .
+@prefix gas: <http://www.bigdata.com/rdf/gas#> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix wds: <http://www.wikidata.org/entity/statement/> .
+@prefix wdv: <http://www.wikidata.org/value/> .
+@prefix wdref: <http://www.wikidata.org/reference/> .
+@prefix schema: <http://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix geof: <http://www.opengis.net/def/geosparql/function/> .
+@prefix mediawiki: <https://www.mediawiki.org/ontology#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+wd:Q7914461 wdt:P749 wd:Q29052 ;
+	rdfs:label "Vanderbilt University School of Nursing"@en .
+
+wd:Q7914452 wdt:P749 wd:Q29052 ;
+	rdfs:label "Vanderbilt University Divinity School"@en .
+
+wd:Q4924165 wdt:P749 wd:Q29052 ;
+	rdfs:label "Blair School of Music"@en .
+
+wd:Q7914456 wdt:P749 wd:Q29052 ;
+	rdfs:label "Vanderbilt University Law School"@en .
+
+wd:Q7914453 wdt:P749 wd:Q29052 ;
+	rdfs:label "Vanderbilt University Graduate School"@en .
+
+wd:Q16849893 wdt:P749 wd:Q29052 ;
+	rdfs:label "Jean and Alexander Heard Libraries"@en .
+
+wd:Q14710143 wdt:P749 wd:Q29052 ;
+	rdfs:label "Owen Graduate School of Management"@en .
+
+wd:Q16847767 wdt:P749 wd:Q29052 ;
+	rdfs:label "Institute for Space and Defense Electronics"@en .
+
+wd:Q45135243 wdt:P749 wd:Q29052 ;
+	rdfs:label "Center for Medicine, Health and Society, Vanderbilt University"@en .
+
+wd:Q55453544 wdt:P749 wd:Q29052 ;
+	rdfs:label "Robert Penn Warren Center for the Humanities, Vanderbilt University"@en .
+
+wd:Q7157226 wdt:P749 wd:Q29052 ;
+	rdfs:label "Peabody College"@en .
+
+wd:Q83550321 wdt:P749 wd:Q7157226 ;
+	rdfs:label "Vanderbilt Peabody Department of Teaching and Learning"@en .
+
+wd:Q83549841 wdt:P749 wd:Q7157226 ;
+	rdfs:label "Vanderbilt Peabody Department of Human and Organizational Development"@en .
+
+wd:Q7914451 wdt:P749 wd:Q29052 ;
+	rdfs:label "Vanderbilt University College of Arts and Science"@en .
+
+wd:Q78041310 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Biological Sciences"@en .
+
+wd:Q83550317 wdt:P749 wd:Q7157226 ;
+	rdfs:label "Vanderbilt Peabody Department of Special Education"@en .
+
+wd:Q79117767 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Cinema and Media Arts"@en .
+
+wd:Q79117795 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Communication Studies"@en .
+
+wd:Q79117810 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Economics"@en .
+
+wd:Q83550305 wdt:P749 wd:Q7157226 ;
+	rdfs:label "Vanderbilt Peabody Department of Leadership, Policy, and Organizations"@en .
+
+wd:Q79117746 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Anthropology"@en .
+
+wd:Q79117861 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Jewish Studies at Vanderbilt"@en .
+
+wd:Q79117759 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Asian Studies Program"@en .
+
+wd:Q79117907 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Psychology"@en .
+
+wd:Q45132727 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Chemistry"@en .
+
+wd:Q79117777 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Classical and Mediterranean Studies"@en .
+
+wd:Q79117847 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of History"@en .
+
+wd:Q83550311 wdt:P749 wd:Q7157226 ;
+	rdfs:label "Vanderbilt Peabody Department of Psychology and Human Development"@en .
+
+wd:Q79117444 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of African American and Diaspora Studies"@en .
+
+wd:Q79117803 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Earth and Environmental Sciences"@en .
+
+wd:Q79117832 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of French and Italian"@en .
+
+wd:Q79117855 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of History of Art"@en .
+
+wd:Q79117899 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Political Science"@en .
+
+wd:Q79117923 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Religious Studies"@en .
+
+wd:Q79117884 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Interdisciplinary Program in Neuroscience for Undergraduates at Vanderbilt"@en .
+
+wd:Q79117817 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of English"@en .
+
+wd:Q79117869 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Latino and Latina Studies"@en .
+
+wd:Q79117938 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Spanish and Portuguese"@en .
+
+wd:Q79117944 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Theatre"@en .
+
+wd:Q79117827 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Max Kade Center for European Studies"@en .
+
+wd:Q79117839 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of German, Russian and East European Studies"@en .
+
+wd:Q79117878 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Mathematics"@en .
+
+wd:Q79117753 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Art"@en .
+
+wd:Q79117891 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Philosophy"@en .
+
+wd:Q79117930 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Sociology"@en .
+
+wd:Q7914459 wdt:P749 wd:Q29052 ;
+	rdfs:label "Vanderbilt University School of Engineering"@en .
+
+wd:Q84270595 wdt:P749 wd:Q7914459 ;
+	rdfs:label "Vanderbilt Department of Division of General Engineering"@en .
+
+wd:Q78779260 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Physics and Astronomy"@en .
+
+wd:Q79117740 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Program in American Studies"@en .
+
+wd:Q79117786 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Communication of Science and Technology Program"@en .
+
+wd:Q79117914 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Public Policy Studies at Vanderbilt"@en .
+
+wd:Q79117951 wdt:P749 wd:Q7914451 ;
+	rdfs:label "Vanderbilt Department of Women's and Gender Studies"@en .
+
+wd:Q84268104 wdt:P749 wd:Q7914459 ;
+	rdfs:label "Vanderbilt Department of Biomedical Engineering"@en .
+
+wd:Q84270590 wdt:P749 wd:Q7914459 ;
+	rdfs:label "Vanderbilt Department of Mechanical Engineering"@en .
+
+wd:Q7914466 wdt:P749 wd:Q29052 ;
+	rdfs:label "Vanderbilt University School of Medicine"@en .
+
+wd:Q89951871 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Anesthesiology"@en .
+
+wd:Q89953896 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Biochemistry"@en .
+
+wd:Q89953900 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Biomedical Informatics"@en .
+
+wd:Q89953905 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Biostatistics"@en .
+
+wd:Q89953909 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Cardiac Surgery"@en .
+
+wd:Q89953915 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Dermatology"@en .
+
+wd:Q89953912 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Cell and Developmental Biology"@en .
+
+wd:Q89953919 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Emergency Medicine"@en .
+
+wd:Q89953922 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Health Policy"@en .
+
+wd:Q89953926 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Hearing and Speech Sciences"@en .
+
+wd:Q89953931 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Medicine"@en .
+
+wd:Q89953935 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Molecular Physiology and Biophysics"@en .
+
+wd:Q89953940 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Neurological Surgery"@en .
+
+wd:Q89953944 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Neurology"@en .
+
+wd:Q89953947 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Obstetrics and Gynecology"@en .
+
+wd:Q89953951 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Oral and Maxillofacial Surgery"@en .
+
+wd:Q89953948 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Ophthalmology and Visual Sciences"@en .
+
+wd:Q89953955 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Orthopaedic Surgery"@en .
+
+wd:Q89953958 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Otolaryngology"@en .
+
+wd:Q89953964 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Pathology, Microbiology and Immunology"@en .
+
+wd:Q89953971 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Pediatric Surgery"@en .
+
+wd:Q89953976 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Pediatrics"@en .
+
+wd:Q89953981 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Pharmacology"@en .
+
+wd:Q89953984 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Physical Medicine and Rehabilitation"@en .
+
+wd:Q89953990 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Plastic Surgery"@en .
+
+wd:Q89953993 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Psychiatry and Behavioral Sciences"@en .
+
+wd:Q89953999 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Radiation Oncology"@en .
+
+wd:Q89954005 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Radiology"@en .
+
+wd:Q89954010 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Surgery"@en .
+
+wd:Q89954015 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Thoracic Surgery"@en .
+
+wd:Q89954019 wdt:P749 wd:Q7914466 ;
+	rdfs:label "Vanderbilt Department of Urology"@en .
+
+wd:Q84269864 wdt:P749 wd:Q7914459 ;
+	rdfs:label "Vanderbilt Department of Chemical and Biomolecular Engineering"@en .
+
+wd:Q84270721 wdt:P749 wd:Q7914459 ;
+	rdfs:label "Vanderbilt Interdisciplinary Materials Science Program"@en .
+
+wd:Q84270575 wdt:P749 wd:Q7914459 ;
+	rdfs:label "Vanderbilt Department of Civil and Environmental Engineering"@en .
+
+wd:Q84270584 wdt:P749 wd:Q7914459 ;
+	rdfs:label "Vanderbilt Department of Electrical Engineering and Computer Science"@en .
