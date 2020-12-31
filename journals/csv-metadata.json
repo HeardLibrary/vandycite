@@ -29,20 +29,20 @@
             "lang": "zh"
           },
           {
-            "titles": "label_zh-hans",
-            "name": "label_zh-hans",
+            "titles": "label_zh_hans",
+            "name": "label_zh_hans",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "rdfs:label",
-            "lang": "zh-hans"
+            "lang": "zh_hans"
           },
           {
-            "titles": "label_zh-hant",
-            "name": "label_zh-hant",
+            "titles": "label_zh_hant",
+            "name": "label_zh_hant",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "rdfs:label",
-            "lang": "zh-hant"
+            "lang": "zh_hant"
           },
           {
             "titles": "label_de",
@@ -77,20 +77,20 @@
             "lang": "zh"
           },
           {
-            "titles": "description_zh-hans",
-            "name": "description_zh-hans",
+            "titles": "description_zh_hans",
+            "name": "description_zh_hans",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "schema:description",
-            "lang": "zh-hans"
+            "lang": "zh_hans"
           },
           {
-            "titles": "description_zh-hant",
-            "name": "description_zh-hant",
+            "titles": "description_zh_hant",
+            "name": "description_zh_hant",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "schema:description",
-            "lang": "zh-hant"
+            "lang": "zh_hant"
           },
           {
             "titles": "description_de",
