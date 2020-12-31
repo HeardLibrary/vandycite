@@ -34,7 +34,7 @@
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "rdfs:label",
-            "lang": "zh_hans"
+            "lang": "zh-hans"
           },
           {
             "titles": "label_zh_hant",
@@ -42,7 +42,7 @@
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "rdfs:label",
-            "lang": "zh_hant"
+            "lang": "zh-hant"
           },
           {
             "titles": "label_de",
@@ -82,7 +82,7 @@
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "schema:description",
-            "lang": "zh_hans"
+            "lang": "zh-hans"
           },
           {
             "titles": "description_zh_hant",
@@ -90,7 +90,7 @@
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
             "propertyUrl": "schema:description",
-            "lang": "zh_hant"
+            "lang": "zh-hant"
           },
           {
             "titles": "description_de",
