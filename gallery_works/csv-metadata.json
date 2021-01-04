@@ -572,7 +572,7 @@
             "datatype": "string",
             "aboutUrl": "http://example.com/.well-known/genid/{height_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#quantityUnit",
-            "valueUrl": "http://www.wikidata.org/reference/{height_unit}"
+            "valueUrl": "http://www.wikidata.org/entity/{height_unit}"
           },
           {
             "titles": "height_ref1_hash",
@@ -649,7 +649,7 @@
             "datatype": "string",
             "aboutUrl": "http://example.com/.well-known/genid/{width_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#quantityUnit",
-            "valueUrl": "http://www.wikidata.org/reference/{width_unit}"
+            "valueUrl": "http://www.wikidata.org/entity/{width_unit}"
           },
           {
             "titles": "width_ref1_hash",
@@ -726,7 +726,7 @@
             "datatype": "string",
             "aboutUrl": "http://example.com/.well-known/genid/{thickness_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#quantityUnit",
-            "valueUrl": "http://www.wikidata.org/reference/{thickness_unit}"
+            "valueUrl": "http://www.wikidata.org/entity/{thickness_unit}"
           },
           {
             "titles": "thickness_ref1_hash",
@@ -803,7 +803,7 @@
             "datatype": "string",
             "aboutUrl": "http://example.com/.well-known/genid/{diameter_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#quantityUnit",
-            "valueUrl": "http://www.wikidata.org/reference/{diameter_unit}"
+            "valueUrl": "http://www.wikidata.org/entity/{diameter_unit}"
           },
           {
             "titles": "diameter_ref1_hash",

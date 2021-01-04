@@ -2135,7 +2135,7 @@
             "datatype": "string",
             "aboutUrl": "http://example.com/.well-known/genid/{publication_interval_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#quantityUnit",
-            "valueUrl": "http://www.wikidata.org/reference/{publication_interval_unit}"
+            "valueUrl": "http://www.wikidata.org/entity/{publication_interval_unit}"
           },
           {
             "titles": "publication_interval_ref1_hash",
