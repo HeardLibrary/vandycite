@@ -1334,7 +1334,7 @@
             "name": "depicts_uuid",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
-            "propertyUrl": "http://www.wikidata.org/prop/P108",
+            "propertyUrl": "http://www.wikidata.org/prop/P180",
             "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{depicts_uuid}"
           },
           {
@@ -1342,7 +1342,7 @@
             "name": "depicts",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{depicts_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/statement/P108",
+            "propertyUrl": "http://www.wikidata.org/prop/statement/P180",
             "valueUrl": "http://www.wikidata.org/entity/{depicts}"
           },
           {
