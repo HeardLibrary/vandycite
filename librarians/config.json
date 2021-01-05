@@ -1,0 +1,45 @@
+{
+  "data_path": "",
+  "item_source_csv": "",
+  "item_query": "select distinct ?qid where {?author wdt:P1416 wd:Q16849893.?qid wdt:P50 ?author.}",
+  "outfiles": [
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "works.csv",
+      "prop_list": [
+        {
+          "pid": "P50",
+          "variable": "author",
+          "value_type": "item",
+          "qual": [
+            {
+              "pid": "P1545",
+              "variable": "ordinal",
+              "value_type": "string"
+            }
+          ],
+          "ref": [
+            {
+              "pid": "P248",
+              "variable": "statedIn",
+              "value_type": "item"
+            },
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
