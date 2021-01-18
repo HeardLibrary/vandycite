@@ -129,14 +129,6 @@
             "valueUrl": "http://www.wikidata.org/entity/{instance_of}"
           },
           {
-            "titles": "instance_of_ref1_hash",
-            "name": "instance_of_ref1_hash",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{instance_of_uuid}",
-            "propertyUrl": "prov:wasDerivedFrom",
-            "valueUrl": "http://www.wikidata.org/reference/{instance_of_ref1_hash}"
-          },
-          {
             "titles": "image_uuid",
             "name": "image_uuid",
             "datatype": "string",
