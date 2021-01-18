@@ -269,6 +269,60 @@
             "propertyUrl": "http://wikiba.se/ontology#timePrecision"
           },
           {
+            "titles": "street_address_uuid",
+            "name": "street_address_uuid",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "http://www.wikidata.org/prop/P6375",
+            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{street_address_uuid}"
+          },
+          {
+            "titles": "street_address",
+            "name": "street_address",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{street_address_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/statement/P6375",
+            "lang": "en"
+          },
+          {
+            "titles": "street_address_ref1_hash",
+            "name": "street_address_ref1_hash",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{street_address_uuid}",
+            "propertyUrl": "prov:wasDerivedFrom",
+            "valueUrl": "http://www.wikidata.org/reference/{street_address_ref1_hash}"
+          },
+          {
+            "titles": "street_address_ref1_referenceUrl",
+            "name": "street_address_ref1_referenceUrl",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/reference/{street_address_ref1_hash}",
+            "propertyUrl": "http://www.wikidata.org/prop/reference/P854",
+            "valueUrl": "{+street_address_ref1_referenceUrl}"
+          },
+          {
+            "titles": "street_address_ref1_retrieved_nodeId",
+            "name": "street_address_ref1_retrieved_nodeId",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/reference/{street_address_ref1_hash}",
+            "propertyUrl": "http://www.wikidata.org/prop/reference/value/P813",
+            "valueUrl": "http://example.com/.well-known/genid/{street_address_ref1_retrieved_nodeId}"
+          },
+          {
+            "titles": "street_address_ref1_retrieved_val",
+            "name": "street_address_ref1_retrieved_val",
+            "datatype": "dateTime",
+            "aboutUrl": "http://example.com/.well-known/genid/{street_address_ref1_retrieved_nodeId}",
+            "propertyUrl": "http://wikiba.se/ontology#timeValue"
+          },
+          {
+            "titles": "street_address_ref1_retrieved_prec",
+            "name": "street_address_ref1_retrieved_prec",
+            "datatype": "integer",
+            "aboutUrl": "http://example.com/.well-known/genid/{street_address_ref1_retrieved_nodeId}",
+            "propertyUrl": "http://wikiba.se/ontology#timePrecision"
+          },
+          {
             "titles": "coordinate_location_uuid",
             "name": "coordinate_location_uuid",
             "datatype": "string",
