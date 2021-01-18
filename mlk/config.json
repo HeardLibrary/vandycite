@@ -38,6 +38,81 @@
               "value_type": "date"
             }
           ]
+        },
+        {
+          "pid": "P31",
+          "variable": "instance_of",
+          "value_type": "item",
+          "qual": [
+          ],
+          "ref": [
+          ]
+        },
+        {
+          "pid": "P18",
+          "variable": "image",
+          "value_type": "uri",
+          "qual": [
+          ],
+          "ref": [
+          ]
+        },
+        {
+          "pid": "P17",
+          "variable": "country",
+          "value_type": "item",
+          "qual": [
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P131",
+          "variable": "located_in",
+          "value_type": "item",
+          "qual": [
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P625",
+          "variable": "coordinate_location",
+          "value_type": "globecoordinate",
+          "qual": [
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
         }
       ]
     }
