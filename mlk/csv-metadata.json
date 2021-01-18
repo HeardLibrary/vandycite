@@ -1,0 +1,57 @@
+{
+        "@type": "TableGroup",
+        "@context": "http://www.w3.org/ns/csvw",
+        "tables": [
+            {
+                "url": "edit_a_thon.csv",
+                "tableSchema": {
+                    "columns": [ 
+                        {
+                            "titles": "qid",
+                            "name": "qid",
+                            "datatype": "string",
+                            "suppressOutput": true
+                        },
+                        {
+                            "titles": "focus_project_uuid",
+                            "name": "focus_project_uuid",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "http://www.wikidata.org/prop/P5008",
+                            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{focus_project_uuid}"
+                        },
+                        {
+                            "titles": "focus_project",
+                            "name": "focus_project",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{focus_project_uuid}",
+                            "propertyUrl": "http://www.wikidata.org/prop/statement/P5008",
+                            "valueUrl": "http://www.wikidata.org/entity/{focus_project}"
+                        },
+                        {
+                            "titles": "focus_project_time_nodeId",
+                            "name": "focus_project_time_nodeId",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{focus_project_uuid}",
+                            "propertyUrl": "http://www.wikidata.org/prop/qualifier/value/P585",
+                            "valueUrl": "http://example.com/.well-known/genid/{focus_project_time_nodeId}"
+                        },
+                        {
+                            "titles": "focus_project_time_val",
+                            "name": "focus_project_time_val",
+                            "datatype": "dateTime",
+                            "aboutUrl": "http://example.com/.well-known/genid/{focus_project_time_nodeId}",
+                            "propertyUrl": "http://wikiba.se/ontology#timeValue"
+                        },
+                        {
+                            "titles": "focus_project_time_prec",
+                            "name": "focus_project_time_prec",
+                            "datatype": "integer",
+                            "aboutUrl": "http://example.com/.well-known/genid/{focus_project_time_nodeId}",
+                            "propertyUrl": "http://wikiba.se/ontology#timePrecision"
+                        }
+                    ]
+                }
+            }
+        ]
+}

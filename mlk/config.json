@@ -1,0 +1,30 @@
+{
+  "data_path": "./",
+  "item_source_csv": "edit_a_thon.csv",
+  "item_query": "",
+  "outfiles": [
+    {
+      "manage_descriptions": true,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "edit_a_thon.csv",
+      "prop_list": [
+        {
+          "pid": "P5008",
+          "variable": "focus_project",
+          "value_type": "item",
+          "qual": [
+            {
+              "pid": "P585",
+              "variable": "time",
+              "value_type": "date"
+            }
+          ],
+          "ref": [
+          ]
+        }
+      ]
+    }
+  ]
+}

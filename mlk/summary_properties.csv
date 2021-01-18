@@ -1,0 +1,115 @@
+id,label,count
+P31,instance of,15
+P373,Commons category,10
+P5008,on focus list of Wikimedia project,10
+P18,image,10
+P646,Freebase ID,9
+P17,country,8
+P131,located in the administrative territorial entity,7
+P213,ISNI,7
+P214,VIAF ID,7
+P21,sex or gender,7
+P244,Library of Congress authority ID,6
+P569,date of birth,6
+P571,inception,6
+P625,coordinate location,6
+P735,given name,6
+P734,family name,6
+P856,official website,6
+P6723,BlackPast.org ID,6
+P7859,WorldCat Identities ID,6
+P19,place of birth,6
+P27,country of citizenship,6
+P106,occupation,5
+P140,religion,5
+P281,postal code,5
+P1417,Encyclopædia Britannica Online ID,5
+P3417,Quora topic ID,5
+P3430,SNAC Ark ID,5
+P69,educated at,4
+P172,ethnic group,4
+P463,member of,4
+P570,date of death,4
+P691,NKCR AUT ID,4
+P2163,FAST ID,4
+P6016,Tennessee Encyclopedia ID,4
+P268,Bibliothèque nationale de France ID,3
+P355,subsidiary,3
+P649,NRHP reference number,3
+P910,topic's main category,3
+P1343,described by source,3
+P1771,Integrated Postsecondary Education Data System ID,3
+P2427,GRID ID,3
+P2643,Carnegie Classification of Institutions of Higher Education,3
+P2949,WikiTree person ID,3
+P3500,Ringgold ID,3
+P3876,category for alumni of educational institution,3
+P5905,Comic Vine ID,3
+P6366,Microsoft Academic ID,3
+P6375,street address,3
+P6782,ROR ID,3
+P166,award received,2
+P227,GND ID,2
+P1412,"languages spoken, written or signed",2
+P1435,heritage designation,2
+P1477,birth name,2
+P1559,name in native language,2
+P2002,Twitter username,2
+P2013,Facebook ID,2
+P2196,students count,2
+P2671,Google Knowledge Graph ID,2
+P3393,LittleSis organization ID,2
+P4195,category for employees of the organization,2
+P8687,social media followers,2
+P20,place of death,2
+P101,field of work,1
+P102,member of political party,1
+P109,signature,1
+P108,employer,1
+P269,IdRef ID,1
+P276,location,1
+P345,IMDb ID,1
+P485,archives at,1
+P488,chairperson,1
+P509,cause of death,1
+P551,residence,1
+P648,Open Library ID,1
+P937,work location,1
+P966,MusicBrainz label ID,1
+P1006,Nationale Thesaurus voor Auteurs ID,1
+P1157,US Congress Bio ID,1
+P1196,manner of death,1
+P1207,NUKAT ID,1
+P1225,U.S. National Archives Identifier,1
+P1263,NNDB people ID,1
+P1284,Munzinger person ID,1
+P1451,motto text,1
+P1566,GeoNames ID,1
+P1741,GTAA ID,1
+P1830,owner of,1
+P1839,US Federal Election Commission ID,1
+P1889,different from,1
+P1971,number of children,1
+P2003,Instagram username,1
+P2190,C-SPAN person ID,1
+P2267,PolitiFact people and groups ID,1
+P2390,Ballotpedia ID,1
+P2397,YouTube channel ID,1
+P2484,NCES School ID,1
+P2686,OpenSecrets people ID,1
+P2936,language used,1
+P3344,Vote Smart ID,1
+P3602,candidacy in election,1
+P3642,ARCHON code,1
+P5361,BNB person ID,1
+P5491,BD Gest' author ID,1
+P5508,archINFORM person or group ID,1
+P6722,FemBio ID,1
+P6773,HAL structure ID,1
+P6886,writing language,1
+P7293,PLWABN ID,1
+P8094,GeneaStar person ID,1
+P8309,Yle topic ID,1
+P10,video,1
+P26,spouse,1
+P39,position held,1
