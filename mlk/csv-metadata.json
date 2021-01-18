@@ -145,14 +145,6 @@
             "valueUrl": "{+image}"
           },
           {
-            "titles": "image_ref1_hash",
-            "name": "image_ref1_hash",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{image_uuid}",
-            "propertyUrl": "prov:wasDerivedFrom",
-            "valueUrl": "http://www.wikidata.org/reference/{image_ref1_hash}"
-          },
-          {
             "titles": "country_uuid",
             "name": "country_uuid",
             "datatype": "string",
