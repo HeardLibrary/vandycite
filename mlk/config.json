@@ -96,6 +96,26 @@
           ]
         },
         {
+          "pid": "P6375",
+          "variable": "street_address",
+          "value_type": "monolingualtext",
+          "language": "en",
+          "qual": [
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
           "pid": "P625",
           "variable": "coordinate_location",
           "value_type": "globecoordinate",
