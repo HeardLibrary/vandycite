@@ -3,6 +3,7 @@
 
 # (c) 2021 Vanderbilt University. This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
 # Author: Steve Baskauf
+# 2021-01-18
 
 # Some utility functions are from 
 # https://github.com/HeardLibrary/digital-scholarship/blob/2cabda778b585e367527f4dd024b6a7e82613e18/code/wikidata/template.ipynb
