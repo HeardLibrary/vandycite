@@ -149,6 +149,19 @@
               "value_type": "date"
             }
           ]
+        },
+        {
+          "pid": "P27",
+          "variable": "ulan",
+          "value_type": "string",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
         }
       ]
     }
