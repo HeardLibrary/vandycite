@@ -471,7 +471,7 @@
             "name": "ulan_uuid",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
-            "propertyUrl": "http://www.wikidata.org/prop/P27",
+            "propertyUrl": "http://www.wikidata.org/prop/P245",
             "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{ulan_uuid}"
           },
           {
@@ -479,7 +479,7 @@
             "name": "ulan",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{ulan_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/statement/P27"
+            "propertyUrl": "http://www.wikidata.org/prop/statement/P245"
           },
           {
             "titles": "ulan_ref1_hash",
