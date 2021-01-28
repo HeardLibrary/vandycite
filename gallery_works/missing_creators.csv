@@ -1,846 +1,308 @@
 inventory_number,string
-#2017.004.01,"Gibson, Ralph (American photographer, born 1939)"
-#2017.004.02,"Gibson, Ralph (American photographer, born 1939)"
-#2017.004.04,"Gibson, Ralph (American photographer, born 1939)"
-#2017.004.05,"Gibson, Ralph (American photographer, born 1939)"
-#2017.004.06,"Gibson, Ralph (American photographer, born 1939)"
-#2017.004.07,"Gibson, Ralph (American photographer, born 1939)"
-#1999.259,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
-#2000.106,Artist Unknown
-#2000.107,Artist Unknown
-#2002.041.001,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2002.041.002,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.003a,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003b,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003c,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003d,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003e,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003f,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003g,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003h,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003i,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003j,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003k,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.003l,"Tàpies, Antoni (Spanish painter, 1923-2012)"
-#2003.004,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004a,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004b,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004c,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004d,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004e,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004f,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004g,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004h,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004i,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004j,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.004k,"Miró, Joán (Spanish painter, printmaker, and ceramicist, 1893-1983)"
-#2003.034,"Romney, George (English painter, 1734-1802)"
-#2004.002,"Brockhurst, Gerald L. (British painter and printmaker, 1890-1978, active in United States)"
-#2008.001,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.063,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.064,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.065,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.067,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.068,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.069,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.070,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.071,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.072,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.073,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.074,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.075,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.076,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.077,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.078,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.079,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.080,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.081,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.082,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.083,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.084,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.085,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.086,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.087,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.088,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.089,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.098,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.099,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.100,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.101,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.102,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.103,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.104,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.106,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.109,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.110,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.112,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.114,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.115,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.116,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.117,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.118,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.121,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.122,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.123,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.124,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.126,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.127,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.131,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.132,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.133,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.138,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.139,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.154,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2008.155,"Warhol, Andy (American painter, printmaker, and filmmaker, 1928-1987)"
-#2009.001a,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001aa,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001b,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001bb,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001c,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001cc,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001d,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001dd,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001e,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001ee,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001f,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001ff,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001g,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001gg,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001h,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001hh,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001i,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001ii,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001j,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001jj,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001k,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001kk,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001l,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001ll,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001m,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001mm,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001n,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001nn,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001o,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001oo,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001p,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001pp,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001q,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001qq,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001r,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001rr,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001s,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001ss,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001t,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001tt,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001u,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001uu,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001v,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001vv,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001w,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001ww,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001x,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001y,"Korine, Harmony (American filmmaker, born 1974)"
-#2009.001z,"Korine, Harmony (American filmmaker, born 1974)"
-#2010.011,"Taylor, Fred (English painter, illustrator, and poster artist, 1875-1963)"
-#2011.007,"Gibson, Ralph (American photographer, born 1939)"
-#2011.008,"Gibson, Ralph (American photographer, born 1939)"
-#2013.017,"Klimowski, Andrzej (Polish printmaker, born 1949)"
-#2013.018,"Klimowski, Andrzej (Polish printmaker, born 1949)"
-#2014.017,"Ferrato, Donna (American photographer, born 1949)"
-#2014.019,"Ferrato, Donna (American photographer, born 1949)"
-#2014.025,"Ferrato, Donna (American photographer, born 1949)"
-#2015.017,"Ferrato, Donna (American photographer, born 1949)"
-#2015.019,"Ferrato, Donna (American photographer, born 1949)"
-#2015.023,"Ferrato, Donna (American photographer, born 1949)"
-#2015.030,"Ferrato, Donna (American photographer, born 1949)"
-#2015.031,"Ferrato, Donna (American photographer, born 1949)"
-#2015.032,"Ferrato, Donna (American photographer, born 1949)"
-#2015.033,"Ferrato, Donna (American photographer, born 1949)"
-#2015.034,"Kostabi, Mark (American painter and sculptor, born 1960)"
-#2015.035,"Kostabi, Mark (American painter and sculptor, born 1960)"
-#2015.037r,"Juszcyk, James (1943-, born Chicago, IL)"
-#2015.056,"Tenneson, Joyce (American photographer and author, born 1945)"
-#2015.060,"Tenneson, Joyce (American photographer and author, born 1945)"
-#2015.069,"Tenneson, Joyce (American photographer and author, born 1945)"
-#2016.012.01,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.02,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.03,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.04,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.05,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.06,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.07,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.08,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.09,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.10,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.11,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.12,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.13,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.14,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.15,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.16,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.17,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.18,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.19,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.20,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.21,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.22,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.23,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.24,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.25,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.26,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.27,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.28,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.29,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.30,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.31,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.32,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.33,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.34,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.35,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.36,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.37,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.38,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.39,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.40,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.41,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.42,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.43,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.44,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.45,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.46,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.47,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.48,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#2016.012.49,"Biel-Bienne, Eugene (1902-1969, born Vienna, Austria)"
-#1992.479,Artist Unknown
-#1992.480,Artist Unknown
-#1992.482,Artist Unknown
-#1992.483,Artist Unknown
-#1992.494,Artist Unknown
-#1992.547,Artist Unknown
-#1993.011,"Bosse, Abraham (French printmaker, 1602-1676)"
-#1993.012,"Bosse, Abraham (1602/04-1676)"
-#1993.030,Artist Unknown
-#1993.031,Artist Unknown
-#1993.044,Artist Unknown
-#1993.045,Artist Unknown
-#1993.046,Artist Unknown
-#1993.047,Artist Unknown
-#1993.048,Artist Unknown
-#1993.049,Artist Unknown
-#1993.050,Artist Unknown
-#1993.051,Artist Unknown
-#1993.053,Artist Unknown
-#1993.054,Artist Unknown
-#1993.057,Artist Unknown
-#1993.058,Artist Unknown
-#1993.068,Artist Unknown
-#1993.070,Artist Unknown
-#1993.071,Artist Unknown
-#1993.077,Artist Unknown
-#1993.078,Artist Unknown
-#1993.095,Artist Unknown
-#1993.096,Artist Unknown
-#1993.122,Artist Unknown
-#1993.138,Artist Unknown
-#1993.145,Artist Unknown
-#1993.159,Artist Unknown
-#1993.165,Artist Unknown
-#1993.168,Artist Unknown
-#1993.176a,Artist Unknown
-#1993.176b,Artist Unknown
-#1993.179,"Kanjiro, Kawai (attributed to nephew of)"
-#1993.201a,Artist Unknown
-#1993.201b,Artist Unknown
-#1993.202a,Artist Unknown
-#1993.202b,Artist Unknown
-#1994.002,"Kessler, Michael (American painter, born 1954)"
-#1994.003,"Kessler, Michael (American painter, born 1954)"
-#1994.004,"Kessler, Michael (American painter, born 1954)"
-#1994.005a,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005b,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005c,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005d,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005e,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005f,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005g,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005h,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005i,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.005j,"Bourgeois, Louise (French-American sculptor, 1911-2010)"
-#1994.009,Artist Unknown
-#1994.013,Artist Unknown
-#1994.014,Artist Unknown
-#1994.015,Artist Unknown
-#1994.017,Artist Unknown
-#1994.019,Artist Unknown
-#1994.049,Artist Unknown
-#1994.057,Artist Unknown
-#1994.060,Artist Unknown
-#1994.062,Artist Unknown
-#1994.063,Artist Unknown
-#1994.066,Artist Unknown
-#1994.068,Artist Unknown
-#1994.069,Artist Unknown
-#1994.072,Artist Unknown
-#1994.120,Artist Unknown
-#1994.121,Artist Unknown
-#1994.134a,Artist Unknown
-#1994.134b,Artist Unknown
-#1994.134c,Artist Unknown
-#1994.134d,Artist Unknown
-#1994.134e,Artist Unknown
-#1994.154a,Artist Unknown
-#1994.154b,Artist Unknown
-#1994.156a,Artist Unknown
-#1994.156b,Artist Unknown
-#1994.162,Artist Unknown
-#1994.163,Artist Unknown
-#1994.164,Artist Unknown
-#1994.169a,Artist Unknown
-#1994.169b,Artist Unknown
-#1994.181,Artist Unknown
-#1994.182,Artist Unknown
-#1994.198,Artist Unknown
-#1994.199,Artist Unknown
-#1994.227a,Artist Unknown
-#1994.227b,Artist Unknown
-#1994.345,Artist Unknown
-#1994.346,Artist Unknown
-#1994.348,Artist Unknown
-#1994.349,Artist Unknown
-#1994.355,Artist Unknown
-#1994.356,Artist Unknown
-#1994.361,Artist Unknown
-#1994.362,Artist Unknown
-#1994.364,Artist Unknown
-#1994.373,Artist Unknown
-#1994.378,Artist Unknown
-#1994.379,Artist Unknown
-#1994.384,Artist Unknown
-#1994.391,Artist Unknown
-#1994.394,Artist Unknown
-#1994.395,Artist Unknown
-#1994.402,Artist Unknown
-#1994.403,Artist Unknown
-#1994.406,Artist Unknown
-#1994.417,Artist Unknown
-#1994.419,Artist Unknown
-#1994.421,Artist Unknown
-#1994.427,Artist Unknown
-#1994.430,Artist Unknown
-#1994.433,Artist Unknown
-#1994.434,Artist Unknown
-#1994.442,Artist Unknown
-#1994.443,Artist Unknown
-#1994.444,Artist Unknown
-#1994.451,Artist Unknown
-#1994.452,Artist Unknown
-#1994.453,Artist Unknown
-#1994.456,Artist Unknown
-#1994.457,Artist Unknown
-#1994.458,Artist Unknown
-#1994.459,Artist Unknown
-#1994.460,Artist Unknown
-#1994.462,Artist Unknown
-#1994.467,Artist Unknown
-#1994.473,Artist Unknown
-#1994.474,Artist Unknown
-#1994.484,Artist Unknown
-#1994.492,Artist Unknown
-#1994.502,Artist Unknown
-#1994.509,Artist Unknown
-#1994.514,Artist Unknown
-#1994.516,Artist Unknown
-#1994.528,Artist Unknown
-#1994.539b,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1994.539c,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1994.539d,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1994.539e,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1994.539f,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1994.539g,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1994.539h,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1994.539i,"Dine, Jim (American painter, sculptor, and printmaker, born 1935)"
-#1995.008,Artist Unknown
-#1995.009,Artist Unknown
-#1995.010,Artist Unknown
-#1995.011,Artist Unknown
-#1995.012,Artist Unknown
-#1995.013,Artist Unknown
-#1995.035,Artist Unknown
-#1995.056a,Artist Unknown
-#1995.056b,Artist Unknown
-#1995.056c,Artist Unknown
-#1995.056d,Artist Unknown
-#1995.056e,Artist Unknown
-#1995.056f,Artist Unknown
-#1995.056g,Artist Unknown
-#1995.056h,Artist Unknown
-#1995.077,Artist Unknown
-#1995.078,Artist Unknown
-#1995.080,Artist Unknown
-#1995.083,Artist Unknown
-#1995.084,Artist Unknown
-#1996.024,Departament de Cultura de la Generalitat de Catalunya
-#1996.027a,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
-#1996.027b,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
-#1996.042,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
-#1996.043,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
-#1996.044,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
-#1996.045,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
-#1996.046,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
-#1996.047,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
-#1996.049,"Artigau, Francesc (Spanish painter and printmaker, born 1940)"
-#1996.060,"Fauteux, André Lucien (Canadian sculptor, born 1946)"
-#1996.061,"Fauteux, André Lucien (Canadian sculptor, born 1946)"
-#1996.062,"Fauteux, André Lucien (Canadian sculptor, born 1946)"
-#1996.063,"Fauteux, André Lucien (Canadian sculptor, born 1946)"
-#1996.066,"Laabs, Hans (German painter, 1915-2004)"
-#1996.076,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.078,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.079,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.080,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.082,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.083,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.084,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.085,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.086,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1996.087,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.088,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.089,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.090,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.091,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.092,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.093,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.094,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.095,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.096,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.097,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.098,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.099,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.100,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.102,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.103,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.104,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.105,"Martinez, Juan (Spanish painter, born 1942)"
-#1996.107,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
-#1996.108,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
-#1996.109,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
-#1996.110,"Morehouse, William P. (American painter, born 1929)"
-#1996.111,"Morehouse, William P. (American painter, born 1929)"
-#1996.112,"Morehouse, William P. (American painter, born 1929)"
-#1996.113,"Morehouse, William P. (American painter, born 1929)"
-#1996.114,"Morehouse, William P. (American painter, born 1929)"
-#1996.115,"Morehouse, William P. (American painter, born 1929)"
-#1996.116,"Morehouse, William P. (American painter, born 1929)"
-#1996.117,"Morehouse, William P. (American painter, born 1929)"
-#1996.120,"Morehouse, William P. (American painter, born 1929)"
-#1996.136,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.137,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.138,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.139,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.140,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.141,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.142,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.143,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.144,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.145,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.146,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.147,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.148,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.149,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.150,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.151,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.152,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.153,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.154,"Thompson, Donald (1933-, born Fowler, CA)"
-#1996.164,"Walsh, David (1927-1981, born India)"
-#1996.165,"Walsh, David (1927-1981, born India)"
-#1996.166,"Walsh, David (1927-1981, born India)"
-#1996.167,"Walsh, David (1927-1981, born India)"
-#1996.193a,Artist Unknown
-#1996.193b,Artist Unknown
-#1996.193c,Artist Unknown
-#1996.193d,Artist Unknown
-#1996.193e,Artist Unknown
-#1996.193f,Artist Unknown
-#1996.193g,Artist Unknown
-#1996.193h,Artist Unknown
-#1996.193i,Artist Unknown
-#1996.193j,Artist Unknown
-#1996.193k,Artist Unknown
-#1996.193l,Artist Unknown
-#1997.010,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.013,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.017,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.023,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.027,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.028,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.029,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.030,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.032,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.035,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.038,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1997.049,"Kunkel, Don (1933-, born New Jersey)"
-#1997.062,"Kunkel, Don (1933-, born New Jersey)"
-#1997.081a,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1997.081c,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1997.081d,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1997.081e,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1997.081f,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1997.081g,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1997.081h,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1997.082a,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082b,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082c,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082d,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082e,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082f,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082g,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082h,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.082i,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.083a,"Kunkel, Don (1933-, born New Jersey)"
-#1997.083b,"Kunkel, Don (1933-, born New Jersey)"
-#1997.083c,"Kunkel, Don (1933-, born New Jersey)"
-#1997.083d,"Kunkel, Don (1933-, born New Jersey)"
-#1997.085,"Amengual, Rafael (1938-, born Mendoza, Argentina)"
-#1997.086,"Amengual, Rafael (1938-, born Mendoza, Argentina)"
-#1997.091,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.092,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1997.096,"Cohen, Elaine Lustig (American painter and designer, born 1927)"
-#1997.097,"Cohen, Elaine Lustig (American painter and designer, born 1927)"
-#1997.100,"Evrard, Andre (1936-, born La Chaux-de-fonds, Switzerland)"
-#1997.112,"Gabino, Amadeo (Spanish sculptor, born 1922)"
-#1997.113,"Gabino, Amadeo (Spanish sculptor, born 1922)"
-#1997.120,"Liefooghe, Frank (1943-, born Ypres)"
-#1997.121,"Liefooghe, Frank (1943-)"
-#1997.122,"Liefooghe, Frank (1943-)"
-#1997.123,"Liefooghe, Frank (1943-)"
-#1997.124,"Liefooghe, Frank (1943-)"
-#1997.133,"Úrculo, Eduardo (1938-2003, born Santurce, Spain)"
-#1997.134,"Úrculo, Eduardo (1938-2003, born Santurce, Spain)"
-#1997.136,"Valles, Roman (Spanish artist, born 1923)"
-#1997.137,"Valles, Roman (Spanish artist, born 1923)"
-#1999.008,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1999.009,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1999.010,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1999.011,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1999.013,"Bru, Roser (Spanish painter and engraver, born 1923, active in Chile)"
-#1999.014,"Bru, Roser (Spanish painter and engraver, born 1923, active in Chile)"
-#1999.015,"Bru, Roser (Spanish painter and engraver, born 1923, active in Chile)"
-#1999.016,"Bru, Roser (Spanish painter and engraver, born 1923, active in Chile)"
-#1999.040,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.055,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.056,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.057,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.058,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.060,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.061,"Hinterreiter, Hans (Swiss painter, born 1902-1989)"
-#1999.063a,"Irriguible, Leopoldo Celorrio (1946-, born Zaragoza, Spain)"
-#1999.063b,"Irriguible, Leopoldo Celorrio (1946-, born Zaragoza, Spain)"
-#1999.064,"Jalass, Immo (1935-)"
-#1999.065,"Jalass, Immo (1935-)"
-#1999.066,"Jalass, Immo (1935-)"
-#1999.067,"Kunkel, Don (1933-, born New Jersey)"
-#1999.068,"Kunkel, Don (1933-, born New Jersey)"
-#1999.069,"Kunkel, Don (1933-, born New Jersey)"
-#1999.070,"Kunkel, Don (1933-, born New Jersey)"
-#1999.072,"Kunkel, Don (1933-, born New Jersey)"
-#1999.073,"Kunkel, Don (1933-, born New Jersey)"
-#1999.074,"Kunkel, Don (1933-, born New Jersey)"
-#1999.075,"Kunkel, Don (1933-, born New Jersey)"
-#1999.076,"Kunkel, Don (1933-, born New Jersey)"
-#1999.077,"Kunkel, Don (1933-, born New Jersey)"
-#1999.078,"Kunkel, Don (1933-, born New Jersey)"
-#1999.080,"Kunkel, Don (1933-, born New Jersey)"
-#1999.082,"Laabs, Hans (German painter, 1915-2004)"
-#1999.083,"Laabs, Hans (German painter, 1915-2004)"
-#1999.084,"Laabs, Hans (German painter, 1915-2004)"
-#1999.085,"Laabs, Hans (German painter, 1915-2004)"
-#1999.086,"Laabs, Hans (German painter, 1915-2004)"
-#1999.090,"Marca-Relli, Conrad (American painter, 1913-2000)"
-#1999.091,"Marca-Relli, Conrad (American painter, 1913-2000)"
-#1999.092,"Martinez, Juan (Spanish painter, born 1942)"
-#1999.096,"Micus, Eduard (German painter and sculptor, 1925-2000, active in Spain)"
-#1999.107,"Mitchell, Jane (1912-1998)"
-#1999.108,"Mitchell, Jane (1912-1988)"
-#1999.109,"Mitchell, Jane (1912-1988)"
-#1999.110,"Mitchell, Jane"
-#1999.111,"Mitchell, Jane"
-#1999.112,"Mitchell, Jane"
-#1999.134,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
-#1999.135,"Kunkel, Don (1933-, born New Jersey)"
-#1999.174a,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174b,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174c,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174d,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174e,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174f,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174g,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174h,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174i,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174j,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174k,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.174l,"Goltzius, Hubertus (Flemish humanist, painter and numismatist, 1526-1583)"
-#1999.255,Artist Unknown
-#1979.0961P,Artist Unknown
-#1979.0962p,Artist Unknown
-#1979.0984P,"Pildas, M."
-#1979.0991P,Artist Unknown
-#1979.0992P,Artist Unknown
-#1979.0993P,Artist Unknown
-#1979.0994P,Artist Unknown
-#1979.1004P,Artist Unknown
-#1979.1008P,Artist Unknown
-#1979.1027P,Artist Unknown
-#1979.1030P,Artist Unknown
-#1979.1031P,Artist Unknown
-#1979.1032P,Artist Unknown
-#1979.1034P,Artist Unknown
-#1979.1036P,Artist Unknown
-#1979.1037P,Artist Unknown
-#1979.1038P,Artist Unknown
-#1979.1043P,Artist Unknown
-#1979.1044P,Artist Unknown
-#1979.1045P,Artist Unknown
-#1979.1046P,Artist Unknown
-#1979.1047P,Artist Unknown
-#1979.1048P,Artist Unknown
-#1979.1049P,Artist Unknown
-#1979.1051P,Artist Unknown
-#1979.1052P,Artist Unknown
-#1979.1053P,Artist Unknown
-#1979.1065P,Artist Unknown
-#1979.1067P,Artist Unknown
-#1979.1068P,Artist Unknown
-#1979.1077P,Artist Unknown
-#1979.1078P,Artist Unknown
-#1979.1079P,Artist Unknown
-#1979.1080P,Artist Unknown
-#1979.1081P,Artist Unknown
-#1979.1082P,Artist Unknown
-#1979.1085P,Artist Unknown
-#1979.1101P,Artist Unknown
-#1979.1102P,Artist Unknown
-#1979.1103P,Artist Unknown
-#1979.1138P,"Brown, Clinton"
-#1979.1175P,Artist Unknown
-#1979.1179P,Artist Unknown
-#1979.1188P,Artist Unknown
-#1979.1189P,Artist Unknown
-#1979.1190P,Artist Unknown
-#1979.1191P,Artist Unknown
-#1979.1192P,Artist Unknown
-#1979.1193P,Artist Unknown
-#1979.1194P,Artist Unknown
-#1979.1195P,Artist Unknown
-#1979.1196P,Artist Unknown
-#1980.008,Artist Unknown
-#1980.027,"Meng, Wang (after)"
-#1980.028,"Xie, Zheng (after)"
-#1980.041,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
-#1980.042,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
-#1980.043,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
-#1980.044,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
-#1980.045,"Motherwell, Robert (American painter, printmaker, and author, 1915-1991)"
-#1980.087,"Ubac, Raoul (Belgian painter, sculptor, and printmaker, 1910-1985, active in France)"
-#1980.089,"Nevelson, Louise (American sculptor, 1899-1988)"
-#1980.090,"Tanning, Dorothea (American painter, lithographer, and sculptor, 1910-2012)"
-#1980.097,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.098,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.099,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.100,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.101,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.102,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.103,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.104,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.105,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.106,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.107,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.108,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1980.109,"Matta, Roberto (Chilean painter and printmaker, 1911-2002)"
-#1981.008,Artist Unknown
-#1981.015,"Marca-Relli, Conrad (American painter, 1913-2000)"
-#1981.016,"Marca-Relli, Conrad (American painter, 1913-2000)"
-#1981.024a,"Tucker, William (American sculptor, born 1935)"
-#1981.024b,"Tucker, William (American sculptor, born 1935)"
-#1981.024f,"Tucker, William (American sculptor, born 1935)"
-#1981.024h,"Tucker, William (American sculptor, born 1935)"
-#1981.024j,"Tucker, William (American sculptor, born 1935)"
-#1982.014,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1982.018,"Kunkel, Don (1933-, born New Jersey)"
-#1982.019,"Marca-Relli, Conrad (American painter, 1913-2000)"
-#1982.020,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1982.021,"Martinez, Juan (Spanish painter, born 1942)"
-#1982.031,"Kunkel, Don (1933-, born New Jersey)"
-#1982.033,"Martinez, Juan (Spanish painter, born 1942)"
-#1982.045a,"Hernández Pijuan, Joan (Spanish painter and printmaker, born 1931)"
-#1982.045b,"Hernández Pijuan, Joan (Spanish painter and printmaker, born 1931)"
-#1982.050,"Bechtold, Erwin (1925-, born Cologne, Germany)"
-#1982.053,"Kunkel, Don (1933-, born New Jersey)"
-#1982.054,"Marca-Relli, Conrad (American painter, 1913-2000)"
-#1982.055,"Marí Ribas, Antoni (Spanish painter, 1906-1974)"
-#1982.064,"Gerardia, Helen (Russian-American painter, born 1913)"
-#1982.090,"Harrison, Helen Mayer and Harrison, Newton"
-#1984.029,"Daubigny, Charles François (French landscapist, 1817-1878)"
-#1985.066,Artist Unknown
-#1985.096,Artist Unknown
-#1985.097,Artist Unknown
-#1986.029,Artist Unknown
-#1986.030,Artist Unknown
-#1986.051a,Artist Unknown
-#1986.051b,Artist Unknown
-#1986.059,Artist Unknown
-#1986.060,Artist Unknown
-#1986.061,Artist Unknown
-#1986.062,Artist Unknown
-#1987.020,Artist Unknown
-#1987.024,Artist Unknown
-#1987.039,Artist Unknown
-#1987.045,Artist Unknown
-#1987.047,Artist Unknown
-#1987.052,Artist Unknown
-#1987.057,Artist Unknown
-#1988.033a,Artist Unknown
-#1988.033b,Artist Unknown
-#1988.033c,Artist Unknown
-#1988.033d,Artist Unknown
-#1988.033e,Artist Unknown
-#1988.033f,Artist Unknown
-#1988.033g,Artist Unknown
-#1988.033h,Artist Unknown
-#1988.102a,"Gibson, Charles Dana (American illustrator and painter, 1867-1944)"
-#1988.102b,"Gibson, Charles Dana (American illustrator and painter, 1867-1944)"
-#1988.104,Artist Unknown
-#1988.105,Artist Unknown
-#1988.107,Artist Unknown
-#1988.108,Artist Unknown
-#1988.110,Artist Unknown
-#1988.111,Artist Unknown
-#1989.032,"Bloemaert, Abraham and Saenredam, Jan"
-#1989.037e,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1989.037f,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1989.037i,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1989.037n,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1989.037p,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1989.037q,"Gomis, Joaquim (Spanish photographer, 1902-1991)"
-#1989.043,Keisui
-#1992.021,"Nakajima,Raisho   (1796-1871, born Otsu)"
-#1992.104,"Utagawa Kunisada (Japanese printmaker and illustrator, 1786-1864)"
-#1992.106,"Utagawa Kunisada (Japanese printmaker and illustrator, 1786-1864)"
-#1992.135,Artist Unknown
-#1992.136,Artist Unknown
-#1992.193a,Artist Unknown
-#1992.193b,Artist Unknown
-#1992.214,Artist Unknown
-#1992.244A-D,Artist Unknown
-#1992.245A-D,Artist Unknown
-#1992.249,Artist Unknown
-#1992.250,Artist Unknown
-#1992.263,"Tōshūsai Sharaku (Japanese printmaker, active 1794-1795)"
-#1992.264,"Tōshūsai Sharaku (Japanese printmaker, active 1794-1795)"
-#1992.339,"Downing, Joe (American painter, born 1925)"
-#1992.340,"Downing, Joe (American painter, born 1925)"
-#1992.357,Artist Unknown
-#1992.382,Artist Unknown
-#1992.383,Artist Unknown
-#1965.034,"Romney, George (English painter, 1734-1802)"
-#1968.009,Artist Unknown
-#1968.010,Artist Unknown
-#1969.003,Artist Unknown
-#1969.043,Artist Unknown
-#1969.046,Artist unknown
-#1969.047,Artist unknown
-#1969.048,Artist Unknown
-#1969.049,Artist Unknown
-#1969.052,Artist Unknown
-#1969.056,Artist Unknown
-#1969.058,Artist Unknown
-#1969.068,Artist Unknown
-#1970.032,"Kollwitz, Käthe (German printmaker and sculptor, 1867-1945)"
-#1971.004,"Greuze, Jean-Baptiste (French painter and draftsman, 1725-1805)"
-#1971.033,"Visscher, Jan"
-#1972.049,Artist Unknown
-#1972.050,Artist Unknown
-#1972.051,Artist Unknown
-#1973.001,Attributed to Giuseppe Maria Mazza
-#1973.026,Baviera
-#1974.021,Artist Unknown
-#1974.022,Artist Unknown
-#1974.023,Artist Unknown
-#1975.014,"Brockhurst, Gerald L. (British painter and printmaker, 1890-1978, active in United States)"
-#1975.032,Artist Unknown
-#1975.033,Artist Unknown
-#1976.002,"Canova, Antonio (Italian sculptor, painter, draftsman, and architect, 1757-1822) attributed"
-#1976.009,Artist Unknown
-#1976.009,Artist Unknown
-#1978.005,Artist Unknown
-#1978.006,Artist Unknown
-#1978.008,Artist Unknown
-#1978.009,Artist Unknown
-#1978.016,Artist Unknown
-#1978.017,Artist Unknown
-#1978.025,Artist Unknown
-#1978.030,Artist Unknown
-#1978.031,Artist Unknown
-#1978.058,"Suzuki, Rinsho"
-#1978.160,Artist Unknown
-#1978.165ab,Artist Unknown
-#1979.0063,"Ubac, Raoul (Belgian painter, sculptor, and printmaker, 1910-1985, active in France)"
-#1979.0064,"Tanning, Dorothea (American painter, lithographer, and sculptor, 1910-2012)"
-#1979.0065,"Nevelson, Louise (American sculptor, 1899-1988)"
-#1979.0086,"Kauffmann, Angelica (attributed to) (1741-1807)"
-#1979.0147,"Sutherland, Thomas & Wolstenhome, Dean"
-#1979.0203P,"Chase, William Merritt (American painter and printmaker, 1849-1916)"
-#1979.0227P,"Hart, W.C."
-#1979.0247P,"Morland, George (English painter, 1763-1804)"
-#1979.0252P,"Poliakoff, Serge (Russian painter, 1906-1969, active in France)"
-#1979.0259P,"Resnick, Milton (American painter, 1917-2004)"
-#1979.0327P,Artist Unknown
-#1979.0338P,"Cheesman, Thomas (English engraver and miniaturist, 1760-after 1834)"
-#1979.0339P,"Cheesman, Thomas (English engraver and miniaturist, 1760-after 1834)"
-#1979.0353P,"Kollwitz, Käthe (German printmaker and sculptor, 1867-1945)"
-#1979.0397P,Artist Unknown
-#1979.0410P,Artist Unknown
-#1979.0420P,Artist Unknown
-#1979.0438P,Artist Unknown
-#1979.0448P,Artist Unknown
-#1979.0482P,Artist Unknown
-#1979.0489P,Artist Unknown
-#1979.0494P,
-#1979.0498P,Artist Unknown
-#1979.0499P,Artist Unknown
-#1979.0500P,Artist Unknown
-#1979.0502P,Artist Unknown
-#1979.0503P,Artist Unknown
-#1979.0513P,Artist Unknown
-#1979.0520P,
-#1979.0533P,Artist Unknown
-#1979.0542P,Artist Unknown
-#1979.0543P,Artist Unknown
-#1979.0544P,Artist Unknown
-#1979.0577P,Artist Unknown
-#1979.0587P,Artist Unknown
-#1979.0609P,Artist Unknown
-#1979.0610P,Artist Unknown
-#1979.0614P,Artist Unknown
-#1979.0617P,Artist Unknown
-#1979.0619P,Artist Unknown
-#1979.0779P,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
-#1979.0780P,"Zao Wou-ki (French painter and printmaker, born in China, 1921-2013)"
-#1979.0842P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0843P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0845P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0846P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0850P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0852P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0853P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0862P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0863P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0866P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0867P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0872P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0873P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0876P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0877P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0902P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1979.0904P,"Ostade, Adriaen van (Dutch draftsman and painter, 1610-1685)"
-#1956.017,"Sueur, Nicolas Le and Comte de Caylus"
+#2000.068,"2 [""Haberman, Gwen""]"
+#2000.082,"2 [""Casey D.Gill (1981, born Monterey, CA)""]"
+#2001.049,"2 [""Parrish, Rachel""]"
+#2001.141,"2 [""Pasek, Margaret""]"
+"#2001.160a,b","2 [""Artist Unknown""]"
+#2003.001,"2 [""Multiple Artists""]"
+#2004.055,"2 [""October Foundation (35 artists)""]"
+#2004.056,"2 [""October Foundation""]"
+#2004.057,"2 [""Multiple Artists""]"
+#2006.001,"2 [""McDevitt, Mark""]"
+#2007.011,"2 [""Bernards, B.""]"
+#2007.012,"2 [""Mulder, John""]"
+#2007.013,"2 [""Clark, J.""]"
+#2007.023,"2 [""Goodyear, J.""]"
+#2007.024,"2 [""Goodyear, J.""]"
+#2007.039,"2 [""Adam, G.""]"
+#2007.055,"2 [""Adam, G.""]"
+#2010.006,"2 [""Hoffmann, E.P.""]"
+#2012.008hh,"2 [""Schwerin von Krosigk, Wifred Graf""]"
+#2013.013,"2 [""Slowicki, M.""]"
+#2013.014,"2 [""Lustyk, Danka""]"
+#2013.020,"2 [""Chwedczuk, M""]"
+#2013.021,"2 [""Krauze, A""]"
+#2015.037r,"2 [""Juszcyk, James (1943-, born Chicago, IL)""]"
+#2015.038c,"2 [""Berger, Emily""]"
+#2015.038d,"2 [""Bonfils, Susan""]"
+#2015.075.01,"2 [""Handschick, Heinz (German painter, contemporary)""]"
+#2015.075.02,"2 [""Handschick, Heinz (German painter, contemporary)""]"
+#2015.075.03,"2 [""Handschick, Heinz (German painter, contemporary)""]"
+#2015.075.04,"2 [""A.E.""]"
+#2015.075.05,"2 [""A.E.""]"
+#2015.075.06,"2 [""A.E.""]"
+#2015.075.07,"2 [""Heidenreich""]"
+#2015.075.08,"2 [""Heidenreich, D.""]"
+#2015.075.09,"2 [""Heidenreich, D.""]"
+#2015.075.10,"2 [""Winkles, K.""]"
+#2015.075.11,"2 [""Otte""]"
+#2015.075.15,"2 [""Burke, G.""]"
+#2015.075.18,"2 [""Ernst""]"
+#2015.075.19,"2 [""Ernst""]"
+#2015.075.20,"2 [""Gold, Hel""]"
+#2015.075.21,"2 [""Gerasch""]"
+#2015.075.22,"2 [""Malik, H.J.""]"
+#2015.075.24,"2 [""Branolt, Gernot""]"
+#2015.075.25,"2 [""O.S.""]"
+#2015.075.26,"2 [""O.S.""]"
+#2015.075.46,"2 [""Kutner, Christophe""]"
+#2016.005.03,"2 [""Risseeuw, Katie""]"
+#2016.005.09,"2 [""Blocker, Mare""]"
+#2016.005.18,"2 [""Zimmermann, Karen""]"
+#2016.005.21,"2 [""Marsh, Cynthia""]"
+#2016.005.26,"2 [""Cohick, Aaron""]"
+#2017.001.008,"2 [""Kitabat""]"
+#1993.005,"2 [""Chao Fen""]"
+#1993.013,"2 [""Bong, Woo (ca. 1948)""]"
+#1993.014,"2 [""Bong, Woo (ca. 1948)""]"
+#1993.179,"2 [""Kanjiro, Kawai (attributed to nephew of)""]"
+#1993.195,"2 [""Leach, John""]"
+#1995.004,"2 [""Toshiaki, Yu-u sai""]"
+#1996.024,"2 [""Departament de Cultura de la Generalitat de Catalunya""]"
+#1996.034,"2 [""Mus\u00e9e de Poche""]"
+#1996.036,"2 [""Prats, Lloren\u00e7""]"
+#1996.055,"2 [""Cabanes, Pierre Franz""]"
+#1996.056,"2 [""Cabanes, Pierre Franz""]"
+#1996.057,"2 [""Cabanes, Pierre Franz""]"
+#1996.058,"2 [""Cabanes, Pierre Franz""]"
+#1996.059,"2 [""Fandos, Manuel""]"
+#1996.133,"2 [""Richman, Pablo""]"
+#1996.184,"2 [""Ryosen""]"
+#1996.185,"2 [""Kado""]"
+#1997.061,"2 [""Heras, Arturo (or Heras Sanz)  (1945-, born Valencia, Spain)""]"
+#1997.076,"2 [""Heras, Arturo (or Heras Sanz)  (1945-, born Valencia, Spain)""]"
+#1997.098,"2 [""Estellido, Comp""]"
+#1997.109,"2 [""Flasho""]"
+#1997.110a,"2 [""Florez, Garzon""]"
+#1997.110b,"2 [""Florez, Garzon""]"
+#1997.110c,"2 [""Florez, Garzon""]"
+#1997.110d,"2 [""Florez, Garzon""]"
+#1997.110e,"2 [""Florez, Garzon""]"
+#1997.143,"2 [""Peiser, Jane""]"
+#1998.008,"2 [""McBurnie, Ronald""]"
+#1998.018,"2 [""Barr\u00f3s, Alfred""]"
+#1998.035,"2 [""Treballs Gr\u00e0fics, Barcelona""]"
+#1998.058,"2 [""Artist Unknown""]"
+#1999.031,"2 [""Heras, Arturo (or Heras Sanz)  (1945-, born Valencia, Spain)""]"
+#1999.235,"2 [""Artist Unknown""]"
+#1979.0916P,"2 [""Fantarini? (1612-1648)""]"
+#1979.0982P,"2 [""Spinola, Lily""]"
+#1979.0984P,"2 [""Pildas, M.""]"
+#1979.0985P,"2 [""Singer, Charles""]"
+#1979.0986P,"2 [""Schaever, C. W.""]"
+#1979.0988P,"2 [""Howard, John""]"
+#1979.1118P,"2 [""Fisher, E.""]"
+#1979.1138P,"2 [""Brown, Clinton""]"
+#1979.1142P,"2 [""Saunders, Dutch""]"
+#1979.1181P,"2 [""Hendee, A.""]"
+#1979.1207P,"2 [""Georgii-Hemming""]"
+#1980.001,"2 [""Shwab, Paul""]"
+#1980.002,"2 [""Shwab, Paul""]"
+#1980.027,"2 [""Meng, Wang (after)""]"
+#1980.028,"2 [""Xie, Zheng (after)""]"
+#1980.032,"2 [""Chen Yuzhang""]"
+#1980.036,"2 [""Zhou Tao (born China)""]"
+#1980.037,"2 [""Qin Yi""]"
+#1980.072,"2 [""Ren Pei""]"
+#1980.073,"2 [""Ren Pei""]"
+#1980.074,"2 [""Ren Pei""]"
+#1980.075,"2 [""Ren Pei""]"
+#1980.077,"2 [""Chang Tse-tuan""]"
+#1980.078,"2 [""Tung Tsou-ping""]"
+#1980.079,"2 [""Wu Yang-t'ien""]"
+#1980.080,"2 [""Jiang Hu""]"
+#1980.081,"2 [""Hu, Jiang""]"
+#1980.082,"2 [""Wang Han""]"
+#1980.083,"2 [""Wang, Han""]"
+#1980.093,"2 [""Zhou, Runan""]"
+#1980.095,"2 [""Miller, Mark""]"
+#1982.007,"2 [""Heras, Arturo (or Heras Sanz)  (1945-, born Valencia, Spain)""]"
+#1982.029,"2 [""Heras, Arturo (or Heras Sanz)  (1945-, born Valencia, Spain)""]"
+#1982.090,"2 [""Harrison, Helen Mayer and Harrison, Newton""]"
+#1982.098,"2 [""SITE""]"
+#1983.005,"2 [""Richardson, Deborah""]"
+#1983.008,"2 [""Josephson, Laura""]"
+#1983.009,"2 [""Robison, Sheryl""]"
+#1984.016,"2 [""Robertson, Jack""]"
+#1984.017,"2 [""Robertson, Jack""]"
+#1984.045,"2 [""Bach, R.""]"
+#1984.047,"2 [""Cordnin""]"
+#1985.006,"2 [""Robertson, Jack""]"
+#1985.020,"2 [""Clairey, Irene""]"
+#1985.044,"2 [""Artist Unknown""]"
+#1986.007,"2 [""Cantrell, Leon""]"
+#1986.017,"2 [""Katsushika, Isai""]"
+#1986.020,"2 [""Duret, A.""]"
+#1987.002,"2 [""Koshin""]"
+#1988.008,"2 [""Lafitte, Andrew""]"
+#1988.038,"2 [""Kwannon""]"
+#1988.095,"2 [""Roberti, H.""]"
+#1989.028,"2 [""Wachsmity, F.S.""]"
+#1989.032,"2 [""Bloemaert, Abraham and Saenredam, Jan""]"
+#1989.035,"2 [""Carle""]"
+#1989.043,"2 [""Keisui""]"
+#1990.001,"2 [""Jimenez, Luis""]"
+#1990.010,"2 [""Sato, T.""]"
+#1991.017,"2 [""Mackert""]"
+#1992.004,"2 [""Yasu, Koitsu""]"
+#1992.008,"2 [""Oson, Toshi""]"
+#1992.011,"2 [""Meit\u014d""]"
+#1992.012,"2 [""Seizan""]"
+#1992.013,"2 [""Yosho""]"
+#1992.014,"2 [""Suishu""]"
+#1992.016,"2 [""Suison""]"
+#1992.017,"2 [""Shuki, Ichiin""]"
+#1992.018,"2 [""Roko""]"
+#1992.020,"2 [""Kim Sal Rui""]"
+#1992.021,"2 [""Nakajima,Raisho   (1796-1871, born Otsu)""]"
+#1992.130,"2 [""Hasegawa, Konobu (fl. late 19th c.)""]"
+#1992.253,"2 [""Matsuyama (or Shozan)""]"
+#1992.255,"2 [""Sanji""]"
+#1992.275,"2 [""Taguchi, Hidekichi""]"
+#1992.276,"2 [""Taguchi, Hidekichi""]"
+#1992.277,"2 [""Taguchi, Hidekichi""]"
+#1992.278,"2 [""Taguchi, Hidekichi""]"
+#1992.279,"2 [""Taguchi, Hidekichi""]"
+#1992.280,"2 [""Taguchi, Hidekichi""]"
+#1992.281,"2 [""Taguchi, Hidekichi""]"
+#1992.282,"2 [""Taguchi, Hidekichi""]"
+#1992.283,"2 [""Taguchi, Hidekichi""]"
+#1992.284,"2 [""Taguchi, Hidekichi""]"
+#1992.285,"2 [""Taguchi, Hidekichi""]"
+#1992.286,"2 [""Taguchi, Hidekichi""]"
+#1992.287,"2 [""Taguchi, Hidekichi""]"
+#1992.288,"2 [""Taguchi, Hidekichi""]"
+#1992.289,"2 [""Taguchi, Hidekichi""]"
+#1992.290,"2 [""Taguchi, Hidekichi""]"
+#1992.291,"2 [""Taguchi, Hidekichi""]"
+#1992.292,"2 [""Taguchi, Hidekichi""]"
+#1992.293,"2 [""Taguchi, Hidekichi""]"
+#1992.378,"2 [""Yoji""]"
+#1992.391A-F,"2 [""Hoseki, Sanji""]"
+#1957.035,"2 [""Pollack, S.""]"
+#1957.046,"2 [""Zartarian, Miriam""]"
+#1965.031,"2 [""White, Joy Rice""]"
+#1968.004,"2 [""Conti, A.""]"
+#1968.006,"2 [""Ahmad ibn al-Fadil ibn Ahmad al-Sharif al-'Ayyashi (al-Husayni)""]"
+#1968.008,"2 [""Roberts, William Vernon""]"
+#1970.008,"2 [""McKay, Donald""]"
+#1970.009,"2 [""Sepesky (Shephard)""]"
+#1970.042,"2 [""Varin, R.""]"
+#1971.027,"2 [""Artist Unknown""]"
+#1971.043,"2 [""Pallot, S.""]"
+#1971.050,"2 [""Landry, G.""]"
+#1972.016,"2 [""Gibson, James""]"
+#1972.057,"2 [""Sesshu""]"
+#1972.058,"2 [""Sesshu""]"
+#1972.059,"2 [""Sesshu""]"
+#1972.067,"2 [""Conse, C.""]"
+#1972.076,"2 [""Gibson, James""]"
+#1973.001,"2 [""Attributed to Giuseppe Maria Mazza""]"
+#1973.026,"2 [""Baviera""]"
+#1974.013,"2 [""Ou Shiang""]"
+#1974.018,"2 [""Chamberlain, Mitchell""]"
+#1974.019,"2 [""Chamberlain, Mitchell""]"
+#1974.020,"2 [""Chamberlain, Mitchell""]"
+#1974.032,"2 [""Whitney, William""]"
+#1975.036,"2 [""Gremillier""]"
+#1976.002,"2 [""Canova, Antonio (Italian sculptor, painter, draftsman, and architect, 1757-1822) attributed""]"
+#1976.033,"2 [""Quest, Dan""]"
+#1976.034,"2 [""Quest, Dan""]"
+#1976.035,"2 [""Quest, Dan""]"
+#1978.003,"2 [""Ikkoku-sai""]"
+#1978.046abc,"2 [""Jichosai (Nichosai) (1781-1788)""]"
+#1978.055,"2 [""Hotta, Renzan""]"
+#1978.058,"2 [""Suzuki, Rinsho""]"
+#1978.086,"2 [""Soyen, Kabocha""]"
+#1978.088,"2 [""Inoue, Kenroku Sensei""]"
+#1978.105a,"2 [""Hoko, Ichimosai""]"
+#1978.120,"2 [""Nishikawa, Harunobu""]"
+#1978.130,"2 [""Ichida, Jirobei""]"
+#1978.134,"2 [""Nishikawa""]"
+#1979.0086,"2 [""Kauffmann, Angelica (attributed to) (1741-1807)""]"
+#1979.0106,"2 [""Lemoir""]"
+#1979.0107,"2 [""Lemoir""]"
+#1979.0108,"2 [""Lemoir""]"
+#1979.0109,"2 [""Lemoir""]"
+#1979.0110,"2 [""Lemoir""]"
+#1979.0111,"2 [""Lemoir""]"
+#1979.0112,"2 [""Lemoir""]"
+#1979.0129,"2 [""Hallmandel, C.""]"
+#1979.0145,"2 [""S.D.""]"
+#1979.0147,"2 [""Sutherland, Thomas & Wolstenhome, Dean""]"
+#1979.0159,"2 [""Richardson, Russell""]"
+#1979.0163,"2 [""Ravagnant""]"
+#1979.0164,"2 [""Ravagnant""]"
+#1979.0165,"2 [""Ravagnant""]"
+#1979.0166,"2 [""Ravagnant""]"
+#1979.0167,"2 [""Ravagnant""]"
+#1979.0168,"2 [""Ravagnant""]"
+#1979.0170,"2 [""Birchall, L. M.""]"
+#1979.0186P,"2 [""Andrus, F.""]"
+#1979.0196P,"2 [""Bouslough""]"
+#1979.0200P,"2 [""Carey, Henry""]"
+#1979.0208P,"2 [""Craig, R.H.""]"
+#1979.0209P,"2 [""Cucaro, Pat""]"
+#1979.0218P,"2 [""Foster, Tom""]"
+#1979.0225P,"2 [""Griffith, E.N.""]"
+#1979.0227P,"2 [""Hart, W.C.""]"
+#1979.0231P,"2 [""Itiani, A.""]"
+#1979.0235P,"2 [""La Rouke, Hector""]"
+#1979.0243P,"2 [""Miguel, Adro""]"
+#1979.0248P,"2 [""Mozzolini, S.""]"
+#1979.0250P,"2 [""Nabb, Paul""]"
+#1979.0256P,"2 [""Querida, Zita""]"
+#1979.0257P,"2 [""Bauer, Ann""]"
+#1979.0260P,"2 [""Ripolles""]"
+#1979.0262P,"2 [""Rosendahl""]"
+#1979.0270P,"2 [""Thompson, Kenneth K.""]"
+#1979.0271P,"2 [""Thompson, Kenneth K.""]"
+#1979.0273P,"2 [""Turmohlen, Karl""]"
+#1979.0274P,"2 [""Turner, Arthur""]"
+#1979.0275P,"2 [""Turner, Arthur""]"
+#1979.0279P,"2 [""Walter, L.""]"
+#1979.0281P,"2 [""Volkman, C.""]"
+#1979.0341P,"2 [""Connor, Colin""]"
+#1979.0343P,"2 [""Docenud""]"
+#1979.0345P,"2 [""Garicola, K.""]"
+#1979.0408P,"2 [""Drosd, F.""]"
+#1979.0412P,"2 [""Artist Unknown""]"
+#1979.0510P,"2 [""Turnbull""]"
+#1979.0518P,"2 [""Michaels, Edward""]"
+#1979.0596P,"2 [""Lyons, T. Harrington""]"
+#1979.0625P,"2 [""Bill, Virginia F.""]"
+#1979.0627P,"2 [""Blum, Dorothea""]"
+#1979.0630P,"2 [""Fatiquant, R.""]"
+#1979.0645P,"2 [""Axelrod, H.""]"
+#1979.0647P,"2 [""Hollingsworth, Bob""]"
+#1979.0660P,"2 [""Rosenthal, Louise""]"
+#1979.0680P,"2 [""Adary""]"
+#1979.0687P,"2 [""Blakeley, Fannie B.""]"
+#1979.0689P,"2 [""Boichard, S.""]"
+#1979.0703P,"2 [""Donovan""]"
+#1979.0716P,"2 [""Haendil""]"
+#1979.0732P,"2 [""Janus, Jan""]"
+#1979.0737P,"2 [""Lent, Lillian""]"
+#1979.0742P,"2 [""Lurnson, Mon""]"
+#1979.0758P,"2 [""Phillips, W.T.""]"
+#1979.0759P,"2 [""Phillips, W.T.""]"
+#1979.0764P,"2 [""Putnam, H.""]"
+#1979.0765P,"2 [""Putnam, H.""]"
+#1979.0766P,"2 [""Ritteng, George""]"
+#1979.0770P,"2 [""Rothy, Carl""]"
+#1979.0787P,"2 [""Frankenstein""]"
+#1979.0788P,"2 [""Frankenstein""]"
+#1979.0789P,"2 [""Frankenstein""]"
+#1979.0790P,"2 [""Frankenstein""]"
+#1979.0791P,"2 [""Frankenstein""]"
+#1979.0792P,"2 [""Frankenstein""]"
+#1979.0793P,"2 [""Frankenstein""]"
+#1979.0794P,"2 [""Frankenstein""]"
+#1979.0795P,"2 [""Frankenstein""]"
+#1979.0808P,"2 [""Freeman, Carol Lawton""]"
+#1979.0811P,"2 [""Thompson, Ron""]"
+#1979.0836P,"2 [""Hawkins, Christie""]"
+#1979.0883P,"2 [""Kniseley, Judy (-1964, ca.)""]"
+#1979.0895P,"2 [""Kings, John""]"
+#1979.0897P,"2 [""Parrish, Janice""]"
+#1956.017,"2 [""Sueur, Nicolas Le and Comte de Caylus""]"
