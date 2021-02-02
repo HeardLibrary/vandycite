@@ -1,0 +1,172 @@
+{
+  "data_path": "",
+  "item_source_csv": "act-qid.csv",
+  "item_query": "",
+  "outfiles": [
+    {
+      "manage_descriptions": true,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "act_to_write.csv",
+      "prop_list": [
+        {
+          "pid": "P31",
+          "variable": "instance_of",
+          "value_type": "item",
+          "qual": [],
+          "ref": []
+        },
+        {
+          "pid": "P18",
+          "variable": "image",
+          "value_type": "uri",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P248",
+              "variable": "statedIn",
+              "value_type": "item"
+            },
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P106",
+          "variable": "occupation",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P569",
+          "variable": "birthdate",
+          "value_type": "date",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P19",
+          "variable": "birthplace",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P570",
+          "variable": "deathdate",
+          "value_type": "date",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P20",
+          "variable": "deathplace",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P6379",
+          "variable": "works_in_collection",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P27",
+          "variable": "citizenship_country",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

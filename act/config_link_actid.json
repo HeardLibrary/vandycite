@@ -1,0 +1,29 @@
+{
+  "data_path": "",
+  "item_source_csv": "creator_add_stub.csv",
+  "item_query": "",
+  "outfiles": [
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "act_id_to_write.csv",
+      "prop_list": [
+        {
+          "pid": "P9092",
+          "variable": "act",
+          "value_type": "string",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
