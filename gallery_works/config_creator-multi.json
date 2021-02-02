@@ -1,0 +1,39 @@
+{
+  "data_path": "",
+  "item_source_csv": "creator_add_stub.csv",
+  "item_query": "",
+  "outfiles": [
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "creator_additional.csv",
+      "prop_list": [
+        {
+          "pid": "P170",
+          "variable": "creator",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P248",
+              "variable": "statedIn",
+              "value_type": "item"
+            },
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
