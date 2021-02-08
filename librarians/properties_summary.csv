@@ -1,0 +1,42 @@
+value,label,count
+P31,instance of,88
+P50,author,88
+P577,publication date,85
+P1476,title,81
+P1433,published in,73
+P304,page(s),72
+P478,volume,63
+P356,DOI,56
+P433,issue,55
+P921,main subject,34
+P407,language of work or name,24
+P2093,author name string,23
+P698,PubMed ID,15
+P1104,number of pages,12
+P2860,cites work,11
+P953,full work available at URL,10
+P932,PMCID,8
+P212,ISBN-13,8
+P856,official website,7
+P123,publisher,7
+P291,place of publication,4
+P5875,ResearchGate publication ID,4
+P243,OCLC control number,4
+P648,Open Library ID,3
+P973,described at URL,3
+P2969,Goodreads version/edition ID,3
+P888,JSTOR article ID,2
+P8383,Goodreads work ID,2
+P275,copyright license,1
+P276,location,1
+P585,point in time,1
+P629,edition or translation of,1
+P675,Google Books ID,1
+P1581,official blog,1
+P1640,curator,1
+P1680,subtitle,1
+P3181,OpenCitations bibliographic resource ID,1
+P4011,Semantic Scholar paper ID,1
+P6216,copyright status,1
+P6721,K10plus PPN ID,1
+P136,genre,1
