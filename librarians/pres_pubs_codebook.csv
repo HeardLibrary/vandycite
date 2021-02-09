@@ -1,0 +1,29 @@
+Type,Variety (Abbrev.),Variety (Full)
+Publication,CPR Article,Co-Authored Peer Reviewed Article
+Publication,PR Article,Peer Reviewed Article
+Publication,NR Article,Non Referred Article
+Publication,CNR Aricle,Co-Authored Non-Referreed Article
+Publication,Chapter,Chapter (Single Author)
+Publication,Book,Book (Single Author)
+Presentation,Talk,Conference Talk
+Presentation,CP Talk,Co-Presented Conference Talk
+Publication,Review,Book Review
+Presentation,Invited Talk,Invited Talk
+Presentation,Panel,Panel
+Presentation,Guest Lecture,Guest Lecture
+Presentation,Symposium,Symposium
+Publication,CA Book,Co-Authored Book
+Publication,Ed Book,Edited Book
+Publication,CEd Book,Co-Edited Book
+Publication,CA Chapter,Co-Authored Chapter
+Publication,PA Post,Professional Association Blog Post
+Publication,Ac Post,Recognized Academic Blog Post
+Presentation,Poster,Poster
+Publication,Proceedings,Proceedings
+Publication,PA News,Pro-Association Newletter/Magazine
+Publication,Entry,Encyclopedia Entry
+Publication,CA Entry,Co-Authored Encyclopedia Entry
+Publication,Report,Academic Report
+Publication,CA Report,Co-Authored Academic Report
+Presentation,Webinar,Webinar
+Presentation,Workshop,Workshop
