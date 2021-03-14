@@ -1,0 +1,2 @@
+?person wdt:P1416 wd:Q16849893. # person affiliation Vanderbilt Libraries
+?qid wdt:P50 ?person. # work author person
