@@ -1,4 +1,4 @@
-﻿Librarian,Unit,Type,Variety,pub_qid,Title,Venue,Year
+Librarian,Unit,Type,Variety,pub_qid,Title,Venue,Year
 "Anderson, Cliff",Admin,Publication,CA Book,,XQuery for Digital Humanists,Texas A&M University Press,2020
 "Anderson, Cliff",Admin,Publication,CEd Book,,Karl Barth and the Making of Evangelical Theology: A Fifty-Year Perspective,Eerdmans,2015
 "Anderson, Cliff",Admin,Publication,PR Article,,Digital Humanities and the Future of Theology.,Cursur_: Zeitschrift für explorative Theologie,2018
@@ -103,7 +103,7 @@
 "Estridge, Honora",SEL,Presentation,Talk,,Developing Research-Engaged Librarians at the Interface of Data Science and Visualization,Imagine the NEXT!: The 2016 Conference for Entrepreneurial Librarians,2016
 "Estridge, Honora",SEL,Presentation,Poster,,The Move from Subject to Functional Roles: What Does It Mean for the Engineering Librarian,ASEE Annual Conference & Exposition,2016
 "Estridge, Honora",SEL,Presentation,CP Talk,,What Engineers Want: Lessons Learned from Five Years of Studying Library Users,ASEE Annual Conference & Exposition,2015
-"Foutch, Leslie",Peabody,Publication,PR Article,,A new partner in the process: The role of a librarian on a faculty research team,Collaborative Librarianship,2016
+"Foutch, Leslie",Peabody,Publication,PR Article,Q105949854,A new partner in the process: The role of a librarian on a faculty research team,Collaborative Librarianship,2016
 "Foutch, Leslie",Peabody,Presentation,Talk,,Time to Reflect: Changing the Course of Student Learning,Library Instruction Tennessee (LIT) ,2018
 "Gambill, Jodi",LTDS,Publication,CA Chapter,,Implementing an Open News and Information System in the Vanderbilt University Libraries,Leading Change in Academic Libraries,2019
 "Gonnerman, Kasia",Central,Presentation,Talk,,Application of Flipped Classroom Techniques in Library Instruction,New Directions in Information Fluency ,2014
