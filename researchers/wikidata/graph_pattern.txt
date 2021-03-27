@@ -1,0 +1,2 @@
+?qid wdt:P108 wd:Q29052. # person employer Vanderbilt University
+?qid wdt:P31 wd:Q5. # person instance of human
