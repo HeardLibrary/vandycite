@@ -1,0 +1,22 @@
+{
+  "data_path": "",
+  "item_source_csv": "affiliation_qids.csv",
+  "item_pattern_file": "",
+  "outfiles": [
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [
+      ],
+      "output_file_name": "department_labels.csv",
+      "prop_list": [
+        {
+          "pid": "P749",
+          "variable": "parent_org",
+          "value_type": "item",
+          "qual": [],
+          "ref": []
+        }
+      ]
+    }
+  ]
+}
