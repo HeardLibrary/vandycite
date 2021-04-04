@@ -1,0 +1,43 @@
+{
+  "data_path": "",
+  "item_source_csv": "missing_persons.csv",
+  "item_pattern_file": "",
+  "outfiles": [
+    {
+      "manage_descriptions": true,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "researchers.csv",
+      "prop_list": [
+        {
+          "pid": "P31",
+          "variable": "instance_of",
+          "value_type": "item",
+          "qual": [],
+          "ref": []
+        },
+        {
+          "pid": "P21",
+          "variable": "gender",
+          "value_type": "item",
+          "qual": [],
+          "ref": []
+        },
+        {
+          "pid": "P496",
+          "variable": "orcid",
+          "value_type": "string",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
