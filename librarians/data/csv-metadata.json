@@ -98,6 +98,59 @@
             "propertyUrl": "http://wikiba.se/ontology#timePrecision"
           },
           {
+            "titles": "pmid_uuid",
+            "name": "pmid_uuid",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "http://www.wikidata.org/prop/P698",
+            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{pmid_uuid}"
+          },
+          {
+            "titles": "pmid",
+            "name": "pmid",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{pmid_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/statement/P698"
+          },
+          {
+            "titles": "pmid_ref1_hash",
+            "name": "pmid_ref1_hash",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{pmid_uuid}",
+            "propertyUrl": "prov:wasDerivedFrom",
+            "valueUrl": "http://www.wikidata.org/reference/{pmid_ref1_hash}"
+          },
+          {
+            "titles": "pmid_ref1_referenceUrl",
+            "name": "pmid_ref1_referenceUrl",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/reference/{pmid_ref1_hash}",
+            "propertyUrl": "http://www.wikidata.org/prop/reference/P854",
+            "valueUrl": "{+pmid_ref1_referenceUrl}"
+          },
+          {
+            "titles": "pmid_ref1_retrieved_nodeId",
+            "name": "pmid_ref1_retrieved_nodeId",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/reference/{pmid_ref1_hash}",
+            "propertyUrl": "http://www.wikidata.org/prop/reference/value/P813",
+            "valueUrl": "http://example.com/.well-known/genid/{pmid_ref1_retrieved_nodeId}"
+          },
+          {
+            "titles": "pmid_ref1_retrieved_val",
+            "name": "pmid_ref1_retrieved_val",
+            "datatype": "dateTime",
+            "aboutUrl": "http://example.com/.well-known/genid/{pmid_ref1_retrieved_nodeId}",
+            "propertyUrl": "http://wikiba.se/ontology#timeValue"
+          },
+          {
+            "titles": "pmid_ref1_retrieved_prec",
+            "name": "pmid_ref1_retrieved_prec",
+            "datatype": "integer",
+            "aboutUrl": "http://example.com/.well-known/genid/{pmid_ref1_retrieved_nodeId}",
+            "propertyUrl": "http://wikiba.se/ontology#timePrecision"
+          },
+          {
             "titles": "published_uuid",
             "name": "published_uuid",
             "datatype": "string",

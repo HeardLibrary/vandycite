@@ -36,6 +36,24 @@
           ]
         },
         {
+          "pid": "P698",
+          "variable": "pmid",
+          "value_type": "string",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
           "pid": "P577",
           "variable": "published",
           "value_type": "date",
