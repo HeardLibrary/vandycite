@@ -1,102 +1,102 @@
-inventory_number,string,instance_of
-#2020.004,Manhattan Skyline,Q11060274
-#2002.041,Mini Museum,Q838948
-#2003.053,Frank Black,Q11060274
-#2003.054,Netwerk Electric,Q11060274
-#2003.055,Flatstock 2,Q429785
-#2003.056,Brit Bike,Q429785
-#2003.057,Jump Little Children,Q429785
-#2003.058,Home,Q429785
-#2003.059,Wesley Willis,Q429785
-#2003.060,Wilco - Trailer,Q429785
-#2003.061,Actual Event,Q429785
-#2003.062,The New Year and Silkworm,Q429785
-#2003.063,Bouncing Souls,Q429785
-#2003.064,Damo Suzuki and Defender,Q429785
-#2003.065,Dianogah/Pinebender,Q429785
-#2003.066,Mock Orange,Q429785
-#2003.067,Slack /Verde,Q429785
-#2003.068,Q and not U,Q429785
-#2003.069,Poly Vinyl Records,Q429785
-#2003.070,Klok,Q376
-#2003.073,Driekoningenverf (Three Kings Painting),Q125191
-#2004.034,Connecticut Pastoral,Q11060274
-#2004.040,Lattice,Q11060274
-#2004.041,Sand and Smoke,Q11060274
-#2004.042,The Divine Bovine,Q11060274
-#2004.079,"Warhol in bed seen through circular window at the guest house of architect Philip Johnson's Glass House, New Canaan, CT, winter 1964-65",Q429785
-#2004.080,Medicated Lamp,Q838948
-#2004.081,Sybil,Q11060274
-#2004.088a,Lobster,Q429785
-#2004.088b,Black Cat,Q429785
-#2004.088c,Catfish,Q429785
-#2004.088d,Ear of Corn,Q429785
-#2004.089,Ding ware bowl with incised design of pair of swimming ducks amongst lotus leaves and a lotus pod surrounded by waves,Q153988
-#2004.090,Flower shaped cup with a design of birds and scrolling vines,Q987767
-#2004.093,"1 Sekunde (One Second), a portfolio of 25 prints",Q11060274
-#2007.069,Six panel Japanese screen,Q93184
-#2012.001n,"Untitled, from a portfolio of work by 18 artists titled Ediciones Polígrafa, S.A. 15 Years of Graphic Work",Q11060274
-#2015.006,"The Other Side/El Otro Lado (Regionalism, Nationalism, Imperialism)",Q18281
-#1995.054,Geomancer's compass,Q34735
-#1997.108a,Untitled (Suite of 6),Q11060274
-#1997.108b,Untitled (Suite of 6),Q11060274
-#1997.108c,Untitled (Suite of 6),Q11060274
-#1997.108d,Untitled (Suite of 6),Q11060274
-#1997.108e,Untitled (Suite of 6),Q11060274
-#1997.108f,Untitled (Suite of 6),Q11060274
-#1998.046,Male Mask,Q161524
-#1998.047,Female Mask,Q161524
-#1998.048,Hohao plaque,Q4364339
-#1998.049,Hohao plaque,Q4364339
-#1998.050,Moby Dick,Q860861
-#1998.051,Mwai Mask,Q161524
-#1998.055,Asmat River Plaque,Q4364339
-#1998.056,Mask,Q161524
-#1998.057,Chi Wara Headdress,Q28972621
-#1998.060,Yoruba Mask,Q161524
-#1998.061,"Hook Figure, from Near the Karawari River (War and Hunting Amulet (Yipwon))",Q131557
-#1998.062,Skull Mask,Q161524
-#1998.063,Green Mask,Q161524
-#1998.064,Abstract Figure(s),Q860861
-#1999.059,Untitled,Q11060274
-#1979.1017P,Flat stone artifact,Q1357761
-#1979.1022P,Spear point with notches,Q728
-#1979.1024P,Arrowhead,Q728
-#1979.1035P,Bone fragment with traces of blue pigment,Q838948
-#1979.1041P,Model of the Taj Mahal,Q838948
-#1979.1050P,Chopsticks,Q1357761
-#1979.1055P,Pair of painted wooden dolls,Q168658
-#1979.1083P,Soft Basket,Q838948
-#1979.1110P,Asian incense burner,Q13464614
-#1980.023,"Flat Magic, temporarily entitled Cloretta",Q838948
-#1985.040,Wine Server in the form of a shell,Q987767
-#1985.047,Pair of opium weights in the form of lions,Q838948
-#1985.053,Ku beaker,Q987767
-#1985.055,Wine server in a drum form,Q987767
-#1992.319,Scene #1 from The Lives of the Loyal Retainers (Chushingura ),Q11060274
-#1992.320,Scene #2 from The Lives of the Loyal Retainers (Chushingura ),Q11060274
-#1992.327,Scene #9 from The Lives of the Loyal Retainers (Chushingura ),Q11060274
-#1992.328,Scene #10 from The Lives of the Loyal Retainers (Chushingura ),Q11060274
-#1973.011,Bust of Molière,Q860861
-#1973.018,Bird Without Nest (bicyclist sculpture),Q860861
-#1979.0198P,"Untitled (Abstract - Black, White, and Yellow Ochre)",Q3305213
-#1979.0317P,Stooping Man with Cherub Sitting on His Right,Q3305213
-#1979.0431P,Knife,Q728
-#1979.0460P,Necklace of pitch with red berries inset,Q189299
-#1979.0461P,Carved wooden bowl,Q987767
-#1979.0465P,Woven bag,Q987767
-#1979.0468P,Boomerang,Q728
-#1979.0469P,Toothed Necklace,Q189299
-#1979.0470P,Boomerang,Q728
-#1979.0490P,Vase,Q987767
-#1979.0492P,Flat-sided decorative jug,Q987767
-#1979.0494P,Vase,Q987767
-#1979.0520P,Ceramic Tub,Q13464614
-#1979.0527P,Figurine,Q860861
-#1979.0553P,Pitcher,Q987767
-#1979.0615P,Teapot,Q987767
-#1979.0672P,Scales from Salonica,Q838948
-#1979.0723P,Two Children,Q11060274
-#1979.0815P,Satyr Head,Q860861
-#1979.0881P,Pair of earrings,Q168456
-#1979.0911P,The Good Samaritan,Q11060274
+inventory_number,string,instance_of,genre_string
+#2020.004,Manhattan Skyline,Q11060274,print
+#2003.053,Frank Black,Q11060274,print
+#2003.054,Netwerk Electric,Q11060274,print
+#2004.034,Connecticut Pastoral,Q11060274,print
+#2004.040,Lattice,Q11060274,print
+#2004.041,Sand and Smoke,Q11060274,print
+#2004.042,The Divine Bovine,Q11060274,print
+#2004.081,Sybil,Q11060274,print
+#2004.093,"1 Sekunde (One Second), a portfolio of 25 prints",Q11060274,print
+#2012.001n,"Untitled, from a portfolio of work by 18 artists titled Ediciones Polígrafa, S.A. 15 Years of Graphic Work",Q11060274,print
+#1997.108a,Untitled (Suite of 6),Q11060274,print
+#1997.108b,Untitled (Suite of 6),Q11060274,print
+#1997.108c,Untitled (Suite of 6),Q11060274,print
+#1997.108d,Untitled (Suite of 6),Q11060274,print
+#1997.108e,Untitled (Suite of 6),Q11060274,print
+#1997.108f,Untitled (Suite of 6),Q11060274,print
+#1999.059,Untitled,Q11060274,print
+#1992.319,Scene #1 from The Lives of the Loyal Retainers (Chushingura ),Q11060274,print
+#1992.320,Scene #2 from The Lives of the Loyal Retainers (Chushingura ),Q11060274,print
+#1992.327,Scene #9 from The Lives of the Loyal Retainers (Chushingura ),Q11060274,print
+#1992.328,Scene #10 from The Lives of the Loyal Retainers (Chushingura ),Q11060274,print
+#1979.0723P,Two Children,Q11060274,print
+#1979.0911P,The Good Samaritan,Q11060274,print
+#2003.073,Driekoningenverf (Three Kings Painting),Q125191,photograph
+#1998.061,"Hook Figure, from Near the Karawari River (War and Hunting Amulet (Yipwon))",Q131557,amulet
+#1979.1110P,Asian incense burner,Q13464614,ceramics
+#1979.0520P,Ceramic Tub,Q13464614,ceramics
+#1979.1017P,Flat stone artifact,Q1357761,utensil
+#1979.1050P,Chopsticks,Q1357761,utensil
+#2004.089,Ding ware bowl with incised design of pair of swimming ducks amongst lotus leaves and a lotus pod surrounded by waves,Q153988,bowl
+#1998.046,Male Mask,Q161524,mask
+#1998.047,Female Mask,Q161524,mask
+#1998.051,Mwai Mask,Q161524,mask
+#1998.056,Mask,Q161524,mask
+#1998.060,Yoruba Mask,Q161524,mask
+#1998.062,Skull Mask,Q161524,mask
+#1998.063,Green Mask,Q161524,mask
+#1979.0881P,Pair of earrings,Q168456,earring
+#1979.1055P,Pair of painted wooden dolls,Q168658,doll
+#2015.006,"The Other Side/El Otro Lado (Regionalism, Nationalism, Imperialism)",Q18281,embroidery
+#1979.0460P,Necklace of pitch with red berries inset,Q189299,necklace
+#1979.0469P,Toothed Necklace,Q189299,necklace
+#1998.057,Chi Wara Headdress,Q28972621,headdress
+#1979.0198P,"Untitled (Abstract - Black, White, and Yellow Ochre)",Q3305213,painting
+#1979.0317P,Stooping Man with Cherub Sitting on His Right,Q3305213,painting
+#1995.054,Geomancer's compass,Q34735,compass
+#2003.070,Klok,Q376,clock
+#2003.055,Flatstock 2,Q429785,poster
+#2003.056,Brit Bike,Q429785,poster
+#2003.057,Jump Little Children,Q429785,poster
+#2003.058,Home,Q429785,poster
+#2003.059,Wesley Willis,Q429785,poster
+#2003.060,Wilco - Trailer,Q429785,poster
+#2003.061,Actual Event,Q429785,poster
+#2003.062,The New Year and Silkworm,Q429785,poster
+#2003.063,Bouncing Souls,Q429785,poster
+#2003.064,Damo Suzuki and Defender,Q429785,poster
+#2003.065,Dianogah/Pinebender,Q429785,poster
+#2003.066,Mock Orange,Q429785,poster
+#2003.067,Slack /Verde,Q429785,poster
+#2003.068,Q and not U,Q429785,poster
+#2003.069,Poly Vinyl Records,Q429785,poster
+#2004.079,"Warhol in bed seen through circular window at the guest house of architect Philip Johnson's Glass House, New Canaan, CT, winter 1964-65",Q429785,poster
+#2004.088a,Lobster,Q429785,poster
+#2004.088b,Black Cat,Q429785,poster
+#2004.088c,Catfish,Q429785,poster
+#2004.088d,Ear of Corn,Q429785,poster
+#1998.048,Hohao plaque,Q4364339,plaque
+#1998.049,Hohao plaque,Q4364339,plaque
+#1998.055,Asmat River Plaque,Q4364339,plaque
+#1979.1022P,Spear point with notches,Q728,weapon
+#1979.1024P,Arrowhead,Q728,weapon
+#1979.0431P,Knife,Q728,weapon
+#1979.0468P,Boomerang,Q728,weapon
+#1979.0470P,Boomerang,Q728,weapon
+#2002.041,Mini Museum,Q838948,work of art
+#2004.080,Medicated Lamp,Q838948,work of art
+#1979.1035P,Bone fragment with traces of blue pigment,Q838948,work of art
+#1979.1041P,Model of the Taj Mahal,Q838948,work of art
+#1979.1083P,Soft Basket,Q838948,work of art
+#1980.023,"Flat Magic, temporarily entitled Cloretta",Q838948,work of art
+#1985.047,Pair of opium weights in the form of lions,Q838948,work of art
+#1979.0672P,Scales from Salonica,Q838948,work of art
+#1998.050,Moby Dick,Q860861,sculpture
+#1998.064,Abstract Figure(s),Q860861,sculpture
+#1973.011,Bust of Molière,Q860861,sculpture
+#1973.018,Bird Without Nest (bicyclist sculpture),Q860861,sculpture
+#1979.0527P,Figurine,Q860861,sculpture
+#1979.0815P,Satyr Head,Q860861,sculpture
+#2007.069,Six panel Japanese screen,Q93184,drawing
+#2004.090,Flower shaped cup with a design of birds and scrolling vines,Q987767,container
+#1985.040,Wine Server in the form of a shell,Q987767,container
+#1985.053,Ku beaker,Q987767,container
+#1985.055,Wine server in a drum form,Q987767,container
+#1979.0461P,Carved wooden bowl,Q987767,container
+#1979.0465P,Woven bag,Q987767,container
+#1979.0490P,Vase,Q987767,container
+#1979.0492P,Flat-sided decorative jug,Q987767,container
+#1979.0494P,Vase,Q987767,container
+#1979.0553P,Pitcher,Q987767,container
+#1979.0615P,Teapot,Q987767,container

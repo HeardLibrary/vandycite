@@ -1,0 +1,15 @@
+{
+  "data_path": "",
+  "item_source_csv": "unclassified_classes.csv",
+  "item_pattern_file": "",
+  "outfiles": [
+    {
+      "manage_descriptions": true,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "labels.csv",
+      "prop_list": []
+    }
+  ]
+}
