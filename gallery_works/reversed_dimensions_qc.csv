@@ -1,26 +1,10 @@
 ,inventory_number,string
-rotate cw,#2000.007,Femme de dos drape
-reversed,#2009.002f,"Auf! Auf! Auf! Mensch hilf Dir Selbst (Get Up! Get Up! Get Up! Man help Yourself""), from the portfolio ""Felixmüller--Holzschnitte."""
-reversed,#2009.003l,"The Mad Woman (Vignette), from Crime and Punishment, Part 5 by Fyodor DostoevskyFrom: Fritz Eichenberg, artist of the book : 248 selected wood engravings, 1938-1972, a portfolio edition of illustrations from twelve works of literature, 1979."
-reversed,#2012.013,"Tribeca's Heroes, from the series Tribeca, 10013"
-reversed,#2012.014,"Cobblestonded, Leonard Street, from the series Tribeca, 10013"
-reversed,#2013.032,"Block 01-81, Carrara, Italy"
-reversed,#2013.033,"Block 02-71, Carrara, Italy"
-reversed,#2013.034,"Block 00-49, Carrara, Italy"
-OK,#2014.036,"Fish Racks, Baicul, Itaparica, Brazil"
-reversed,#2014.044,"Itaparica Landing, Bahia, Brazil"
-OK,#2014.045,"Drying Nets, Baicul, Itaparica, Brazil"
-OK,#2014.046,"Fish and Arm, Salvador, Bahia, Brazil"
-OK,#2014.049,"Parco degli Aquedotti, Rome"
-OK,#2014.051,Big Sur #2
-reversed,#2015.018,"Tommy and James, from the series, I Am Unbeatable"
-reversed,#2015.037o,"Darts, from American Abstract Artists 50th Anniversary Print Portfolio"
-reversed,#2015.038z,"Untitled, from American Abstract Artists 75th Anniversary Print Portfolio"
-reversed,#1994.005k,"Homely Girl, A Life, volume I"
-reversed,#1994.005l,"Homely Girl, A Life"
-reversed,#1994.334,Album of wood-block prints by various artists
-reversed,#1994.539a,Biotherm (For Bill Berkson)
-reversed,#1995.006,Two monkeys and cherry blossoms
+,#1996.182a,"""The Forest Pool"" from The Wood engravings of Ethelbert White"
+,#1997.007,"""Woman"". Composition. Studio of Miró in the Pasaje del Crédito, Barcelona, from Creation in Space of Joan Miró"
+,#1999.063c,3 Proyectos
+,#1969.022,A Harlot's Progress: Apprehended by a Magistrate
+,#1969.024,"A Harlot's Progress: She Expires, While the Doctors are Quarreling"
+reversed,#1969.021,A Harlot's Progress: The Quarrel with Her Jew Protector
 reversed,#1995.016a,A page from an album of hand-colored woodblock prints depicting ancient sages
 reversed,#1995.016b,A page from an album of hand-colored woodblock prints depicting ancient sages
 reversed,#1995.016c,A page from an album of hand-colored woodblock prints depicting ancient sages
@@ -37,42 +21,213 @@ reversed,#1995.017d,A page from an album of hand-colored woodblock prints depict
 reversed,#1995.017e,A page from an album of hand-colored woodblock prints depicting ancient sages
 reversed,#1995.017f,A page from an album of hand-colored woodblock prints depicting ancient sages
 reversed,#1995.017g,A page from an album of hand-colored woodblock prints depicting ancient sages
-reversed,#1996.041,Untitled
-reversed,#1996.048,En la Casa de Pilatosi
-reversed,#1996.051,Redwall
-reversed,#1996.081,Untitled
-reversed,#1996.106,Collage-crumpled paper
-reversed,#1996.126,Untitled
-reversed,#1996.156,Untitled
-,#1996.170a-c,Teahouse (part 4)
-3D reversed,#1996.178,"Printing block containing Confucian text, book 21, pages 29-30"
-,#1996.182a,"""The Forest Pool"" from The Wood engravings of Ethelbert White"
+,#1969.029,A Rake's Progress: Arrested for Debt
+,#1969.031,A Rake's Progress: Scene in a Gambling House
+,#1969.033,A Rake's Progress: Scene in a Madhouse
+,#1969.027,A Rake's Progress: Surrounded by Artists and Professors
+,#1969.032,A Rake's Progress: The Prison Scene
+,#1969.028,A Rake's Progress: The Tavern Scene
+,#1969.026,A Rake's Progress: The Young Heir Takes Possession of the Miser's Effects
+,#1964.001,"A Summer Home in Chautauqua, NY"
 reversed,#1996.192,Album of Obi (sash) and Women's and Men's Kimono Designs
-,#1996.194,"Wakakusa, Album of bird studies"
+reversed,#1994.334,Album of wood-block prints by various artists
+,#1998.007,"American Pop Culture Gallery, Big Cat Press Artists: Tony Fitzpatrick, Diana Sudyka, Teresa Mucha"
+,#1980.060a,An African Folktale: Why the Sun and the Moon Live in the Sky
+,#1980.060b,An African Folktale: Why the Sun and the Moon Live in the Sky
+,#1980.060g,An African Folktale: Why the Sun and the Moon Live in the Sky
+,#1980.060h,An African Folktale: Why the Sun and the Moon Live in the Sky
+,#1980.060n,An African Folktale: Why the Sun and the Moon Live in the Sky
+,#1980.060q,An African Folktale: Why the Sun and the Moon Live in the Sky
+,#1980.060r,An African Folktale: Why the Sun and the Moon Live in the Sky
+,#1979.0238P,An Artist's Studio
+,#1992.086,"An Honorable, Serpentine Death in Shido Bay, from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)"
+,#1980.059,Antony and Cleopatra
+OK,#1980.021,Appleman
+,#1978.063,Artist's sketchbook
+,#1978.066,Artist's sketchbook
+reversed,#1978.065,Artist's sketchbook with figure sketches
+,#1978.067,"Artist's sketchbook with large figures and small landscapes, Volume 7"
+,#1965.017,"Astronomes parisiens observant la Comète (Paris Astronomers Observing a Comet), published in Le Charivari, September 3, 1853"
+reversed,#2009.002f,"Auf! Auf! Auf! Mensch hilf Dir Selbst (Get Up! Get Up! Get Up! Man help Yourself""), from the portfolio ""Felixmüller--Holzschnitte."""
+reversed,#1999.143,Backdrops Circa 1940s
+,#1978.106,Bankoku Jinbutsu Ezu (International Costumes or People types)
+,#1971.065,Barn and Snow Scene
+OK,#2014.051,Big Sur #2
+reversed,#1994.539a,Biotherm (For Bill Berkson)
+reversed,#2013.034,"Block 00-49, Carrara, Italy"
+reversed,#2013.032,"Block 01-81, Carrara, Italy"
+reversed,#2013.033,"Block 02-71, Carrara, Italy"
+reversed,#1978.151,Book with accordian folds
+,#1978.075,Bunpo Gafu (The Album of Drawings of Bunpo)
+,#1978.076,Bunpo Kanga (Chinese Style Drawings by Bunpo)
 ,#1996.197,Butterfly and Clematis Blossom (photo reproduction shikishi)
-3D,#1996.198,Round lidded box with design of flowers
+,#1957.031,Camborne Rd. or Cornish Landscape No. 3
+,#1989.037a,"Castelldefels, from Fotografias de los Anõs 40, Volumen I"
+,#1956.057,Chofu Crystal River in Musashi Province from the series Fashionable Beauties of the Green Houses at the Six Crystal Rivers
+,#1978.131,Chushin Renri No Hachiue
+,#1992.296,Cloth Stencil
+,#1992.408,Cloth Stencil with a Bold Pattern and Bead-Like Lines on a Background of Small Starbursts
+,#1992.306,Cloth Stencil with a Design of Hanging Gourds and Vines
+,#1992.434,Cloth Stencil with a Design of Ivy Leaves
+,#1992.309,Cloth Stencil with a Design of Leaf Patterns (Tree Foliage)
+,#1992.423,Cloth Stencil with a Design of Pine Needles and Rectangular Objects
+,#1992.301,Cloth Stencil with Pattern of Squares with Various Designs
+reversed,#2012.014,"Cobblestonded, Leonard Street, from the series Tribeca, 10013"
+reversed,#1996.106,Collage-crumpled paper
+reversed,#1971.009,Conception
+,#1978.142,"Contains comic poem Ritka Tei Kofan, Volume 2 or 3"
+,#1971.022,Copy of a Rubens Self-Portrait
+OK,#1970.053,Dancing Couple
+reversed,#2015.037o,"Darts, from American Abstract Artists 50th Anniversary Print Portfolio"
+,#1956.046,David and Goliath
+,#1971.033,Diversa Animalia Quadrupedia
+OK,#2014.045,"Drying Nets, Baicul, Itaparica, Brazil"
+,#1979.0004,Dwarf with Crutch
+,#1979.0333P,E.P.: It is Pitiable
+,#1978.102,"Ehon Sen Moto, Volume 3"
+,#1978.048,Ehon Totoe-gusa (The Illustrated Book of Fables)
+,#1978.077,"Ehon-Asa Murasaki (The Picture Book, Light Purple), Volume 2 of 2"
+reversed,#1996.048,En la Casa de Pilatosi
+,#1957.044,Family Doctor
+rotate cw,#2000.007,Femme de dos drape
+OK,#2014.046,"Fish and Arm, Salvador, Bahia, Brazil"
+OK,#2014.036,"Fish Racks, Baicul, Itaparica, Brazil"
+,#1978.087,Fukaku Ayumi Hajime
+,#1978.095,Gahon Shobai Orai (Drawing Business Traffic)
+,#1978.149,Gendei Asahi No Gunbai
+,#1978.096,Gion Kaizu (Pictures of Ceremonial Carriages)
+,#1979.0095,Gordian Gill
+reversed,#1979.0640P,Greek Dancers
+,#1964.017,Green Sergeant's Bridge
+reversed,#1979.0810P,Half-Figure Man
+,#1978.141,Hanano Edo Kabuki Nendai Ki
+,#1978.116,Harikae Andon
+reversed,#1994.005l,"Homely Girl, A Life"
+reversed,#1994.005k,"Homely Girl, A Life, volume I"
+,#1984.013,Homeostasis
+reversed,#1988.031,Horse with three men
+,#1980.056,Horse's Head
+reversed,#1983.014,Illuminated leaf from a Book of Hours:  St. Margaret and the Dragon
+3D not artists books,#1991.003,Incense Burner
+reversed,#2014.044,"Itaparica Landing, Bahia, Brazil"
+,#1978.072,Itso Hyakutai (A Hundred Figures in a Single Sweep)
+,#1980.015,Jeune Fille
+,#1978.124,Jitpeishya Ikku Hizakurige
+,#1978.061,"Kaido Kyoka Awase (Comparision of Comic Poems on the Highway), Volume 2 of 2; illustrations for poems in Volume 1"
+,#1978.074,"Kaigwai Jinbusto Shoden (Lives of Men of the Other Side of the Sea), five volumes"
 ,#1997.005,"Kiln of the Ceramist Josep Llorens Artigas, Barcelona from Creation in Space of Joan Miró"
-,#1997.006,"Studio of Miró in the Pasaje del Crédito, Barcelona, from Creation in Space of Joan Miró"
-,#1997.007,"""Woman"". Composition. Studio of Miró in the Pasaje del Crédito, Barcelona, from Creation in Space of Joan Miró"
-,#1997.008,"Studio of Miró in the Pasaje del Crédito, Barcelona, An image related to Creation in Space of Joan Miró."
 ,#1997.009,"Kiln of the Ceramist Josep Llorens Artigas, Barcelona from Creation in Space of Joan Miró"
 ,#1997.011,"Kiln of the Ceramist Josep Llorens Artigas, Barcelona from Creation in Space of Joan Miró"
+,#1978.128,Kintoki Shutse Oogi
+,#1978.156,"Komo Zatsuwa, Volume 2"
+,#1978.104,Kozo Shiso
+,#1978.071,"Kyo Warabe (Kyoto Boys), Volume 6 of 6"
+,#1978.069,Kyochuzan (Mountains of the Heart)
+,#1978.153,Kyoga Shu with accordion folding pages
+,#1979.0739P,L'Areuvian Placa (The Drinking Place)
+,#1979.0389P,La Cour du Dragon
+,#1979.0385P,"La Madeleine, Paris"
+,#1979.0298P,Landscape of Greece
+,#1986.019,Last Supper
+,#1957.016,Little Auk
+,#1989.037c,"Lloret de Mar, from Fotografias de los Anõs 40, Volumen I"
+,#1979.0296P,Madonna in Clouds (copy of Madonna and Child with Music Making Angels by Correggio)
+,#1956.052,Martyrdom of Saints Peter and Paul
+,#1978.145,Miyako E Makan
 ,#1997.014,Montroig's Studio (Mas Miró) from Creation in Space of Joan Miró
-,#1997.015,"Studio of Palma de Mallorca, from Creation in Space of Joan Miró"
-,#1997.016,"The Sculpture ""The Hayfork"" Taking Form in Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
-,#1997.018,"Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
-,#1997.019,"Son Boter (Miró's property), Palma de Mallorca. An image related to Creation in Space of Joan Miró."
-,#1997.021,"Various Objects in Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
 ,#1997.024,Montroig's Studio (Mas Miró) from Creation in Space of Joan Miró
 ,#1997.025,Montroig's Studio (Mas Miró) from Creation in Space of Joan Miró
 ,#1997.031,Montroig's Studio (Mas Miró) from Creation in Space of Joan Miró
-,#1997.033,"Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
-,#1997.034,Studio in Palma de Mallorca from Creation in Space of Joan Miró
 ,#1997.036,Montroig's Studio (Mas Miró) from Creation in Space of Joan Miró
 ,#1997.037,Montroig's Studio (Mas Miró) from Creation in Space of Joan Miró
 ,#1997.039,Montroig's Studio (Mas Miró) from Creation in Space of Joan Miró
+,#1972.024,Moonlight Evening at Takanawa (Takanawa tsuki no yube)
+,#1978.073,"Morokoshi Kinmo Zui (Illustrated Encyclopedia on China), Volumes 6 through 8 of 14 (bound together)"
+,#1988.028,Mother and Child
+,#1969.016,"Mount Yoshisaki, from an illustrated Buddhist history"
+,#1992.251,Mu (Nothingness)
+,#1992.331,"New Year's Greeting, Year of the Ox"
+,#1978.103a,"Nihon Mohitsu Gacho (Nippon Paintbrush Picture Album), Volume 1"
+,#1957.041,Norham Castle on the Tweed
 ,#1997.043,"Objects, from Creación Miró 1961"
+,#1978.082,"Ogura Hyakushu Ruidai Hanashi (stories with the poems of Hyakunin Isshu taken as the titles), Volume 2 of 3"
 reversed,#1997.044,"Old Olive Trunk, from Atmósfera Miró"
+,#1978.099,"Oranda Sanbutsu Ko, Volumes 2 and 3"
+,#1978.064,Oson Gafu (Album of Pictures by Oson)
+reversed,#1992.258,"Page With Hair Ornaments, Combs, and Footware"
+reversed,#1978.027,Panel from a triptych of Kabuki actors enjoying a summer evening in Kyoto
+OK,#2014.049,"Parco degli Aquedotti, Rome"
+,#1956.012,Pax
+,#1969.018,Pink Shift
+,#1956.022,"Pipe Bird or Hunting Birds, from a series of seventeen works entitled ""Pastorales"" after Jacques Stella (1596-1657)"
+,#1979.0952P,"Plate 15 from Bals Masqués (The Masked Balls) Fourth suite, 1859 —Comment, une femme qui se respecte peut-elle venir ici déguisée en débardeur!… —T’es encore bien déguisée que moi, puisque tu t’es mise en femme du monde!…"
+,#1957.009,"Plate 94 from Caricaturana (Characters);  as published in Le Charivari, October 18, 1838"
+,#1967.003,Printed leaf from a Book of Hours
+3D reversed,#1996.178,"Printing block containing Confucian text, book 21, pages 29-30"
+,#1964.015,Quaker Bridge
+reversed,#1980.061,Red Bird
+reversed,#1996.051,Redwall
+reversed,#1957.002,"Rialto, Venice"
+,#1979.1197P,Ringling Bros and Barnum & Bailey; The Greatest Show on Earth
+,#1992.002,Rooster (New Year's Painting)
+3D,#1996.198,Round lidded box with design of flowers
+,#1978.166,Saiken
+,#1957.005,Sardine Fleet at Anchor
+,#1978.129,"Sayo Arashi, Volume 6"
+reversed,#1978.098,"Sayoarashi, Volume 10"
+,#1956.023,Shepherds pursuing a wolf that has captured a sheep
+,#1978.122,Shibai Nendaiki
+,#1978.097,Shichifukujin Daisuten (Seven Gods of Good Fortune)
+,#1978.126,Shin Ryakuga (sketch)
+,#1978.164,Shinzo E Ruiko (Ukiyo E Ruiko)
+,#1978.168,Sho Shiki Gakan (Writing Instructions )
+,#1978.121,Sketches of Animals
+,#1957.004,Snow Scene - Little Bridge
+,#1978.135,"Soga Kamakura Hikyaku, Volume 5"
+,#1997.018,"Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
+,#1997.033,"Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
+,#1997.019,"Son Boter (Miró's property), Palma de Mallorca. An image related to Creation in Space of Joan Miró."
+,#1970.023,Spring
+,#1964.002,Spring Garden Bridge
+,#1999.052,Studie 288
+,#1997.034,Studio in Palma de Mallorca from Creation in Space of Joan Miró
+,#1997.008,"Studio of Miró in the Pasaje del Crédito, Barcelona, An image related to Creation in Space of Joan Miró."
+,#1997.006,"Studio of Miró in the Pasaje del Crédito, Barcelona, from Creation in Space of Joan Miró"
+,#1997.015,"Studio of Palma de Mallorca, from Creation in Space of Joan Miró"
+,#1996.170a-c,Teahouse (part 4)
+,#1978.127,Tenkoki
+,#1964.003,"The Captain's House, Fort Nashboro, Restoration"
+reversed,#1997.155,The Cow Drinking
+,#1956.025,The Dance
+,#1980.062,The Death of Hector
+reversed,#1957.003,The Four Horsemen
+,#1979.1180P,The Girl on the Land Serves the Nation's Need; apply Y.W.C.A. Land Service Committee
+,#1956.024,The Harvest
+,#1956.041,"The Holy Family, after Frans Floris I (1519/20-1570)"
+reversed,#2009.003l,"The Mad Woman (Vignette), from Crime and Punishment, Part 5 by Fyodor DostoevskyFrom: Fritz Eichenberg, artist of the book : 248 selected wood engravings, 1938-1972, a portfolio edition of illustrations from twelve works of literature, 1979."
+,#1997.016,"The Sculpture ""The Hayfork"" Taking Form in Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
+,#1970.014,The Trials of Job
+,#1956.042,"The Virgin, Christ Child, and St. John"
+,#1957.033,The White Mill
+,#1978.118,Title unknown (subject is about Korean people)
+,#1997.156,Todeskampf (Throes of Death)
+reversed,#2015.018,"Tommy and James, from the series, I Am Unbeatable"
+,#1978.109,Torii Ga Keifu (Family Tree of Torii School)
+,#1978.062,Toto Nijushi-ko (The Twenty-Four Chinese Paragons of Filial Piety)
+reversed,#2012.013,"Tribeca's Heroes, from the series Tribeca, 10013"
+reversed,#1995.006,Two monkeys and cherry blossoms
+,#1969.017,Two to Go!
+,#1978.158,Ukiyo E Ruiko
+,#1978.159,Ukiyo E Ruiko
+,#1985.007,Underneath It All
+,#1978.114,Unknown
+,#1988.034,Unknown
+,#1979.0629P,Untitled
+,#1989.033,Untitled
+reversed,#1996.041,Untitled
+reversed,#1996.081,Untitled
+reversed,#1996.126,Untitled
+reversed,#1996.156,Untitled
 ,#1997.099,Untitled
 ,#1997.102,Untitled
 ,#1997.103,Untitled
@@ -81,182 +236,26 @@ reversed,#1997.105,Untitled
 ,#1997.106,Untitled
 ,#1997.107,Untitled
 ,#1997.118,Untitled
-reversed,#1997.155,The Cow Drinking
-,#1997.156,Todeskampf (Throes of Death)
-,#1998.007,"American Pop Culture Gallery, Big Cat Press Artists: Tony Fitzpatrick, Diana Sudyka, Teresa Mucha"
 ,#1999.027,Untitled
 ,#1999.028,Untitled
-,#1999.052,Studie 288
-,#1999.063c,3 Proyectos
 ,#1999.071,Untitled
 ,#1999.097,Untitled
 ,#1999.099,Untitled
 ,#1999.101,Untitled
 ,#1999.105,Untitled
 ,#1999.127,Untitled
-reversed,#1999.143,Backdrops Circa 1940s
-,#1979.0952P,"Plate 15 from Bals Masqués (The Masked Balls) Fourth suite, 1859 —Comment, une femme qui se respecte peut-elle venir ici déguisée en débardeur!… —T’es encore bien déguisée que moi, puisque tu t’es mise en femme du monde!…"
-,#1979.1180P,The Girl on the Land Serves the Nation's Need; apply Y.W.C.A. Land Service Committee
-,#1979.1197P,Ringling Bros and Barnum & Bailey; The Greatest Show on Earth
-,#1980.015,Jeune Fille
-OK,#1980.021,Appleman
-,#1980.056,Horse's Head
-,#1980.059,Antony and Cleopatra
-,#1980.060a,An African Folktale: Why the Sun and the Moon Live in the Sky
-,#1980.060b,An African Folktale: Why the Sun and the Moon Live in the Sky
-,#1980.060g,An African Folktale: Why the Sun and the Moon Live in the Sky
-,#1980.060h,An African Folktale: Why the Sun and the Moon Live in the Sky
-,#1980.060n,An African Folktale: Why the Sun and the Moon Live in the Sky
-,#1980.060q,An African Folktale: Why the Sun and the Moon Live in the Sky
-,#1980.060r,An African Folktale: Why the Sun and the Moon Live in the Sky
-reversed,#1980.061,Red Bird
-,#1980.062,The Death of Hector
+reversed,#2015.038z,"Untitled, from American Abstract Artists 75th Anniversary Print Portfolio"
 ,#1981.024c,"Untitled, from Ten Variations"
 ,#1981.024d,"Untitled, from Ten Variations"
 ,#1981.024e,"Untitled, from Ten Variations"
 ,#1981.024g,"Untitled, from Ten Variations"
 ,#1981.024i,"Untitled, from Ten Variations"
-reversed,#1983.014,Illuminated leaf from a Book of Hours:  St. Margaret and the Dragon
-,#1984.013,Homeostasis
-,#1985.007,Underneath It All
-,#1986.019,Last Supper
-,#1988.027,Winter Wood
-,#1988.028,Mother and Child
-reversed,#1988.031,Horse with three men
-,#1988.034,Unknown
-,#1989.033,Untitled
-,#1989.037a,"Castelldefels, from Fotografias de los Anõs 40, Volumen I"
-,#1989.037c,"Lloret de Mar, from Fotografias de los Anõs 40, Volumen I"
-3D not artists books,#1991.003,Incense Burner
-,#1992.002,Rooster (New Year's Painting)
-,#1992.086,"An Honorable, Serpentine Death in Shido Bay, from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)"
-,#1992.146,Women and Children Admiring Plum Blossoms (two of three prints from a triptych)
-,#1992.251,Mu (Nothingness)
-reversed,#1992.258,"Page With Hair Ornaments, Combs, and Footware"
-,#1992.296,Cloth Stencil
-,#1992.301,Cloth Stencil with Pattern of Squares with Various Designs
-,#1992.306,Cloth Stencil with a Design of Hanging Gourds and Vines
-,#1992.309,Cloth Stencil with a Design of Leaf Patterns (Tree Foliage)
-,#1992.331,"New Year's Greeting, Year of the Ox"
-,#1992.408,Cloth Stencil with a Bold Pattern and Bead-Like Lines on a Background of Small Starbursts
-,#1992.423,Cloth Stencil with a Design of Pine Needles and Rectangular Objects
-,#1992.434,Cloth Stencil with a Design of Ivy Leaves
-reversed,#1957.003,The Four Horsemen
-,#1957.004,Snow Scene - Little Bridge
-,#1957.005,Sardine Fleet at Anchor
-,#1957.009,"Plate 94 from Caricaturana (Characters);  as published in Le Charivari, October 18, 1838"
-,#1957.016,Little Auk
-,#1957.031,Camborne Rd. or Cornish Landscape No. 3
-,#1957.033,The White Mill
-,#1957.041,Norham Castle on the Tweed
-,#1957.044,Family Doctor
-,#1964.001,"A Summer Home in Chautauqua, NY"
-,#1964.002,Spring Garden Bridge
-,#1964.003,"The Captain's House, Fort Nashboro, Restoration"
-,#1964.015,Quaker Bridge
-,#1964.017,Green Sergeant's Bridge
-,#1965.017,"Astronomes parisiens observant la Comète (Paris Astronomers Observing a Comet), published in Le Charivari, September 3, 1853"
-,#1967.003,Printed leaf from a Book of Hours
-,#1969.016,"Mount Yoshisaki, from an illustrated Buddhist history"
-,#1969.017,Two to Go!
-,#1969.018,Pink Shift
-reversed,#1969.021,A Harlot's Progress: The Quarrel with Her Jew Protector
-,#1969.022,A Harlot's Progress: Apprehended by a Magistrate
-,#1969.024,"A Harlot's Progress: She Expires, While the Doctors are Quarreling"
-,#1969.026,A Rake's Progress: The Young Heir Takes Possession of the Miser's Effects
-,#1969.027,A Rake's Progress: Surrounded by Artists and Professors
-,#1969.028,A Rake's Progress: The Tavern Scene
-,#1969.029,A Rake's Progress: Arrested for Debt
-,#1969.031,A Rake's Progress: Scene in a Gambling House
-,#1969.032,A Rake's Progress: The Prison Scene
-,#1969.033,A Rake's Progress: Scene in a Madhouse
-,#1970.014,The Trials of Job
-,#1970.023,Spring
-,#1970.024,Winter
-OK,#1970.053,Dancing Couple
-reversed,#1971.009,Conception
-,#1971.022,Copy of a Rubens Self-Portrait
-,#1971.033,Diversa Animalia Quadrupedia
-,#1971.065,Barn and Snow Scene
-,#1972.024,Moonlight Evening at Takanawa (Takanawa tsuki no yube)
-reversed,#1978.027,Panel from a triptych of Kabuki actors enjoying a summer evening in Kyoto
-,#1978.047,"Yesan Tokonoyama (Tokonoyama, The Poetical Expression of Pictures), Volume 2 of 5"
-,#1978.048,Ehon Totoe-gusa (The Illustrated Book of Fables)
-,#1978.061,"Kaido Kyoka Awase (Comparision of Comic Poems on the Highway), Volume 2 of 2; illustrations for poems in Volume 1"
-,#1978.062,Toto Nijushi-ko (The Twenty-Four Chinese Paragons of Filial Piety)
-,#1978.063,Artist's sketchbook
-,#1978.064,Oson Gafu (Album of Pictures by Oson)
-reversed,#1978.065,Artist's sketchbook with figure sketches
-,#1978.066,Artist's sketchbook
-,#1978.067,"Artist's sketchbook with large figures and small landscapes, Volume 7"
-,#1978.069,Kyochuzan (Mountains of the Heart)
-,#1978.071,"Kyo Warabe (Kyoto Boys), Volume 6 of 6"
-,#1978.072,Itso Hyakutai (A Hundred Figures in a Single Sweep)
-,#1978.073,"Morokoshi Kinmo Zui (Illustrated Encyclopedia on China), Volumes 6 through 8 of 14 (bound together)"
-,#1978.074,"Kaigwai Jinbusto Shoden (Lives of Men of the Other Side of the Sea), five volumes"
-,#1978.075,Bunpo Gafu (The Album of Drawings of Bunpo)
-,#1978.076,Bunpo Kanga (Chinese Style Drawings by Bunpo)
-,#1978.077,"Ehon-Asa Murasaki (The Picture Book, Light Purple), Volume 2 of 2"
-,#1978.082,"Ogura Hyakushu Ruidai Hanashi (stories with the poems of Hyakunin Isshu taken as the titles), Volume 2 of 3"
-,#1978.087,Fukaku Ayumi Hajime
-,#1978.095,Gahon Shobai Orai (Drawing Business Traffic)
-,#1978.096,Gion Kaizu (Pictures of Ceremonial Carriages)
-,#1978.097,Shichifukujin Daisuten (Seven Gods of Good Fortune)
-reversed,#1978.098,"Sayoarashi, Volume 10"
-,#1978.099,"Oranda Sanbutsu Ko, Volumes 2 and 3"
-,#1978.102,"Ehon Sen Moto, Volume 3"
-,#1978.103a,"Nihon Mohitsu Gacho (Nippon Paintbrush Picture Album), Volume 1"
-,#1978.104,Kozo Shiso
-,#1978.106,Bankoku Jinbutsu Ezu (International Costumes or People types)
-,#1978.109,Torii Ga Keifu (Family Tree of Torii School)
-,#1978.114,Unknown
-,#1978.116,Harikae Andon
-,#1978.118,Title unknown (subject is about Korean people)
-,#1978.121,Sketches of Animals
-,#1978.122,Shibai Nendaiki
-,#1978.124,Jitpeishya Ikku Hizakurige
-,#1978.126,Shin Ryakuga (sketch)
-,#1978.127,Tenkoki
-,#1978.128,Kintoki Shutse Oogi
-,#1978.129,"Sayo Arashi, Volume 6"
-,#1978.131,Chushin Renri No Hachiue
-,#1978.135,"Soga Kamakura Hikyaku, Volume 5"
-,#1978.141,Hanano Edo Kabuki Nendai Ki
-,#1978.142,"Contains comic poem Ritka Tei Kofan, Volume 2 or 3"
-,#1978.145,Miyako E Makan
-,#1978.149,Gendei Asahi No Gunbai
-reversed,#1978.151,Book with accordian folds
-,#1978.153,Kyoga Shu with accordion folding pages
-,#1978.155,Yoshiwara Saiji  Ki Jiji Daiko
-,#1978.156,"Komo Zatsuwa, Volume 2"
-,#1978.158,Ukiyo E Ruiko
-,#1978.159,Ukiyo E Ruiko
-,#1978.162,Zoho Ukiyo E Ruiko
-,#1978.164,Shinzo E Ruiko (Ukiyo E Ruiko)
-,#1978.166,Saiken
-,#1978.168,Sho Shiki Gakan (Writing Instructions )
-,#1979.0004,Dwarf with Crutch
-,#1979.0095,Gordian Gill
-,#1979.0238P,An Artist's Studio
+,#1997.021,"Various Objects in Son Boter (Miró's property), Palma de Mallorca, from Creation in Space of Joan Miró"
 ,#1979.0268P,Visiting the Poor
-,#1979.0296P,Madonna in Clouds (copy of Madonna and Child with Music Making Angels by Correggio)
-,#1979.0298P,Landscape of Greece
-,#1979.0333P,E.P.: It is Pitiable
-,#1979.0385P,"La Madeleine, Paris"
-,#1979.0389P,La Cour du Dragon
-,#1979.0629P,Untitled
-reversed,#1979.0640P,Greek Dancers
-,#1979.0739P,L'Areuvian Placa (The Drinking Place)
-reversed,#1979.0810P,Half-Figure Man
-,#1956.012,Pax
-,#1956.022,"Pipe Bird or Hunting Birds, from a series of seventeen works entitled ""Pastorales"" after Jacques Stella (1596-1657)"
-,#1956.023,Shepherds pursuing a wolf that has captured a sheep
-,#1956.024,The Harvest
-,#1956.025,The Dance
-,#1956.041,"The Holy Family, after Frans Floris I (1519/20-1570)"
-,#1956.042,"The Virgin, Christ Child, and St. John"
-,#1956.042,"The Virgin, Christ Child, and St. John"
-,#1956.046,David and Goliath
-,#1956.052,Martyrdom of Saints Peter and Paul
-,#1956.057,Chofu Crystal River in Musashi Province from the series Fashionable Beauties of the Green Houses at the Six Crystal Rivers
-reversed,#1957.002,"Rialto, Venice"
+,#1996.194,"Wakakusa, Album of bird studies"
+,#1970.024,Winter
+,#1988.027,Winter Wood
+,#1992.146,Women and Children Admiring Plum Blossoms (two of three prints from a triptych)
+,#1978.047,"Yesan Tokonoyama (Tokonoyama, The Poetical Expression of Pictures), Volume 2 of 5"
+,#1978.155,Yoshiwara Saiji  Ki Jiji Daiko
+,#1978.162,Zoho Ukiyo E Ruiko
