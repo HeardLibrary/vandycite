@@ -1,0 +1,24 @@
+{
+  "data_path": "",
+  "item_source_csv": "sandbox_items.csv",
+  "item_pattern_file": "",
+  "outfiles": [
+    {
+      "manage_descriptions": true,
+      "label_description_language_list": [
+        "en",
+        "es"
+      ],
+      "output_file_name": "artworks.csv",
+      "prop_list": [
+        {
+          "pid": "P18",
+          "variable": "image",
+          "value_type": "uri",
+          "qual": [],
+          "ref": []
+        }
+      ]
+    }
+  ]
+}
