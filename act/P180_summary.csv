@@ -1,345 +1,664 @@
 value,label,count
-Q302,Jesus,29
-Q467,woman,28
-Q8441,man,28
-Q10884,tree,7
-Q235113,angel,6
-Q1144593,sitting,6
-Q33923,Peter,6
-Q40662,John the Baptist,6
-Q345,Virgin Mary,6
-Q527,sky,6
-Q107425,landscape,5
-Q133507,Elijah,4
-Q199657,reading,4
-Q942467,Child Jesus,4
+Q467,woman,72
+Q302,Jesus,68
+Q8441,man,58
+Q345,Virgin Mary,39
+Q942467,Child Jesus,30
+Q3010,boy,22
+Q10884,tree,18
+Q235113,angel,17
+Q63070,Mary Magdalene,17
+Q33923,Peter,14
+Q527,sky,12
+Q40662,John the Baptist,12
+Q107425,landscape,11
+Q1144593,sitting,9
+Q571,book,8
+Q144,dog,8
+Q154326,Annunciation,7
+Q4991371,soldier,7
+Q6460735,meals,7
+Q726,horse,7
+Q7569,child,7
+Q14130,waist-length hair,7
+Q14748,table,7
+Q51636,Crucifixion of Jesus,7
+Q200539,dress,6
+Q7560,mother,6
+Q8074,cloud,6
+Q9077,Moses,6
+Q165,sea,6
+Q133507,Elijah,5
+Q161775,Stephen,5
+Q199657,reading,5
+Q642420,Christ,5
+Q998,baby,5
+Q4022,river,5
+Q148993,broad-leaved tree,4
+Q328804,John the Evangelist,4
+Q488841,Adoration of the Magi,4
+Q676555,Francis of Assisi,4
+Q691810,Visitation,4
+Q808132,barefoot,4
 Q1986098,standing,4
-Q4991371,soldier,4
-Q51636,Crucifixion of Jesus,4
-Q63070,Mary Magdalene,4
-Q3010,boy,4
-Q9077,Moses,4
+Q12888135,candle,4
+Q525,Sun,4
+Q3031,girl,4
+Q3947,house,4
+Q9181,Abraham,4
+Q15026,chair,4
+Q35473,window,4
+Q42177,bed,4
+Q51671,biblical Magi,4
+Q54050,hill,4
+Q80228,bottle,3
+Q164294,Saint Anne,3
+Q175185,rural area,3
 Q201097,basket,3
-Q691810,Visitation,3
+Q202466,blond hair,3
+Q217048,Baptism of Jesus,3
+Q219160,couple,3
+Q374192,aureola,3
+Q625140,Marriage at Cana,3
+Q660281,contre-jour,3
+Q732413,Esther,3
+Q838811,peasant,3
+Q1146001,light source,3
+Q2002752,headscarf,3
+Q2367101,brown hair,3
+Q2467856,Agony in the Garden,3
+Q3305213,painting,3
 Q3314483,fruit,3
-Q12888135,candle,3
-Q571,book,3
-Q998,baby,3
-Q3031,girl,3
-Q4022,river,3
-Q8074,cloud,3
-Q165,sea,3
+Q5004679,path,3
+Q6818501,the Lord appears to Abraham by the oaks of Mamre,3
+Q16334295,group of humans,3
+Q28532552,Judith,3
+Q7925,rain,3
+Q5,human,3
+Q35856,baptism,3
+Q42948,wall,3
+Q43600,Matthew the Apostle,3
+Q44015,John the Apostle,3
+Q48422,cadaver,3
+Q76768,shirt,2
 Q80151,hat,2
+Q81054,storm,2
+Q81989,Gabriel,2
+Q109607,ruins,2
+Q116887,décolletage,2
 Q128267,Joseph,2
+Q128538,Luke the Evangelist,2
+Q130768,smoke,2
+Q132397,pitcher,2
+Q132821,murder,2
 Q152357,red hair,2
-Q161775,Stephen,2
+Q154425,toe,2
+Q159862,Elizabeth of Hungary,2
+Q170984,crown,2
+Q174876,breastfeeding,2
 Q179962,Job,2
-Q200539,dress,2
-Q217048,Baptism of Jesus,2
-Q219160,couple,2
-Q235155,White people,2
+Q188869,field,2
+Q189233,throne,2
+Q191163,landscape art,2
+Q193777,stoning,2
+Q193897,paintbrush,2
+Q210723,chalice,2
+Q214617,Hagar,2
+Q235155,white people,2
+Q235544,flame,2
+Q235849,Elizabeth,2
 Q258896,banjo,2
 Q262135,Parable of the Prodigal Son,2
+Q273831,apron,2
 Q292242,Samaritan woman at the well,2
+Q295084,Nicodemus,2
 Q305718,abaya,2
-Q374192,aureola,2
-Q625140,Marriage at Cana,2
-Q808132,barefoot,2
-Q838811,peasant,2
+Q313216,Uzziah,2
+Q392371,Christian cross,2
+Q451841,Didacus of Alcalá,2
+Q468756,shore,2
+Q539890,Lazarus of Bethany,2
+Q661199,dining room,2
+Q671872,Isaac,2
+Q837143,Flight into Egypt,2
+Q851918,adoration,2
+Q939611,easel,2
 Q950667,Good Shepherd,2
-Q1862087,Aristocrat,2
-Q2002752,headscarf,2
+Q976765,Sisera,2
+Q1030008,Tamar,2
+Q1075310,sailboat,2
+Q1187930,bouquet,2
+Q1279269,chignon,2
+Q1358616,mortification of the flesh,2
+Q1370497,Ahasuerus,2
+Q1416685,rampart,2
+Q1420024,fishing vessel,2
+Q1698874,Child Saint John,2
+Q1862087,prisoner,2
+Q1996453,Balthazar,2
+Q2460567,turban,2
+Q2857578,thunderstorm,2
+Q2998430,interior,2
+Q3235597,crucifixion,2
 Q3399907,crock,2
-Q6460735,meals,2
+Q4575936,lamb,2
 Q6578319,malleolus,2
-Q34038,waterfall,2
-Q35473,window,2
-Q35831,sleep,2
-Q35856,baptism,2
-Q36794,door,2
-Q40357,prison,2
-Q48422,cadaver,2
-Q54050,hill,2
 Q6605722,Widow of Zarephath,2
 Q8122413,Pilate's court,2
+Q9309699,Madonna and Child,2
+Q13430821,crowd,2
 Q15719234,bird's wing,2
-Q16334295,group of humans,2
+Q15978441,coif,2
+Q22085061,sower,2
+Q65477437,Return of the Prodigal Son,2
 Q405,Moon,2
-Q525,Sun,2
+Q506,flower,2
+Q523,star,2
 Q575,night,2
 Q638,music,2
-Q726,horse,2
 Q1313,summer,2
 Q2095,food,2
-Q3947,house,2
+Q2102,snake,2
 Q4421,forest,2
-Q7569,child,2
+Q5113,bird,2
+Q7561,snow,2
+Q7802,bread,2
+Q8436,family,2
+Q8918,Ursa Major,2
+Q9604,human skull,2
+Q10791,nudity,2
+Q10978,grape,2
+Q11460,clothing,2
 Q11639,dance,2
-Q14130,long hair,2
+Q12511,stairs,2
+Q12791,sword,2
 Q16970,church building,2
 Q19014,Garden of Eden,2
+Q20460,crucifix,2
+Q22724,Ovis,2
+Q23640,head,2
+Q25294,hammer,2
 Q27939,singing,2
-Q5,human,2
+Q31966,Mark the Evangelist,2
 Q89,apple,2
+Q140,lion,2
+Q33767,hand,2
+Q34038,waterfall,2
+Q34379,musical instrument,2
+Q35197,mirror,2
+Q35831,sleep,2
+Q36794,door,2
+Q37302,Holy Spirit,2
+Q37501,eyeglasses,2
+Q40357,prison,2
+Q43412,Apostle,2
+Q43436,pearl,2
+Q43483,well,2
+Q43801,umbilicus,2
+Q44091,Saint Dominic,2
+Q48438,Saint George,2
+Q51625,Salvator Mundi,2
+Q54128,domestic worker,2
 Q70899,Adam,1
 Q71516,dromedary,1
+Q72303,Mount Ararat,1
 Q79007,street,1
-Q80228,bottle,1
-Q81054,storm,1
+Q81166,mustard gas,1
+Q81422,Noah,1
 Q81710,shepherd,1
 Q81938,pain,1
-Q81989,Gabriel,1
+Q82117,city gate,1
+Q83360,thumb,1
 Q93189,egg,1
 Q103459,livestock,1
-Q109607,ruins,1
+Q105173,YHWH,1
+Q105674,running,1
+Q109920,Jotham of Judah,1
+Q116926,Holy Face of Jesus,1
 Q118322,involuntary manslaughter,1
 Q118382,slavery in the United States,1
 Q119814,regalia,1
 Q124362,Noli me tangere,1
+Q125356,saw,1
+Q126553,Noah's Ark,1
 Q128758,satire,1
 Q130704,Denial of Peter,1
 Q130912,scythe,1
+Q131316,Ark of the Covenant,1
 Q131704,sandal,1
-Q132397,pitcher,1
-Q132821,murder,1
+Q132413,Hodegetria,1
 Q133704,Martin of Tours,1
 Q134566,weighing scale,1
+Q139464,Zachary,1
+Q139792,Zacchaeus,1
 Q146911,Cupressus,1
-Q148993,broad-leaved tree,1
+Q150784,canyon,1
 Q152771,Presentation of Jesus at the Temple,1
 Q153126,part,1
+Q153988,bowl,1
 Q154038,cookware and bakeware,1
-Q154326,Annunciation,1
-Q154425,toe,1
 Q157017,Magnolia,1
 Q157188,usury,1
 Q158825,Jeremiah,1
+Q160020,shadow,1
+Q160131,baker,1
 Q162691,Assumption of Mary,1
 Q164441,Larin Paraske,1
 Q165192,Swedes,1
+Q165308,pumpkin,1
+Q167633,clog,1
+Q168456,earring,1
+Q168639,ladder,1
+Q170477,chimney,1
+Q170483,sailing ship,1
+Q170571,still life,1
+Q170774,miracle,1
+Q171497,sunflower,1
 Q171724,Daniel,1
 Q172833,broom,1
 Q173453,wind instrument,1
-Q174876,breastfeeding,1
-Q175185,rural area,1
+Q174782,square,1
+Q179226,equestrianism,1
+Q179723,sacrifice,1
+Q180141,Sodom and Gomorrah,1
 Q180733,lute,1
+Q180989,Jane Addams,1
 Q183272,frieze,1
-Q187947,score,1
-Q188869,field,1
+Q184569,Plagues of Egypt,1
+Q186350,God the Father,1
+Q187947,sheet music,1
 Q188913,plantation,1
-Q189233,throne,1
 Q189466,Bighorn sheep,1
 Q189698,Leonids,1
+Q189829,hermit,1
 Q190507,hope,1
 Q191089,old age,1
 Q191808,nun,1
+Q191851,vase,1
+Q192816,Saint Barbara,1
+Q193776,Philistines,1
+Q193888,mitre,1
 Q193893,capital,1
-Q193897,paintbrush,1
+Q194808,Sara,1
 Q201022,folk dance,1
 Q201129,lyre,1
-Q202466,blond hair,1
+Q201201,Transfiguration of Jesus,1
+Q201664,bracelet,1
+Q201714,tunic,1
+Q202135,Book of Wisdom,1
+Q203788,chariot,1
+Q204776,bench,1
+Q204933,decapitation,1
 Q205333,Gethsemane,1
 Q205523,Zipporah,1
+Q206238,Elisha,1
 Q207174,personification,1
+Q207389,Rachel,1
+Q207763,rolling pin,1
 Q208021,walnut,1
-Q210723,chalice,1
+Q210064,lighting,1
+Q210564,Michael VII Doukas,1
 Q210999,psychiatric hospital,1
+Q211775,pulpit,1
 Q212198,pub,1
+Q213449,eating,1
 Q213753,harvest,1
+Q214648,Samson,1
 Q221507,Saint-Rémy-de-Provence,1
 Q223720,"Jesus, King of the Jews",1
 Q232453,Martha,1
 Q235356,carriage,1
-Q235849,Elizabeth,1
+Q236371,orchard,1
 Q239058,Mary of Bethany,1
 Q245230,Jesus among the doctors,1
 Q250867,Catholic priest,1
 Q254106,Crimean War,1
 Q256020,inn,1
 Q270952,cold,1
-Q273831,apron,1
+Q272937,treasure,1
+Q274393,bakery,1
 Q284865,putto,1
-Q295084,Nicodemus,1
+Q289957,Jacob,1
+Q290936,Étretat,1
+Q314700,Joachim,1
 Q316599,Saint Maurice,1
-Q328804,John the Evangelist,1
+Q334001,Thomas Cole,1
+Q337481,overcoat,1
 Q345127,robe,1
+Q349185,wrinkle,1
+Q361636,Amnon,1
 Q362021,Eli,1
 Q376724,bandage,1
+Q377485,Mount Sinai,1
+Q379648,Connecticut River,1
+Q390001,pastoral,1
 Q392302,Gospel of Matthew,1
-Q392371,Christian cross,1
+Q412770,infant bed,1
+Q422666,understory,1
 Q425548,palette,1
-Q451841,Didacus of Alcalá,1
-Q468756,shore,1
+Q461585,orb,1
+Q472773,Four Evangelists,1
 Q476516,Rouen Cathedral,1
+Q483453,fountain,1
 Q483501,artist,1
-Q488841,Adoration of the Magi,1
+Q485027,body armor,1
 Q496380,icicle,1
 Q504721,Grande Armée,1
-Q539890,Lazarus of Bethany,1
+Q508571,Philip the Evangelist,1
+Q516992,cloak,1
+Q536168,tablecloth,1
 Q548320,Catholic friar,1
+Q570868,Hebrews,1
 Q588300,New England's Dark Day,1
 Q595942,aerial perspective,1
+Q608632,Veil of Veronica,1
 Q616837,Sarepta,1
+Q618057,Holy Family,1
+Q620207,Finger,1
+Q623558,Oude Kerk,1
+Q625231,feeding the multitude,1
 Q625236,Calming the storm,1
+Q625241,Miraculous catch of fish,1
+Q626066,banquet,1
 Q626510,blessing,1
 Q630566,Catskill Mountains,1
 Q639669,musician,1
-Q642420,Christ,1
 Q643352,grass,1
+Q650711,combat,1
 Q652122,sewing,1
-Q661199,dining room,1
-Q671872,Isaac,1
-Q676555,Francis of Assisi,1
+Q680586,bread trough,1
 Q680928,guard,1
 Q686982,Ruokolahti Church,1
+Q696809,palm branch,1
 Q720106,scroll,1
 Q721221,serpent,1
 Q733786,monk,1
+Q745332,surplice,1
 Q746628,studio,1
 Q757022,sett,1
+Q798436,bakehouse,1
+Q811646,tree stump,1
+Q821952,oil lamp,1
 Q828361,mop,1
 Q830183,Eve,1
-Q837143,Flight into Egypt,1
+Q840339,Rich man and Lazarus,1
+Q849829,cope,1
+Q851782,tableware,1
+Q857037,preaching,1
 Q876082,sole,1
+Q904653,fruit tree,1
+Q906066,service of worship,1
 Q916292,scribe,1
-Q939611,easel,1
+Q927207,Parable of the Hidden Treasure,1
+Q937827,Delilah,1
+Q942900,chin curtain,1
+Q954820,Yael,1
 Q972213,Christ in Majesty,1
 Q1028181,painter,1
-Q1030008,Tamar,1
+Q1029715,Adoration of the shepherds,1
 Q1064858,desk,1
-Q1075310,sailboat,1
+Q1079524,specular reflection,1
+Q1104153,canon,1
 Q1138737,lamp,1
-Q1187930,bouquet,1
+Q1140484,Tree of Jesse,1
+Q1150958,play,1
 Q1191044,The Beast,1
+Q1240660,Donatien de Reims,1
+Q1245089,promontory,1
+Q1251541,Oriental rug,1
 Q1269132,The Little Children,1
 Q1286517,natural landscape,1
+Q1299240,interior space,1
+Q1315822,Mount Desert Island,1
 Q1340307,toddler,1
+Q1352058,Juan de Pareja,1
 Q1361380,Erotes,1
+Q1374017,Ethiopian eunuch,1
 Q1378555,mixed race people,1
+Q1404150,crag,1
+Q1412773,Tobias,1
+Q1416076,Sahurs,1
+Q1564479,disciple whom Jesus loved,1
+Q1582987,Pardon,1
+Q1609983,tent peg,1
 Q1639239,hatter,1
-Q1698874,Child Saint John,1
+Q1644573,pilgrimage,1
+Q1650142,ironing,1
 Q1723884,cannonball,1
+Q1752472,hatchment,1
+Q1821239,Day of Judgment,1
+Q1841497,The Vine,1
 Q1865281,whale,1
+Q1902319,île de la Jatte,1
+Q1968442,donor,1
 Q2033105,Flagellation of Christ,1
+Q2042028,ravine,1
 Q2107098,Alpilles,1
+Q2115611,Psalm 137,1
+Q2142074,windthrow,1
+Q2160801,skirt,1
+Q2191986,elderly people,1
+Q2207370,seat,1
+Q2222164,Saint Dominic,1
+Q2224149,Sara,1
 Q2262288,blindfold,1
+Q2268776,lying,1
 Q2282202,Seven bowls,1
+Q2293837,Damsel in distress,1
+Q2331055,Jesus' walk on water,1
 Q2364666,Sint-Odulphuskerk,1
-Q2460567,turban,1
-Q2467856,Agony in the Garden,1
+Q2409684,ewe,1
+Q2413314,jug,1
+Q2414609,religious painting,1
 Q2468262,Jonah,1
 Q2472587,people,1
+Q2546006,Keys of Heaven,1
 Q2703478,mirror image,1
 Q2724165,male toplessness,1
+Q2733634,John of Patmos,1
+Q2836947,animal feed,1
+Q2897058,bank,1
+Q2964910,Christ blessing,1
+Q2998471,folk costume of Brittany,1
 Q2998482,clothing in the ancient world,1
+Q2999575,maternal bond,1
+Q3039121,drapery,1
+Q3062478,Melchior,1
 Q3113314,Grains,1
+Q3155356,lamentation of Christ,1
 Q3172759,traditional costume,1
-Q3235597,crucifixion,1
-Q3305213,painting,1
+Q3306661,anguish,1
+Q3321866,Mount Holyoke,1
 Q3328263,pavement,1
+Q3373687,winter landscape,1
+Q3381914,periorbital puffiness,1
 Q3390934,Holy Wounds,1
+Q3395383,agricultural land,1
+Q3421342,stripe,1
+Q3499259,"clothed female, naked male",1
+Q3537778,donkey,1
 Q3575260,bijou,1
+Q3819001,Nicasius of Sicily,1
+Q3839081,disaster,1
+Q3937194,Raising of Lazarus,1
 Q3991168,Tichel,1
+Q4015942,calling of the disciples,1
 Q4063215,quill,1
+Q4259259,canvas,1
 Q4342445,stole,1
 Q4489450,heaven,1
 Q4859409,Burning of Parliament,1
+Q5060555,farmworker,1
 Q5410500,faith,1
 Q5795909,cántaro,1
-Q33767,hand,1
-Q34168,Trapping,1
-Q34379,musical instrument,1
-Q34442,road,1
-Q34623,The Ten Commandments,1
-Q35197,mirror,1
-Q37085,Solomon,1
-Q37302,Holy Spirit,1
-Q37501,eyeglasses,1
-Q39816,valley,1
-Q40050,drink,1
-Q40520,Rebecca,1
-Q41428,Rio de Janeiro,1
-Q41692,mule,1
-Q42236,Palm Sunday,1
-Q42537,flag of the United States,1
-Q42804,beard,1
-Q42948,wall,1
-Q43436,pearl,1
-Q43483,well,1
-Q43669,Thomas the Apostle,1
-Q44015,John the Apostle,1
-Q44020,Matthias,1
-Q44269,Saint Nicholas,1
-Q44539,temple,1
-Q48292,Arles,1
-Q48498,illuminated manuscript,1
-Q49085,African Americans,1
-Q49836,wedding,1
-Q51671,biblical Magi,1
-Q57216,plate,1
-Q58701,Adam and Eve,1
-Q58966,spinning wheel,1
-Q6818501,the Lord appears to Abraham by the oaks of Mamre,1
+Q5981362,Lot's daughters,1
+Q6495391,late modern period,1
+Q6597183,Armistice Day,1
+Q6958747,work,1
 Q7214166,grain harvest,1
+Q7321258,beacon,1
+Q7401079,Saint Caspar,1
 Q7588624,"St. John's Church, Saldus",1
+Q7755777,The Oxbow,1
+Q8265768,lower leg,1
 Q8734962,Tanum Church,1
+Q9235758,grandmother,1
 Q11241519,disciple,1
 Q11338576,boxer,1
+Q11748378,cow,1
+Q11868838,fall,1
+Q12059906,herder,1
+Q12737238,Orchid,1
 Q12773225,enslaved person,1
 Q13365963,Descent from the Cross,1
-Q13430821,crowd,1
+Q13425561,Ten thousand martyrs,1
+Q14167874,Artist's portfolio,1
 Q14260276,Twelfth Night,1
 Q14933103,Eliezer,1
 Q15361145,eating party,1
+Q15428064,Hieronymus Holzschuher,1
+Q15479103,folding stool,1
+Q15976349,church organ,1
+Q16741305,vespaio,1
+Q17373121,Porte d'Aval,1
+Q17457044,Edma Morisot,1
+Q17781833,destruction,1
 Q19983456,gaze towards the viewer,1
 Q20650523,brigand,1
-Q22085061,sower,1
+Q22158811,aiguille d'Étretat,1
+Q22671587,Blind-Kristian,1
+Q23581940,Saint Peter’s mother-in-law,1
+Q23619030,Joris van der Paele,1
+Q23641297,Nataraja,1
 Q27036662,Saint Martin sharing his cloak,1
-Q28532552,Judith,1
+Q28873546,The Seventeen Provinces of the Netherlands,1
+Q30090244,bear,1
 Q32945370,turtle,1
+Q43393537,dancing,1
 Q45841622,Pilate washing his hands,1
 Q47618747,beach of Pourville,1
 Q55426136,Ella Watson,1
 Q59211768,expulsion of Adam and Eve from paradise,1
-Q65477437,Return of the Prodigal Son,1
+Q59835134,cedar tree,1
+Q66459381,Christ washing the Disciples' feet,1
+Q66459437,Mary of Bethany anoints Christ's feet,1
+Q67801773,Marie Joséphine Cornélie Thomas,1
+Q321,Milky Way,1
+Q361,World War I,1
 Q515,city,1
-Q523,star,1
 Q602,Rhône,1
 Q728,weapon,1
+Q787,pig,1
 Q830,cattle,1
+Q1052,rainbow,1
+Q1218,Jerusalem,1
+Q1311,winter,1
+Q1312,spring,1
 Q1368,money,1
+Q1427,Hadrian,1
+Q1471,Seine,1
 Q1845,Bible,1
-Q5113,bird,1
+Q2977,cathedral,1
+Q3196,fire,1
+Q3992,Liège,1
+Q4006,map,1
+Q4817,column,1
+Q5463,Rocky Mountains,1
+Q5580,Albrecht Dürer,1
 Q6256,country,1
+Q6477,Pirna,1
 Q6691,Homer,1
 Q7163,politics,1
 Q7368,sheep,1
 Q7378,elephant,1
-Q7561,snow,1
+Q7559,dragon,1
+Q7860,nature,1
+Q7944,earthquake,1
 Q8018,Augustine of Hippo,1
 Q8063,rock,1
 Q8072,volcano,1
 Q8331,fox,1
-Q8918,Ursa Major,1
-Q9181,Abraham,1
+Q8335,raven,1
+Q8338,trumpet,1
+Q8502,mountain,1
+Q8853,Leo,1
+Q9128,light,1
+Q9200,Paul,1
+Q10289,barrel,1
+Q10294,poverty,1
 Q10856,Columbidae,1
 Q10874,blindness,1
-Q10978,grape,1
+Q10943,cheese,1
 Q11404,drum,1
+Q11410,game,1
 Q11446,ship,1
-Q11460,clothing,1
-Q12511,stairs,1
-Q12791,sword,1
+Q12277,arch,1
+Q12507,sphere,1
+Q13013,Regulus,1
 Q14080,Arecaceae,1
-Q15026,chair,1
 Q15083,northern giraffe,1
+Q15878,Normandy,1
+Q16363,shoulder,1
+Q16560,palace,1
 Q17131,Pontius Pilatus,1
-Q20460,crucifix,1
-Q23640,head,1
+Q23392,ice,1
 Q28823,textile,1
+Q29182,bishop,1
+Q30914,Ahaz,1
+Q31029,rope,1
+Q4,death,1
 Q91,Abraham Lincoln,1
 Q142,France,1
-Q140,lion,1
-Q144,dog,1
 Q155,Brazil,1
+Q152,fish,1
 Q190,God,1
+Q196,cherry,1
+Q33741,lightning,1
+Q34168,trapping,1
+Q34442,road,1
+Q34623,The Ten Commandments,1
+Q34640,English Channel,1
+Q36348,dream,1
+Q37083,Olea europaea,1
+Q37085,Solomon,1
+Q37260,writing,1
+Q37425,knee,1
+Q39816,valley,1
+Q40050,drink,1
+Q40080,beach,1
+Q40520,Rebecca,1
+Q40574,Lot,1
+Q40953,prayer,1
+Q41370,David,1
+Q41406,Edvard Munch,1
+Q41428,Rio de Janeiro,1
+Q41607,umbrella,1
+Q41692,mule,1
+Q41866,Justinian I,1
+Q42236,Palm Sunday,1
+Q42537,flag of the United States,1
+Q42804,beard,1
+Q43164,kitchen,1
+Q43399,Andrew the Apostle,1
+Q43669,Thomas the Apostle,1
+Q43689,Ambrose,1
+Q43999,"St. James the Elder, Apostle",1
+Q44020,Matthias,1
+Q44248,Jerome,1
+Q44269,Saint Nicholas,1
+Q44475,spear,1
+Q44539,temple,1
+Q45581,Michael the Archangel,1
+Q48292,Arles,1
+Q48498,illuminated manuscript,1
+Q49085,African Americans,1
+Q49186,Northampton,1
+Q49836,wedding,1
+Q51633,Last Supper,1
+Q57216,plate,1
+Q58701,Adam and Eve,1
+Q58966,spinning wheel,1
+Q60797,sermon,1
+Q62577,haystack,1
+Q62663,Willibald Pirckheimer,1
+Q76121765,Karl III Holzschuher,1

@@ -1,70 +1,127 @@
 value,label,count
-Q3305213,painting,333
-Q5,human,22
-Q20643955,human biblical figure,11
-Q1406161,artistic theme,7
-Q22704077,biblical episode,7
-Q22669139,fresco,5
-Q18761202,watercolor painting,4
-Q48498,illuminated manuscript,4
-Q860861,sculpture,3
-Q16970,church building,3
-Q46686,reredos,3
-Q93184,drawing,2
+Q3305213,painting,706
+Q5,human,44
+Q20643955,human biblical figure,19
+Q22669139,fresco,17
+Q860861,sculpture,11
+Q11060274,print,9
+Q18761202,watercolor painting,9
+Q93184,drawing,8
+Q1406161,artistic theme,8
+Q22704077,biblical episode,8
+Q48498,illuminated manuscript,8
+Q87167,manuscript,5
+Q179461,religious text,5
+Q16970,church building,5
+Q79218,triptych,4
+Q132137,icon,4
+Q1278452,polyptych,4
+Q15711026,altarpiece,4
+Q46686,reredos,4
+Q968159,art movement,3
+Q7725634,literary work,3
+Q11266439,Wikimedia template,3
+Q15727816,painting series,3
+Q16905563,cycle of paintings,3
+Q51631,miracles of Jesus,3
 Q125191,photograph,2
-Q132137,icon,2
-Q134194,fresco painting,2
+Q168827,prophet of Islam,2
+Q172896,catacombs,2
 Q179700,statue,2
-Q1278452,polyptych,2
-Q11060274,print,2
-Q16905563,cycle of paintings,2
+Q219423,mural,2
+Q727715,book of hours,2
+Q813323,Commentary on the Apocalypse,2
+Q839954,archaeological site,2
+Q2065736,cultural property,2
+Q3637297,Beatus manuscript,2
 Q18609875,tapestry series,2
-Q51631,miracles of Jesus,2
+Q29154430,book of the Bible,2
+Q30149195,biblical concept,2
+Q47461344,written work,2
+Q8362,miniature,2
 Q51632,parable of Jesus,2
 Q79141101,set of wall hangings,2
-Q79218,triptych,1
 Q108325,chapel,1
+Q120560,minor basilica,1
 Q123705,neighborhood,1
-Q168827,prophet of Islam,1
+Q162602,river island,1
+Q173253,sense,1
 Q179049,nature reserve,1
 Q184698,tithe barn,1
+Q207694,art museum,1
+Q220016,pike,1
+Q245117,relief sculpture,1
 Q337912,pilgrims' way,1
 Q371174,gesture,1
 Q386724,work,1
-Q475699,Way of St. James,1
-Q727715,book of hours,1
-Q968159,art movement,1
+Q429304,Marrakesh Menara Airport,1
+Q475476,diptych,1
+Q570116,tourist attraction,1
+Q690851,Gospel Book,1
+Q786753,personality type,1
+Q856314,Bible moralisée,1
+Q877358,United Nations Security Council resolution,1
 Q1064538,quilt,1
+Q1133779,Renaissance art,1
+Q1189541,Patriarchs,1
+Q1207505,quality,1
 Q1318295,narrative,1
 Q1324355,geopark,1
+Q1411766,predella,1
 Q1473346,stained glass,1
 Q1486662,GR footpath,1
 Q1538570,gospel choir,1
+Q1747829,notname,1
 Q1754581,Evangeliary,1
-Q1868072,Logia,1
+Q1759852,sculpture garden,1
+Q1784021,artwork copy,1
+Q1792644,art style,1
+Q1868072,logion,1
+Q2072238,archdiocese,1
 Q2087181,historic house museum,1
 Q2154519,astrophysical X-ray source,1
 Q2282251,seven-branched candlestick,1
+Q2293362,sculptural group,1
+Q2393196,personality trait,1
 Q2601788,votive offering,1
+Q2634521,title of Jesus,1
+Q2647254,study,1
 Q2910675,unfinished creative work,1
 Q3297186,limited series,1
 Q3317612,historic grouping,1
 Q3406098,Roman Catholic prayer,1
+Q4189293,rank,1
+Q4502119,art group,1
+Q4502142,visual artwork,1
 Q4671286,academic major,1
+Q10428845,narrative technique,1
+Q11269813,cave with prehistoric art,1
+Q11499334,religious doctrine,1
 Q11862829,academic discipline,1
 Q13414953,religious denomination,1
 Q14911880,Catholic seminary,1
 Q15123870,lithograph,1
-Q15711026,altarpiece,1
-Q15727816,painting series,1
+Q15169167,execution method,1
+Q16748867,basic emotion,1
+Q17152495,artwork original version,1
+Q17489659,group of works,1
+Q18593264,item of collection or exhibition,1
+Q18887969,copper engraving print,1
 Q19351429,a cappella group,1
 Q24398318,religious building,1
+Q28813620,set,1
 Q34760007,mythological ship,1
-Q47461344,written work,1
 Q54934129,African-American museum,1
 Q56242250,anglican or episcopal cathedral,1
-Q8362,illumination,1
+Q515,city,1
+Q2977,cathedral,1
+Q4022,river,1
+Q9415,emotion,1
 Q11276,globular cluster,1
-Q32880,architectural style,1
+Q16521,taxon,1
+Q39614,cemetery,1
 Q40953,prayer,1
-Q98088085,biblical topic,1
+Q44539,temple,1
+Q44613,monastery,1
+Q49634,liturgical comb,1
+Q55439,panel painting,1
