@@ -1,0 +1,1298 @@
+[
+  {
+    "qid": "Q105091625",
+    "label_en": "B.B. King In Person (Black text)",
+    "inventory_number": "2001.167",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Person"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Black"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "B.B. King"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091626",
+    "label_en": "B.B. King In Person (purple text)",
+    "inventory_number": "2001.156",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Person"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "B.B. King"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091627",
+    "label_en": "Bah! Design",
+    "inventory_number": "2000.058",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Bah"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bah",
+          "category": "name",
+          "confidence_score": 0.3246270716
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091628",
+    "label_en": "Banjovi, Bluegrass Explosion",
+    "inventory_number": "2000.053",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Banjovi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bluegrass Explosion"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Banjovi",
+          "category": "name",
+          "confidence_score": 0.4666374028
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091630",
+    "label_en": "BARCELONA '92:  Games of the XXV Olympiad Barcelona 1992",
+    "inventory_number": "1998.044",
+    "nlp": [
+      {
+        "label": "ORGANIZATION",
+        "string": "BARCELONA"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "XXV Olympiad"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "BARCELONA"
+      },
+      {
+        "label": "DATE",
+        "string": "1992"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "BARCELONA",
+          "category": "group",
+          "confidence_score": 0.593595624
+        },
+        {
+          "name": "XXV Olympiad Barcelona",
+          "category": "group",
+          "confidence_score": 0.5632660091
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091631",
+    "label_en": "BARCELONA '92:  Games of the XXV Olympiad Barcelona 1992",
+    "inventory_number": "1998.045",
+    "nlp": [
+      {
+        "label": "ORGANIZATION",
+        "string": "BARCELONA"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "XXV Olympiad"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "BARCELONA"
+      },
+      {
+        "label": "DATE",
+        "string": "1992"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "BARCELONA",
+          "category": "group",
+          "confidence_score": 0.593595624
+        },
+        {
+          "name": "XXV Olympiad Barcelona",
+          "category": "group",
+          "confidence_score": 0.5632660091
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091632",
+    "label_en": "BARCELONA 92:  Games of the XXV Olympiad Barcelona 1992",
+    "inventory_number": "1998.043",
+    "nlp": [
+      {
+        "label": "ORGANIZATION",
+        "string": "XXV Olympiad"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "92"
+      },
+      {
+        "label": "DATE",
+        "string": "1992"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "BARCELONA",
+          "category": "group",
+          "confidence_score": 0.8035004139
+        },
+        {
+          "name": "XXV Olympiad Barcelona",
+          "category": "group",
+          "confidence_score": 0.584798644
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091633",
+    "label_en": "Barcelona Blue #14 (Mountain Drawing)",
+    "inventory_number": "1996.073",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Barcelona"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Blue"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mountain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Barcelona Blue #"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Barcelona Blue",
+          "category": "group",
+          "confidence_score": 0.8553436399
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091634",
+    "label_en": "Barcelona Blue #7 (Mountain Drawing)",
+    "inventory_number": "1996.071",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Barcelona"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Blue"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mountain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Barcelona Blue #7"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Barcelona Blue",
+          "category": "group",
+          "confidence_score": 0.8863239884
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091635",
+    "label_en": "Barcelona Blue #8 (Mountain Drawing)",
+    "inventory_number": "1996.072",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Barcelona"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Blue"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mountain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Barcelona Blue #8"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Barcelona Blue",
+          "category": "group",
+          "confidence_score": 0.8720289767
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091636",
+    "label_en": "Barcelona Blue #9 (Mountain Drawing)",
+    "inventory_number": "1996.074",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Barcelona"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Blue"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mountain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Barcelona Blue #9"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Barcelona Blue",
+          "category": "group",
+          "confidence_score": 0.8726813197
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091637",
+    "label_en": "Barenaked Ladies",
+    "inventory_number": "2001.108",
+    "nlp": [],
+    "spacy": [],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091643",
+    "label_en": "Battle Scene from the Sino-Japanese War",
+    "inventory_number": "1972.048",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Battle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Scene"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Battle Scene"
+      },
+      {
+        "label": "NORP",
+        "string": "Sino-Japanese"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091644",
+    "label_en": "Be A Good Neighbor-Check Out John Hartford Live from Mountain Stage, Blue Plate Music - BPM-401",
+    "inventory_number": "2001.022",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "John Hartford Live"
+      },
+      {
+        "label": "GPE",
+        "string": "Mountain Stage"
+      },
+      {
+        "label": "PERSON",
+        "string": "Blue Plate Music"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Mountain Stage"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "John Hartford",
+          "category": "name",
+          "confidence_score": 0.8199299276
+        },
+        {
+          "name": "Mountain Stage",
+          "category": "place",
+          "confidence_score": 0.5873829424
+        },
+        {
+          "name": "Blue Plate",
+          "category": "place",
+          "confidence_score": 0.7538891733
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091645",
+    "label_en": "Beast, from The Marriage of Venus and Mars",
+    "inventory_number": "2016.004",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Beast"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Marriage of Venus"
+      },
+      {
+        "label": "PERSON",
+        "string": "Mars"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "The Marriage of Venus"
+      },
+      {
+        "label": "LOC",
+        "string": "Mars"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Marriage of Venus",
+          "category": "group",
+          "confidence_score": 0.7311982612
+        },
+        {
+          "name": "Mars",
+          "category": "group",
+          "confidence_score": 0.5033589005
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091646",
+    "label_en": "Bechtold (Dedicated book)",
+    "inventory_number": "1996.032",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Bechtold"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Dedicated"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Bechtold (Dedicated book"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bechtold",
+          "category": "name",
+          "confidence_score": 0.9135216475
+        },
+        {
+          "name": "Dedicated book",
+          "category": "group",
+          "confidence_score": 0.7519356608
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091647",
+    "label_en": "Ben Folds Five, Jude, May 30",
+    "inventory_number": "2000.031",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Ben"
+      },
+      {
+        "label": "PERSON",
+        "string": "Folds Five"
+      },
+      {
+        "label": "PERSON",
+        "string": "Jude"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Ben Folds"
+      },
+      {
+        "label": "PERSON",
+        "string": "Jude"
+      },
+      {
+        "label": "DATE",
+        "string": "May 30"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Ben Folds",
+          "category": "name",
+          "confidence_score": 0.9499144256
+        },
+        {
+          "name": "Jude",
+          "category": "name",
+          "confidence_score": 0.7599830031
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091648",
+    "label_en": "Ben Harper and the Innocent Criminals",
+    "inventory_number": "2001.122",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Ben"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Harper"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Innocent"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Ben Harper"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Ben Harper",
+          "category": "name",
+          "confidence_score": 0.9510113001
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091649",
+    "label_en": "Berkhampstead - Herts.",
+    "inventory_number": "1979.0131",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Berkhampstead"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Berkhampstead",
+          "category": "place",
+          "confidence_score": 0.4688213468
+        },
+        {
+          "name": "Herts",
+          "category": "group",
+          "confidence_score": 0.6593085527
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091650",
+    "label_en": "Best of the best showcase April 28,1999",
+    "inventory_number": "2000.012",
+    "nlp": [],
+    "spacy": [
+      {
+        "label": "DATE",
+        "string": "April 28,1999"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091651",
+    "label_en": "Bhutanese tangkha of Chenrazig, the Bodhisattva of Compassion",
+    "inventory_number": "2004.043",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Bhutanese"
+      },
+      {
+        "label": "GPE",
+        "string": "Chenrazig"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Bodhisattva"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Compassion"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Bhutanese"
+      },
+      {
+        "label": "GPE",
+        "string": "Chenrazig"
+      },
+      {
+        "label": "ORG",
+        "string": "the Bodhisattva of Compassion"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bhutanese",
+          "category": "place",
+          "confidence_score": 0.7677807212
+        },
+        {
+          "name": "Chenrazig",
+          "category": "place",
+          "confidence_score": 0.5543624163
+        },
+        {
+          "name": "Bodhisattva of Compassion",
+          "category": "group",
+          "confidence_score": 0.7430642049
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091652",
+    "label_en": "Bijou Theatre",
+    "inventory_number": "2001.092",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bijou"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Bijou Theatre"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bijou Theatre",
+          "category": "group",
+          "confidence_score": 0.6250170171
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091653",
+    "label_en": "BIll Kirchen and Too Much Full Featuring Johnny and Jack",
+    "inventory_number": "2001.153",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "BIll"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Kirchen"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Too"
+      },
+      {
+        "label": "PERSON",
+        "string": "Johnny"
+      },
+      {
+        "label": "PERSON",
+        "string": "Jack"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "BIll Kirchen"
+      },
+      {
+        "label": "ORG",
+        "string": "Too Much Full Featuring"
+      },
+      {
+        "label": "PERSON",
+        "string": "Johnny"
+      },
+      {
+        "label": "PERSON",
+        "string": "Jack"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "BIll Kirchen",
+          "category": "name",
+          "confidence_score": 0.8642571867
+        },
+        {
+          "name": "Johnny",
+          "category": "name",
+          "confidence_score": 0.5202775002
+        },
+        {
+          "name": "Jack",
+          "category": "name",
+          "confidence_score": 0.6613280177
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091654",
+    "label_en": "Bill Monroe Live From Mountain Stage",
+    "inventory_number": "2000.025",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bill"
+      },
+      {
+        "label": "PERSON",
+        "string": "Monroe Live"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Bill Monroe Live"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bill Monroe",
+          "category": "name",
+          "confidence_score": 0.9414973557
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091655",
+    "label_en": "Birds and Pine Tree",
+    "inventory_number": "1979.01",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Pine Tree"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Pine Tree"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091656",
+    "label_en": "Birthweek 2000: Guerrilla monster and BR2 present \"Elvis meets the Beatles\"",
+    "inventory_number": "2001.088",
+    "nlp": [
+      {
+        "label": "ORGANIZATION",
+        "string": "BR2"
+      },
+      {
+        "label": "PERSON",
+        "string": "Elvis"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Beatles"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "DATE",
+        "string": "Birthweek 2000"
+      },
+      {
+        "label": "ORG",
+        "string": "BR2"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Elvis",
+          "category": "name",
+          "confidence_score": 0.6291120648
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091657",
+    "label_en": "Bisbee's Comedians",
+    "inventory_number": "2001.174",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Bisbee"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Bisbee"
+      },
+      {
+        "label": "NORP",
+        "string": "Comedians"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bisbee",
+          "category": "group",
+          "confidence_score": 0.7296882272
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091658",
+    "label_en": "Bize II, from American Abstract Artists 75th Anniversary Print Portfolio",
+    "inventory_number": "2015.038n",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bize"
+      },
+      {
+        "label": "GPE",
+        "string": "II"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists 75th"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bize II",
+          "category": "group",
+          "confidence_score": 0.587120533
+        },
+        {
+          "name": "American Abstract Artists",
+          "category": "group",
+          "confidence_score": 0.6716475785
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091659",
+    "label_en": "Blue glass object with stopper",
+    "inventory_number": "1979.1000P",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Blue"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091660",
+    "label_en": "Blue grass Festival Ryman Auditorium, May 7-8-9 1999, Hatch Show Print Poster",
+    "inventory_number": "2000.009",
+    "nlp": [
+      {
+        "label": "GPE",
+        "string": "Blue"
+      },
+      {
+        "label": "PERSON",
+        "string": "Festival Ryman Auditorium"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hatch Show Print Poster"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Festival Ryman Auditorium"
+      },
+      {
+        "label": "DATE",
+        "string": "May 7-8-9 1999"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "Hatch Show Print"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Hatch",
+          "category": "name",
+          "confidence_score": 0.4638870656
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091662",
+    "label_en": "Blue Mountain",
+    "inventory_number": "2001.102",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Blue"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mountain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Blue Mountain"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Blue Mountain",
+          "category": "place",
+          "confidence_score": 0.3706608862
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091663",
+    "label_en": "Blue Surge",
+    "inventory_number": "1984.015",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Blue"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Blue Surge"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091664",
+    "label_en": "Bluebird Cafe Presents The Rounds Bros. with Ellen Britton, Sunday March 12",
+    "inventory_number": "2001.033",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bluebird"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cafe"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Rounds"
+      },
+      {
+        "label": "PERSON",
+        "string": "Ellen Britton"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Bluebird Cafe Presents The Rounds Bros."
+      },
+      {
+        "label": "PERSON",
+        "string": "Ellen Britton"
+      },
+      {
+        "label": "DATE",
+        "string": "Sunday March 12"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bluebird Cafe",
+          "category": "group",
+          "confidence_score": 0.7429014146
+        },
+        {
+          "name": "Rounds Bros",
+          "category": "group",
+          "confidence_score": 0.7720320225
+        },
+        {
+          "name": "Ellen Britton",
+          "category": "name",
+          "confidence_score": 0.9703733623
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091665",
+    "label_en": "Bluegrass Festival, The Karl Shiflett and Big Country Show, May 28-30, 1999",
+    "inventory_number": "2000.038",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bluegrass Festival"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Karl Shiflett"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Karl Shiflett"
+      },
+      {
+        "label": "DATE",
+        "string": "May 28-30, 1999"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bluegrass Festival",
+          "category": "group",
+          "confidence_score": 0.5796358883
+        },
+        {
+          "name": "Karl Shiflett",
+          "category": "name",
+          "confidence_score": 0.9522703588
+        },
+        {
+          "name": "Big Country Show",
+          "category": "group",
+          "confidence_score": 0.557348907
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091666",
+    "label_en": "Bluegrass Night at the Ryman",
+    "inventory_number": "2001.106",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bluegrass"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Night"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Ryman"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Ryman",
+          "category": "group",
+          "confidence_score": 0.5382829905
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091667",
+    "label_en": "Bob Delevante Porchlight Record, Dec 3,1999, Hatch Show Print Poster",
+    "inventory_number": "2000.081",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bob"
+      },
+      {
+        "label": "PERSON",
+        "string": "Delevante Porchlight Record"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hatch Show Print Poster"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Bob Delevante Porchlight Record"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "Hatch Show Print"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Bob Delevante Porchlight",
+          "category": "name",
+          "confidence_score": 0.732592086
+        },
+        {
+          "name": "Hatch",
+          "category": "name",
+          "confidence_score": 0.8385927677
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091668",
+    "label_en": "Bombastic Plastic",
+    "inventory_number": "2001.134",
+    "nlp": [
+      {
+        "label": "PERSON",
+        "string": "Bombastic"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Plastic"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Bombastic Plastic"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091669",
+    "label_en": "Bomber Records presents Dispatch",
+    "inventory_number": "2001.016",
+    "nlp": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Bomber Records"
+      },
+      {
+        "label": "PERSON",
+        "string": "Dispatch"
+      }
+    ],
+    "parallel_dots": {
+      "entities": [
+        {
+          "name": "Dispatch",
+          "category": "group",
+          "confidence_score": 0.6728092432
+        }
+      ]
+    }
+  },
+  {
+    "qid": "Q105091670",
+    "label_en": "Bomber Records Presents Dispatch",
+    "inventory_number": "2001.08",
+    "nlp": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Bomber Records Presents Dispatch"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091671",
+    "label_en": "Bomber Records Presents Dispatch",
+    "inventory_number": "2001.079",
+    "nlp": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Bomber Records Presents Dispatch"
+      }
+    ],
+    "parallel_dots": {
+      "entities": []
+    }
+  },
+  {
+    "qid": "Q105091672",
+    "label_en": "Bomber records presents Dispatch- Coming Soon",
+    "inventory_number": "2001.053",
+    "nlp": [],
+    "spacy": [],
+    "parallel_dots": {
+      "entities": []
+    }
+  }
+]
