@@ -1,4 +1,10 @@
-# Purpose and sources of files in this directory
+# ACT Wikidata project notes
+
+## Model
+
+![data model for Wikidata and Commons](data_model.png)
+
+## Purpose and sources of files in this directory
 
 **cleaned_output.csv** This was a cleanup of the output of the fall 2021 version of the script [act.ipynb](https://github.com/HeardLibrary/vandycite/blob/master/act/act.ipynb), which used a SPARQL search of Wikidata to try to match ACT items with Wikidata items using the names of the Commons items in the rights field of the ACT database metadata export. The original export was cleaned up by part of the act.ipynb script by dereferencing all of the Commons URLs and removing images that were no longer in commons (see file images_removed_from_commons.csv).  After doing the query and outputting the data, images that duplicated other images because they were crops or black and white versions were removed (see file duplicates_of_existing_commons_ids.csv). NOTE: a derivative of this file, add_to_wikidata.csv was used as input for acquiring existing Commons data. 
 
