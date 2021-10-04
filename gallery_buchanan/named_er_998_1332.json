@@ -1,0 +1,8967 @@
+[
+  {
+    "qid": "Q102968728",
+    "label_en": "Mosaic",
+    "inventory_number": "1979.0566P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Mosaic"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PRODUCT",
+        "string": "Mosaic"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Mosaic",
+        "confidence_score": 0.3991868496
+      }
+    ]
+  },
+  {
+    "qid": "Q102968735",
+    "label_en": "Mosaic Box",
+    "inventory_number": "1979.0432P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Mosaic"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Box"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Mosaic Box"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Mosaic Box",
+        "confidence_score": 0.7527904809
+      }
+    ]
+  },
+  {
+    "qid": "Q102968743",
+    "label_en": "Mother and Child Figure",
+    "inventory_number": "1979.0620p",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Mother"
+      },
+      {
+        "label": "PERSON",
+        "string": "Child Figure"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102968753",
+    "label_en": "Mother and Children, Second State",
+    "inventory_number": "2004.039",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Mother"
+      },
+      {
+        "label": "GPE",
+        "string": "Children"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Second"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102968759",
+    "label_en": "Motif Dalamante",
+    "inventory_number": "1979.0754P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Motif"
+      },
+      {
+        "label": "PERSON",
+        "string": "Dalamante"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Motif Dalamante"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Motif Dalamante",
+        "confidence_score": 0.6225135326
+      }
+    ]
+  },
+  {
+    "qid": "Q102968768",
+    "label_en": "Motif Dalamate",
+    "inventory_number": "1979.0753P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Motif"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Dalamate"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Motif Dalamate",
+        "confidence_score": 0.6679288447
+      }
+    ]
+  },
+  {
+    "qid": "Q102968773",
+    "label_en": "Mount Fuji",
+    "inventory_number": "1989.045",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Mount"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Fuji"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "Mount Fuji"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Mount Fuji",
+        "confidence_score": 0.6882263422
+      }
+    ]
+  },
+  {
+    "qid": "Q102968780",
+    "label_en": "Mount Fuji and the Pine Beach at Miho",
+    "inventory_number": "1994.332",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Mount"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Fuji"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Pine Beach"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Miho"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "Mount Fuji"
+      },
+      {
+        "label": "LOC",
+        "string": "the Pine Beach"
+      },
+      {
+        "label": "GPE",
+        "string": "Miho"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Mount Fuji",
+        "confidence_score": 0.7570675015
+      },
+      {
+        "label": "place",
+        "string": "Pine Beach",
+        "confidence_score": 0.8834083676
+      },
+      {
+        "label": "place",
+        "string": "Miho",
+        "confidence_score": 0.4494392872
+      }
+    ]
+  },
+  {
+    "qid": "Q102968793",
+    "label_en": "Mozambican Refugee Camp, Malawi",
+    "inventory_number": "2016.011.03",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Mozambican"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Refugee Camp"
+      },
+      {
+        "label": "GPE",
+        "string": "Malawi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Mozambican Refugee Camp"
+      },
+      {
+        "label": "PERSON",
+        "string": "Malawi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Mozambican",
+        "confidence_score": 0.9660955071
+      },
+      {
+        "label": "place",
+        "string": "Malawi",
+        "confidence_score": 0.5738910437
+      }
+    ]
+  },
+  {
+    "qid": "Q102968799",
+    "label_en": "Muck Worms",
+    "inventory_number": "2003.050",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Muck"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Worms"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102968807",
+    "label_en": "Mystic Marriage of St. Katherine, after Titian",
+    "inventory_number": "2007.051",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Mystic"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Marriage"
+      },
+      {
+        "label": "GPE",
+        "string": "St. Katherine"
+      },
+      {
+        "label": "GPE",
+        "string": "Titian"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Mystic Marriage"
+      },
+      {
+        "label": "GPE",
+        "string": "Titian"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Katherine",
+        "confidence_score": 0.5002993345
+      },
+      {
+        "label": "group",
+        "string": "Titian",
+        "confidence_score": 0.3311993182
+      }
+    ]
+  },
+  {
+    "qid": "Q102968813",
+    "label_en": "Namotywach ST. 1. Witkiewicza, Szalona Lokomotywa tertrstu",
+    "inventory_number": "2013.006",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Namotywach"
+      },
+      {
+        "label": "PERSON",
+        "string": "Szalona Lokomotywa"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Namotywach ST"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "1"
+      },
+      {
+        "label": "ORG",
+        "string": "Witkiewicza"
+      },
+      {
+        "label": "PERSON",
+        "string": "Szalona Lokomotywa"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Namotywach ST",
+        "confidence_score": 0.8951675892
+      },
+      {
+        "label": "name",
+        "string": "Witkiewicza",
+        "confidence_score": 0.3922660947
+      },
+      {
+        "label": "group",
+        "string": "Szalona Lokomotywa tertrstu",
+        "confidence_score": 0.6257832746
+      }
+    ]
+  },
+  {
+    "qid": "Q102968820",
+    "label_en": "Narrative cartoon in three pages (page 1)",
+    "inventory_number": "2017.001.053a",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "1"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102968826",
+    "label_en": "Narrative cartoon in three pages (page 2)",
+    "inventory_number": "2017.001.053b",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "2"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102968833",
+    "label_en": "Narrative cartoon in three pages (page 3)",
+    "inventory_number": "2017.001.053c",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "3"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102968838",
+    "label_en": "Natsume (tea caddy) with a design of salt making sheds, pines, and fish nets",
+    "inventory_number": "1996.201",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Natsume"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Natsume",
+        "confidence_score": 0.3377882838
+      }
+    ]
+  },
+  {
+    "qid": "Q102968842",
+    "label_en": "Near Elche, Spain",
+    "inventory_number": "1965.030",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Elche"
+      },
+      {
+        "label": "GPE",
+        "string": "Spain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Near Elche"
+      },
+      {
+        "label": "GPE",
+        "string": "Spain"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Elche",
+        "confidence_score": 0.7855507135
+      },
+      {
+        "label": "place",
+        "string": "Spain",
+        "confidence_score": 0.9750908613
+      }
+    ]
+  },
+  {
+    "qid": "Q102968848",
+    "label_en": "Net Repair, Baicul, Itaparica, Brazil",
+    "inventory_number": "2014.030",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Net Repair"
+      },
+      {
+        "label": "GPE",
+        "string": "Baicul"
+      },
+      {
+        "label": "GPE",
+        "string": "Itaparica"
+      },
+      {
+        "label": "PERSON",
+        "string": "Brazil"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Net Repair"
+      },
+      {
+        "label": "GPE",
+        "string": "Baicul"
+      },
+      {
+        "label": "GPE",
+        "string": "Itaparica"
+      },
+      {
+        "label": "GPE",
+        "string": "Brazil"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Baicul",
+        "confidence_score": 0.3497653306
+      },
+      {
+        "label": "place",
+        "string": "Itaparica",
+        "confidence_score": 0.7047429681
+      },
+      {
+        "label": "place",
+        "string": "Brazil",
+        "confidence_score": 0.89548558
+      }
+    ]
+  },
+  {
+    "qid": "Q102968852",
+    "label_en": "Netsuke (Toggle) in the Form of a Chrysanthemum",
+    "inventory_number": "1992.165",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3024799824
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8550536633
+      }
+    ]
+  },
+  {
+    "qid": "Q102968858",
+    "label_en": "Netsuke (Toggle) in the Form of a Cicada",
+    "inventory_number": "1992.163",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "GPE",
+        "string": "Cicada"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Cicada"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3299607038
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8249167204
+      }
+    ]
+  },
+  {
+    "qid": "Q102968862",
+    "label_en": "Netsuke (Toggle) in the Form of a Crab and Seashells",
+    "inventory_number": "1992.176",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Crab"
+      },
+      {
+        "label": "PERSON",
+        "string": "Seashells"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3106246591
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8566647768
+      }
+    ]
+  },
+  {
+    "qid": "Q102968867",
+    "label_en": "Netsuke (Toggle) in the Form of a Dragon in Clouds",
+    "inventory_number": "1992.158",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "GPE",
+        "string": "Clouds"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.388279438
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.7693936229
+      }
+    ]
+  },
+  {
+    "qid": "Q102968874",
+    "label_en": "Netsuke (Toggle) in the Form of a Hat Lying on Its Side",
+    "inventory_number": "1992.161",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.5041111112
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.7750003934
+      }
+    ]
+  },
+  {
+    "qid": "Q102968882",
+    "label_en": "Netsuke (Toggle) in the Form of a Human Skull",
+    "inventory_number": "1992.157",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Human Skull"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3716474175
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8354825974
+      }
+    ]
+  },
+  {
+    "qid": "Q102968889",
+    "label_en": "Netsuke (Toggle) in the Form of a Lotus Leaf",
+    "inventory_number": "1992.155",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3059867322
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8606218696
+      }
+    ]
+  },
+  {
+    "qid": "Q102968894",
+    "label_en": "Netsuke (Toggle) in the Form of a Lotus Pod",
+    "inventory_number": "1992.156",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.2971061766
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8434640169
+      },
+      {
+        "label": "group",
+        "string": "Lotus Pod",
+        "confidence_score": 0.5607669652
+      }
+    ]
+  },
+  {
+    "qid": "Q102968899",
+    "label_en": "Netsuke (Toggle) in the Form of a Man on a Fish, with an Ojime (Closing Bead) on Cord",
+    "inventory_number": "1992.169",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "GPE",
+        "string": "Fish"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cord"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Ojime (Closing Bead"
+      },
+      {
+        "label": "ORG",
+        "string": "Cord"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.4239494503
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.6908474565
+      },
+      {
+        "label": "name",
+        "string": "Ojime",
+        "confidence_score": 0.2687313557
+      }
+    ]
+  },
+  {
+    "qid": "Q102968905",
+    "label_en": "Netsuke (Toggle) in the Form of a Man with a Sack",
+    "inventory_number": "1992.173",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.4549188018
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8004153967
+      }
+    ]
+  },
+  {
+    "qid": "Q102968913",
+    "label_en": "Netsuke (Toggle) in the Form of a Sunburst with a Silver Ball in the Center",
+    "inventory_number": "1992.164",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Center"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "a Silver Ball"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3253615201
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.7543676496
+      },
+      {
+        "label": "group",
+        "string": "Center",
+        "confidence_score": 0.3047478795
+      }
+    ]
+  },
+  {
+    "qid": "Q102968923",
+    "label_en": "Netsuke (Toggle) in the Form of Half of a Chrysanthemum",
+    "inventory_number": "1992.162",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Half"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.312625289
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8630055189
+      }
+    ]
+  },
+  {
+    "qid": "Q102968931",
+    "label_en": "Netsuke (Toggle) in the Form of Mushrooms",
+    "inventory_number": "1992.153",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mushrooms"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "the Form of Mushrooms"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3434478045
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8184652925
+      }
+    ]
+  },
+  {
+    "qid": "Q102968937",
+    "label_en": "Netsuke (Toggle) in the Form of Two Chestnuts",
+    "inventory_number": "1992.154",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3832132518
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.8206378222
+      }
+    ]
+  },
+  {
+    "qid": "Q102968943",
+    "label_en": "Netsuke (Toggle) in the Form of Two Mice on a Seashell",
+    "inventory_number": "1992.172",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      },
+      {
+        "label": "GPE",
+        "string": "Toggle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Seashell"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      },
+      {
+        "label": "PERSON",
+        "string": "Seashell"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.3854264617
+      },
+      {
+        "label": "group",
+        "string": "Toggle",
+        "confidence_score": 0.7295832038
+      },
+      {
+        "label": "group",
+        "string": "Seashell",
+        "confidence_score": 0.3681550324
+      }
+    ]
+  },
+  {
+    "qid": "Q102968949",
+    "label_en": "Netsuke depicting a deer with a dog on its back",
+    "inventory_number": "1988.119",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.4740341604
+      }
+    ]
+  },
+  {
+    "qid": "Q102968960",
+    "label_en": "Netsuke depicting a dog with a puppy on its back",
+    "inventory_number": "1988.124",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.5596337318
+      }
+    ]
+  },
+  {
+    "qid": "Q102968964",
+    "label_en": "Netsuke depicting a man with a basket of produce",
+    "inventory_number": "1988.116",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.654756248
+      }
+    ]
+  },
+  {
+    "qid": "Q102968970",
+    "label_en": "Netsuke depicting a tiger and cub",
+    "inventory_number": "1988.125",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.4588995576
+      }
+    ]
+  },
+  {
+    "qid": "Q102968975",
+    "label_en": "Netsuke depicting an inlaid gaming piece",
+    "inventory_number": "1988.120",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Netsuke",
+        "confidence_score": 0.6484507918
+      }
+    ]
+  },
+  {
+    "qid": "Q102968985",
+    "label_en": "Netsuke depicting an octopus holding a shark",
+    "inventory_number": "1988.122",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.4250888526
+      }
+    ]
+  },
+  {
+    "qid": "Q102968990",
+    "label_en": "Netsuke in the shape of a man with movable eyes holding a bag",
+    "inventory_number": "1988.188",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Netsuke",
+        "confidence_score": 0.4955018759
+      }
+    ]
+  },
+  {
+    "qid": "Q102968996",
+    "label_en": "Netsuke with double gourd depicting a pig",
+    "inventory_number": "1988.123",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Netsuke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Netsuke",
+        "confidence_score": 0.3810788393
+      }
+    ]
+  },
+  {
+    "qid": "Q102968999",
+    "label_en": "New York, 9-11-01",
+    "inventory_number": "2016.011.11",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "New York"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "New York"
+      },
+      {
+        "label": "TIME",
+        "string": "9-11-01"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "New York",
+        "confidence_score": 0.9152587056
+      }
+    ]
+  },
+  {
+    "qid": "Q102969009",
+    "label_en": "Night in New York",
+    "inventory_number": "1980.010",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Night"
+      },
+      {
+        "label": "GPE",
+        "string": "New York"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "New York"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "New York",
+        "confidence_score": 0.9555648565
+      }
+    ]
+  },
+  {
+    "qid": "Q102969017",
+    "label_en": "Night: Sea and Cliff Scene",
+    "inventory_number": "1979.0285P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Night"
+      },
+      {
+        "label": "PERSON",
+        "string": "Cliff Scene"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Cliff",
+        "confidence_score": 0.4275995493
+      }
+    ]
+  },
+  {
+    "qid": "Q102969023",
+    "label_en": "Nilo (Nile), from Paesaggi (Landscapes)",
+    "inventory_number": "1994.538g",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Nilo"
+      },
+      {
+        "label": "GPE",
+        "string": "Paesaggi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscapes"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Paesaggi (Landscapes"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Nilo",
+        "confidence_score": 0.8466256857
+      },
+      {
+        "label": "place",
+        "string": "Nile",
+        "confidence_score": 0.5517786741
+      },
+      {
+        "label": "place",
+        "string": "Paesaggi",
+        "confidence_score": 0.459757477
+      }
+    ]
+  },
+  {
+    "qid": "Q102969030",
+    "label_en": "No. 43 (after Claude Lorrain)",
+    "inventory_number": "1977.013",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Claude Lorrain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "DATE",
+        "string": "43"
+      },
+      {
+        "label": "PERSON",
+        "string": "Claude Lorrain"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Claude Lorrain",
+        "confidence_score": 0.8364301622
+      }
+    ]
+  },
+  {
+    "qid": "Q102969035",
+    "label_en": "Nobu Girl, from the series Tribeca, 10013",
+    "inventory_number": "2012.011",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Nobu"
+      },
+      {
+        "label": "GPE",
+        "string": "Girl"
+      },
+      {
+        "label": "PERSON",
+        "string": "Tribeca"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Nobu Girl"
+      },
+      {
+        "label": "PERSON",
+        "string": "Tribeca"
+      },
+      {
+        "label": "DATE",
+        "string": "10013"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Nobu Girl",
+        "confidence_score": 0.8525386453
+      },
+      {
+        "label": "place",
+        "string": "Tribeca",
+        "confidence_score": 0.7843120098
+      }
+    ]
+  },
+  {
+    "qid": "Q102969040",
+    "label_en": "Noire Horizontale (Sombre aux traits fins)| Black Horizontal (Dark fine features)",
+    "inventory_number": "1979.0351P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Noire"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Horizontale"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sombre"
+      },
+      {
+        "label": "PERSON",
+        "string": "Black Horizontal"
+      },
+      {
+        "label": "PERSON",
+        "string": "Dark"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Noire Horizontale"
+      },
+      {
+        "label": "ORG",
+        "string": "Black Horizontal"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Noire Horizontale",
+        "confidence_score": 0.5478103459
+      }
+    ]
+  },
+  {
+    "qid": "Q102969054",
+    "label_en": "North African Battle Scene",
+    "inventory_number": "1974.002",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "North"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "African Battle Scene"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "North African Battle Scene"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969059",
+    "label_en": "North Indian artifact",
+    "inventory_number": "1979.0497P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "North"
+      },
+      {
+        "label": "GPE",
+        "string": "Indian"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "North Indian"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969065",
+    "label_en": "Not wanting to say anything about Marcel",
+    "inventory_number": "1974.011a",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Marcel"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PRODUCT",
+        "string": "Marcel"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Marcel",
+        "confidence_score": 0.7408880591
+      }
+    ]
+  },
+  {
+    "qid": "Q102969070",
+    "label_en": "Not Yet",
+    "inventory_number": "2016.003.3",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969076",
+    "label_en": "Notte A Oslo (Night in Oslo), from Paesaggi (Landscapes)",
+    "inventory_number": "1994.538b",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Notte"
+      },
+      {
+        "label": "GPE",
+        "string": "Oslo"
+      },
+      {
+        "label": "GPE",
+        "string": "Paesaggi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscapes"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Paesaggi (Landscapes"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Notte",
+        "confidence_score": 0.3740227222
+      },
+      {
+        "label": "place",
+        "string": "Oslo",
+        "confidence_score": 0.4421872199
+      },
+      {
+        "label": "place",
+        "string": "Oslo",
+        "confidence_score": 0.9851514697
+      },
+      {
+        "label": "place",
+        "string": "Paesaggi",
+        "confidence_score": 0.4268081188
+      }
+    ]
+  },
+  {
+    "qid": "Q102969081",
+    "label_en": "Nous ne nous serions - from Album du Si\u00e9ge",
+    "inventory_number": "1999.172a",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Nous ne nous serions -",
+        "confidence_score": 0.686141187
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.4005781412
+      }
+    ]
+  },
+  {
+    "qid": "Q102969096",
+    "label_en": "Nu",
+    "inventory_number": "1979.0733P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Nu"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Nu",
+        "confidence_score": 0.2441622168
+      }
+    ]
+  },
+  {
+    "qid": "Q102969107",
+    "label_en": "Nu Couche",
+    "inventory_number": "1999.177",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Nu Couche",
+        "confidence_score": 0.5385546684
+      }
+    ]
+  },
+  {
+    "qid": "Q102969115",
+    "label_en": "Numazu: Twilight (Numazu, tasogare zu)",
+    "inventory_number": "1972.022",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Numazu"
+      },
+      {
+        "label": "PERSON",
+        "string": "Numazu"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Numazu"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Numazu",
+        "confidence_score": 0.8501139283
+      },
+      {
+        "label": "group",
+        "string": "Numazu",
+        "confidence_score": 0.4289324582
+      },
+      {
+        "label": "name",
+        "string": "tasogare zu",
+        "confidence_score": 0.6680259407
+      }
+    ]
+  },
+  {
+    "qid": "Q102969121",
+    "label_en": "Nymph and Cupids",
+    "inventory_number": "1987.014",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Nymph"
+      },
+      {
+        "label": "PERSON",
+        "string": "Cupids"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Nymph"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Nymph and Cupids",
+        "confidence_score": 0.6174620787
+      }
+    ]
+  },
+  {
+    "qid": "Q102969129",
+    "label_en": "O-bento (Lunch Box)",
+    "inventory_number": "1992.220",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "O-bento"
+      },
+      {
+        "label": "PERSON",
+        "string": "Lunch Box"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Lunch Box"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "O-bento",
+        "confidence_score": 0.445569098
+      }
+    ]
+  },
+  {
+    "qid": "Q102969135",
+    "label_en": "Oak chest with biblical subjects",
+    "inventory_number": "1985.002",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oak"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969141",
+    "label_en": "Ocean Scene Harbor, Brittany",
+    "inventory_number": "1979.0014",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Ocean"
+      },
+      {
+        "label": "PERSON",
+        "string": "Scene Harbor"
+      },
+      {
+        "label": "GPE",
+        "string": "Brittany"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Ocean Scene Harbor"
+      },
+      {
+        "label": "PERSON",
+        "string": "Brittany"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Ocean Scene Harbor",
+        "confidence_score": 0.5363490482
+      },
+      {
+        "label": "place",
+        "string": "Brittany",
+        "confidence_score": 0.2713430524
+      }
+    ]
+  },
+  {
+    "qid": "Q102969146",
+    "label_en": "Octagonal Ink Stick With Relief of a Constellation of a Deity Riding a Mythical Creature",
+    "inventory_number": "1992.500",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Relief"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969152",
+    "label_en": "Octagonal seal surmounted by a lion",
+    "inventory_number": "1994.131",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969162",
+    "label_en": "Octagonal sided aka-shino ware cup with a design of grasses",
+    "inventory_number": "1993.174",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969168",
+    "label_en": "Octagonal sided jar with three abstract designs",
+    "inventory_number": "1993.101",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969173",
+    "label_en": "October 14th Corn",
+    "inventory_number": "1972.011",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "DATE",
+        "string": "October 14th"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969186",
+    "label_en": "Odalisque",
+    "inventory_number": "1986.005",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Odalisque"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Odalisque",
+        "confidence_score": 0.4007640779
+      }
+    ]
+  },
+  {
+    "qid": "Q102969194",
+    "label_en": "Odawara, from \"The Fifty-three Stations of the Tokaido\"",
+    "inventory_number": "1996.002",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Odawara"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Tokaido"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Odawara"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Fifty-three"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Odawara",
+        "confidence_score": 0.5422228575
+      },
+      {
+        "label": "group",
+        "string": "Tokaido ''",
+        "confidence_score": 0.5637844354
+      }
+    ]
+  },
+  {
+    "qid": "Q102969203",
+    "label_en": "Odeon Table, from the series \"Tribeca, 10013\"",
+    "inventory_number": "2009.017",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Odeon"
+      },
+      {
+        "label": "GPE",
+        "string": "Table"
+      },
+      {
+        "label": "PERSON",
+        "string": "Tribeca"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Odeon Table"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "Tribeca"
+      },
+      {
+        "label": "DATE",
+        "string": "10013"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Odeon Table",
+        "confidence_score": 0.7583755553
+      },
+      {
+        "label": "group",
+        "string": "series `` Tribeca",
+        "confidence_score": 0.7555537323
+      }
+    ]
+  },
+  {
+    "qid": "Q102969208",
+    "label_en": "OH! from Interjections; as published in Le Figaro, March 17, 1839",
+    "inventory_number": "1965.016",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Interjections"
+      },
+      {
+        "label": "GPE",
+        "string": "Le Figaro"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Le Figaro"
+      },
+      {
+        "label": "DATE",
+        "string": "March 17, 1839"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Le Figaro",
+        "confidence_score": 0.7803741097
+      }
+    ]
+  },
+  {
+    "qid": "Q102969216",
+    "label_en": "Oil jar with gold lacquer repair and incised design with celadon glaze",
+    "inventory_number": "1994.174",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oil"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969225",
+    "label_en": "Oil jar with gold lacquer repair and inlaid design of flowers and circles with celadon glaze",
+    "inventory_number": "1994.173",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oil"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "celadon"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969230",
+    "label_en": "Oil jar with gold lacquer repair with celadon glaze",
+    "inventory_number": "1994.175",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oil"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "celadon"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969245",
+    "label_en": "Oil lamp in the form of a bird",
+    "inventory_number": "2000.116",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oil"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969260",
+    "label_en": "Oil-drip horse-eye plate",
+    "inventory_number": "1993.090",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969275",
+    "label_en": "Old Man and Young Man in Prison",
+    "inventory_number": "1979.0817P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Old"
+      },
+      {
+        "label": "PERSON",
+        "string": "Young Man"
+      },
+      {
+        "label": "GPE",
+        "string": "Prison"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Young Man"
+      },
+      {
+        "label": "GPE",
+        "string": "Prison"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969283",
+    "label_en": "On aurait pu profiter, from Album du Si\u00e9ge",
+    "inventory_number": "1999.172v",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "aurait pu profiter",
+        "confidence_score": 0.6863277356
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.4506053478
+      }
+    ]
+  },
+  {
+    "qid": "Q102969297",
+    "label_en": "On Imaginative Space",
+    "inventory_number": "2004.074",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Imaginative Space"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969303",
+    "label_en": "On the Beach at Newport, Rhode Island",
+    "inventory_number": "1979.0161",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Newport"
+      },
+      {
+        "label": "PERSON",
+        "string": "Rhode Island"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "the Beach at"
+      },
+      {
+        "label": "GPE",
+        "string": "Newport"
+      },
+      {
+        "label": "GPE",
+        "string": "Rhode Island"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Newport",
+        "confidence_score": 0.9930948019
+      },
+      {
+        "label": "place",
+        "string": "Rhode Island",
+        "confidence_score": 0.9612436593
+      }
+    ]
+  },
+  {
+    "qid": "Q102969309",
+    "label_en": "Ono no T\u014dfu Watching a Frog, The Famous Calligrapher, Ono-no-Dofu , Looking at a Frog, from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)",
+    "inventory_number": "1992.096",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Famous Calligrapher"
+      },
+      {
+        "label": "PERSON",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Famous Calligrapher"
+      },
+      {
+        "label": "GPE",
+        "string": "Frog"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORG",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Ono",
+        "confidence_score": 0.3275101781
+      },
+      {
+        "label": "name",
+        "string": "Ono-no-Dofu",
+        "confidence_score": 0.7108423114
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi ryakuga",
+        "confidence_score": 0.8124360442
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi",
+        "confidence_score": 0.6533001065
+      }
+    ]
+  },
+  {
+    "qid": "Q102969318",
+    "label_en": "Open bowl with red and orange slip",
+    "inventory_number": "1994.503",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969327",
+    "label_en": "Opus 153",
+    "inventory_number": "1999.043",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Opus",
+        "confidence_score": 0.6775835752
+      }
+    ]
+  },
+  {
+    "qid": "Q102969332",
+    "label_en": "Opus 21",
+    "inventory_number": "1999.041",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Opus",
+        "confidence_score": 0.8930574059
+      }
+    ]
+  },
+  {
+    "qid": "Q102969336",
+    "label_en": "Opus 61",
+    "inventory_number": "1999.044",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Opus",
+        "confidence_score": 0.8734073043
+      }
+    ]
+  },
+  {
+    "qid": "Q102969340",
+    "label_en": "Opus 78",
+    "inventory_number": "1999.042",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Opus",
+        "confidence_score": 0.8185658455
+      }
+    ]
+  },
+  {
+    "qid": "Q102969343",
+    "label_en": "Opus 87",
+    "inventory_number": "1995.059",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Opus",
+        "confidence_score": 0.8029286861
+      }
+    ]
+  },
+  {
+    "qid": "Q102969347",
+    "label_en": "Opus 88",
+    "inventory_number": "1995.060",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Opus",
+        "confidence_score": 0.777759552
+      }
+    ]
+  },
+  {
+    "qid": "Q102969351",
+    "label_en": "Opus 99",
+    "inventory_number": "1999.045",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Opus",
+        "confidence_score": 0.7749290466
+      }
+    ]
+  },
+  {
+    "qid": "Q102969358",
+    "label_en": "Oribe ware beaker with design of leaves",
+    "inventory_number": "1993.182",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.7380595803
+      }
+    ]
+  },
+  {
+    "qid": "Q102969364",
+    "label_en": "Oribe ware bowl with a impressed design of flying birds",
+    "inventory_number": "1993.181",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.5443243384
+      }
+    ]
+  },
+  {
+    "qid": "Q102969370",
+    "label_en": "Oribe ware bowl with green and blue glazes with an incised leaf design",
+    "inventory_number": "1994.118",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.4652379751
+      }
+    ]
+  },
+  {
+    "qid": "Q102969376",
+    "label_en": "Oribe ware flower vase with a design of green and brown abstract pattern",
+    "inventory_number": "1993.111",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.6517185569
+      }
+    ]
+  },
+  {
+    "qid": "Q102969381",
+    "label_en": "Oribe ware oil-drip horse-eye plate with a design of a flying bird",
+    "inventory_number": "1993.092",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.7106999755
+      }
+    ]
+  },
+  {
+    "qid": "Q102969387",
+    "label_en": "Oribe ware oil-drip plate with a design of chrysanthemums",
+    "inventory_number": "1993.091",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.7091459036
+      }
+    ]
+  },
+  {
+    "qid": "Q102969393",
+    "label_en": "Oribe ware plate with a design in brown slip of a bridge",
+    "inventory_number": "1994.193",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.4287221432
+      }
+    ]
+  },
+  {
+    "qid": "Q102969398",
+    "label_en": "Oribe ware tea cup with a design of three chrysanthemum flowers",
+    "inventory_number": "1993.210",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oribe"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Oribe",
+        "confidence_score": 0.6841678023
+      }
+    ]
+  },
+  {
+    "qid": "Q102969408",
+    "label_en": "Ornament in a design of a vase with plants and sacred fungus",
+    "inventory_number": "1993.060",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Ornament"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969418",
+    "label_en": "Ornament with a carved design of a dragon, tiger and hero with attached corn and bead",
+    "inventory_number": "1994.144",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969426",
+    "label_en": "Orph\u00e9e",
+    "inventory_number": "1974.006",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Orph\u00e9e"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Orph\u00e9e"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Orph\u00e9e",
+        "confidence_score": 0.4142790139
+      }
+    ]
+  },
+  {
+    "qid": "Q102969437",
+    "label_en": "Otsu, from \"The Fifty-three Stations of the Tokaido\"",
+    "inventory_number": "1995.072",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Otsu"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Tokaido"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Otsu"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Fifty-three"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Otsu",
+        "confidence_score": 0.5666523576
+      },
+      {
+        "label": "group",
+        "string": "Tokaido ''",
+        "confidence_score": 0.5533033609
+      }
+    ]
+  },
+  {
+    "qid": "Q102969447",
+    "label_en": "Our Japanese Army Attacking Ryu-koh Island (Sino-Japanese War)",
+    "inventory_number": "1995.003",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Japanese"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Army"
+      },
+      {
+        "label": "GPE",
+        "string": "Island"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Ryu-koh Island"
+      },
+      {
+        "label": "NORP",
+        "string": "Sino-Japanese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Japanese",
+        "confidence_score": 0.9550718665
+      },
+      {
+        "label": "group",
+        "string": "Ryu-koh Island",
+        "confidence_score": 0.5472387671
+      }
+    ]
+  },
+  {
+    "qid": "Q102969457",
+    "label_en": "Oval mirror with an urn on top",
+    "inventory_number": "1975.039",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Oval"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969462",
+    "label_en": "Overdoor Panel",
+    "inventory_number": "1969.069",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Overdoor"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Panel"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Overdoor Panel"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Overdoor Panel",
+        "confidence_score": 0.6774254739
+      }
+    ]
+  },
+  {
+    "qid": "Q102969469",
+    "label_en": "Paesaggio Con J-P (Landscape with J-P), from Paesaggi (Landscapes)",
+    "inventory_number": "1994.538e",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Paesaggio"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Con"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscape"
+      },
+      {
+        "label": "GPE",
+        "string": "Paesaggi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscapes"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Con J-P"
+      },
+      {
+        "label": "ORG",
+        "string": "Paesaggi (Landscapes"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Paesaggio Con J-P",
+        "confidence_score": 0.6358891328
+      },
+      {
+        "label": "place",
+        "string": "Paesaggi",
+        "confidence_score": 0.5093902349
+      }
+    ]
+  },
+  {
+    "qid": "Q102969473",
+    "label_en": "Painted bowl",
+    "inventory_number": "1979.0477P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969478",
+    "label_en": "Painted bowl (very light decoration with traces of mud)",
+    "inventory_number": "1969.061",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969484",
+    "label_en": "Painted lidded jar (sawankhalok ware)",
+    "inventory_number": "1985.067",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Painted"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "sawankhalok ware",
+        "confidence_score": 0.6644935757
+      }
+    ]
+  },
+  {
+    "qid": "Q102969488",
+    "label_en": "Pair of bi discs with a grain pattern design",
+    "inventory_number": "2001.164a,b",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pair"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969500",
+    "label_en": "Pair of dolls",
+    "inventory_number": "1979.1060P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pair"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969510",
+    "label_en": "Pair of dwarfs, one with green glaze, the other with three-color glaze in green, brown, and white",
+    "inventory_number": "2001.163a,b",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pair"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969516",
+    "label_en": "Pair of lidded lacquer bowls with chopsticks to be presented to a married couple",
+    "inventory_number": "1993.211",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pair"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969526",
+    "label_en": "Pair of painted wooden dolls",
+    "inventory_number": "1979.1054P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pair"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969533",
+    "label_en": "Pair of Signature Seals, Square with Arched Handles",
+    "inventory_number": "1992.199a&b",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pair"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Signature Seals"
+      },
+      {
+        "label": "PERSON",
+        "string": "Square"
+      },
+      {
+        "label": "PERSON",
+        "string": "Arched Handles"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Signature Seals",
+        "confidence_score": 0.6080188453
+      }
+    ]
+  },
+  {
+    "qid": "Q102969541",
+    "label_en": "Paired carp",
+    "inventory_number": "1994.133",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Paired"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969547",
+    "label_en": "Paisaje Cireolar",
+    "inventory_number": "1996.122",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Paisaje"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cireolar"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Paisaje Cireolar",
+        "confidence_score": 0.4423354119
+      }
+    ]
+  },
+  {
+    "qid": "Q102969553",
+    "label_en": "Palais des Beaux-Arts",
+    "inventory_number": "1975.042",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Palais"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Palais"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Palais des Beaux-Arts",
+        "confidence_score": 0.6067761183
+      }
+    ]
+  },
+  {
+    "qid": "Q102969560",
+    "label_en": "Palazzo Malatesta, Rimini",
+    "inventory_number": "1979.0776P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Palazzo"
+      },
+      {
+        "label": "PERSON",
+        "string": "Malatesta"
+      },
+      {
+        "label": "GPE",
+        "string": "Rimini"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Palazzo Malatesta"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Palazzo Malatesta",
+        "confidence_score": 0.7953943908
+      },
+      {
+        "label": "group",
+        "string": "Rimini",
+        "confidence_score": 0.2938692868
+      }
+    ]
+  },
+  {
+    "qid": "Q102969567",
+    "label_en": "Pale brown bottle",
+    "inventory_number": "1979.0556P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pale"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Pale brown",
+        "confidence_score": 0.4410341084
+      }
+    ]
+  },
+  {
+    "qid": "Q102969572",
+    "label_en": "Pale grey-green celadon ware cup",
+    "inventory_number": "1975.065",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pale"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969583",
+    "label_en": "Paris Garden",
+    "inventory_number": "1979.0016",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Paris"
+      },
+      {
+        "label": "PERSON",
+        "string": "Garden"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "FAC",
+        "string": "Paris Garden"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Paris Garden",
+        "confidence_score": 0.3347585201
+      }
+    ]
+  },
+  {
+    "qid": "Q102969594",
+    "label_en": "Park Provenzano, from the series \"Tribeca, 10013\"",
+    "inventory_number": "2012.009",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Park"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Provenzano"
+      },
+      {
+        "label": "PERSON",
+        "string": "Tribeca"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Park Provenzano"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "Tribeca"
+      },
+      {
+        "label": "DATE",
+        "string": "10013"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Park Provenzano",
+        "confidence_score": 0.7780993879
+      },
+      {
+        "label": "group",
+        "string": "series `` Tribeca",
+        "confidence_score": 0.8173333605
+      }
+    ]
+  },
+  {
+    "qid": "Q102969601",
+    "label_en": "Passion de Washington",
+    "inventory_number": "2013.025",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Passion"
+      },
+      {
+        "label": "PERSON",
+        "string": "de Washington"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Passion de Washington"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Passion de Washington",
+        "confidence_score": 0.6177967886
+      }
+    ]
+  },
+  {
+    "qid": "Q102969608",
+    "label_en": "Pastoral",
+    "inventory_number": "2004.063",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969614",
+    "label_en": "Paul Verlaine",
+    "inventory_number": "2003.028",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Paul"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Verlaine"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Paul Verlaine"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Paul Verlaine",
+        "confidence_score": 0.7914733887
+      }
+    ]
+  },
+  {
+    "qid": "Q102969618",
+    "label_en": "Paysage",
+    "inventory_number": "1979.0736P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Paysage"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969623",
+    "label_en": "Peasant Village (after a painting by Focquer)",
+    "inventory_number": "1972.089",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Focquer"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Peasant Village"
+      },
+      {
+        "label": "PERSON",
+        "string": "Focquer"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Peasant Village",
+        "confidence_score": 0.3773242533
+      },
+      {
+        "label": "name",
+        "string": "Focquer",
+        "confidence_score": 0.4350838363
+      }
+    ]
+  },
+  {
+    "qid": "Q102969627",
+    "label_en": "Peasants at Home",
+    "inventory_number": "1979.0903P",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Home"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969634",
+    "label_en": "Peasants in a Landscape",
+    "inventory_number": "1973.012",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "FAC",
+        "string": "Landscape"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969643",
+    "label_en": "Pedestal bowl with celadon glaze and gold leaf repair",
+    "inventory_number": "1994.212",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pedestal"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969655",
+    "label_en": "Pedestal dish with incised design",
+    "inventory_number": "1993.084",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pedestal"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969661",
+    "label_en": "Pedestal dish with lid with incised and punched designs",
+    "inventory_number": "1993.083",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pedestal"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969665",
+    "label_en": "Pembroke",
+    "inventory_number": "1966.010",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pembroke"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Pembroke",
+        "confidence_score": 0.3156799972
+      }
+    ]
+  },
+  {
+    "qid": "Q102969670",
+    "label_en": "Pen and ink holder",
+    "inventory_number": "1988.128",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pen"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969675",
+    "label_en": "People and Stage Coach Train",
+    "inventory_number": "1979.0115",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Stage Coach Train"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969681",
+    "label_en": "People on the Nihonbashi Bridge",
+    "inventory_number": "1993.221",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Nihonbashi Bridge"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Nihonbashi Bridge",
+        "confidence_score": 0.6275670379
+      }
+    ]
+  },
+  {
+    "qid": "Q102969689",
+    "label_en": "Percussion",
+    "inventory_number": "1979.0508P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969695",
+    "label_en": "Pergamon",
+    "inventory_number": "1966.011",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pergamon"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Pergamon",
+        "confidence_score": 0.37100932
+      }
+    ]
+  },
+  {
+    "qid": "Q102969700",
+    "label_en": "Personnage a l'oeil vert (Person with a green eye)",
+    "inventory_number": "1979.0750P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Person"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969711",
+    "label_en": "Petrus und die Magd (Peter and the Maid)",
+    "inventory_number": "1994.336",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Petrus"
+      },
+      {
+        "label": "GPE",
+        "string": "Magd"
+      },
+      {
+        "label": "PERSON",
+        "string": "Peter"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Magd"
+      },
+      {
+        "label": "PERSON",
+        "string": "Peter"
+      },
+      {
+        "label": "PERSON",
+        "string": "Maid"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Petrus und die Magd",
+        "confidence_score": 0.5390152037
+      },
+      {
+        "label": "name",
+        "string": "Peter",
+        "confidence_score": 0.9243292809
+      }
+    ]
+  },
+  {
+    "qid": "Q102969718",
+    "label_en": "Peupliers et mont-St-Michel",
+    "inventory_number": "1979.0388P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Peupliers et mont-St-Michel",
+        "confidence_score": 0.5391845802
+      }
+    ]
+  },
+  {
+    "qid": "Q102969723",
+    "label_en": "Philadelphia, from American Abstract Artists 50th Anniversary Print Portfolio",
+    "inventory_number": "2015.037ll",
+    "nltk": [
+      {
+        "label": "GSP",
+        "string": "Philadelphia"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Philadelphia"
+      },
+      {
+        "label": "ORG",
+        "string": "American Abstract"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Philadelphia",
+        "confidence_score": 0.8658031225
+      },
+      {
+        "label": "group",
+        "string": "American Abstract Artists",
+        "confidence_score": 0.7234194279
+      }
+    ]
+  },
+  {
+    "qid": "Q102969729",
+    "label_en": "Photographic reproduction of a Chinese painting",
+    "inventory_number": "1972.055",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Photographic"
+      },
+      {
+        "label": "GPE",
+        "string": "Chinese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.9129707217
+      }
+    ]
+  },
+  {
+    "qid": "Q102969736",
+    "label_en": "Pieces of Sound, from the Revolutions Per Minute (The Art Record)",
+    "inventory_number": "1982.080",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sound"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Revolutions Per Minute"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Record"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "the Revolutions Per Minute"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Art Record"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Revolutions Per Minute",
+        "confidence_score": 0.7378931642
+      },
+      {
+        "label": "group",
+        "string": "Art Record",
+        "confidence_score": 0.6289330274
+      }
+    ]
+  },
+  {
+    "qid": "Q102969744",
+    "label_en": "Piet\u00e0",
+    "inventory_number": "1987.013",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Piet\u00e0"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Piet\u00e0",
+        "confidence_score": 0.400214076
+      }
+    ]
+  },
+  {
+    "qid": "Q102969751",
+    "label_en": "Pine Tree (hanging scroll)",
+    "inventory_number": "1996.189",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Pine"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Tree"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Pine Tree"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Pine Tree",
+        "confidence_score": 0.5177540928
+      }
+    ]
+  },
+  {
+    "qid": "Q102969758",
+    "label_en": "Pink Cat",
+    "inventory_number": "1980.116",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Pink"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Pink Cat",
+        "confidence_score": 0.44920066
+      }
+    ]
+  },
+  {
+    "qid": "Q102969763",
+    "label_en": "Pipe case with a carved design of vines and leaves",
+    "inventory_number": "1993.033",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pipe"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969769",
+    "label_en": "Pitcher",
+    "inventory_number": "1979.1066P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pitcher"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969774",
+    "label_en": "Pitcher with stamped abstract signs",
+    "inventory_number": "1994.225",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pitcher"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969782",
+    "label_en": "Pitcher with temmoku glaze",
+    "inventory_number": "1993.196",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pitcher"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "temmoku glaze",
+        "confidence_score": 0.5189393759
+      }
+    ]
+  },
+  {
+    "qid": "Q102969791",
+    "label_en": "Pitcher, black glazed pottery",
+    "inventory_number": "1979.0590P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pitcher"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969797",
+    "label_en": "Place mats (four in total)",
+    "inventory_number": "1979.1042P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Place"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "four"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969801",
+    "label_en": "Plate  with a design in blue underglaze of a vase of flowers",
+    "inventory_number": "1994.197",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969805",
+    "label_en": "Plate with a design in blue underglaze of a Chinese-style landscape",
+    "inventory_number": "1994.195",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969811",
+    "label_en": "Plate with a design in blue underglaze of a radish",
+    "inventory_number": "1978.023",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969817",
+    "label_en": "Plate with a design in blue underglaze of a wagtail",
+    "inventory_number": "1978.012",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969821",
+    "label_en": "Plate with a design of three warriors",
+    "inventory_number": "1995.026",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969831",
+    "label_en": "Plate With Carved Clematis Flower",
+    "inventory_number": "1992.370",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "With Carved Clematis Flower"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969847",
+    "label_en": "Plate with design in blue underglaze of mouse eating a turnip",
+    "inventory_number": "1978.022",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969852",
+    "label_en": "Plate X from: Hesiode, Les Travaux et les Jours (Hesiodos, The Works and Days)",
+    "inventory_number": "1979.0380P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hesiode"
+      },
+      {
+        "label": "PERSON",
+        "string": "Les Travaux"
+      },
+      {
+        "label": "GPE",
+        "string": "Jours"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Hesiodos"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Works"
+      },
+      {
+        "label": "GPE",
+        "string": "Days"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Les Travaux"
+      },
+      {
+        "label": "ORG",
+        "string": "Jours (Hesiodos, The Works and Days"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Hesiode",
+        "confidence_score": 0.6263206601
+      },
+      {
+        "label": "group",
+        "string": "Les Travaux et les Jours",
+        "confidence_score": 0.7084845543
+      },
+      {
+        "label": "name",
+        "string": "Hesiodos",
+        "confidence_score": 0.6422041059
+      }
+    ]
+  },
+  {
+    "qid": "Q102969861",
+    "label_en": "Plexigram I (Not wanting to say anything about Marcel)",
+    "inventory_number": "1974.008",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Marcel"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PRODUCT",
+        "string": "Marcel"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Marcel",
+        "confidence_score": 0.5460423827
+      }
+    ]
+  },
+  {
+    "qid": "Q102969870",
+    "label_en": "Plexigram II (Not wanting to say anything about Marcel)",
+    "inventory_number": "1974.009",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Plexigram"
+      },
+      {
+        "label": "PERSON",
+        "string": "Marcel"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Plexigram II"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Marcel"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Marcel",
+        "confidence_score": 0.5303198695
+      }
+    ]
+  },
+  {
+    "qid": "Q102969877",
+    "label_en": "Plexigram III (Not wanting to say anything about Marcel)",
+    "inventory_number": "1974.010",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Plexigram"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "III"
+      },
+      {
+        "label": "PERSON",
+        "string": "Marcel"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Plexigram III"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Marcel"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Plexigram III",
+        "confidence_score": 0.6353260428
+      },
+      {
+        "label": "name",
+        "string": "Marcel",
+        "confidence_score": 0.5402354598
+      }
+    ]
+  },
+  {
+    "qid": "Q102969882",
+    "label_en": "Plexigram IV (Not wanting to say anything about Marcel)",
+    "inventory_number": "1974.011",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Plexigram"
+      },
+      {
+        "label": "PERSON",
+        "string": "Marcel"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Plexigram"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Marcel"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Plexigram IV",
+        "confidence_score": 0.5726725161
+      },
+      {
+        "label": "name",
+        "string": "Marcel",
+        "confidence_score": 0.5373778343
+      }
+    ]
+  },
+  {
+    "qid": "Q102969889",
+    "label_en": "Plus de viande!-, from Album du Si\u00e9ge",
+    "inventory_number": "1999.172s",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "de viande",
+        "confidence_score": 0.5582767278
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.6049045026
+      }
+    ]
+  },
+  {
+    "qid": "Q102969895",
+    "label_en": "Poison Pie",
+    "inventory_number": "2002.025",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Poison"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Pie"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969901",
+    "label_en": "Polynesian/Polyhedron, from the Revolutions Per Minute (The Art Record)",
+    "inventory_number": "1982.087",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Revolutions Per Minute"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Record"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Polynesian/Polyhedron"
+      },
+      {
+        "label": "ORG",
+        "string": "the Revolutions Per Minute"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Art Record"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Polynesian/Polyhedron",
+        "confidence_score": 0.400509119
+      },
+      {
+        "label": "group",
+        "string": "Revolutions Per Minute",
+        "confidence_score": 0.8072396715
+      },
+      {
+        "label": "group",
+        "string": "Art Record",
+        "confidence_score": 0.585606873
+      }
+    ]
+  },
+  {
+    "qid": "Q102969909",
+    "label_en": "Porcelain dish with a design in  blue under glaze of a written character of happiness, five bats, and a key fret rim, with three bats on underside",
+    "inventory_number": "1993.093",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Porcelain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "five"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969915",
+    "label_en": "Porte St. Martin, Paris, 1924",
+    "inventory_number": "1979.0113",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Porte"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "St. Martin"
+      },
+      {
+        "label": "GPE",
+        "string": "Paris"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Porte St. Martin,"
+      },
+      {
+        "label": "GPE",
+        "string": "Paris"
+      },
+      {
+        "label": "DATE",
+        "string": "1924"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Porte St. Martin",
+        "confidence_score": 0.4671239058
+      },
+      {
+        "label": "place",
+        "string": "Paris",
+        "confidence_score": 0.9923694134
+      }
+    ]
+  },
+  {
+    "qid": "Q102969922",
+    "label_en": "Portrait of a man",
+    "inventory_number": "2007.053",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Portrait"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969929",
+    "label_en": "Portrait of a Man",
+    "inventory_number": "2007.056",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Portrait"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969939",
+    "label_en": "Portrait of a young woman",
+    "inventory_number": "2017.001.013",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Portrait"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969948",
+    "label_en": "Portrait of George Peabody",
+    "inventory_number": "1979.1116P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Portrait"
+      },
+      {
+        "label": "PERSON",
+        "string": "George Peabody"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "George Peabody",
+        "confidence_score": 0.6065215766
+      }
+    ]
+  },
+  {
+    "qid": "Q102969953",
+    "label_en": "Portrait of Juli\u00e1n Trujillo Largacha",
+    "inventory_number": "2020.003",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Portrait"
+      },
+      {
+        "label": "PERSON",
+        "string": "Juli\u00e1n Trujillo Largacha"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Juli\u00e1n Trujillo Largacha",
+        "confidence_score": 0.5773265362
+      }
+    ]
+  },
+  {
+    "qid": "Q102969958",
+    "label_en": "Positions, from American Abstract Artists 60th Anniversary Print Portfolio",
+    "inventory_number": "2012.008z",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "American",
+        "confidence_score": 0.8575559258
+      }
+    ]
+  },
+  {
+    "qid": "Q102969966",
+    "label_en": "Poster, Tel Aviv",
+    "inventory_number": "1973.025",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Poster"
+      },
+      {
+        "label": "GPE",
+        "string": "Tel Aviv"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Tel Aviv"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Tel Aviv",
+        "confidence_score": 0.7090186179
+      }
+    ]
+  },
+  {
+    "qid": "Q102969975",
+    "label_en": "Pot with decoration in brown around upper rim",
+    "inventory_number": "1969.065",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969980",
+    "label_en": "Pot with Round Base and Cylindrical Neck",
+    "inventory_number": "1985.088",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Round Base"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cylindrical Neck"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Round Base"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Round Base",
+        "confidence_score": 0.5771876127
+      }
+    ]
+  },
+  {
+    "qid": "Q102969988",
+    "label_en": "Pottery bowl with pale greenish glaze",
+    "inventory_number": "1979.0585P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pottery"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102969994",
+    "label_en": "Pour Etre Empereur l'Occident",
+    "inventory_number": "1979.0752P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Pour Etre Empereur l'Occident",
+        "confidence_score": 0.5226917192
+      }
+    ]
+  },
+  {
+    "qid": "Q102970002",
+    "label_en": "Pour ne pas etre blesse, from Album du Si\u00e9ge",
+    "inventory_number": "1999.172l",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Album du Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Pour ne pas etre blesse",
+        "confidence_score": 0.7292881012
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.6325697601
+      }
+    ]
+  },
+  {
+    "qid": "Q102970011",
+    "label_en": "Pr\u00e9parant les \u00e9trennes pour son peuple. (Preparing New Year\u2019s gifts for his people.), from Album du Si\u00e9ge",
+    "inventory_number": "1999.172cc",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "New"
+      },
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "EVENT",
+        "string": "Preparing New Year\u2019s"
+      },
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Pr\u00e9parant les \u00e9trennes",
+        "confidence_score": 0.5341961682
+      },
+      {
+        "label": "name",
+        "string": "son peuple",
+        "confidence_score": 0.5949610174
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.5405000895
+      }
+    ]
+  },
+  {
+    "qid": "Q102970016",
+    "label_en": "Presentation of Jesus in the Temple",
+    "inventory_number": "1956.036",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jesus"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jesus",
+        "confidence_score": 0.802752912
+      },
+      {
+        "label": "group",
+        "string": "Temple",
+        "confidence_score": 0.3893173337
+      }
+    ]
+  },
+  {
+    "qid": "Q102970022",
+    "label_en": "Priest Rennyo Preaching at Yoshizaki",
+    "inventory_number": "1970.017",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Priest"
+      },
+      {
+        "label": "PERSON",
+        "string": "Rennyo Preaching"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Yoshizaki"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Yoshizaki"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Priest Rennyo",
+        "confidence_score": 0.4434262514
+      },
+      {
+        "label": "place",
+        "string": "Yoshizaki",
+        "confidence_score": 0.4791396856
+      }
+    ]
+  },
+  {
+    "qid": "Q102970032",
+    "label_en": "Primary Series: Gold Stone",
+    "inventory_number": "1980.047",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Gold Stone"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Gold Stone"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Gold Stone",
+        "confidence_score": 0.4454190582
+      }
+    ]
+  },
+  {
+    "qid": "Q102970045",
+    "label_en": "Primping",
+    "inventory_number": "2016.012.50",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970050",
+    "label_en": "Prince Bishop's Palace, W\u00fcrzburg",
+    "inventory_number": "1984.040",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Prince"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bishop"
+      },
+      {
+        "label": "GPE",
+        "string": "Palace"
+      },
+      {
+        "label": "GSP",
+        "string": "W\u00fcrzburg"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Prince Bishop's"
+      },
+      {
+        "label": "ORG",
+        "string": "Palace"
+      },
+      {
+        "label": "ORG",
+        "string": "W\u00fcrzburg"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Prince Bishop",
+        "confidence_score": 0.648887068
+      },
+      {
+        "label": "place",
+        "string": "W\u00fcrzburg",
+        "confidence_score": 0.421548754
+      }
+    ]
+  },
+  {
+    "qid": "Q102970057",
+    "label_en": "Princess or Attendant to a Courtesan, Concealing a Knife, and a Man by the Window with the Shadow of the Fox Spirit",
+    "inventory_number": "1992.100",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Shadow"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fox Spirit"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PRODUCT",
+        "string": "Shadow"
+      },
+      {
+        "label": "ORG",
+        "string": "Fox"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Fox Spirit",
+        "confidence_score": 0.587816298
+      }
+    ]
+  },
+  {
+    "qid": "Q102970067",
+    "label_en": "Print no. 9 from, The Cultivation of Silkworms",
+    "inventory_number": "1995.076",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Print"
+      },
+      {
+        "label": "GPE",
+        "string": "Silkworms"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "9"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Cultivation of Silkworms"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Silkworms",
+        "confidence_score": 0.2987272143
+      }
+    ]
+  },
+  {
+    "qid": "Q102970079",
+    "label_en": "Print with eight scenes",
+    "inventory_number": "1979.0140",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Print"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "eight"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970085",
+    "label_en": "Print with twelve scenes",
+    "inventory_number": "1979.0139",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Print"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "twelve"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970092",
+    "label_en": "Printing Block with a Design of a Fan and Peonies",
+    "inventory_number": "1992.388",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Block"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970097",
+    "label_en": "Printing Block with a Design of Sparrows and Bamboo",
+    "inventory_number": "1992.390",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Block"
+      },
+      {
+        "label": "GPE",
+        "string": "Sparrows"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bamboo"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970107",
+    "label_en": "Printing Block with Two Designs, Each with Two Figures and an Umbrella",
+    "inventory_number": "1992.389",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Block"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      },
+      {
+        "label": "PERSON",
+        "string": "Umbrella"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970113",
+    "label_en": "Prisme, from American Abstract Artists 50th Anniversary Print Portfolio",
+    "inventory_number": "2015.037s",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Prisme"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Prisme",
+        "confidence_score": 0.6499827504
+      },
+      {
+        "label": "place",
+        "string": "American",
+        "confidence_score": 0.8477068543
+      }
+    ]
+  },
+  {
+    "qid": "Q102970120",
+    "label_en": "Procession",
+    "inventory_number": "1972.070",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970125",
+    "label_en": "Proyectos Para Un Paisaje",
+    "inventory_number": "1997.079a-f",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Para Un Paisaje"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Proyectos Para Un Paisaje"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Proyectos Para Un Paisaje",
+        "confidence_score": 0.7855754346
+      }
+    ]
+  },
+  {
+    "qid": "Q102970130",
+    "label_en": "Psychopathic Ward",
+    "inventory_number": "2017.001.015",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Psychopathic"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Ward"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Psychopathic Ward"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970134",
+    "label_en": "Purification from Envy (Purgatorio, Canto 13) from Illustrations to Dante's Divine Comedy",
+    "inventory_number": "1984.020",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Envy"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Purgatorio"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Canto"
+      },
+      {
+        "label": "GPE",
+        "string": "Illustrations"
+      },
+      {
+        "label": "PERSON",
+        "string": "Dante"
+      },
+      {
+        "label": "PERSON",
+        "string": "Divine Comedy"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Envy (Purgatorio"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "13"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Envy",
+        "confidence_score": 0.4571985602
+      },
+      {
+        "label": "group",
+        "string": "Purgatorio",
+        "confidence_score": 0.5712766647
+      },
+      {
+        "label": "name",
+        "string": "Canto",
+        "confidence_score": 0.6762436628
+      },
+      {
+        "label": "name",
+        "string": "Dante",
+        "confidence_score": 0.6431491971
+      }
+    ]
+  },
+  {
+    "qid": "Q102970141",
+    "label_en": "Purse With Three Monkeys in a Pine Tree on One Side, & a Dragon in Waves on the Other",
+    "inventory_number": "1992.486",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Purse"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "With Three Monkeys"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Pine Tree"
+      },
+      {
+        "label": "GPE",
+        "string": "Waves"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970149",
+    "label_en": "Qingbai celadon ware bowl",
+    "inventory_number": "1998.014",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Qingbai"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Qingbai"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970156",
+    "label_en": "Qingbai ware bowl",
+    "inventory_number": "2002.036b",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Qingbai"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Qingbai"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Qingbai",
+        "confidence_score": 0.6288054585
+      }
+    ]
+  },
+  {
+    "qid": "Q102970164",
+    "label_en": "Qingbai ware bowl with flower designs",
+    "inventory_number": "2002.036c",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Qingbai"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Qingbai"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Qingbai",
+        "confidence_score": 0.5363756418
+      }
+    ]
+  },
+  {
+    "qid": "Q102970171",
+    "label_en": "Quail-shaped box on a wooden stand (2 parts)",
+    "inventory_number": "1987.056",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Quail"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "2"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970176",
+    "label_en": "Quand je pense que-, from Album du Si\u00e9ge",
+    "inventory_number": "1999.172u",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Quand"
+      },
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Quand"
+      },
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Quand je pense que-",
+        "confidence_score": 0.6397452205
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.6327909827
+      }
+    ]
+  },
+  {
+    "qid": "Q102970183",
+    "label_en": "Quanta, from American Abstract Artists 75th Anniversary Print Portfolio",
+    "inventory_number": "2015.038kk",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Quanta"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists 75th"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Quanta",
+        "confidence_score": 0.9405040741
+      },
+      {
+        "label": "group",
+        "string": "American Abstract Artists",
+        "confidence_score": 0.682229658
+      }
+    ]
+  },
+  {
+    "qid": "Q102970189",
+    "label_en": "Quiet Waters (reproduction)",
+    "inventory_number": "1990.011",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Quiet"
+      },
+      {
+        "label": "GPE",
+        "string": "Waters"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Quiet Waters",
+        "confidence_score": 0.4279560447
+      }
+    ]
+  },
+  {
+    "qid": "Q102970194",
+    "label_en": "R. Slippy, from American Abstract Artists 60th Anniversary Print Portfolio",
+    "inventory_number": "2012.008r",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "R. Slippy"
+      },
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "R. Slippy",
+        "confidence_score": 0.8313665092
+      },
+      {
+        "label": "group",
+        "string": "American Abstract Artists",
+        "confidence_score": 0.6619987388
+      }
+    ]
+  },
+  {
+    "qid": "Q102970201",
+    "label_en": "Railway and Viaduct Across the Turnpike Road Watford-Herts",
+    "inventory_number": "1979.0122",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Railway"
+      },
+      {
+        "label": "PERSON",
+        "string": "Viaduct Across"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Turnpike Road"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Viaduct Across the Turnpike Road Watford-Herts"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Watford-Herts",
+        "confidence_score": 0.3189222515
+      }
+    ]
+  },
+  {
+    "qid": "Q102970212",
+    "label_en": "Rain Drum (reproduction)",
+    "inventory_number": "1985.054",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rain"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Drum"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rain Drum"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970219",
+    "label_en": "Rakuchu-Rakugai (View of Daily Life in Kyoto), six panel screen",
+    "inventory_number": "2000.005",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "View"
+      },
+      {
+        "label": "PERSON",
+        "string": "Daily Life"
+      },
+      {
+        "label": "GPE",
+        "string": "Kyoto"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Rakuchu-Rakugai (View of Daily Life"
+      },
+      {
+        "label": "GPE",
+        "string": "Kyoto"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "six"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rakuchu-Rakugai",
+        "confidence_score": 0.7837970257
+      },
+      {
+        "label": "place",
+        "string": "Kyoto",
+        "confidence_score": 0.9670371413
+      }
+    ]
+  },
+  {
+    "qid": "Q102970226",
+    "label_en": "Rationnement du pain. Un monsieur allant d\u00eener en ville. (The rationing of bread.\u2014A man going downtown to dine.), from Album du Si\u00e9ge",
+    "inventory_number": "1999.172ee",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Un monsieur allant d\u00eener en ville",
+        "confidence_score": 0.734832858
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.5405000895
+      }
+    ]
+  },
+  {
+    "qid": "Q102970235",
+    "label_en": "Really, Is That a Fact, from the Revolutions Per Minute (The Art Record)",
+    "inventory_number": "1982.082",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Revolutions Per Minute"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Record"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "the Revolutions Per Minute"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Art Record"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Revolutions Per Minute",
+        "confidence_score": 0.7405812144
+      },
+      {
+        "label": "group",
+        "string": "Art Record",
+        "confidence_score": 0.7124806941
+      }
+    ]
+  },
+  {
+    "qid": "Q102970243",
+    "label_en": "Rebecca (after Veronese)",
+    "inventory_number": "1971.063",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rebecca"
+      },
+      {
+        "label": "GPE",
+        "string": "Veronese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rebecca"
+      },
+      {
+        "label": "NORP",
+        "string": "Veronese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rebecca",
+        "confidence_score": 0.4660521746
+      },
+      {
+        "label": "group",
+        "string": "Veronese",
+        "confidence_score": 0.540194869
+      }
+    ]
+  },
+  {
+    "qid": "Q102970248",
+    "label_en": "Recess #1",
+    "inventory_number": "1978.034",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Recess"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "1"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Recess",
+        "confidence_score": 0.7277784944
+      }
+    ]
+  },
+  {
+    "qid": "Q102970254",
+    "label_en": "Reclining Nude",
+    "inventory_number": "1979.0360P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Nude"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970261",
+    "label_en": "Reclining Nude",
+    "inventory_number": "1979.0731P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Nude"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970269",
+    "label_en": "Reclining Nude (after Titian)",
+    "inventory_number": "1979.0299P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Nude"
+      },
+      {
+        "label": "GPE",
+        "string": "Titian"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Titian"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970276",
+    "label_en": "Reclining ox with brown glaze",
+    "inventory_number": "1994.205",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970280",
+    "label_en": "Red and gold fabric",
+    "inventory_number": "1979.1096P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Red"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970289",
+    "label_en": "Red bowl with a black band",
+    "inventory_number": "1969.063",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970296",
+    "label_en": "Red Dune, from \"America: Now + Here\" a portfolio",
+    "inventory_number": "2013.035j",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "America"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "America: Now + Here"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Red Dune",
+        "confidence_score": 0.6362906545
+      },
+      {
+        "label": "place",
+        "string": "`` America",
+        "confidence_score": 0.8535523415
+      }
+    ]
+  },
+  {
+    "qid": "Q102970306",
+    "label_en": "Red Maple Leaves at Kaian-ji Temple (Kaian-ji k\u014dy\u014d)",
+    "inventory_number": "1972.026",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Kaian-ji Temple"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Red Maple Leaves",
+        "confidence_score": 0.6171737115
+      },
+      {
+        "label": "place",
+        "string": "Kaian-ji Temple",
+        "confidence_score": 0.7717914581
+      },
+      {
+        "label": "name",
+        "string": "Kaian-ji k\u014dy\u014d",
+        "confidence_score": 0.597153753
+      }
+    ]
+  },
+  {
+    "qid": "Q102970315",
+    "label_en": "Red Sankaku, from American Abstract Artists 75th Anniversary Print Portfolio",
+    "inventory_number": "2015.038ff",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sankaku"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists 75th"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Red Sankaku",
+        "confidence_score": 0.5777371526
+      },
+      {
+        "label": "group",
+        "string": "American Abstract Artists",
+        "confidence_score": 0.7198011875
+      }
+    ]
+  },
+  {
+    "qid": "Q102970324",
+    "label_en": "Relief of Five Arhats (disciples of Buddha)",
+    "inventory_number": "1979.0796P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Buddha"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Buddha"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970329",
+    "label_en": "Remembering Magellan - The Atlantic Ocean",
+    "inventory_number": "2004.073",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Magellan"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Atlantic Ocean"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "The Atlantic Ocean"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Magellan",
+        "confidence_score": 0.6290578246
+      },
+      {
+        "label": "place",
+        "string": "Atlantic Ocean",
+        "confidence_score": 0.7717011571
+      }
+    ]
+  },
+  {
+    "qid": "Q102970335",
+    "label_en": "Repouss\u00e9 bowl with farm scenes",
+    "inventory_number": "1985.077",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Repouss\u00e9"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970341",
+    "label_en": "Reproduction of a screen painting",
+    "inventory_number": "1972.056",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970348",
+    "label_en": "Reproductions of Samurai Swords, (Set of two) with Lacquered Stand",
+    "inventory_number": "1993.006A-C",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Samurai Swords"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Set"
+      },
+      {
+        "label": "PERSON",
+        "string": "Lacquered Stand"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      },
+      {
+        "label": "PERSON",
+        "string": "Lacquered Stand"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Samurai Swords",
+        "confidence_score": 0.5060360134
+      }
+    ]
+  },
+  {
+    "qid": "Q102970353",
+    "label_en": "Rest on the Flight into Egypt",
+    "inventory_number": "1979.0329P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rest"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Flight"
+      },
+      {
+        "label": "GPE",
+        "string": "Egypt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "Flight"
+      },
+      {
+        "label": "GPE",
+        "string": "Egypt"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Egypt",
+        "confidence_score": 0.7884153724
+      }
+    ]
+  },
+  {
+    "qid": "Q102970360",
+    "label_en": "Restaurant Scene",
+    "inventory_number": "1979.0980P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970366",
+    "label_en": "Resting Cat",
+    "inventory_number": "1980.111",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970371",
+    "label_en": "Return to Go, from: 10 West Coast Artists",
+    "inventory_number": "2003.005b",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Return"
+      },
+      {
+        "label": "LOCATION",
+        "string": "West Coast"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "10"
+      },
+      {
+        "label": "LOC",
+        "string": "West Coast"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Go",
+        "confidence_score": 0.7325627208
+      },
+      {
+        "label": "place",
+        "string": "West Coast",
+        "confidence_score": 0.5429639518
+      }
+    ]
+  },
+  {
+    "qid": "Q102970380",
+    "label_en": "Revival Ramp",
+    "inventory_number": "2001.007",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Revival"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Ramp"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Revival Ramp"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970390",
+    "label_en": "Rice Cake Mold (2 parts) with a Design of a Diamond-Shaped Flower",
+    "inventory_number": "1992.452A&B",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6223566731
+      }
+    ]
+  },
+  {
+    "qid": "Q102970395",
+    "label_en": "Rice Cake Mold (2 parts) with a Design of an Open Folding Fan",
+    "inventory_number": "1992.445",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6472376784
+      }
+    ]
+  },
+  {
+    "qid": "Q102970401",
+    "label_en": "Rice Cake Mold (2 parts) with a Design of Pine Branches Against a Full Moon",
+    "inventory_number": "1992.444",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "PERSON",
+        "string": "Pine Branches Against"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6152729591
+      }
+    ]
+  },
+  {
+    "qid": "Q102970406",
+    "label_en": "Rice Cake Mold (2 parts) with a Design of Thirteen Bamboo Shoots",
+    "inventory_number": "1992.454A&B",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Thirteen Bamboo Shoots"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6727217833
+      }
+    ]
+  },
+  {
+    "qid": "Q102970411",
+    "label_en": "Rice Cake Mold with a Circular Design of Three Wisteria Blossoms",
+    "inventory_number": "1992.448",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "PERSON",
+        "string": "Three Wisteria Blossoms"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Three"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5736064315
+      }
+    ]
+  },
+  {
+    "qid": "Q102970419",
+    "label_en": "Rice Cake Mold with a Cucumber",
+    "inventory_number": "1992.441",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "DATE",
+        "string": "Cucumber"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6165055235
+      }
+    ]
+  },
+  {
+    "qid": "Q102970425",
+    "label_en": "Rice Cake Mold with a Design of a Bamboo Shoot",
+    "inventory_number": "1992.456",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Bamboo Shoot"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "NORP",
+        "string": "a Bamboo Shoot"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6004441877
+      }
+    ]
+  },
+  {
+    "qid": "Q102970430",
+    "label_en": "Rice Cake Mold with a Design of a Basket of Peaches and Pomegranates",
+    "inventory_number": "1992.450",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "GPE",
+        "string": "Peaches"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5888425608
+      }
+    ]
+  },
+  {
+    "qid": "Q102970438",
+    "label_en": "Rice Cake Mold with a Design of a Peony",
+    "inventory_number": "1992.457",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "PERSON",
+        "string": "Peony"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5625362496
+      }
+    ]
+  },
+  {
+    "qid": "Q102970446",
+    "label_en": "Rice Cake Mold with a Design of a Pine Tree and Bamboo Grass",
+    "inventory_number": "1992.446",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Pine Tree"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bamboo Grass"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5937596361
+      }
+    ]
+  },
+  {
+    "qid": "Q102970454",
+    "label_en": "Rice Cake Mold with a Design of a Tortoise on One Side, a Crane on the Other",
+    "inventory_number": "1992.442",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "GPE",
+        "string": "Tortoise"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "One"
+      },
+      {
+        "label": "ORG",
+        "string": "Crane"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6252814134
+      }
+    ]
+  },
+  {
+    "qid": "Q102970459",
+    "label_en": "Rice Cake Mold with a Design of a Twelve-Petalled Chrysanthemum and a Peach",
+    "inventory_number": "1992.455",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "ORG",
+        "string": "Peach"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.589059333
+      }
+    ]
+  },
+  {
+    "qid": "Q102970464",
+    "label_en": "Rice Cake Mold with a Design of Five Drinking Gourds",
+    "inventory_number": "1992.458",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "PERSON",
+        "string": "Five Drinking"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5789991021
+      }
+    ]
+  },
+  {
+    "qid": "Q102970468",
+    "label_en": "Rice Cake Mold with a Design of Five Squares with Five Variations of the Character for Good Fortune (Fuku)",
+    "inventory_number": "1992.460",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "PERSON",
+        "string": "Five Squares"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Five Variations"
+      },
+      {
+        "label": "PERSON",
+        "string": "Good Fortune"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Fuku"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Five"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.6065401435
+      },
+      {
+        "label": "group",
+        "string": "Good Fortune",
+        "confidence_score": 0.6694162339
+      },
+      {
+        "label": "group",
+        "string": "Fuku",
+        "confidence_score": 0.9271000624
+      }
+    ]
+  },
+  {
+    "qid": "Q102970472",
+    "label_en": "Rice Cake Mold with a Design of Five Tortoises",
+    "inventory_number": "1992.459",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5637449026
+      }
+    ]
+  },
+  {
+    "qid": "Q102970480",
+    "label_en": "Rice Cake Mold with a Design of Mt. Fuji, Pine, a Bird, Two Fruits, and Clouds",
+    "inventory_number": "1992.451",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "GPE",
+        "string": "Mt"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fuji"
+      },
+      {
+        "label": "PERSON",
+        "string": "Pine"
+      },
+      {
+        "label": "PERSON",
+        "string": "Clouds"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "LOC",
+        "string": "Mt. Fuji"
+      },
+      {
+        "label": "ORG",
+        "string": "Pine"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "Fruits"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5837284724
+      },
+      {
+        "label": "group",
+        "string": "Mt",
+        "confidence_score": 0.6433176398
+      },
+      {
+        "label": "group",
+        "string": "Fuji",
+        "confidence_score": 0.7113545537
+      }
+    ]
+  },
+  {
+    "qid": "Q102970490",
+    "label_en": "Rice Cake Mold with a Design of Two Deer on One Side, Pine Trees on the Other",
+    "inventory_number": "1992.453",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      },
+      {
+        "label": "PERSON",
+        "string": "Pine Trees"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "Side, Pine Trees on the Other"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5853464206
+      }
+    ]
+  },
+  {
+    "qid": "Q102970496",
+    "label_en": "Rice Cake Mold with a Design on one Side of Two Stylized Flowers, Another Flower on the Other Side",
+    "inventory_number": "1992.443",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cake Mold"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rice Cake Mold"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "Side of Two Stylized Flowers"
+      },
+      {
+        "label": "ORG",
+        "string": "Another Flower"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rice Cake Mold",
+        "confidence_score": 0.5789367557
+      }
+    ]
+  },
+  {
+    "qid": "Q102970508",
+    "label_en": "Richard III",
+    "inventory_number": "2017.001.052",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Richard"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "III"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Richard III"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Richard III",
+        "confidence_score": 0.9297345281
+      }
+    ]
+  },
+  {
+    "qid": "Q102970517",
+    "label_en": "Rimac, from American Abstract Artists 60th Anniversary Print Portfolio",
+    "inventory_number": "2012.008ee",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rimac"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Rimac",
+        "confidence_score": 0.8241502047
+      },
+      {
+        "label": "group",
+        "string": "American Abstract Artists",
+        "confidence_score": 0.6688752373
+      }
+    ]
+  },
+  {
+    "qid": "Q102970524",
+    "label_en": "Ring Out Wild Bells to the Wild Sky",
+    "inventory_number": "1970.036",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Wild Bells"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Wild Sky"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Wild Bells",
+        "confidence_score": 0.8277599812
+      }
+    ]
+  },
+  {
+    "qid": "Q102970529",
+    "label_en": "Ringling Bros and Barnum & Bailey Circus: See you at \"The Greatest Show on Earth\"",
+    "inventory_number": "1979.1186P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Bros"
+      },
+      {
+        "label": "PERSON",
+        "string": "Barnum"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bailey Circus"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Greatest Show"
+      },
+      {
+        "label": "GPE",
+        "string": "Earth"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Barnum & Bailey Circus"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Greatest Show on Earth"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Ringling Bros",
+        "confidence_score": 0.758818835
+      },
+      {
+        "label": "group",
+        "string": "Barnum & Bailey Circus",
+        "confidence_score": 0.7816817462
+      }
+    ]
+  },
+  {
+    "qid": "Q102970536",
+    "label_en": "River Scene",
+    "inventory_number": "1979.0884P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "River"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Scene"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970542",
+    "label_en": "Road Accident by a Windmill",
+    "inventory_number": "1979.0323P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Road"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Windmill"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970556",
+    "label_en": "Rockingham Pottery Brown Cookie Jar",
+    "inventory_number": "1979.0674P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rockingham"
+      },
+      {
+        "label": "PERSON",
+        "string": "Pottery Brown Cookie Jar"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rockingham Pottery Brown Cookie Jar"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Rockingham Pottery Brown",
+        "confidence_score": 0.5132977366
+      }
+    ]
+  },
+  {
+    "qid": "Q102970564",
+    "label_en": "Rockport (Bearskin Neck)",
+    "inventory_number": "2017.002.1",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rockport"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Bearskin Neck"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Rockport",
+        "confidence_score": 0.6134287715
+      },
+      {
+        "label": "group",
+        "string": "Bearskin Neck",
+        "confidence_score": 0.4970604777
+      }
+    ]
+  },
+  {
+    "qid": "Q102970577",
+    "label_en": "Rockport (Front Beach)",
+    "inventory_number": "2017.002.2",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rockport"
+      },
+      {
+        "label": "PERSON",
+        "string": "Front Beach"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Front Beach"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Rockport",
+        "confidence_score": 0.7359122038
+      },
+      {
+        "label": "place",
+        "string": "Front Beach",
+        "confidence_score": 0.9652835131
+      }
+    ]
+  },
+  {
+    "qid": "Q102970586",
+    "label_en": "Roentgenologist's Nightmare",
+    "inventory_number": "1979.0331P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Roentgenologist"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Nightmare"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Roentgenologist",
+        "confidence_score": 0.5430195332
+      }
+    ]
+  },
+  {
+    "qid": "Q102970594",
+    "label_en": "Roman Republic coin",
+    "inventory_number": "1981.031",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Roman"
+      },
+      {
+        "label": "GPE",
+        "string": "Republic"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Roman Republic"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Roman Republic",
+        "confidence_score": 0.559998408
+      }
+    ]
+  },
+  {
+    "qid": "Q102970600",
+    "label_en": "Rooftops",
+    "inventory_number": "1984.048",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970607",
+    "label_en": "Rose Mirror, from American Abstract Artists 75th Anniversary Print Portfolio",
+    "inventory_number": "2015.038rr",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Rose"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mirror"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Rose Mirror"
+      },
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists 75th"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Rose Mirror",
+        "confidence_score": 0.6459505558
+      },
+      {
+        "label": "group",
+        "string": "American Abstract Artists",
+        "confidence_score": 0.6503300865
+      }
+    ]
+  },
+  {
+    "qid": "Q102970613",
+    "label_en": "Rough seas harbor scene, after J. Vernet",
+    "inventory_number": "2007.038",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rough"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "J. Vernet"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "J. Vernet",
+        "confidence_score": 0.6405643821
+      }
+    ]
+  },
+  {
+    "qid": "Q102970619",
+    "label_en": "Royal Fisherman",
+    "inventory_number": "1989.010",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Royal"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fisherman"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Royal Fisherman"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Royal Fisherman",
+        "confidence_score": 0.6274886429
+      }
+    ]
+  },
+  {
+    "qid": "Q102970627",
+    "label_en": "Rubbing of stone relief showing a battle on a bridge, from the Wu Family Shrines, Shandong province",
+    "inventory_number": "1981.033",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Family Shrines"
+      },
+      {
+        "label": "GPE",
+        "string": "Shandong"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "FAC",
+        "string": "the Wu Family Shrines"
+      },
+      {
+        "label": "GPE",
+        "string": "Shandong"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Wu Family Shrines",
+        "confidence_score": 0.5311055978
+      },
+      {
+        "label": "place",
+        "string": "Shandong province",
+        "confidence_score": 0.6477952898
+      }
+    ]
+  },
+  {
+    "qid": "Q102970631",
+    "label_en": "Rue d'Orchamp",
+    "inventory_number": "1979.0378P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rue"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rue d'Orchamp",
+        "confidence_score": 0.3645119518
+      }
+    ]
+  },
+  {
+    "qid": "Q102970636",
+    "label_en": "Ruins",
+    "inventory_number": "1971.048",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970643",
+    "label_en": "Ruins of the Basilica of St. Paul's in Rome (image verso, view inside the Basilica of St. Paul's in Rome)",
+    "inventory_number": "2007.018",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Basilica"
+      },
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "PERSON",
+        "string": "Paul"
+      },
+      {
+        "label": "GPE",
+        "string": "Rome"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Basilica"
+      },
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "PERSON",
+        "string": "Paul"
+      },
+      {
+        "label": "GPE",
+        "string": "Rome"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "the Basilica of St. Paul's"
+      },
+      {
+        "label": "GPE",
+        "string": "Rome"
+      },
+      {
+        "label": "LOC",
+        "string": "the Basilica of St. Paul's"
+      },
+      {
+        "label": "GPE",
+        "string": "Rome"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Paul",
+        "confidence_score": 0.658811599
+      },
+      {
+        "label": "place",
+        "string": "Rome",
+        "confidence_score": 0.9774840474
+      },
+      {
+        "label": "place",
+        "string": "St. Paul",
+        "confidence_score": 0.6089537591
+      },
+      {
+        "label": "place",
+        "string": "Rome",
+        "confidence_score": 0.9948370457
+      }
+    ]
+  },
+  {
+    "qid": "Q102970648",
+    "label_en": "Rundhurst",
+    "inventory_number": "1965.037",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rundhurst"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Rundhurst",
+        "confidence_score": 0.4821107686
+      }
+    ]
+  },
+  {
+    "qid": "Q102970654",
+    "label_en": "Russian Language Lesson, from the Revolutions Per Minute (The Art Record)",
+    "inventory_number": "1982.092",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Russian"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Language Lesson"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Revolutions Per Minute"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Record"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Russian Language Lesson"
+      },
+      {
+        "label": "ORG",
+        "string": "the Revolutions Per Minute"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Art Record"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Russian",
+        "confidence_score": 0.646435082
+      },
+      {
+        "label": "group",
+        "string": "Revolutions Per Minute",
+        "confidence_score": 0.8518207669
+      },
+      {
+        "label": "group",
+        "string": "Art Record",
+        "confidence_score": 0.6509131193
+      }
+    ]
+  },
+  {
+    "qid": "Q102970658",
+    "label_en": "Russian troops combat an attempted coup d'etat, Moscow, Russia",
+    "inventory_number": "2016.011.22",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Russian"
+      },
+      {
+        "label": "GPE",
+        "string": "Moscow"
+      },
+      {
+        "label": "GPE",
+        "string": "Russia"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Russian"
+      },
+      {
+        "label": "GPE",
+        "string": "Moscow"
+      },
+      {
+        "label": "GPE",
+        "string": "Russia"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Russian",
+        "confidence_score": 0.9105643034
+      },
+      {
+        "label": "place",
+        "string": "Moscow",
+        "confidence_score": 0.9642132521
+      },
+      {
+        "label": "place",
+        "string": "Russia",
+        "confidence_score": 0.9746331573
+      }
+    ]
+  },
+  {
+    "qid": "Q102970665",
+    "label_en": "Rustic Lovers",
+    "inventory_number": "1973.015",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rustic"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lovers"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Rustic Lovers",
+        "confidence_score": 0.4038796723
+      }
+    ]
+  },
+  {
+    "qid": "Q102970670",
+    "label_en": "Sac (Sack)",
+    "inventory_number": "1995.021",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sac"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sac",
+        "confidence_score": 0.5021381378
+      },
+      {
+        "label": "group",
+        "string": "Sack",
+        "confidence_score": 0.8216459751
+      }
+    ]
+  },
+  {
+    "qid": "Q102970676",
+    "label_en": "Sad Cat",
+    "inventory_number": "1980.113",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sad"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Sad Cat"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970684",
+    "label_en": "Sailboat",
+    "inventory_number": "1992.010",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sailboat"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970691",
+    "label_en": "Sakanoshita: Fudesute Mountain (Sakanoshita, Fudesute mine)",
+    "inventory_number": "1972.020",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sakanoshita"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fudesute Mountain"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sakanoshita"
+      },
+      {
+        "label": "GPE",
+        "string": "Fudesute"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "FAC",
+        "string": "Fudesute Mountain (Sakanoshita"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Sakanoshita",
+        "confidence_score": 0.7244082689
+      },
+      {
+        "label": "place",
+        "string": "Fudesute Mountain",
+        "confidence_score": 0.4956486374
+      },
+      {
+        "label": "name",
+        "string": "Sakanoshita",
+        "confidence_score": 0.3135810196
+      }
+    ]
+  },
+  {
+    "qid": "Q102970696",
+    "label_en": "Sake bottle with inscription",
+    "inventory_number": "1993.186",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970706",
+    "label_en": "Sake cup with a design in blue underglaze of a gourd and vines",
+    "inventory_number": "1994.109",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970719",
+    "label_en": "Sake cup with a design of a flying crane in blue glaze",
+    "inventory_number": "1994.110",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970729",
+    "label_en": "Sake cup with a square foot and an inscription on the outside rim",
+    "inventory_number": "1993.103",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970735",
+    "label_en": "Sake flask with a combination of abstract and floral patterns in green, yellow and red",
+    "inventory_number": "1994.101",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970740",
+    "label_en": "Sake flask with a design in blue and brown underglaze of fish with a thin overglaze",
+    "inventory_number": "1994.102",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970749",
+    "label_en": "Sake flask with a design in blue underglaze of abstract floral motif",
+    "inventory_number": "1994.099",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sake flask",
+        "confidence_score": 0.5363327563
+      }
+    ]
+  },
+  {
+    "qid": "Q102970757",
+    "label_en": "Sake flask with green and glaze with abstract line design",
+    "inventory_number": "1994.098",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970763",
+    "label_en": "Sake flask with ochre and green glazes with incised abstract floral motif",
+    "inventory_number": "1994.100",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sake"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970768",
+    "label_en": "San Blas Embroidery",
+    "inventory_number": "1979.1097P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "San"
+      },
+      {
+        "label": "PERSON",
+        "string": "Blas Embroidery"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "San Blas Embroidery"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "San Blas",
+        "confidence_score": 0.5122361928
+      }
+    ]
+  },
+  {
+    "qid": "Q102970776",
+    "label_en": "San Quentin, California, Death House Prison",
+    "inventory_number": "2015.001",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "San"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Quentin"
+      },
+      {
+        "label": "GPE",
+        "string": "California"
+      },
+      {
+        "label": "PERSON",
+        "string": "Death House Prison"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "San Quentin"
+      },
+      {
+        "label": "GPE",
+        "string": "California"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "San Quentin",
+        "confidence_score": 0.9188521206
+      },
+      {
+        "label": "place",
+        "string": "California",
+        "confidence_score": 0.934535861
+      },
+      {
+        "label": "group",
+        "string": "Death House",
+        "confidence_score": 0.4175434858
+      }
+    ]
+  },
+  {
+    "qid": "Q102970782",
+    "label_en": "Sannio (Sannio), from Paesaggi (Landscapes)",
+    "inventory_number": "1994.538c",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sannio"
+      },
+      {
+        "label": "GPE",
+        "string": "Sannio"
+      },
+      {
+        "label": "GPE",
+        "string": "Paesaggi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscapes"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sannio"
+      },
+      {
+        "label": "ORG",
+        "string": "Paesaggi (Landscapes"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sannio",
+        "confidence_score": 0.7445197105
+      },
+      {
+        "label": "name",
+        "string": "Sannio",
+        "confidence_score": 0.6719561219
+      },
+      {
+        "label": "place",
+        "string": "Paesaggi",
+        "confidence_score": 0.4814040959
+      }
+    ]
+  },
+  {
+    "qid": "Q102970790",
+    "label_en": "Sans, from American Abstract Artists 60th Anniversary Print Portfolio",
+    "inventory_number": "2012.008ll",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sans"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sans",
+        "confidence_score": 0.8876729608
+      },
+      {
+        "label": "place",
+        "string": "American",
+        "confidence_score": 0.8420987725
+      }
+    ]
+  },
+  {
+    "qid": "Q102970796",
+    "label_en": "Sarah after Court Hearing, from the series, I Am Unbeatable",
+    "inventory_number": "2015.027",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "Court Hearing"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "Court Hearing"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sarah",
+        "confidence_score": 0.4951233268
+      }
+    ]
+  },
+  {
+    "qid": "Q102970805",
+    "label_en": "Sarah and a member of B.A.C.A. discussing a strategy to protect the boys, from the series, I Am Unbeatable",
+    "inventory_number": "2015.026",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "ORG",
+        "string": "B.A.C.A."
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sarah",
+        "confidence_score": 0.3817356527
+      },
+      {
+        "label": "group",
+        "string": "B.A.C.A",
+        "confidence_score": 0.7260543704
+      }
+    ]
+  },
+  {
+    "qid": "Q102970812",
+    "label_en": "Sarah and Her Family, from the series, I Am Unbeatable",
+    "inventory_number": "2014.018",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "Her Family"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sarah",
+        "confidence_score": 0.4515192509
+      }
+    ]
+  },
+  {
+    "qid": "Q102970819",
+    "label_en": "Sarah and Her Mother, from the series, I Am Unbeatable",
+    "inventory_number": "2015.022",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "Her Mother"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sarah",
+        "confidence_score": 0.4536589682
+      }
+    ]
+  },
+  {
+    "qid": "Q102970824",
+    "label_en": "Sarah and Taylor, from the series, I Am Unbeatable",
+    "inventory_number": "2014.023",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "GPE",
+        "string": "Taylor"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "Taylor"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sarah",
+        "confidence_score": 0.5249016285
+      },
+      {
+        "label": "name",
+        "string": "Taylor",
+        "confidence_score": 0.9470285177
+      }
+    ]
+  },
+  {
+    "qid": "Q102970832",
+    "label_en": "Sarah with her Family Attend the \"Meet us at the Bridge\" Ceremony, from the series, I Am Unbeatable",
+    "inventory_number": "2014.024",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "Family Attend"
+      },
+      {
+        "label": "GPE",
+        "string": "Bridge"
+      },
+      {
+        "label": "PERSON",
+        "string": "Ceremony"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "Family Attend"
+      },
+      {
+        "label": "FAC",
+        "string": "the Bridge\" Ceremony"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sarah",
+        "confidence_score": 0.4540463984
+      },
+      {
+        "label": "group",
+        "string": "Bridge '' Ceremony",
+        "confidence_score": 0.6428308288
+      }
+    ]
+  },
+  {
+    "qid": "Q102970839",
+    "label_en": "Sarah, James and Taylor, from the series, I Am Unbeatable",
+    "inventory_number": "2015.024",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "James"
+      },
+      {
+        "label": "GPE",
+        "string": "Taylor"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "PERSON",
+        "string": "James"
+      },
+      {
+        "label": "PERSON",
+        "string": "Taylor"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sarah",
+        "confidence_score": 0.5572202802
+      },
+      {
+        "label": "name",
+        "string": "James",
+        "confidence_score": 0.6767773032
+      },
+      {
+        "label": "name",
+        "string": "Taylor",
+        "confidence_score": 0.9678763151
+      }
+    ]
+  },
+  {
+    "qid": "Q102970850",
+    "label_en": "Sarah's New World, from the series, I Am Unbeatable",
+    "inventory_number": "2014.021",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "New World"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sarah"
+      },
+      {
+        "label": "ORG",
+        "string": "New World"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sarah 's New World",
+        "confidence_score": 0.6482037604
+      }
+    ]
+  },
+  {
+    "qid": "Q102970864",
+    "label_en": "Sashi with leather coin purse",
+    "inventory_number": "1993.032",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sashi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Sashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sashi",
+        "confidence_score": 0.807949543
+      }
+    ]
+  },
+  {
+    "qid": "Q102970872",
+    "label_en": "Sauce pot with a design in blue and brown underglaze of flowers",
+    "inventory_number": "1994.127",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sauce"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970879",
+    "label_en": "Sauce pot with design of a white camellia blossom",
+    "inventory_number": "1994.191",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sauce"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970890",
+    "label_en": "Sauce pot with lid with a design in blue underglaze of flowers",
+    "inventory_number": "1994.202",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sauce"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970897",
+    "label_en": "Sausage",
+    "inventory_number": "1980.050",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sausage"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102970904",
+    "label_en": "Sawankhalok war lidded jar with abstract designs in brown underglaze",
+    "inventory_number": "1993.118",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sawankhalok"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sawankhalok war",
+        "confidence_score": 0.6022357345
+      }
+    ]
+  },
+  {
+    "qid": "Q102970912",
+    "label_en": "Scarborough",
+    "inventory_number": "2008.159",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scarborough"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Scarborough",
+        "confidence_score": 0.4454585016
+      }
+    ]
+  },
+  {
+    "qid": "Q102970917",
+    "label_en": "Scarborough, London & North Eastern Railway of England and Scotland",
+    "inventory_number": "2007.064",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scarborough"
+      },
+      {
+        "label": "GPE",
+        "string": "London"
+      },
+      {
+        "label": "GPE",
+        "string": "North"
+      },
+      {
+        "label": "LOCATION",
+        "string": "Eastern Railway"
+      },
+      {
+        "label": "GPE",
+        "string": "England"
+      },
+      {
+        "label": "GPE",
+        "string": "Scotland"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Scarborough"
+      },
+      {
+        "label": "ORG",
+        "string": "London & North Eastern Railway of"
+      },
+      {
+        "label": "GPE",
+        "string": "England"
+      },
+      {
+        "label": "GPE",
+        "string": "Scotland"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Scarborough",
+        "confidence_score": 0.4999142289
+      },
+      {
+        "label": "place",
+        "string": "London",
+        "confidence_score": 0.9739713669
+      },
+      {
+        "label": "place",
+        "string": "North Eastern Railway",
+        "confidence_score": 0.6054084996
+      },
+      {
+        "label": "place",
+        "string": "England",
+        "confidence_score": 0.7306088209
+      },
+      {
+        "label": "place",
+        "string": "Scotland",
+        "confidence_score": 0.9868309498
+      }
+    ]
+  },
+  {
+    "qid": "Q102970925",
+    "label_en": "Scene #10 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.317",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "10"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Lives of the Loyal Retainers"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6231221557
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8799093366
+      }
+    ]
+  },
+  {
+    "qid": "Q102970933",
+    "label_en": "Scene #11 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.329",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "11"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Lives of the Loyal Retainers"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6243872046
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8831784129
+      }
+    ]
+  },
+  {
+    "qid": "Q102970941",
+    "label_en": "Scene #11 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.318",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "11"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Lives of the Loyal Retainers"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6243872046
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8831784129
+      }
+    ]
+  },
+  {
+    "qid": "Q102970948",
+    "label_en": "Scene #2 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.310",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "2"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6276177466
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8751654625
+      }
+    ]
+  },
+  {
+    "qid": "Q102970954",
+    "label_en": "Scene #3 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.321",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "3"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6244575381
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8755815625
+      }
+    ]
+  },
+  {
+    "qid": "Q102970960",
+    "label_en": "Scene #3 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.311",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "3"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6244575381
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8755815625
+      }
+    ]
+  },
+  {
+    "qid": "Q102970971",
+    "label_en": "Scene #4 from The Lives of the Loyal Retainers (Chushingura )",
+    "inventory_number": "1992.322",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "4"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6258575916
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8722900748
+      }
+    ]
+  },
+  {
+    "qid": "Q102970978",
+    "label_en": "Scene #5 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.323",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "5"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6352269948
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8692296147
+      }
+    ]
+  },
+  {
+    "qid": "Q102970984",
+    "label_en": "Scene #5 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.312",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "5"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6352269948
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8692296147
+      }
+    ]
+  },
+  {
+    "qid": "Q102970990",
+    "label_en": "Scene #6 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.324",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "6"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6288812757
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8732720017
+      }
+    ]
+  },
+  {
+    "qid": "Q102970998",
+    "label_en": "Scene #6 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.313",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "6"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6288812757
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8732720017
+      }
+    ]
+  },
+  {
+    "qid": "Q102971008",
+    "label_en": "Scene #7 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.325",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "7"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6297341585
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8716446757
+      }
+    ]
+  },
+  {
+    "qid": "Q102971015",
+    "label_en": "Scene #7 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.314",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "7"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6297341585
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8716446757
+      }
+    ]
+  },
+  {
+    "qid": "Q102971027",
+    "label_en": "Scene #8 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.326",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "8"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6315854192
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8711880445
+      }
+    ]
+  },
+  {
+    "qid": "Q102971033",
+    "label_en": "Scene #8 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.315",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "8"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6315854192
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8711880445
+      }
+    ]
+  },
+  {
+    "qid": "Q102971046",
+    "label_en": "Scene #9 from The Lives of the Loyal Retainers (Chushingura)",
+    "inventory_number": "1992.316",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Lives of the Loyal"
+      },
+      {
+        "label": "GPE",
+        "string": "Chushingura"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "9"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Lives of the Loyal Retainers"
+      },
+      {
+        "label": "ORG",
+        "string": "Chushingura"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Loyal Retainers",
+        "confidence_score": 0.6322493553
+      },
+      {
+        "label": "group",
+        "string": "Chushingura",
+        "confidence_score": 0.8690459728
+      }
+    ]
+  },
+  {
+    "qid": "Q102971052",
+    "label_en": "Scene from a Kabuki Play",
+    "inventory_number": "1972.037",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Kabuki Play"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971059",
+    "label_en": "Scene in Haiti #1",
+    "inventory_number": "1979.0885P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "GPE",
+        "string": "Haiti"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Haiti"
+      },
+      {
+        "label": "MONEY",
+        "string": "1"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Haiti",
+        "confidence_score": 0.9860100746
+      }
+    ]
+  },
+  {
+    "qid": "Q102971068",
+    "label_en": "Scene in Haiti #2",
+    "inventory_number": "1979.0886P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scene"
+      },
+      {
+        "label": "GPE",
+        "string": "Haiti"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Haiti"
+      },
+      {
+        "label": "MONEY",
+        "string": "2"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Haiti",
+        "confidence_score": 0.984400034
+      }
+    ]
+  },
+  {
+    "qid": "Q102971078",
+    "label_en": "Scenes from life of a saint",
+    "inventory_number": "1971.058",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971086",
+    "label_en": "School Girls (Study for Recess #1)",
+    "inventory_number": "1978.035",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "School"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Girls"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Study"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Recess"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "1"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Study for Recess",
+        "confidence_score": 0.8153249025
+      }
+    ]
+  },
+  {
+    "qid": "Q102971092",
+    "label_en": "Scotland Yard with Part of the Banquet House",
+    "inventory_number": "1989.025",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scotland"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Yard"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Part"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Banquet House"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Scotland Yard"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Scotland Yard",
+        "confidence_score": 0.610616371
+      },
+      {
+        "label": "group",
+        "string": "Banquet House",
+        "confidence_score": 0.8063989282
+      }
+    ]
+  },
+  {
+    "qid": "Q102971097",
+    "label_en": "Screen painting of five cranes (three flying), with a rushing stream on the left and the bank on the right",
+    "inventory_number": "1988.143b",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Screen"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "five"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971105",
+    "label_en": "Screen painting of four cranes (three flying), with flowing water, bamboo, and cherry blossoms",
+    "inventory_number": "1988.143a",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Screen"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "four"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971112",
+    "label_en": "Screen, from American Abstract Artists 60th Anniversary Print Portfolio 1997",
+    "inventory_number": "2012.008a",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Screen"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "American",
+        "confidence_score": 0.8419253826
+      }
+    ]
+  }
+]
