@@ -1,0 +1,6395 @@
+[
+  {
+    "qid": "Q102971120",
+    "label_en": "Scroll weight with an inlaid chrysanthemum design in mother of pearl",
+    "inventory_number": "1993.027",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scroll"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971125",
+    "label_en": "Scroll weight with an inlaid floral design in silver and gold",
+    "inventory_number": "1993.026",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scroll"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971132",
+    "label_en": "Scroll weight with an inlaid tree peony design in gold and silver",
+    "inventory_number": "1993.025",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scroll"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971141",
+    "label_en": "Scroll weight with inscription",
+    "inventory_number": "1993.028",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Scroll"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971147",
+    "label_en": "Sculptural Objects",
+    "inventory_number": "1965.032",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971155",
+    "label_en": "Sea Battle",
+    "inventory_number": "1969.004",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sea"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Battle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sea Battle",
+        "confidence_score": 0.4648852497
+      }
+    ]
+  },
+  {
+    "qid": "Q102971169",
+    "label_en": "Seal case with a design of a dragon on both sides",
+    "inventory_number": "1994.143",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Seal"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971179",
+    "label_en": "Seal with Herman D. Doochin's personal seal reading Ha-man",
+    "inventory_number": "1993.066",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Seal"
+      },
+      {
+        "label": "PERSON",
+        "string": "Herman D. Doochin"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Herman D. Doochin's"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Herman D. Doochin",
+        "confidence_score": 0.9495946169
+      }
+    ]
+  },
+  {
+    "qid": "Q102971185",
+    "label_en": "Seals and Labels of a Theatrical Group's Gathering Held on January 20, 1921",
+    "inventory_number": "1992.107",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Labels"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Theatrical Group"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Labels"
+      },
+      {
+        "label": "ORG",
+        "string": "a Theatrical Group's"
+      },
+      {
+        "label": "DATE",
+        "string": "January 20, 1921"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971191",
+    "label_en": "Seated Buddha with reversed swastika on chest in meditation",
+    "inventory_number": "1994.153",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Buddha"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Buddha"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971199",
+    "label_en": "Seated Female Figure",
+    "inventory_number": "1979.0631P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Female"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971215",
+    "label_en": "Seated female figure with fan with green glaze",
+    "inventory_number": "1993.207",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971222",
+    "label_en": "Seated man with green glaze",
+    "inventory_number": "1993.209",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971229",
+    "label_en": "Seated Nude",
+    "inventory_number": "1979.0079",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Nude"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971237",
+    "label_en": "Second of Six Images for J",
+    "inventory_number": "1980.065",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Six Images"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORDINAL",
+        "string": "Second"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Six"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971244",
+    "label_en": "Section of obi with a design of Mt. Fuji and fishermen",
+    "inventory_number": "1988.064",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Mt"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fuji"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "Mt. Fuji"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "obi",
+        "confidence_score": 0.651443243
+      },
+      {
+        "label": "group",
+        "string": "Mt",
+        "confidence_score": 0.8850884438
+      },
+      {
+        "label": "group",
+        "string": "Fuji",
+        "confidence_score": 0.7842189074
+      }
+    ]
+  },
+  {
+    "qid": "Q102971257",
+    "label_en": "Seki: Early Departure of a Daimy\u014d (Seki, honjin hayadachi)",
+    "inventory_number": "1972.019",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Seki"
+      },
+      {
+        "label": "GPE",
+        "string": "Daimy\u014d"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Seki"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Seki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Seki"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Seki",
+        "confidence_score": 0.7338780165
+      },
+      {
+        "label": "name",
+        "string": "Seki",
+        "confidence_score": 0.532704711
+      },
+      {
+        "label": "name",
+        "string": "honjin hayadachi",
+        "confidence_score": 0.7237029076
+      }
+    ]
+  },
+  {
+    "qid": "Q102971272",
+    "label_en": "Self portrait \"For Your File. Fritz Eichenberg\" (2 copies)",
+    "inventory_number": "2017.001.061",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Self"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fritz Eichenberg"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "For Your File"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fritz Eichenberg"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "2"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Fritz Eichenberg",
+        "confidence_score": 0.8578490317
+      }
+    ]
+  },
+  {
+    "qid": "Q102971281",
+    "label_en": "Sera Sulla Collina (Evening on the Hill), from Paesaggi (Landscapes)",
+    "inventory_number": "1994.538i",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sera"
+      },
+      {
+        "label": "PERSON",
+        "string": "Sulla Collina"
+      },
+      {
+        "label": "GPE",
+        "string": "Hill"
+      },
+      {
+        "label": "GPE",
+        "string": "Paesaggi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscapes"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "TIME",
+        "string": "Evening"
+      },
+      {
+        "label": "ORG",
+        "string": "Hill"
+      },
+      {
+        "label": "ORG",
+        "string": "Paesaggi (Landscapes"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sera Sulla Collina",
+        "confidence_score": 0.755627056
+      },
+      {
+        "label": "place",
+        "string": "Paesaggi",
+        "confidence_score": 0.4808541238
+      }
+    ]
+  },
+  {
+    "qid": "Q102971288",
+    "label_en": "Sessh\u016b Drawing Rats which Come to Life, from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)",
+    "inventory_number": "1992.099",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sessh\u016b"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Come"
+      },
+      {
+        "label": "GPE",
+        "string": "Life"
+      },
+      {
+        "label": "PERSON",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PRODUCT",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORG",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sessh\u016b Drawing Rats",
+        "confidence_score": 0.81130747
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi ryakuga",
+        "confidence_score": 0.717377007
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi",
+        "confidence_score": 0.5506059527
+      }
+    ]
+  },
+  {
+    "qid": "Q102971296",
+    "label_en": "Set of Eight Ink Sticks With Relief Designs of Landscapes & Calligraphy",
+    "inventory_number": "1992.501A-H",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Eight Ink Sticks"
+      },
+      {
+        "label": "PERSON",
+        "string": "Relief Designs"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscapes"
+      },
+      {
+        "label": "GPE",
+        "string": "Calligraphy"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Eight"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971305",
+    "label_en": "Set of five incense cases with individual designs in cotton pouch",
+    "inventory_number": "1993.063a",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "five"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971310",
+    "label_en": "Set of five incense cases with individual designs in cotton pouch (Bouquet of Irises for the Boy's Festival design)",
+    "inventory_number": "1993.063c",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Bouquet"
+      },
+      {
+        "label": "GPE",
+        "string": "Irises"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Boy"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Festival"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "five"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971317",
+    "label_en": "Set of five incense cases with individual designs in cotton pouch (Emperor and Empress for the Girl's Doll Festival design)",
+    "inventory_number": "1993.063b",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Emperor"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Empress"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Girl"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Doll Festival"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "five"
+      },
+      {
+        "label": "ORG",
+        "string": "Empress"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971327",
+    "label_en": "Set of five incense cases with individual designs in cotton pouch (Leaf and inscribed poem papers for the Tanabata Festival design)",
+    "inventory_number": "1993.063d",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Leaf"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Tanabata Festival"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "five"
+      },
+      {
+        "label": "PERSON",
+        "string": "Leaf"
+      },
+      {
+        "label": "EVENT",
+        "string": "the Tanabata Festival"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Tanabata Festival design",
+        "confidence_score": 0.6413931251
+      }
+    ]
+  },
+  {
+    "qid": "Q102971335",
+    "label_en": "Set of five incense cases with individual designs in cotton pouch Chrysanthemum and butterfly",
+    "inventory_number": "1993.063e",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "five"
+      },
+      {
+        "label": "PERSON",
+        "string": "Chrysanthemum"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971341",
+    "label_en": "Shallow dish with radial cornered gray landscape (Ko-Kutani ware)",
+    "inventory_number": "1986.040",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shallow"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Ko-Kutani"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Ko-Kutani",
+        "confidence_score": 0.4690591693
+      }
+    ]
+  },
+  {
+    "qid": "Q102971349",
+    "label_en": "Shard of an Amphora",
+    "inventory_number": "1982.104",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Shard"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Shard",
+        "confidence_score": 0.5549539924
+      }
+    ]
+  },
+  {
+    "qid": "Q102971358",
+    "label_en": "Sheep, Cows, and People Crossing a Bridge",
+    "inventory_number": "1972.080",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sheep"
+      },
+      {
+        "label": "PERSON",
+        "string": "Cows"
+      },
+      {
+        "label": "PERSON",
+        "string": "People Crossing"
+      },
+      {
+        "label": "GPE",
+        "string": "Bridge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "People Crossing a Bridge"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971369",
+    "label_en": "Shibayama plaque with design of Mt. Fuji and lake",
+    "inventory_number": "1986.065",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shibayama"
+      },
+      {
+        "label": "GPE",
+        "string": "Mt"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fuji"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Shibayama"
+      },
+      {
+        "label": "LOC",
+        "string": "Mt. Fuji"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Shibayama",
+        "confidence_score": 0.3553498387
+      },
+      {
+        "label": "group",
+        "string": "Mt",
+        "confidence_score": 0.7458251715
+      },
+      {
+        "label": "place",
+        "string": "Fuji",
+        "confidence_score": 0.45546031
+      },
+      {
+        "label": "place",
+        "string": "lake",
+        "confidence_score": 0.3083640933
+      }
+    ]
+  },
+  {
+    "qid": "Q102971380",
+    "label_en": "Shield",
+    "inventory_number": "1979.0501P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shield"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Shield"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Shield",
+        "confidence_score": 0.2561013699
+      }
+    ]
+  },
+  {
+    "qid": "Q102971388",
+    "label_en": "Shigaraki ware bowl with foliate rim brown glazes",
+    "inventory_number": "1994.211",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shigaraki"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Shigaraki ware",
+        "confidence_score": 0.421929121
+      }
+    ]
+  },
+  {
+    "qid": "Q102971395",
+    "label_en": "Shigaraki ware chawan (tea bowl) with green and brown glaze",
+    "inventory_number": "1994.178",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shigaraki"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Shigaraki ware chawan",
+        "confidence_score": 0.5327465137
+      }
+    ]
+  },
+  {
+    "qid": "Q102971404",
+    "label_en": "Shigaraki ware vase with incised pattern",
+    "inventory_number": "1994.177",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shigaraki"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Shigaraki ware",
+        "confidence_score": 0.5317176878
+      }
+    ]
+  },
+  {
+    "qid": "Q102971410",
+    "label_en": "Shikishi cardboard square with calligraphy reading Haman (Herman Doochin)",
+    "inventory_number": "1994.228",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shikishi"
+      },
+      {
+        "label": "GPE",
+        "string": "Haman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Herman Doochin"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Shikishi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Haman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Herman Doochin"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Shikishi",
+        "confidence_score": 0.4195395708
+      },
+      {
+        "label": "name",
+        "string": "Haman",
+        "confidence_score": 0.521314919
+      },
+      {
+        "label": "name",
+        "string": "Herman Doochin",
+        "confidence_score": 0.9608930051
+      }
+    ]
+  },
+  {
+    "qid": "Q102971418",
+    "label_en": "Shinnecock Cloudburst",
+    "inventory_number": "1979.0054",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Shinnecock"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cloudburst"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Shinnecock Cloudburst"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Shinnecock Cloudburst",
+        "confidence_score": 0.6107178628
+      }
+    ]
+  },
+  {
+    "qid": "Q102971431",
+    "label_en": "Shino ware chawan (tea bowl) with a plant design",
+    "inventory_number": "1993.172",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shino"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Shino ware chawan",
+        "confidence_score": 0.4679808418
+      }
+    ]
+  },
+  {
+    "qid": "Q102971440",
+    "label_en": "Shinzo Ukiyo E Ruiko",
+    "inventory_number": "1978.163",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Shinzo"
+      },
+      {
+        "label": "PERSON",
+        "string": "Ukiyo E Ruiko"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Shinzo Ukiyo E Ruiko",
+        "confidence_score": 0.6484905556
+      }
+    ]
+  },
+  {
+    "qid": "Q102971448",
+    "label_en": "Shoes",
+    "inventory_number": "2014.003",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971457",
+    "label_en": "Shore/Coast (Varigotti, Italy)",
+    "inventory_number": "2007.071e",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Varigotti"
+      },
+      {
+        "label": "GPE",
+        "string": "Italy"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Shore/Coast (Varigotti"
+      },
+      {
+        "label": "GPE",
+        "string": "Italy"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Shore/Coast",
+        "confidence_score": 0.3751790524
+      },
+      {
+        "label": "name",
+        "string": "Varigotti",
+        "confidence_score": 0.9315676093
+      },
+      {
+        "label": "place",
+        "string": "Italy",
+        "confidence_score": 0.9971049428
+      }
+    ]
+  },
+  {
+    "qid": "Q102971466",
+    "label_en": "Shrimp (hanging scroll)",
+    "inventory_number": "1996.186",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Shrimp"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Shrimp"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971472",
+    "label_en": "Sign Boards Giving the Names of Donors to Shi-Tenno-ji Temple in Osaka",
+    "inventory_number": "1992.110",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sign"
+      },
+      {
+        "label": "GPE",
+        "string": "Donors"
+      },
+      {
+        "label": "GPE",
+        "string": "Osaka"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Osaka"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Shi-Tenno-ji Temple",
+        "confidence_score": 0.5004485846
+      },
+      {
+        "label": "place",
+        "string": "Osaka",
+        "confidence_score": 0.8903394341
+      }
+    ]
+  },
+  {
+    "qid": "Q102971480",
+    "label_en": "Signature Seal in the Form of a Lion Dog",
+    "inventory_number": "1992.213",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Signature"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Seal"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Signature Seal",
+        "confidence_score": 0.5769796222
+      }
+    ]
+  },
+  {
+    "qid": "Q102971484",
+    "label_en": "Signature Seal with a Design of a Bird and a Leaf",
+    "inventory_number": "1992.198",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Signature Seal"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PRODUCT",
+        "string": "Bird"
+      },
+      {
+        "label": "PERSON",
+        "string": "Leaf"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971492",
+    "label_en": "Signature Seal With a Design of Rocks and Bamboo",
+    "inventory_number": "1992.209",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Signature Seal"
+      },
+      {
+        "label": "GPE",
+        "string": "Rocks"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bamboo"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971498",
+    "label_en": "Signature Seal, Square with an Arched Handle",
+    "inventory_number": "1992.200",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Signature Seal"
+      },
+      {
+        "label": "PERSON",
+        "string": "Square"
+      },
+      {
+        "label": "PERSON",
+        "string": "Arched Handle"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      },
+      {
+        "label": "PERSON",
+        "string": "an Arched Handle"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971507",
+    "label_en": "Silverstone Rising",
+    "inventory_number": "1980.018",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Silverstone",
+        "confidence_score": 0.4976292551
+      }
+    ]
+  },
+  {
+    "qid": "Q102971512",
+    "label_en": "Sim\u00f3n Bol\u00edvar",
+    "inventory_number": "1974.001",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sim\u00f3n"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Bol\u00edvar"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Sim\u00f3n Bol\u00edvar"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Sim\u00f3n Bol\u00edvar",
+        "confidence_score": 0.5921752751
+      }
+    ]
+  },
+  {
+    "qid": "Q102971521",
+    "label_en": "Singer's Fan Painted with a Design of Two Goldfish",
+    "inventory_number": "1992.509",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Singer"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fan"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Singer's Fan Painted"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971532",
+    "label_en": "Sitting Bull",
+    "inventory_number": "2014.006",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Bull"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Bull",
+        "confidence_score": 0.2793655097
+      }
+    ]
+  },
+  {
+    "qid": "Q102971540",
+    "label_en": "Six Figures",
+    "inventory_number": "1979.0311P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Six"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971552",
+    "label_en": "Six heures et demie, from Album du Si\u00e9ge",
+    "inventory_number": "1999.172k",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Six"
+      },
+      {
+        "label": "GPE",
+        "string": "Album"
+      },
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "heures et demie",
+        "confidence_score": 0.5843812525
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.3739168048
+      }
+    ]
+  },
+  {
+    "qid": "Q102971560",
+    "label_en": "Six panel screen with scenes from the Tale of Genji",
+    "inventory_number": "1986.025",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Six"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Tale"
+      },
+      {
+        "label": "GPE",
+        "string": "Genji"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Six"
+      },
+      {
+        "label": "ORG",
+        "string": "the Tale of Genji"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Genji",
+        "confidence_score": 0.2794599235
+      }
+    ]
+  },
+  {
+    "qid": "Q102971569",
+    "label_en": "Sketch for \"Devil Says Hello #4\"",
+    "inventory_number": "1979.0020",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sketch"
+      },
+      {
+        "label": "PERSON",
+        "string": "Devil Says Hello"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971576",
+    "label_en": "Skull and Cape",
+    "inventory_number": "1979.0012",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Skull"
+      },
+      {
+        "label": "GPE",
+        "string": "Cape"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Cape",
+        "confidence_score": 0.7050800323
+      }
+    ]
+  },
+  {
+    "qid": "Q102971588",
+    "label_en": "Sleeping Child",
+    "inventory_number": "1976.017",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Child"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971595",
+    "label_en": "Sleeping Woman",
+    "inventory_number": "1979.0371P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971602",
+    "label_en": "Slospeed XXX, from American Abstract Artists 60th Anniversary Print Portfolio",
+    "inventory_number": "2012.008i",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Slospeed"
+      },
+      {
+        "label": "GPE",
+        "string": "XXX"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Slospeed XXX",
+        "confidence_score": 0.6333581358
+      },
+      {
+        "label": "place",
+        "string": "American",
+        "confidence_score": 0.7761238813
+      }
+    ]
+  },
+  {
+    "qid": "Q102971611",
+    "label_en": "Small Birds from the portfolio Dear Stieglitz",
+    "inventory_number": "2004.068",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Dear Stieglitz"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Dear Stieglitz"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Dear Stieglitz",
+        "confidence_score": 0.6743570864
+      }
+    ]
+  },
+  {
+    "qid": "Q102971618",
+    "label_en": "Small bowl with design of iris",
+    "inventory_number": "1996.203",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Small"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971627",
+    "label_en": "Small bowl with foot (Celadon ware)",
+    "inventory_number": "1985.089",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Small"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Celadon"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Celadon"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Celadon ware",
+        "confidence_score": 0.4351302534
+      }
+    ]
+  },
+  {
+    "qid": "Q102971636",
+    "label_en": "Small City",
+    "inventory_number": "1979.0258P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971643",
+    "label_en": "Small eagle pendant",
+    "inventory_number": "2006.010",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Small"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971652",
+    "label_en": "Small frog pendant",
+    "inventory_number": "2006.013",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Small"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971659",
+    "label_en": "Small green jar with celadon glaze",
+    "inventory_number": "1985.061",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "celadon"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971666",
+    "label_en": "Small jar",
+    "inventory_number": "1992.360",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Small"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971674",
+    "label_en": "Small jar with a design in  blue underglaze of animals and plants",
+    "inventory_number": "1993.117",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Small"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971679",
+    "label_en": "Small spotted pot",
+    "inventory_number": "1985.057",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Small"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971686",
+    "label_en": "Smashing Beauty, from the Revolutions Per Minute (The Art Record)",
+    "inventory_number": "1982.096",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Beauty"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Revolutions Per Minute"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Record"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Smashing Beauty"
+      },
+      {
+        "label": "ORG",
+        "string": "the Revolutions Per Minute"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Art Record"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Revolutions Per Minute",
+        "confidence_score": 0.7953286568
+      },
+      {
+        "label": "group",
+        "string": "Art Record",
+        "confidence_score": 0.6695287228
+      }
+    ]
+  },
+  {
+    "qid": "Q102971693",
+    "label_en": "Smiling Cat",
+    "inventory_number": "1980.114",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Smiling Cat"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Cat",
+        "confidence_score": 0.5386804342
+      }
+    ]
+  },
+  {
+    "qid": "Q102971701",
+    "label_en": "Snuff bottle with a carved design in blue glass of bats, deer, and cranes with a pink stone stopper",
+    "inventory_number": "1994.140",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Snuff"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971706",
+    "label_en": "Snuff bottle with a design in blue underglaze of two lion dogs with a green stopper",
+    "inventory_number": "1994.138",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Snuff"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971719",
+    "label_en": "Snuff bottle with a design in blue underglaze with green, turquoise, brown and red enamel glazes of two landscapes with a salmon colored stopper",
+    "inventory_number": "1994.141",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Snuff"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971727",
+    "label_en": "Snuff bottle with a pink, crackle glaze mottled with blue stopper",
+    "inventory_number": "1994.137",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Snuff"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971735",
+    "label_en": "Snuff bottle with a pink, mottled design with green stopper",
+    "inventory_number": "1994.136",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Snuff"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971744",
+    "label_en": "Snuff bottle with carved design of figures in a landscape",
+    "inventory_number": "1994.135",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Snuff"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971753",
+    "label_en": "Snuff bottle with green stopper",
+    "inventory_number": "1994.139",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Snuff"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971762",
+    "label_en": "Soba-choko (Noodle sauce cup) with a design in black and brown underglaze of vertical leaf pattern",
+    "inventory_number": "1994.081",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971771",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in black underglaze of  broken diagonal lines",
+    "inventory_number": "1994.076",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971779",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in black underglaze of abstract vertical pattern",
+    "inventory_number": "1994.074",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971785",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in black underglaze of abstract vertical pattern with brush design",
+    "inventory_number": "1994.075",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971793",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in black underglaze of abstract, alternating vertical lines",
+    "inventory_number": "1994.073",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971799",
+    "label_en": "Soba-choko (Noodle sauce cup) with a design in black underglaze of broken vertical lines",
+    "inventory_number": "1994.077",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971811",
+    "label_en": "Soba-choko (Noodle sauce cup) with a design in blue and brown underglaze of alternating vertical lines",
+    "inventory_number": "1994.078",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971818",
+    "label_en": "Soba-choko (Noodle sauce cup) with a design in blue and brown underglaze of floral motif",
+    "inventory_number": "1994.082",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971827",
+    "label_en": "Soba-choko (Noodle sauce cup) with a design in blue and red underglaze of floral motifs",
+    "inventory_number": "1994.080",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971834",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of  a landscape with three buildings, and flying birds with islands",
+    "inventory_number": "1993.135",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971839",
+    "label_en": "Soba-choko (Noodle sauce cup) with a design in blue underglaze of a border of spirals over a geometric line design",
+    "inventory_number": "1994.032",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971846",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of a fan, hat, and pillow",
+    "inventory_number": "1993.137",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971855",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of a landscape",
+    "inventory_number": "1993.169",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971861",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of a landscape with drying fishing nets with vertical strips",
+    "inventory_number": "1993.142",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971873",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of a stylized rock and grasses",
+    "inventory_number": "1994.016",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971880",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract clouds",
+    "inventory_number": "1993.124",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971887",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract dot-pattern",
+    "inventory_number": "1993.132",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971896",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract feathers and cherry blossoms",
+    "inventory_number": "1993.144",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971904",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract ferns",
+    "inventory_number": "1994.097",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971914",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract flowers and tendrils",
+    "inventory_number": "1993.157",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971923",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract landscape",
+    "inventory_number": "1994.045",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971930",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract lotus motif in a repeated pattern",
+    "inventory_number": "1994.040",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971937",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract pattern in a square grid with diagonals",
+    "inventory_number": "1993.127",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971944",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract patterns in a square grid",
+    "inventory_number": "1993.125",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971952",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract plant motif",
+    "inventory_number": "1994.054",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971965",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract stalks and leaves",
+    "inventory_number": "1994.061",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971978",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract vertical bundles",
+    "inventory_number": "1994.053",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971987",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract vertical lines",
+    "inventory_number": "1994.044",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102971999",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstract, checkerboard pattern",
+    "inventory_number": "1994.037",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "checkerboard pattern"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972012",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of abstracted scales",
+    "inventory_number": "1993.156",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972022",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of alternating abstract patterns",
+    "inventory_number": "1994.025",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972029",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of bamboo",
+    "inventory_number": "1994.050",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972034",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of bamboo and fishermen with straw rain cape and two bamboo shoots",
+    "inventory_number": "1994.010",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972039",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of bamboo and one flying bird",
+    "inventory_number": "1993.140",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "one"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972045",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of bamboo and plum blossoms with inscription on bottom",
+    "inventory_number": "1993.154",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972055",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of blossoming plants in three panels",
+    "inventory_number": "1993.149",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972064",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of buds and plum blossoms",
+    "inventory_number": "1994.065",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972071",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of double leaf designs in three panels",
+    "inventory_number": "1993.143",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972076",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of floral motif in repeated pattern",
+    "inventory_number": "1994.039",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972083",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of floral motif set in a design of vertical stripes",
+    "inventory_number": "1994.058",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972093",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of flowering plants",
+    "inventory_number": "1993.153",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972102",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of flowers",
+    "inventory_number": "1993.136",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972109",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of flowers and tendrils",
+    "inventory_number": "1993.146",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972115",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of flowers and vines",
+    "inventory_number": "1993.160",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972123",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of flowers on a geometric ground",
+    "inventory_number": "1993.158",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972134",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of flowers with circular abstract designs",
+    "inventory_number": "1993.150",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972142",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of flying cranes, abstract patterns with foliate rim",
+    "inventory_number": "1994.096",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972148",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of galloping horse and willow tree",
+    "inventory_number": "1994.007",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972155",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of grapevines and tendrils",
+    "inventory_number": "1993.131",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972161",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with a building on outside",
+    "inventory_number": "1993.121",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972169",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with building, birds, and sails",
+    "inventory_number": "1994.095",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972177",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with building, mountains and birds",
+    "inventory_number": "1994.042",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972185",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with pine tree, bamboo, and birds",
+    "inventory_number": "1994.020",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972191",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with rocks, trees, and birds",
+    "inventory_number": "1994.033",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972198",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with sailboats",
+    "inventory_number": "1993.152",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972205",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with sailboats and a star constellation",
+    "inventory_number": "1993.167",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972214",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with sailboats and buildings",
+    "inventory_number": "1993.162",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972225",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of landscape with two houses, birds, and fish nets",
+    "inventory_number": "1994.008",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972234",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of low-lying mountain with stylized plant forms",
+    "inventory_number": "1994.012",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972243",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of lozenge shapes in a cross hatched pattern",
+    "inventory_number": "1994.064",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972256",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of morning glories on a trellis and two butterflies",
+    "inventory_number": "1993.139",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "TIME",
+        "string": "morning"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972272",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of ovals set in rectangles",
+    "inventory_number": "1994.071",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972289",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of pine boughs",
+    "inventory_number": "1993.148",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972307",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of pine, plum and bamboo",
+    "inventory_number": "1994.031",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972320",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plaid pattern",
+    "inventory_number": "1994.029",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972334",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plant forms",
+    "inventory_number": "1994.046",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972348",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plant forms set in squares",
+    "inventory_number": "1994.087",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972367",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plant still life",
+    "inventory_number": "1993.164",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972384",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plants and a butterfly",
+    "inventory_number": "1993.141",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972402",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plants and rocks",
+    "inventory_number": "1993.166",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972417",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plants and vegetation",
+    "inventory_number": "1993.133",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972436",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plants and vegetation in a grid pattern",
+    "inventory_number": "1993.134",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972454",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of plants, pine saplings with an inscription on the bottom",
+    "inventory_number": "1993.161",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972471",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of radishes",
+    "inventory_number": "1994.052",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972489",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of sacred fungus and tendrils",
+    "inventory_number": "1994.088",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972503",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of seascape islands and sailboats",
+    "inventory_number": "1993.128",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "seascape islands",
+        "confidence_score": 0.6844388545
+      }
+    ]
+  },
+  {
+    "qid": "Q102972520",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of spiral motif",
+    "inventory_number": "1994.041",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972532",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of squares filled with plum and bamboo",
+    "inventory_number": "1994.056",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972547",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of stylized bamboo",
+    "inventory_number": "1994.026",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972562",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of stylized flowers or plants",
+    "inventory_number": "1993.151",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972577",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of stylized pine and bamboo",
+    "inventory_number": "1994.023",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972589",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of stylized pine branches",
+    "inventory_number": "1994.024",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972606",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of stylized plant forms",
+    "inventory_number": "1994.027",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972625",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of thick and thin vertical stripes",
+    "inventory_number": "1994.059",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972641",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of thistles",
+    "inventory_number": "1994.043",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972657",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of three abstract flowers and vertical stripes",
+    "inventory_number": "1994.022",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972674",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of three floral motifs contained in three cartouches separated by an abstract design",
+    "inventory_number": "1994.021",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972689",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of three flowering plants set in three panels",
+    "inventory_number": "1993.163",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972706",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of three plants",
+    "inventory_number": "1993.120",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972723",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of three sets of plants",
+    "inventory_number": "1993.147",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972741",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of three young pine trees and mountain",
+    "inventory_number": "1994.030",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972758",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of trees and plant forms with a foliate ring",
+    "inventory_number": "1994.038",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972775",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of triangle-shapes",
+    "inventory_number": "1994.034",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972787",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of two bamboo stalks",
+    "inventory_number": "1994.055",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972801",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of two bundles of grain",
+    "inventory_number": "1994.035",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972814",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of two butterflies and plant forms",
+    "inventory_number": "1994.047",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972824",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of two Chinese men and bamboo",
+    "inventory_number": "1994.036",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Chinese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      },
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.9533407092
+      }
+    ]
+  },
+  {
+    "qid": "Q102972834",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of two flowering plants and two abstract design panels",
+    "inventory_number": "1993.123",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972840",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of vertical brush pattern",
+    "inventory_number": "1994.070",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972848",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of vertical lines",
+    "inventory_number": "1993.155",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972853",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of vertical stripes with three stylized butterflies",
+    "inventory_number": "1994.011",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "three"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972858",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of vines and tendrils",
+    "inventory_number": "1993.129",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972866",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of waves and flying sea plover (chidori)",
+    "inventory_number": "1994.048",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "chidori",
+        "confidence_score": 0.4814141989
+      }
+    ]
+  },
+  {
+    "qid": "Q102972871",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of willow tree, rocks and two butterflies",
+    "inventory_number": "1994.028",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972880",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of wine jar and chrysanthemums, ladle and flying bird",
+    "inventory_number": "1994.092",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972889",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of wisteria flowers",
+    "inventory_number": "1994.051",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972896",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze of wisteria flowers and four circles",
+    "inventory_number": "1993.126",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "four"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972903",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze oftwo floral motifs",
+    "inventory_number": "1994.067",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972909",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in blue underglaze two Chinese men and bamboo",
+    "inventory_number": "1994.094",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Chinese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      },
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.9349889755
+      }
+    ]
+  },
+  {
+    "qid": "Q102972916",
+    "label_en": "Soba-choko (noodle sauce cup) with a design in brown glaze of reeds with orange and and white glaze",
+    "inventory_number": "1994.222",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972923",
+    "label_en": "Soba-choko (Noodle sauce cup) with a design in green and brown underglaze of plaid checkerboard pattern",
+    "inventory_number": "1994.079",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972929",
+    "label_en": "Soba-choko (noodle sauce cup) with a design of Chinese men, floral motifs in  blue underglaze and green, gold and taupe enamels",
+    "inventory_number": "1994.093",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Chinese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.9273308516
+      }
+    ]
+  },
+  {
+    "qid": "Q102972938",
+    "label_en": "Soba-choko (Noodle Sauce Cup) with a Design of Flowers and Bamboo",
+    "inventory_number": "1992.542",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle Sauce"
+      },
+      {
+        "label": "GPE",
+        "string": "Flowers"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bamboo"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Noodle Sauce Cup"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Soba-choko",
+        "confidence_score": 0.4668570161
+      }
+    ]
+  },
+  {
+    "qid": "Q102972950",
+    "label_en": "Soba-choko (Noodle Sauce Cup) with a Design of Trees, Plants, Grasses, and an Inside Border of Lozenges",
+    "inventory_number": "1992.541",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Noodle Sauce"
+      },
+      {
+        "label": "GPE",
+        "string": "Trees"
+      },
+      {
+        "label": "GPE",
+        "string": "Plants"
+      },
+      {
+        "label": "PERSON",
+        "string": "Grasses"
+      },
+      {
+        "label": "GPE",
+        "string": "Lozenges"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Noodle Sauce Cup"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Soba-choko",
+        "confidence_score": 0.4779346585
+      }
+    ]
+  },
+  {
+    "qid": "Q102972955",
+    "label_en": "Soba-choko (noodle sauce cup) with a palmette design",
+    "inventory_number": "1994.083",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972962",
+    "label_en": "Soba-choko (noodle sauce cup) with brown glaze",
+    "inventory_number": "1994.084",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972972",
+    "label_en": "Soba-choko (noodle sauce cup) with calligraphy on the bottom",
+    "inventory_number": "1994.090",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972979",
+    "label_en": "Soba-choko (noodle sauce cup) with celadon glaze with a design in blue underglaze of a cross hatch pattern on the inside rim with a foliate rim",
+    "inventory_number": "1994.091",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972990",
+    "label_en": "Soba-choko (noodle sauce cup) with fluted sides and foliate rim in the shape of chrysanthemum",
+    "inventory_number": "1994.089",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102972998",
+    "label_en": "Soba-choko (noodle sauce cup) with green glaze with a pressed seal of a sea plover on base",
+    "inventory_number": "1994.085a",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973005",
+    "label_en": "Soba-choko (noodle sauce cup) with temmoku glaze",
+    "inventory_number": "1994.223",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973010",
+    "label_en": "Soldats! il fait tr\u00e8s-froid, from Album du Si\u00e9ge",
+    "inventory_number": "1999.172y",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Album du Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Soldats",
+        "confidence_score": 0.4744534791
+      },
+      {
+        "label": "group",
+        "string": "il fait tr\u00e8s-froid",
+        "confidence_score": 0.5631571213
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.3785911649
+      }
+    ]
+  },
+  {
+    "qid": "Q102973016",
+    "label_en": "Soldiers Before a Queen (Tribute to a Sultana)",
+    "inventory_number": "1979.0324P",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Tribute"
+      },
+      {
+        "label": "GPE",
+        "string": "Sultana"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "Sultana"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sultana",
+        "confidence_score": 0.5686954856
+      }
+    ]
+  },
+  {
+    "qid": "Q102973027",
+    "label_en": "Solitary Sandpiper",
+    "inventory_number": "1988.079",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Sandpiper"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973040",
+    "label_en": "Soma ware cup with a design of running horse inside",
+    "inventory_number": "1993.116",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Soma"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973046",
+    "label_en": "Soma ware cup with a design of running horse on the outside",
+    "inventory_number": "1993.115",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Soma"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973058",
+    "label_en": "Soma ware cup with running horse in relief on the inside",
+    "inventory_number": "1993.114",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Soma"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973066",
+    "label_en": "Sound-PM, from American Abstract Artists 60th Anniversary Print Portfolio",
+    "inventory_number": "2012.008mm",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sound-PM",
+        "confidence_score": 0.7920837998
+      },
+      {
+        "label": "place",
+        "string": "American",
+        "confidence_score": 0.8088253736
+      }
+    ]
+  },
+  {
+    "qid": "Q102973079",
+    "label_en": "Space Drawing",
+    "inventory_number": "2002.008",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Space"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973086",
+    "label_en": "Space Fruit: Still Life (Peaches)",
+    "inventory_number": "2014.002",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Space"
+      },
+      {
+        "label": "PERSON",
+        "string": "Fruit"
+      },
+      {
+        "label": "GPE",
+        "string": "Life"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Peaches"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Space Fruit: Still Life (Peaches"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Peaches",
+        "confidence_score": 0.6642143726
+      }
+    ]
+  },
+  {
+    "qid": "Q102973100",
+    "label_en": "Spel van Advies (Play of Advice)",
+    "inventory_number": "2004.072",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Spel"
+      },
+      {
+        "label": "GPE",
+        "string": "Advies"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Play"
+      },
+      {
+        "label": "GPE",
+        "string": "Advice"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Spel van Advies"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Spel van Advies",
+        "confidence_score": 0.9135158062
+      }
+    ]
+  },
+  {
+    "qid": "Q102973110",
+    "label_en": "Spherical ojime (bead) in the form of mice",
+    "inventory_number": "1983.010",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Spherical"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973118",
+    "label_en": "Spindle Whorl",
+    "inventory_number": "1994.409",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Spindle"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Whorl"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Spindle Whorl"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Spindle Whorl",
+        "confidence_score": 0.3544001728
+      }
+    ]
+  },
+  {
+    "qid": "Q102973129",
+    "label_en": "Spirits Watching",
+    "inventory_number": "1989.047",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973135",
+    "label_en": "Spoleto, Italy",
+    "inventory_number": "1989.050",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Spoleto"
+      },
+      {
+        "label": "GPE",
+        "string": "Italy"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Spoleto"
+      },
+      {
+        "label": "GPE",
+        "string": "Italy"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Spoleto",
+        "confidence_score": 0.9347747564
+      },
+      {
+        "label": "place",
+        "string": "Italy",
+        "confidence_score": 0.9707353115
+      }
+    ]
+  },
+  {
+    "qid": "Q102973143",
+    "label_en": "Square dish with a design in blue under glaze of a landscape",
+    "inventory_number": "1987.061",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973152",
+    "label_en": "Square Napol\u00e9on. (Napol\u00e9on Square), from Album du Si\u00e9ge",
+    "inventory_number": "1999.172h",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Square"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Napol\u00e9on"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Napol\u00e9on Square"
+      },
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Square Napol\u00e9on"
+      },
+      {
+        "label": "FAC",
+        "string": "Napol\u00e9on Square"
+      },
+      {
+        "label": "GPE",
+        "string": "Album"
+      },
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Square Napol\u00e9on",
+        "confidence_score": 0.6162604541
+      },
+      {
+        "label": "name",
+        "string": "Napol\u00e9on Square",
+        "confidence_score": 0.5223086476
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.4142307937
+      }
+    ]
+  },
+  {
+    "qid": "Q102973162",
+    "label_en": "Square oribe ware dish with a design of chrysanthemum",
+    "inventory_number": "1993.102",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973169",
+    "label_en": "Square seal",
+    "inventory_number": "1994.132",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973178",
+    "label_en": "Square seto ware dish with an abstract design",
+    "inventory_number": "1993.099",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973183",
+    "label_en": "Square-sided jar with two dragons on shoulder with a design in black slip of flowers",
+    "inventory_number": "1994.216",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973193",
+    "label_en": "Square, from American Abstract Artists 50th Anniversary Print Portfolio",
+    "inventory_number": "2015.037rr",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "American Abstract"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "American",
+        "confidence_score": 0.8141866326
+      }
+    ]
+  },
+  {
+    "qid": "Q102973201",
+    "label_en": "Squatting hollow figure with large head",
+    "inventory_number": "1994.475",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973210",
+    "label_en": "St. Andrew",
+    "inventory_number": "1956.054",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "PERSON",
+        "string": "Andrew"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "St. Andrew"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "St. Andrew",
+        "confidence_score": 0.6215655953
+      }
+    ]
+  },
+  {
+    "qid": "Q102973217",
+    "label_en": "St. George and the Dragon (reproduction)",
+    "inventory_number": "1979.0921P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "PERSON",
+        "string": "George"
+      },
+      {
+        "label": "GPE",
+        "string": "Dragon"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "St. George"
+      },
+      {
+        "label": "PERSON",
+        "string": "Dragon"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "St. George",
+        "confidence_score": 0.6223133802
+      }
+    ]
+  },
+  {
+    "qid": "Q102973228",
+    "label_en": "St. Jacob",
+    "inventory_number": "2003.039",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "PERSON",
+        "string": "Jacob"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "St. Jacob"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "St. Jacob",
+        "confidence_score": 0.5954729617
+      }
+    ]
+  },
+  {
+    "qid": "Q102973236",
+    "label_en": "St. Jerome",
+    "inventory_number": "1983.020",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Jerome"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "St. Jerome"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "St. Jerome",
+        "confidence_score": 0.525878042
+      }
+    ]
+  },
+  {
+    "qid": "Q102973245",
+    "label_en": "St. Matthew, after a ceiling design by Titian in the Santa Maria della Salute Church, Venice",
+    "inventory_number": "1975.010",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Matthew"
+      },
+      {
+        "label": "GPE",
+        "string": "Titian"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Santa Maria"
+      },
+      {
+        "label": "PERSON",
+        "string": "Salute Church"
+      },
+      {
+        "label": "GPE",
+        "string": "Venice"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Titian"
+      },
+      {
+        "label": "GPE",
+        "string": "Santa Maria"
+      },
+      {
+        "label": "ORG",
+        "string": "Salute Church"
+      },
+      {
+        "label": "GPE",
+        "string": "Venice"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "St. Matthew",
+        "confidence_score": 0.6762803346
+      },
+      {
+        "label": "place",
+        "string": "Santa Maria della Salute Church",
+        "confidence_score": 0.8753287554
+      },
+      {
+        "label": "place",
+        "string": "Venice",
+        "confidence_score": 0.6843739748
+      }
+    ]
+  },
+  {
+    "qid": "Q102973252",
+    "label_en": "St. Thomas",
+    "inventory_number": "2003.043",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "PERSON",
+        "string": "Thomas"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Thomas",
+        "confidence_score": 0.4667134583
+      }
+    ]
+  },
+  {
+    "qid": "Q102973264",
+    "label_en": "St. Thomas",
+    "inventory_number": "2003.038",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "PERSON",
+        "string": "Thomas"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Thomas",
+        "confidence_score": 0.4667134583
+      }
+    ]
+  },
+  {
+    "qid": "Q102973273",
+    "label_en": "St. Vincent de Paul",
+    "inventory_number": "1975.040",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Vincent"
+      },
+      {
+        "label": "PERSON",
+        "string": "Paul"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "St. Vincent de Paul",
+        "confidence_score": 0.7092490867
+      }
+    ]
+  },
+  {
+    "qid": "Q102973281",
+    "label_en": "Stab. A. Marzi, Rome, Vintage poster for Roma: Mecato di Traiano",
+    "inventory_number": "2007.065",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Rome"
+      },
+      {
+        "label": "PERSON",
+        "string": "Vintage"
+      },
+      {
+        "label": "GPE",
+        "string": "Roma"
+      },
+      {
+        "label": "PERSON",
+        "string": "Mecato"
+      },
+      {
+        "label": "PERSON",
+        "string": "Traiano"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "A. Marzi"
+      },
+      {
+        "label": "GPE",
+        "string": "Rome"
+      },
+      {
+        "label": "PERSON",
+        "string": "Roma"
+      },
+      {
+        "label": "ORG",
+        "string": "Mecato di Traiano"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "A. Marzi",
+        "confidence_score": 0.8776659369
+      },
+      {
+        "label": "place",
+        "string": "Rome",
+        "confidence_score": 0.980569005
+      },
+      {
+        "label": "place",
+        "string": "Roma",
+        "confidence_score": 0.8642492294
+      },
+      {
+        "label": "name",
+        "string": "Mecato di Traiano",
+        "confidence_score": 0.527433008
+      }
+    ]
+  },
+  {
+    "qid": "Q102973287",
+    "label_en": "Stalking Cat",
+    "inventory_number": "1980.118",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Cat",
+        "confidence_score": 0.4680474699
+      }
+    ]
+  },
+  {
+    "qid": "Q102973292",
+    "label_en": "Stamp or seal with a centipede",
+    "inventory_number": "1994.392",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973298",
+    "label_en": "Stamp with a bird",
+    "inventory_number": "1994.396",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973305",
+    "label_en": "Stand Up, from the Revolutions Per Minute (The Art Record)",
+    "inventory_number": "1982.100",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stand"
+      },
+      {
+        "label": "PERSON",
+        "string": "Up"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Revolutions Per Minute"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Record"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "the Revolutions Per Minute"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Art Record"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Revolutions Per Minute",
+        "confidence_score": 0.8154646158
+      },
+      {
+        "label": "group",
+        "string": "Art Record",
+        "confidence_score": 0.6895684898
+      }
+    ]
+  },
+  {
+    "qid": "Q102973321",
+    "label_en": "Standing female figure",
+    "inventory_number": "1994.464",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973329",
+    "label_en": "Standing female saint or Madonna",
+    "inventory_number": "1979.1039P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Madonna",
+        "confidence_score": 0.3914375603
+      }
+    ]
+  },
+  {
+    "qid": "Q102973338",
+    "label_en": "Standing figure of woman with a bag",
+    "inventory_number": "1999.246",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973346",
+    "label_en": "Standing figure wearing an owl mask",
+    "inventory_number": "1994.483",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973354",
+    "label_en": "State of Gray, from American Abstract Artists 60th Anniversary Print Portfolio",
+    "inventory_number": "2012.008cc",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Gray"
+      },
+      {
+        "label": "GPE",
+        "string": "American"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Abstract"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Gray"
+      },
+      {
+        "label": "ORG",
+        "string": "American Abstract Artists"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "State of Gray",
+        "confidence_score": 0.8390416503
+      },
+      {
+        "label": "group",
+        "string": "American Abstract Artists",
+        "confidence_score": 0.6901221077
+      }
+    ]
+  },
+  {
+    "qid": "Q102973361",
+    "label_en": "Stay Alert (Matauri Bay, New Zealand)",
+    "inventory_number": "2007.071c",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Stay"
+      },
+      {
+        "label": "PERSON",
+        "string": "Alert"
+      },
+      {
+        "label": "PERSON",
+        "string": "Matauri Bay"
+      },
+      {
+        "label": "GPE",
+        "string": "New Zealand"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Alert"
+      },
+      {
+        "label": "PERSON",
+        "string": "Matauri Bay"
+      },
+      {
+        "label": "GPE",
+        "string": "New Zealand"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Matauri Bay",
+        "confidence_score": 0.774894923
+      },
+      {
+        "label": "place",
+        "string": "New Zealand",
+        "confidence_score": 0.9911588728
+      }
+    ]
+  },
+  {
+    "qid": "Q102973368",
+    "label_en": "Stem wine cup with a design of seated nobles on gold ground (Kutani ware)",
+    "inventory_number": "1986.046",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Stem"
+      },
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kutani",
+        "confidence_score": 0.5146227479
+      }
+    ]
+  },
+  {
+    "qid": "Q102973374",
+    "label_en": "Stencil for a Cloth Wrapper with a Design of Flowers and Bamboo",
+    "inventory_number": "1992.298",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Stencil"
+      },
+      {
+        "label": "GPE",
+        "string": "Flowers"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bamboo"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Stencil",
+        "confidence_score": 0.5965277553
+      }
+    ]
+  },
+  {
+    "qid": "Q102973381",
+    "label_en": "Stencils for dyeing yukata (summer kimono)",
+    "inventory_number": "1986.021",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "DATE",
+        "string": "summer"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Stencils",
+        "confidence_score": 0.4098415375
+      }
+    ]
+  },
+  {
+    "qid": "Q102973388",
+    "label_en": "Steppenwolf",
+    "inventory_number": "2017.001.055",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Steppenwolf"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Steppenwolf"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Steppenwolf",
+        "confidence_score": 0.3457700312
+      }
+    ]
+  },
+  {
+    "qid": "Q102973401",
+    "label_en": "Sticks at a Glance",
+    "inventory_number": "1980.127",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973409",
+    "label_en": "Still Life Ingredients",
+    "inventory_number": "1980.051",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973416",
+    "label_en": "Still-Life",
+    "inventory_number": "1979.1088P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973424",
+    "label_en": "Stirrup hagi ware cup",
+    "inventory_number": "1993.206",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stirrup"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Stirrup"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Stirrup hagi",
+        "confidence_score": 0.4077151567
+      }
+    ]
+  },
+  {
+    "qid": "Q102973431",
+    "label_en": "Stirrup inlaid with semi-precious stones and incised abstract designs",
+    "inventory_number": "1994.330",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stirrup"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Stirrup"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Stirrup",
+        "confidence_score": 0.8052135706
+      }
+    ]
+  },
+  {
+    "qid": "Q102973444",
+    "label_en": "Stirrup vessel",
+    "inventory_number": "1979.0505P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stirrup"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Stirrup"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Stirrup",
+        "confidence_score": 0.330768615
+      }
+    ]
+  },
+  {
+    "qid": "Q102973456",
+    "label_en": "Stone tool with wooden handle",
+    "inventory_number": "1979.1028P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stone"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973465",
+    "label_en": "Stop",
+    "inventory_number": "1979.0987P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973472",
+    "label_en": "Storage box (reproduction)",
+    "inventory_number": "1996.173",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Storage"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973481",
+    "label_en": "Storage Jar with wide opening",
+    "inventory_number": "1985.086",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Storage Jar"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973487",
+    "label_en": "Storage vessel with wide opening",
+    "inventory_number": "1985.083",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Storage"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973497",
+    "label_en": "Stream and Golden Sunset",
+    "inventory_number": "1979.0292P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stream"
+      },
+      {
+        "label": "PERSON",
+        "string": "Golden Sunset"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Golden Sunset"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973502",
+    "label_en": "Stream with Golden Sunset",
+    "inventory_number": "1979.0745P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stream"
+      },
+      {
+        "label": "PERSON",
+        "string": "Golden Sunset"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Golden Sunset"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Golden Sunset",
+        "confidence_score": 0.5055769682
+      }
+    ]
+  },
+  {
+    "qid": "Q102973510",
+    "label_en": "String Composition #108",
+    "inventory_number": "1979.0220P",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Composition"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "108"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "String Composition",
+        "confidence_score": 0.6040156484
+      }
+    ]
+  },
+  {
+    "qid": "Q102973516",
+    "label_en": "Striped coverlet",
+    "inventory_number": "1979.0968P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Striped"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973525",
+    "label_en": "Strolling Musicians in an Inn Garden",
+    "inventory_number": "1979.0284P",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Inn Garden"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "FAC",
+        "string": "Inn Garden"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973537",
+    "label_en": "Stromboli (Stromboli), from Paesaggi (Landscapes)",
+    "inventory_number": "1994.538f",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Stromboli"
+      },
+      {
+        "label": "GPE",
+        "string": "Paesaggi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Landscapes"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Paesaggi (Landscapes"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Stromboli",
+        "confidence_score": 0.9039256573
+      },
+      {
+        "label": "name",
+        "string": "Stromboli",
+        "confidence_score": 0.5580217242
+      },
+      {
+        "label": "place",
+        "string": "Paesaggi",
+        "confidence_score": 0.4855363667
+      }
+    ]
+  },
+  {
+    "qid": "Q102973547",
+    "label_en": "Studie 334",
+    "inventory_number": "1995.057",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Studie"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "334"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973555",
+    "label_en": "Studie 334b",
+    "inventory_number": "1999.051",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Studie 334b"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973563",
+    "label_en": "Studie 382",
+    "inventory_number": "2012.003",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Studie"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "382"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973570",
+    "label_en": "Studie 64",
+    "inventory_number": "1995.058",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Studie"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "64"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973577",
+    "label_en": "Study for Recess #1",
+    "inventory_number": "1978.033",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Study"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Recess"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "MONEY",
+        "string": "1"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Study for Recess",
+        "confidence_score": 0.8915939728
+      }
+    ]
+  },
+  {
+    "qid": "Q102973588",
+    "label_en": "Study sketch for the painting, Christ's Entry Into Jerusalem",
+    "inventory_number": "1979.0098",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Study"
+      },
+      {
+        "label": "PERSON",
+        "string": "Christ"
+      },
+      {
+        "label": "PERSON",
+        "string": "Entry Into Jerusalem"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Jerusalem"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Christ",
+        "confidence_score": 0.6865544915
+      },
+      {
+        "label": "place",
+        "string": "Jerusalem",
+        "confidence_score": 0.862110436
+      }
+    ]
+  },
+  {
+    "qid": "Q102973595",
+    "label_en": "Stylized ram figure",
+    "inventory_number": "2003.071",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973605",
+    "label_en": "Suiteki (water dropper)",
+    "inventory_number": "1986.034",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suiteki",
+        "confidence_score": 0.3946766257
+      }
+    ]
+  },
+  {
+    "qid": "Q102973615",
+    "label_en": "Suiteki (Water Dropper) from a district of Naha, capital of Okinawa",
+    "inventory_number": "1992.538",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      },
+      {
+        "label": "GPE",
+        "string": "Naha"
+      },
+      {
+        "label": "GPE",
+        "string": "Okinawa"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      },
+      {
+        "label": "GPE",
+        "string": "Naha"
+      },
+      {
+        "label": "GPE",
+        "string": "Okinawa"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suiteki",
+        "confidence_score": 0.711915493
+      },
+      {
+        "label": "place",
+        "string": "Naha",
+        "confidence_score": 0.9967321157
+      },
+      {
+        "label": "place",
+        "string": "Okinawa",
+        "confidence_score": 0.7425685525
+      }
+    ]
+  },
+  {
+    "qid": "Q102973624",
+    "label_en": "Suiteki (Water Dropper) in the Form of a Boat",
+    "inventory_number": "1992.497",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suiteki",
+        "confidence_score": 0.6607292891
+      }
+    ]
+  },
+  {
+    "qid": "Q102973634",
+    "label_en": "Suiteki (Water Dropper) in the Form of the Magic Kettle and Badger",
+    "inventory_number": "1992.359",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Magic Kettle"
+      },
+      {
+        "label": "PERSON",
+        "string": "Badger"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Magic Kettle"
+      },
+      {
+        "label": "PERSON",
+        "string": "Badger"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suiteki",
+        "confidence_score": 0.6688886881
+      },
+      {
+        "label": "group",
+        "string": "Magic Kettle",
+        "confidence_score": 0.6519491673
+      },
+      {
+        "label": "name",
+        "string": "Badger",
+        "confidence_score": 0.4117052555
+      }
+    ]
+  },
+  {
+    "qid": "Q102973641",
+    "label_en": "Suiteki (Water Dropper) with a Design of Grass Orchid Flowers",
+    "inventory_number": "1992.353",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Grass Orchid Flowers"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water Dropper"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suiteki",
+        "confidence_score": 0.6593504548
+      }
+    ]
+  },
+  {
+    "qid": "Q102973650",
+    "label_en": "Suiteki (water dropper) with a mottle green and brown glaze",
+    "inventory_number": "1994.157",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suiteki",
+        "confidence_score": 0.349126339
+      }
+    ]
+  },
+  {
+    "qid": "Q102973662",
+    "label_en": "Suiteki (water-dropper) with a Design of a Lion-Dog",
+    "inventory_number": "1992.343",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Suiteki"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suiteki",
+        "confidence_score": 0.3426655829
+      }
+    ]
+  },
+  {
+    "qid": "Q102973666",
+    "label_en": "Sumitsubo - Carpenter's Plumb Line with a Design of a Water Wheel and Tortoise",
+    "inventory_number": "1992.145",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sumitsubo"
+      },
+      {
+        "label": "PERSON",
+        "string": "Carpenter"
+      },
+      {
+        "label": "PERSON",
+        "string": "Plumb Line"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Tortoise"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Sumitsubo - Carpenter's Plumb Line"
+      },
+      {
+        "label": "GPE",
+        "string": "Tortoise"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sumitsubo -",
+        "confidence_score": 0.689260006
+      },
+      {
+        "label": "name",
+        "string": "Carpenter",
+        "confidence_score": 0.9521531463
+      },
+      {
+        "label": "name",
+        "string": "Plumb",
+        "confidence_score": 0.2889204919
+      }
+    ]
+  },
+  {
+    "qid": "Q102973672",
+    "label_en": "Summer Afternoon",
+    "inventory_number": "1970.020",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Summer"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "TIME",
+        "string": "Afternoon"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973684",
+    "label_en": "Summer Landscape",
+    "inventory_number": "1979.0216P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Summer Landscape"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973690",
+    "label_en": "Sunbath",
+    "inventory_number": "1979.0090",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sunbath"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sunbath",
+        "confidence_score": 0.4202823639
+      }
+    ]
+  },
+  {
+    "qid": "Q102973699",
+    "label_en": "Sunrise over the Acropolis",
+    "inventory_number": "1972.007",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sunrise"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Acropolis"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LANGUAGE",
+        "string": "Acropolis"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Acropolis",
+        "confidence_score": 0.4482079446
+      }
+    ]
+  },
+  {
+    "qid": "Q102973711",
+    "label_en": "Sunset",
+    "inventory_number": "2014.001",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sunset"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Sunset",
+        "confidence_score": 0.3889134526
+      }
+    ]
+  },
+  {
+    "qid": "Q102973716",
+    "label_en": "Sunshine Cat",
+    "inventory_number": "1980.126",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Sunshine"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Sunshine Cat"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973725",
+    "label_en": "Suwankolok ware jar with a design in black slip of geometric patterns",
+    "inventory_number": "1994.165",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suwankolok"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Suwankolok ware jar",
+        "confidence_score": 0.581167539
+      }
+    ]
+  },
+  {
+    "qid": "Q102973732",
+    "label_en": "Suwankolok ware vase with a design in slip of an abstract pattern",
+    "inventory_number": "1994.200",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suwankolok"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suwankolok ware",
+        "confidence_score": 0.5187706649
+      }
+    ]
+  },
+  {
+    "qid": "Q102973741",
+    "label_en": "Suzuribako (writing case) consisting of seven parts",
+    "inventory_number": "1978.002",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Suzuribako"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Suzuribako"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "seven"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Suzuribako",
+        "confidence_score": 0.6646199226
+      }
+    ]
+  },
+  {
+    "qid": "Q102973747",
+    "label_en": "Swaton ware bowl with a design in blue underglaze of floral motif",
+    "inventory_number": "1994.116",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Swaton"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Swaton ware",
+        "confidence_score": 0.4095327258
+      }
+    ]
+  },
+  {
+    "qid": "Q102973754",
+    "label_en": "Swaton ware plate with a design in blue underglaze of a crane, rocks and plants",
+    "inventory_number": "1994.194",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Swaton"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Swaton ware plate",
+        "confidence_score": 0.5462567012
+      }
+    ]
+  },
+  {
+    "qid": "Q102973769",
+    "label_en": "Swim/ROCI USA (Wax Fire Works)",
+    "inventory_number": "2002.026",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Wax Fire Works"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Swim/ROCI USA",
+        "confidence_score": 0.840351522
+      },
+      {
+        "label": "group",
+        "string": "Wax Fire Works",
+        "confidence_score": 0.8055327336
+      }
+    ]
+  },
+  {
+    "qid": "Q102973777",
+    "label_en": "Swingline",
+    "inventory_number": "1983.018",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Swingline"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973792",
+    "label_en": "T. Manola Triste #12",
+    "inventory_number": "1984.049",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "T. Manola Triste"
+      },
+      {
+        "label": "MONEY",
+        "string": "12"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "T. Manola Triste",
+        "confidence_score": 0.8440701564
+      }
+    ]
+  },
+  {
+    "qid": "Q102973809",
+    "label_en": "T'allais jamais a l'Eglise, from Album du Si\u00e9ge",
+    "inventory_number": "1999.172j",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Album"
+      },
+      {
+        "label": "PERSON",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Album"
+      },
+      {
+        "label": "ORG",
+        "string": "Si\u00e9ge"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "T'allais jamais a l'Eglise",
+        "confidence_score": 0.6130698919
+      },
+      {
+        "label": "name",
+        "string": "du Si\u00e9ge",
+        "confidence_score": 0.5239798874
+      }
+    ]
+  },
+  {
+    "qid": "Q102973827",
+    "label_en": "Tailpiece to Virgil's Eighth Eclogue: Cupid Drawing his Bow",
+    "inventory_number": "1979.0359P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Tailpiece"
+      },
+      {
+        "label": "GPE",
+        "string": "Virgil"
+      },
+      {
+        "label": "PERSON",
+        "string": "Eighth Eclogue"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Virgil"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Virgil",
+        "confidence_score": 0.9138496518
+      }
+    ]
+  },
+  {
+    "qid": "Q102973835",
+    "label_en": "Takanawa",
+    "inventory_number": "1972.027",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Takanawa"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Takanawa",
+        "confidence_score": 0.4196908474
+      }
+    ]
+  },
+  {
+    "qid": "Q102973842",
+    "label_en": "Tan glazed porcelain cylindrical brush pot",
+    "inventory_number": "1985.029",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Tan"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Tan"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973849",
+    "label_en": "T\u00e0pies Comunicacio sobre el mur/T\u00e0pies Communication sur le mur (Communication on the Wall)",
+    "inventory_number": "1996.011",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Comunicacio"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Communication"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Communication"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "T\u00e0pies Comunicacio"
+      },
+      {
+        "label": "ORG",
+        "string": "el mur/T\u00e0pies Communication"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "T\u00e0pies Comunicacio sobre el mur/T\u00e0pies Communication sur le mur",
+        "confidence_score": 0.6723762188
+      }
+    ]
+  },
+  {
+    "qid": "Q102973853",
+    "label_en": "Target Practice with a Pellet Gun, from the series, I Am Unbeatable",
+    "inventory_number": "2015.025",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Target Practice"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Target Practice"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973860",
+    "label_en": "Taylor and Emma, from the series, I Am Unbeatable",
+    "inventory_number": "2015.028",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Taylor"
+      },
+      {
+        "label": "PERSON",
+        "string": "Emma"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Taylor"
+      },
+      {
+        "label": "PERSON",
+        "string": "Emma"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Taylor",
+        "confidence_score": 0.839992702
+      },
+      {
+        "label": "name",
+        "string": "Emma",
+        "confidence_score": 0.8962591887
+      }
+    ]
+  },
+  {
+    "qid": "Q102973875",
+    "label_en": "Taylor and James in the Front Yard, from the series, I Am Unbeatable",
+    "inventory_number": "2014.020",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Taylor"
+      },
+      {
+        "label": "PERSON",
+        "string": "James"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Taylor"
+      },
+      {
+        "label": "PERSON",
+        "string": "James"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Taylor",
+        "confidence_score": 0.8011592031
+      },
+      {
+        "label": "name",
+        "string": "James",
+        "confidence_score": 0.9259895682
+      },
+      {
+        "label": "group",
+        "string": "Front Yard",
+        "confidence_score": 0.8087587357
+      }
+    ]
+  },
+  {
+    "qid": "Q102973882",
+    "label_en": "Taylor, from the series, I Am Unbeatable",
+    "inventory_number": "2014.022",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Taylor"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Unbeatable"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Taylor"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Taylor",
+        "confidence_score": 0.9593216777
+      }
+    ]
+  },
+  {
+    "qid": "Q102973889",
+    "label_en": "Tea caddy (natsume) with design of paulownia flowers and leaves (kiri) & 16-petaled chrysanthemums",
+    "inventory_number": "1996.200",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Tea"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "16"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "natsume",
+        "confidence_score": 0.3273067474
+      }
+    ]
+  },
+  {
+    "qid": "Q102973896",
+    "label_en": "Tea cup with a design in blue underglaze of scholars",
+    "inventory_number": "1993.198",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973904",
+    "label_en": "Teacup with an abstract brush design in taupe",
+    "inventory_number": "1994.122",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Teacup"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "taupe",
+        "confidence_score": 0.7656946778
+      }
+    ]
+  },
+  {
+    "qid": "Q102973912",
+    "label_en": "Teapot",
+    "inventory_number": "1979.1104P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Teapot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Teapot",
+        "confidence_score": 0.5014311671
+      }
+    ]
+  },
+  {
+    "qid": "Q102973919",
+    "label_en": "Teapot with black, brown and ochre glazes",
+    "inventory_number": "1994.206",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Teapot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973928",
+    "label_en": "Teapot with inscription on outside and inside lid, inscribed kneeling figure on side of pot, landscape on inside of pot",
+    "inventory_number": "1993.112",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Teapot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973939",
+    "label_en": "Teapot with lid",
+    "inventory_number": "1979.0618P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Teapot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973951",
+    "label_en": "Teatr Wspolczesny",
+    "inventory_number": "2013.016",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Teatr"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Wspolczesny"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Teatr Wspolczesny",
+        "confidence_score": 0.5176185668
+      }
+    ]
+  },
+  {
+    "qid": "Q102973957",
+    "label_en": "Tempest (the sixth from a suite of seven prints entitled Divers Embarquements (Various Embarkations))",
+    "inventory_number": "1972.071",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Tempest"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Various Embarkations"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Tempest"
+      },
+      {
+        "label": "ORDINAL",
+        "string": "sixth"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "seven"
+      },
+      {
+        "label": "ORG",
+        "string": "Divers Embarquements (Various Embarkations"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Tempest",
+        "confidence_score": 0.2740283012
+      }
+    ]
+  },
+  {
+    "qid": "Q102973969",
+    "label_en": "Ten sided blue and white plate with crane and vase motif",
+    "inventory_number": "1978.024",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Ten"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973978",
+    "label_en": "Tenderness (A)",
+    "inventory_number": "1974.016",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Tenderness"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102973986",
+    "label_en": "Tennessee Cabin",
+    "inventory_number": "1969.011",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Tennessee"
+      },
+      {
+        "label": "PERSON",
+        "string": "Cabin"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Tennessee"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Tennessee Cabin",
+        "confidence_score": 0.3827960938
+      }
+    ]
+  },
+  {
+    "qid": "Q102973993",
+    "label_en": "Tennessee Landscape",
+    "inventory_number": "1969.013",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Tennessee Landscape"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Tennessee"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Tennessee",
+        "confidence_score": 0.2934810221
+      }
+    ]
+  },
+  {
+    "qid": "Q102974003",
+    "label_en": "Tenugui (Hand Towel)",
+    "inventory_number": "1992.517",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Tenugui"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Hand Towel"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Tenugui"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Tenugui",
+        "confidence_score": 0.8378514647
+      }
+    ]
+  },
+  {
+    "qid": "Q102974011",
+    "label_en": "Textile with reflective metal elements",
+    "inventory_number": "1994.526",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Textile"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102974016",
+    "label_en": "Teydelandschaft (Teide Landscape)",
+    "inventory_number": "2010.001",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Teydelandschaft"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Teide Landscape"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Teydelandschaft",
+        "confidence_score": 0.4018904567
+      },
+      {
+        "label": "group",
+        "string": "Teide Landscape",
+        "confidence_score": 0.5480611324
+      }
+    ]
+  },
+  {
+    "qid": "Q102974023",
+    "label_en": "The 'Enterprise' Steam Omnibus",
+    "inventory_number": "1979.0120",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Steam Omnibus"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102974031",
+    "label_en": "The Angel with the Heavenly Cloak at Miho, from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)",
+    "inventory_number": "1992.094",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Heavenly Cloak"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Miho"
+      },
+      {
+        "label": "PERSON",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Miho"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORG",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Heavenly Cloak",
+        "confidence_score": 0.8402477801
+      },
+      {
+        "label": "name",
+        "string": "Miho",
+        "confidence_score": 0.4738630354
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi ryakuga",
+        "confidence_score": 0.6750616431
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi",
+        "confidence_score": 0.5266349316
+      }
+    ]
+  },
+  {
+    "qid": "Q102974039",
+    "label_en": "The Armenian Earthquake, Spitak, Armenia",
+    "inventory_number": "2016.011.15",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Armenian Earthquake"
+      },
+      {
+        "label": "GPE",
+        "string": "Spitak"
+      },
+      {
+        "label": "GPE",
+        "string": "Armenia"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Spitak"
+      },
+      {
+        "label": "GPE",
+        "string": "Armenia"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Armenian",
+        "confidence_score": 0.9554615021
+      },
+      {
+        "label": "group",
+        "string": "Spitak",
+        "confidence_score": 0.5677269697
+      },
+      {
+        "label": "place",
+        "string": "Armenia",
+        "confidence_score": 0.7454610467
+      }
+    ]
+  },
+  {
+    "qid": "Q102974046",
+    "label_en": "The Atomic Alphabet, from the Revolutions Per Minute (The Art Record)",
+    "inventory_number": "1982.085",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Atomic Alphabet"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Revolutions Per Minute"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Record"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "the Revolutions Per Minute"
+      },
+      {
+        "label": "WORK_OF_ART",
+        "string": "The Art Record"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "The Atomic Alphabet",
+        "confidence_score": 0.7321743766
+      },
+      {
+        "label": "group",
+        "string": "Revolutions Per Minute",
+        "confidence_score": 0.847233971
+      },
+      {
+        "label": "group",
+        "string": "Art Record",
+        "confidence_score": 0.6466709971
+      }
+    ]
+  },
+  {
+    "qid": "Q102974054",
+    "label_en": "The Barn",
+    "inventory_number": "1979.0861P",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Barn"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Barn"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102974065",
+    "label_en": "The Boathouse",
+    "inventory_number": "1956.016",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Boathouse"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102974071",
+    "label_en": "The Breakfast",
+    "inventory_number": "1979.0848.1P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "Breakfast"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102974077",
+    "label_en": "The Broads",
+    "inventory_number": "2008.163",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Broads"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Broads",
+        "confidence_score": 0.3897540271
+      }
+    ]
+  },
+  {
+    "qid": "Q102974083",
+    "label_en": "The Bruiser, Charles Churchill",
+    "inventory_number": "1974.025",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bruiser"
+      },
+      {
+        "label": "PERSON",
+        "string": "Charles Churchill"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Bruiser"
+      },
+      {
+        "label": "PERSON",
+        "string": "Charles Churchill"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Charles Churchill",
+        "confidence_score": 0.8194681704
+      }
+    ]
+  },
+  {
+    "qid": "Q102974092",
+    "label_en": "The Buddhist Priest Nichiren in Exile on Sado Island , from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)",
+    "inventory_number": "1992.090",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Buddhist Priest Nichiren"
+      },
+      {
+        "label": "GPE",
+        "string": "Exile"
+      },
+      {
+        "label": "PERSON",
+        "string": "Sado Island"
+      },
+      {
+        "label": "PERSON",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Sado Island"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORG",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Buddhist Priest Nichiren",
+        "confidence_score": 0.4249894321
+      },
+      {
+        "label": "place",
+        "string": "Sado Island",
+        "confidence_score": 0.7138263136
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi ryakuga",
+        "confidence_score": 0.4427772015
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi",
+        "confidence_score": 0.4364135265
+      }
+    ]
+  },
+  {
+    "qid": "Q102974100",
+    "label_en": "The Chimneys, Portsmouth",
+    "inventory_number": "2020.001",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Chimneys"
+      },
+      {
+        "label": "GPE",
+        "string": "Portsmouth"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Chimneys"
+      },
+      {
+        "label": "PERSON",
+        "string": "Portsmouth"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Portsmouth",
+        "confidence_score": 0.7203782201
+      }
+    ]
+  },
+  {
+    "qid": "Q102974106",
+    "label_en": "The Chinese Robe",
+    "inventory_number": "1970.015",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Chinese Robe"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.9409406185
+      }
+    ]
+  },
+  {
+    "qid": "Q102974116",
+    "label_en": "The City of Pola",
+    "inventory_number": "2007.042",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "City"
+      },
+      {
+        "label": "GPE",
+        "string": "Pola"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "The City of Pola"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Pola",
+        "confidence_score": 0.725137651
+      }
+    ]
+  },
+  {
+    "qid": "Q102974126",
+    "label_en": "The Dance Under the Trellis",
+    "inventory_number": "1979.0865P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Dance"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Trellis"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102974136",
+    "label_en": "The Duke awakened from sleep",
+    "inventory_number": "2007.043",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Duke"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Duke"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q102974145",
+    "label_en": "The Empress Jingu  with the God Ebisu Catching a Cat, from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)",
+    "inventory_number": "1992.091",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Empress Jingu"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "God"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      },
+      {
+        "label": "PERSON",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Ebisu Catching"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Yoshitoshi"
+      },
+      {
+        "label": "ORG",
+        "string": "Yoshitoshi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Empress Jingu",
+        "confidence_score": 0.7300347388
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi ryakuga",
+        "confidence_score": 0.6224439889
+      },
+      {
+        "label": "name",
+        "string": "Yoshitoshi",
+        "confidence_score": 0.5241706371
+      }
+    ]
+  },
+  {
+    "qid": "Q102974151",
+    "label_en": "The Fall of Richmond, Va. on the Night of April 2nd, 1865",
+    "inventory_number": "1976.006",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Fall"
+      },
+      {
+        "label": "GPE",
+        "string": "Richmond"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Richmond"
+      },
+      {
+        "label": "GPE",
+        "string": "Va."
+      },
+      {
+        "label": "DATE",
+        "string": "April 2nd"
+      },
+      {
+        "label": "DATE",
+        "string": "1865"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Richmond",
+        "confidence_score": 0.8393298388
+      },
+      {
+        "label": "place",
+        "string": "Va",
+        "confidence_score": 0.9830046892
+      }
+    ]
+  },
+  {
+    "qid": "Q102974166",
+    "label_en": "The Fall of the Berlin Wall, Berlin, Germany",
+    "inventory_number": "2016.011.08",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Fall"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Berlin Wall"
+      },
+      {
+        "label": "PERSON",
+        "string": "Berlin"
+      },
+      {
+        "label": "GPE",
+        "string": "Germany"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "the Berlin Wall"
+      },
+      {
+        "label": "GPE",
+        "string": "Berlin"
+      },
+      {
+        "label": "GPE",
+        "string": "Germany"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Berlin Wall",
+        "confidence_score": 0.7274505347
+      },
+      {
+        "label": "place",
+        "string": "Berlin",
+        "confidence_score": 0.9656725526
+      },
+      {
+        "label": "place",
+        "string": "Germany",
+        "confidence_score": 0.9773101807
+      }
+    ]
+  },
+  {
+    "qid": "Q102974173",
+    "label_en": "The Farmhouse by the Water",
+    "inventory_number": "1956.006",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Farmhouse"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  }
+]
