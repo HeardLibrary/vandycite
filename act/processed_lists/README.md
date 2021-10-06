@@ -14,6 +14,8 @@
 
 **works_already_in_wikidata.csv** This file is a derivative of cleaned_output.csv and consists of all of the rows for works that have already been linked to Wikidata items.
 
+**already_in_templated_data.csv** Commons data for works already in Wikidata, scraped with [commons_data.ipynb](https://github.com/HeardLibrary/linked-data/blob/master/commonsbot/commons_data.ipynb) in the Linked Data repo, commonsbot folder.
+
 **add_to_wikidata.csv** This file is a derivative of cleaned_output.csv and consists of all of the rows for works that do not already have Wikidata items (ACT items already in Commons). This file is the input of further processing by the [commons_data.ipynb](https://github.com/HeardLibrary/linked-data/blob/master/commonsbot/commons_data.ipynb) in the Linked Data repository. 
 
 **nonstandard_commons_fields.csv** This file was generated as a by-product of scraping the Commons item web pages with the script [commons_data.ipynb](https://github.com/HeardLibrary/linked-data/blob/master/commonsbot/commons_data.ipynb) in the Linked Data repo, commonsbot folder. It contains the field names, values, and Commons item for non-standard properties that were not captured by the script (and therefore essentially represent lost information). This should probably looked through to see if there is any important information that needs to be manually added outside of a process that uses the scraped templated data table.
