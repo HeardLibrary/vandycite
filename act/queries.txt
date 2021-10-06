@@ -1,0 +1,5 @@
+queries
+Find non-art items with ACT IDs https://w.wiki/4B5p
+Find books of the Bible https://w.wiki/4B5q
+Items with links to chapters of the Bible https://w.wiki/4B5t
+Paintings with links to chapters https://w.wiki/4B5z
