@@ -1,0 +1,5428 @@
+[
+  {
+    "qid": "Q106582616",
+    "label_en": "Blue Meo tribal knife in sheath with ivory handle",
+    "inventory_number": "1995.033",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Blue"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Meo"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582617",
+    "label_en": "Blue Meo tribal opium pipe",
+    "inventory_number": "1995.034",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Blue"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Meo"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Blue Meo"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582618",
+    "label_en": "Boomerang",
+    "inventory_number": "1979.0468P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Boomerang"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Boomerang"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Boomerang",
+        "confidence_score": 0.3837026358
+      }
+    ]
+  },
+  {
+    "qid": "Q106582619",
+    "label_en": "Boomerang",
+    "inventory_number": "1979.0470P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Boomerang"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Boomerang"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Boomerang",
+        "confidence_score": 0.3837026358
+      }
+    ]
+  },
+  {
+    "qid": "Q106582620",
+    "label_en": "Bottle",
+    "inventory_number": "1979.0550P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582621",
+    "label_en": "Bottle",
+    "inventory_number": "1979.0551P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582622",
+    "label_en": "Bottle",
+    "inventory_number": "1979.0560P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582623",
+    "label_en": "Bottle",
+    "inventory_number": "1979.0562P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582624",
+    "label_en": "Bottle",
+    "inventory_number": "1979.0989P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582625",
+    "label_en": "Bottle in wicker",
+    "inventory_number": "1979.0578P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582626",
+    "label_en": "Bottle in wicker",
+    "inventory_number": "1979.0579P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582627",
+    "label_en": "Bottle in wicker covering",
+    "inventory_number": "1979.0570P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582628",
+    "label_en": "Bottle with a raised relief of an image of George Washington",
+    "inventory_number": "1979.0561P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bottle"
+      },
+      {
+        "label": "PERSON",
+        "string": "George Washington"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "George Washington"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "George Washington",
+        "confidence_score": 0.5692047477
+      }
+    ]
+  },
+  {
+    "qid": "Q106582629",
+    "label_en": "Bowl",
+    "inventory_number": "1979.0581P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bowl"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582630",
+    "label_en": "Bowl with blue and white transfer ware design",
+    "inventory_number": "1986.054",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bowl"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582631",
+    "label_en": "Bowl with foliage decoration",
+    "inventory_number": "1979.0104",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bowl"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582632",
+    "label_en": "Bowl with white, orange, and purple chrysanthemums behind bamboo sleeve fences in a garden with a butterfly (Kinkozan ware)",
+    "inventory_number": "1986.056",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bowl"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Kinkozan"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582633",
+    "label_en": "Brown and cream ceramic bottle",
+    "inventory_number": "1979.0395P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown",
+        "confidence_score": 0.7584849596
+      }
+    ]
+  },
+  {
+    "qid": "Q106582634",
+    "label_en": "Brown and orange pitcher",
+    "inventory_number": "1979.0402P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown",
+        "confidence_score": 0.876565814
+      }
+    ]
+  },
+  {
+    "qid": "Q106582635",
+    "label_en": "Brown and tan jug",
+    "inventory_number": "1979.0405P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown",
+        "confidence_score": 0.830078423
+      },
+      {
+        "label": "name",
+        "string": "tan jug",
+        "confidence_score": 0.6634341776
+      }
+    ]
+  },
+  {
+    "qid": "Q106582637",
+    "label_en": "Brown bottle",
+    "inventory_number": "1979.0546P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown bottle",
+        "confidence_score": 0.5402851552
+      }
+    ]
+  },
+  {
+    "qid": "Q106582638",
+    "label_en": "Brown bottle",
+    "inventory_number": "1979.0547P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown bottle",
+        "confidence_score": 0.5402851552
+      }
+    ]
+  },
+  {
+    "qid": "Q106582639",
+    "label_en": "Brown bottle",
+    "inventory_number": "1979.0552P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown bottle",
+        "confidence_score": 0.5402851552
+      }
+    ]
+  },
+  {
+    "qid": "Q106582640",
+    "label_en": "Brown bottle",
+    "inventory_number": "1979.0557P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown bottle",
+        "confidence_score": 0.5402851552
+      }
+    ]
+  },
+  {
+    "qid": "Q106582641",
+    "label_en": "Brown bottle",
+    "inventory_number": "1979.0563P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown bottle",
+        "confidence_score": 0.5402851552
+      }
+    ]
+  },
+  {
+    "qid": "Q106582642",
+    "label_en": "Brown bottle",
+    "inventory_number": "1979.0571P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown bottle",
+        "confidence_score": 0.5402851552
+      }
+    ]
+  },
+  {
+    "qid": "Q106582643",
+    "label_en": "Brown bottle/jar",
+    "inventory_number": "1979.0572P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Brown"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown bottle/jar",
+        "confidence_score": 0.552454561
+      }
+    ]
+  },
+  {
+    "qid": "Q106582644",
+    "label_en": "Brown ceramic bottle",
+    "inventory_number": "1979.0573P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown",
+        "confidence_score": 0.6118379235
+      }
+    ]
+  },
+  {
+    "qid": "Q106582645",
+    "label_en": "Brown ceramic pitcher",
+    "inventory_number": "1979.0400P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown",
+        "confidence_score": 0.5790302753
+      }
+    ]
+  },
+  {
+    "qid": "Q106582646",
+    "label_en": "Brown glass art object",
+    "inventory_number": "1979.0451P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown",
+        "confidence_score": 0.4163952172
+      }
+    ]
+  },
+  {
+    "qid": "Q106582647",
+    "label_en": "Brown jug",
+    "inventory_number": "1979.0882P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Brown"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Brown jug",
+        "confidence_score": 0.6921132803
+      }
+    ]
+  },
+  {
+    "qid": "Q106582649",
+    "label_en": "Carved white jade disc or pendant with a rosewood stand",
+    "inventory_number": "1991.016",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Carved"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582650",
+    "label_en": "Ceramic Pitcher",
+    "inventory_number": "1979.0393P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Ceramic"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582651",
+    "label_en": "Ceramic reproduction of an ancient pitcher",
+    "inventory_number": "1979.0391P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Ceramic"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582652",
+    "label_en": "Ceres (from a Cycle of the Four Seasons)",
+    "inventory_number": "1979.0101",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Ceres"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Four Seasons"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Ceres",
+        "confidence_score": 0.4645344615
+      }
+    ]
+  },
+  {
+    "qid": "Q106582653",
+    "label_en": "Charger with a brocade pattern and lotus forms with old men talking (Kutani ware)",
+    "inventory_number": "1986.053",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kutani",
+        "confidence_score": 0.655197978
+      }
+    ]
+  },
+  {
+    "qid": "Q106582654",
+    "label_en": "Charger with a design of landscape and figures (Kutani ware)",
+    "inventory_number": "1986.052",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kutani ware",
+        "confidence_score": 0.6700190604
+      }
+    ]
+  },
+  {
+    "qid": "Q106582656",
+    "label_en": "Circular Eave Tile with an Impressed 16-Petalled Chrysanthemum",
+    "inventory_number": "1992.499",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Circular"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Eave Tile"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582657",
+    "label_en": "Circular Mirror with a Design of a Fence, Flowers, and Two Butterflies",
+    "inventory_number": "1992.476",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Circular Mirror"
+      },
+      {
+        "label": "GPE",
+        "string": "Fence"
+      },
+      {
+        "label": "GPE",
+        "string": "Flowers"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Circular Mirror",
+        "confidence_score": 0.542865321
+      }
+    ]
+  },
+  {
+    "qid": "Q106582659",
+    "label_en": "Circular Mirror With a Design of Taoist Immortals, a Pavilion, a Deer, a Crane, and a Conch Shell",
+    "inventory_number": "1992.228",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Circular Mirror"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Taoist Immortals"
+      },
+      {
+        "label": "GPE",
+        "string": "Crane"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Conch Shell"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Deer"
+      },
+      {
+        "label": "ORG",
+        "string": "Crane"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Taoist Immortals",
+        "confidence_score": 0.5193834603
+      }
+    ]
+  },
+  {
+    "qid": "Q106582660",
+    "label_en": "Circular Mirror with a Mythical Beast in the Center",
+    "inventory_number": "1992.229",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Circular Mirror"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mythical Beast"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Center"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Circular Mirror",
+        "confidence_score": 0.5310693383
+      },
+      {
+        "label": "group",
+        "string": "Center",
+        "confidence_score": 0.2798830271
+      }
+    ]
+  },
+  {
+    "qid": "Q106582661",
+    "label_en": "Clasp in the Form of Hotei",
+    "inventory_number": "1992.064",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Clasp"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "GPE",
+        "string": "Hotei"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Hotei",
+        "confidence_score": 0.32418558
+      }
+    ]
+  },
+  {
+    "qid": "Q106582662",
+    "label_en": "Collar from a woman's robe",
+    "inventory_number": "1979.0072",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Collar"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582664",
+    "label_en": "Covered jar with handles and a design of cranes on white ground with red and gold elsewhere (Kutani ware)",
+    "inventory_number": "1986.045",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Covered"
+      },
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kutani",
+        "confidence_score": 0.4955222607
+      }
+    ]
+  },
+  {
+    "qid": "Q106582665",
+    "label_en": "Covered Pot",
+    "inventory_number": "1979.0488P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Covered"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Pot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582666",
+    "label_en": "Cup",
+    "inventory_number": "1979.1064P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582668",
+    "label_en": "Decorative plate in a box/case",
+    "inventory_number": "1979.0493P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582669",
+    "label_en": "Dish with partridge feather mottles (Northern blackware of Jizhou type)",
+    "inventory_number": "2002.033",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Dish"
+      },
+      {
+        "label": "GPE",
+        "string": "Northern"
+      },
+      {
+        "label": "GPE",
+        "string": "Jizhou"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Jizhou"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582670",
+    "label_en": "Doll",
+    "inventory_number": "1979.1061P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Doll"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Doll",
+        "confidence_score": 0.8929111362
+      }
+    ]
+  },
+  {
+    "qid": "Q106582671",
+    "label_en": "Doucai ware jardiniere",
+    "inventory_number": "1999.148",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Doucai"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Doucai ware jardiniere",
+        "confidence_score": 0.578563561
+      }
+    ]
+  },
+  {
+    "qid": "Q106582673",
+    "label_en": "Flute from Kilikis",
+    "inventory_number": "1979.0441P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Flute"
+      },
+      {
+        "label": "GPE",
+        "string": "Kilikis"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Kilikis"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Kilikis",
+        "confidence_score": 0.3858533502
+      }
+    ]
+  },
+  {
+    "qid": "Q106582674",
+    "label_en": "George Peabody plate",
+    "inventory_number": "1979.1071P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "George"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "George Peabody"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "George Peabody",
+        "confidence_score": 0.6660780907
+      }
+    ]
+  },
+  {
+    "qid": "Q106582675",
+    "label_en": "Gourd Shaped Vase with design of 2 figures viewing scroll in garden, and morning glories, patterned flowers, and lotus motif at base (Kutani ware)",
+    "inventory_number": "1986.044",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Gourd"
+      },
+      {
+        "label": "PERSON",
+        "string": "Shaped Vase"
+      },
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Gourd Shaped Vase"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "2"
+      },
+      {
+        "label": "PERSON",
+        "string": "Kutani"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Gourd Shaped Vase",
+        "confidence_score": 0.8188777765
+      },
+      {
+        "label": "name",
+        "string": "Kutani",
+        "confidence_score": 0.4830448031
+      }
+    ]
+  },
+  {
+    "qid": "Q106582676",
+    "label_en": "Green bottle",
+    "inventory_number": "1979.0558P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Green"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Green",
+        "confidence_score": 0.272320807
+      }
+    ]
+  },
+  {
+    "qid": "Q106582678",
+    "label_en": "Green bottle",
+    "inventory_number": "1979.0564P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Green"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Green",
+        "confidence_score": 0.272320807
+      }
+    ]
+  },
+  {
+    "qid": "Q106582679",
+    "label_en": "Green bottle",
+    "inventory_number": "1979.0569P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Green"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Green",
+        "confidence_score": 0.272320807
+      }
+    ]
+  },
+  {
+    "qid": "Q106582680",
+    "label_en": "Green bottle",
+    "inventory_number": "1979.0574P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Green"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Green",
+        "confidence_score": 0.272320807
+      }
+    ]
+  },
+  {
+    "qid": "Q106582681",
+    "label_en": "Green bottle",
+    "inventory_number": "1979.0575P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Green"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Green",
+        "confidence_score": 0.272320807
+      }
+    ]
+  },
+  {
+    "qid": "Q106582682",
+    "label_en": "Green brown bottle",
+    "inventory_number": "1979.0548P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Green"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Green brown",
+        "confidence_score": 0.4497891366
+      }
+    ]
+  },
+  {
+    "qid": "Q106582683",
+    "label_en": "Green glass bottle",
+    "inventory_number": "1979.0553",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Green"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582684",
+    "label_en": "Hand mirror with a lotus design on back",
+    "inventory_number": "1986.066",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Hand"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582685",
+    "label_en": "Head of a Maenad, (from an antefix)",
+    "inventory_number": "1980.039",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Maenad"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Maenad"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Maenad",
+        "confidence_score": 0.3528683484
+      }
+    ]
+  },
+  {
+    "qid": "Q106582686",
+    "label_en": "Jade gourd",
+    "inventory_number": "1988.138",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jade"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jade gourd",
+        "confidence_score": 0.8107010722
+      }
+    ]
+  },
+  {
+    "qid": "Q106582688",
+    "label_en": "Jade hairpin with a fish design",
+    "inventory_number": "1988.136",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jade"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jade",
+        "confidence_score": 0.5291798115
+      }
+    ]
+  },
+  {
+    "qid": "Q106582689",
+    "label_en": "Jade hairpin with a plant design",
+    "inventory_number": "1988.137",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jade"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jade",
+        "confidence_score": 0.4985460639
+      }
+    ]
+  },
+  {
+    "qid": "Q106582690",
+    "label_en": "Jade pheasant (one of a pair), with head leaning left",
+    "inventory_number": "1999.226",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jade"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jade pheasant",
+        "confidence_score": 0.8845309019
+      }
+    ]
+  },
+  {
+    "qid": "Q106582691",
+    "label_en": "Jade pheasant (one of a pair), with head leaning right",
+    "inventory_number": "1999.225",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jade"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jade pheasant",
+        "confidence_score": 0.8819492459
+      }
+    ]
+  },
+  {
+    "qid": "Q106582692",
+    "label_en": "Jadeite pi (bi) ring with a dragon relief",
+    "inventory_number": "1988.133",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jadeite"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Jadeite pi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jadeite pi",
+        "confidence_score": 0.7062744945
+      }
+    ]
+  },
+  {
+    "qid": "Q106582693",
+    "label_en": "Jar (one of a pair)",
+    "inventory_number": "1979.1112P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jar"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jar",
+        "confidence_score": 0.3339840472
+      }
+    ]
+  },
+  {
+    "qid": "Q106582695",
+    "label_en": "Jar (one of a pair)",
+    "inventory_number": "1979.1113P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jar"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jar",
+        "confidence_score": 0.3339840472
+      }
+    ]
+  },
+  {
+    "qid": "Q106582696",
+    "label_en": "Jizhou ware tea bowl",
+    "inventory_number": "2002.029",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jizhou"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Jizhou"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582697",
+    "label_en": "Jizhou ware with leaf decoration",
+    "inventory_number": "2002.028",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jizhou"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Jizhou"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Jizhou ware",
+        "confidence_score": 0.4841136634
+      }
+    ]
+  },
+  {
+    "qid": "Q106582698",
+    "label_en": "Jug",
+    "inventory_number": "1979.0594P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Jug"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582700",
+    "label_en": "Jug with one handle with blue decoration",
+    "inventory_number": "1979.0597P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "one"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582702",
+    "label_en": "Jug with one handle, blue decoration",
+    "inventory_number": "1979.0595P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "one"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582703",
+    "label_en": "Jugtown Pottery Grey Pitcher",
+    "inventory_number": "1979.0403P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Jugtown"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Pottery Grey"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Jugtown"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582705",
+    "label_en": "Kanzashi (Woman's Hair Ornament) - Circular Pin with a Chrysanthemum Design",
+    "inventory_number": "1992.241",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "PERSON",
+        "string": "Circular Pin"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.9185681939
+      }
+    ]
+  },
+  {
+    "qid": "Q106582706",
+    "label_en": "Kanzashi (Woman's Hair Ornament) - Circular Pin with a Design of Flowers and Leaves",
+    "inventory_number": "1992.242",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "PERSON",
+        "string": "Circular Pin"
+      },
+      {
+        "label": "GPE",
+        "string": "Flowers"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Leaves"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.9032542706
+      }
+    ]
+  },
+  {
+    "qid": "Q106582707",
+    "label_en": "Kanzashi (Woman's Hair Ornament) With a Design",
+    "inventory_number": "1992.529",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.9057458043
+      }
+    ]
+  },
+  {
+    "qid": "Q106582708",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with a Design of a Bridge, Weeping Willow, and Two Bats",
+    "inventory_number": "1992.536",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "GPE",
+        "string": "Bridge"
+      },
+      {
+        "label": "PERSON",
+        "string": "Weeping Willow"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Weeping Willow"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8204956651
+      }
+    ]
+  },
+  {
+    "qid": "Q106582710",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with a Design of Bamboo Grass, Chrysanthemums, and Cherry Blossoms",
+    "inventory_number": "1992.534",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bamboo Grass"
+      },
+      {
+        "label": "PERSON",
+        "string": "Chrysanthemums"
+      },
+      {
+        "label": "PERSON",
+        "string": "Cherry Blossoms"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Chrysanthemums"
+      },
+      {
+        "label": "ORG",
+        "string": "Cherry Blossoms"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8744028211
+      },
+      {
+        "label": "name",
+        "string": "Cherry Blossoms",
+        "confidence_score": 0.3593700379
+      }
+    ]
+  },
+  {
+    "qid": "Q106582711",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with a Design of Chrysanthemums and a Stream",
+    "inventory_number": "1992.531",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Chrysanthemums"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PRODUCT",
+        "string": "Chrysanthemums"
+      },
+      {
+        "label": "GPE",
+        "string": "Stream"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8476986289
+      }
+    ]
+  },
+  {
+    "qid": "Q106582712",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with a Design of Flowers",
+    "inventory_number": "1992.535",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8719210625
+      }
+    ]
+  },
+  {
+    "qid": "Q106582714",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with a Design of Scattered Flowers",
+    "inventory_number": "1992.530",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "GPE",
+        "string": "Scattered"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8665334582
+      }
+    ]
+  },
+  {
+    "qid": "Q106582715",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with a Green Glass Bead",
+    "inventory_number": "1992.537",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Green Glass Bead"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8501025438
+      }
+    ]
+  },
+  {
+    "qid": "Q106582716",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with Abstract Design",
+    "inventory_number": "1992.520",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "PERSON",
+        "string": "Abstract Design"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.9111519456
+      }
+    ]
+  },
+  {
+    "qid": "Q106582717",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with Crystal Tips",
+    "inventory_number": "1992.533",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Crystal Tips"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "LOC",
+        "string": "Crystal Tips"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8708532453
+      }
+    ]
+  },
+  {
+    "qid": "Q106582719",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with Multi-Color Pattern",
+    "inventory_number": "1992.519",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "ORG",
+        "string": "Multi-Color Pattern"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8985843062
+      }
+    ]
+  },
+  {
+    "qid": "Q106582720",
+    "label_en": "Kanzashi (Woman's Hair Ornament) with Tips Capped in Gold Leaf",
+    "inventory_number": "1992.532",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      },
+      {
+        "label": "PERSON",
+        "string": "Hair Ornament"
+      },
+      {
+        "label": "PERSON",
+        "string": "Tips Capped"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Gold Leaf"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kanzashi"
+      },
+      {
+        "label": "ORG",
+        "string": "Gold Leaf"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kanzashi",
+        "confidence_score": 0.8888679743
+      }
+    ]
+  },
+  {
+    "qid": "Q106582722",
+    "label_en": "Knife",
+    "inventory_number": "1979.0431P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Knife"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582723",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Bear",
+    "inventory_number": "1992.038",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7676682472
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6431435645
+      }
+    ]
+  },
+  {
+    "qid": "Q106582725",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Blowfish and a Giant Radish",
+    "inventory_number": "1992.035",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Blowfish"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Giant Radish"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "NORP",
+        "string": "Blowfish"
+      },
+      {
+        "label": "PERSON",
+        "string": "a Giant Radish"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7178937197
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6117836336
+      }
+    ]
+  },
+  {
+    "qid": "Q106582726",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Boy with a Broom Standing by a Tub with a Tortoise",
+    "inventory_number": "1992.044",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Broom"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "GPE",
+        "string": "Tortoise"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7388564348
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.639806211
+      }
+    ]
+  },
+  {
+    "qid": "Q106582727",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Bundle of Flowers",
+    "inventory_number": "1992.051",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7643622756
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6247791449
+      }
+    ]
+  },
+  {
+    "qid": "Q106582729",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Ceremonial Whisk",
+    "inventory_number": "1992.049",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Ceremonial Whisk"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7782587409
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6252243718
+      }
+    ]
+  },
+  {
+    "qid": "Q106582730",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Chinese Lion-Dog",
+    "inventory_number": "1992.028",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Chinese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7438204885
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6255918841
+      },
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.6605728269
+      }
+    ]
+  },
+  {
+    "qid": "Q106582731",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Chrysanthemum and Water",
+    "inventory_number": "1992.066",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "PERSON",
+        "string": "Water"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.707692802
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6258922815
+      }
+    ]
+  },
+  {
+    "qid": "Q106582732",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Figure Holding a Fan in Front of Chrysanthemums",
+    "inventory_number": "1992.054",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Front"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Chrysanthemums"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "PERSON",
+        "string": "Chrysanthemums"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7748124599
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6261290113
+      }
+    ]
+  },
+  {
+    "qid": "Q106582734",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Fisherman in a Boat, Holding a Dip Net",
+    "inventory_number": "1992.030",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "GPE",
+        "string": "Boat"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7372261286
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6318404873
+      }
+    ]
+  },
+  {
+    "qid": "Q106582735",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Flat Ceremonial Fan",
+    "inventory_number": "1992.050",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Flat Ceremonial Fan"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7768520117
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6363006532
+      }
+    ]
+  },
+  {
+    "qid": "Q106582736",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Flying Bat and a Crescent Moon",
+    "inventory_number": "1992.025",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "PERSON",
+        "string": "Bat"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Crescent Moon"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "PERSON",
+        "string": "Moon"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7365635633
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6429329415
+      }
+    ]
+  },
+  {
+    "qid": "Q106582737",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Man Holding a Sake Cup",
+    "inventory_number": "1992.053",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7872241735
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6345940928
+      }
+    ]
+  },
+  {
+    "qid": "Q106582738",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Man with a Rake",
+    "inventory_number": "1992.040",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7739691138
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6361821989
+      }
+    ]
+  },
+  {
+    "qid": "Q106582739",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Pair of Flying Cranes",
+    "inventory_number": "1992.032",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "ORG",
+        "string": "Flying Cranes"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7787723541
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.644842118
+      }
+    ]
+  },
+  {
+    "qid": "Q106582740",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Puppy with a Hoe",
+    "inventory_number": "1992.036",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7720460892
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6157477001
+      }
+    ]
+  },
+  {
+    "qid": "Q106582741",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Rabbit Dressed as a Warrior",
+    "inventory_number": "1992.033",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Warrior"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7874116898
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6361157
+      }
+    ]
+  },
+  {
+    "qid": "Q106582742",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Rat with a Branch of Fruit",
+    "inventory_number": "1992.034",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Branch of Fruit"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "ORG",
+        "string": "Fruit"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7167544365
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6190684438
+      }
+    ]
+  },
+  {
+    "qid": "Q106582743",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Recumbent Demon",
+    "inventory_number": "1992.063",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.809271276
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6398032109
+      }
+    ]
+  },
+  {
+    "qid": "Q106582744",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Seated Man with a Drinking Gourd",
+    "inventory_number": "1992.045",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Seated"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7905509472
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6631275614
+      }
+    ]
+  },
+  {
+    "qid": "Q106582746",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Tengu (Mountain Deity) Emerging from an Egg",
+    "inventory_number": "1992.067",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Tengu"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Mountain"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "FAC",
+        "string": "an Egg"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.6802734137
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6541615228
+      },
+      {
+        "label": "place",
+        "string": "Mountain Deity",
+        "confidence_score": 0.4972184002
+      }
+    ]
+  },
+  {
+    "qid": "Q106582747",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Treasure Ship",
+    "inventory_number": "1992.047",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Treasure Ship"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7318205833
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6248533626
+      }
+    ]
+  },
+  {
+    "qid": "Q106582748",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Treasure Ship",
+    "inventory_number": "1992.048",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Treasure Ship"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7318205833
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6248533626
+      }
+    ]
+  },
+  {
+    "qid": "Q106582749",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of a Tripod Holding Sacred Fungus",
+    "inventory_number": "1992.026",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Tripod Holding Sacred Fungus"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7754973769
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6316650212
+      }
+    ]
+  },
+  {
+    "qid": "Q106582750",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of an Insect",
+    "inventory_number": "1992.042",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7351056337
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6279497941
+      }
+    ]
+  },
+  {
+    "qid": "Q106582751",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Ebisu (One of the Seven Lucky Gods)",
+    "inventory_number": "1992.037",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Ebisu"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Seven Lucky Gods"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "One"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Seven"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7674611211
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6513225436
+      },
+      {
+        "label": "group",
+        "string": "Design of Ebisu",
+        "confidence_score": 0.7170428783
+      }
+    ]
+  },
+  {
+    "qid": "Q106582752",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Emperor and Empress Dolls for the Girls' Doll Festival",
+    "inventory_number": "1992.027",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Emperor"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Empress Dolls"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Girls"
+      },
+      {
+        "label": "PERSON",
+        "string": "Doll Festival"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7746184468
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6338872115
+      },
+      {
+        "label": "group",
+        "string": "Empress Dolls",
+        "confidence_score": 0.4539074451
+      },
+      {
+        "label": "group",
+        "string": "Girls ' Doll Festival",
+        "confidence_score": 0.6262175515
+      }
+    ]
+  },
+  {
+    "qid": "Q106582753",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Five Diamond Shapes",
+    "inventory_number": "1992.052",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "PERSON",
+        "string": "Five Diamond Shapes"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7644894123
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6420536637
+      }
+    ]
+  },
+  {
+    "qid": "Q106582754",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Fukurokuju (One of the Seven Lucky Gods) Holding a Fan and a Scroll",
+    "inventory_number": "1992.043",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Fukurokuju"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Seven Lucky Gods"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Seven"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7566003799
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.629289945
+      },
+      {
+        "label": "name",
+        "string": "Fukurokuju",
+        "confidence_score": 0.6693943739
+      }
+    ]
+  },
+  {
+    "qid": "Q106582755",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Pomegranates",
+    "inventory_number": "1992.039",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Pomegranates"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7830919623
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6277647515
+      }
+    ]
+  },
+  {
+    "qid": "Q106582756",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Shoki  (the Demon Queller)",
+    "inventory_number": "1992.065",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Shoki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Demon Queller"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.780211091
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.650976638
+      },
+      {
+        "label": "name",
+        "string": "Shoki",
+        "confidence_score": 0.3342801929
+      },
+      {
+        "label": "group",
+        "string": "Demon Queller",
+        "confidence_score": 0.6393184662
+      }
+    ]
+  },
+  {
+    "qid": "Q106582757",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Two Seated Demons",
+    "inventory_number": "1992.029",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.8115400076
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6320823828
+      }
+    ]
+  },
+  {
+    "qid": "Q106582758",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Two Stags and a Doe",
+    "inventory_number": "1992.046",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.8164097667
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6215017835
+      }
+    ]
+  },
+  {
+    "qid": "Q106582759",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Two Swallows in Flight",
+    "inventory_number": "1992.031",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      },
+      {
+        "label": "GPE",
+        "string": "Flight"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7270526886
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6320723295
+      }
+    ]
+  },
+  {
+    "qid": "Q106582761",
+    "label_en": "Menuki (Sword Hilt Ornament) with a Design of Two Tops",
+    "inventory_number": "1992.041",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "WORK_OF_ART",
+        "string": "Sword Hilt Ornament"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "Two"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.7819890976
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.6386252443
+      }
+    ]
+  },
+  {
+    "qid": "Q106582783",
+    "label_en": "Miniature \u2018true\u2019 replica of the Dead Sea Scrolls",
+    "inventory_number": "1979.0453P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Miniature"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Dead Sea Scrolls"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "LOC",
+        "string": "the Dead Sea Scrolls"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582784",
+    "label_en": "Miniature chair from Skyros",
+    "inventory_number": "1979.0440P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Miniature"
+      },
+      {
+        "label": "GPE",
+        "string": "Skyros"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Skyros"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Skyros",
+        "confidence_score": 0.4079625607
+      }
+    ]
+  },
+  {
+    "qid": "Q106582785",
+    "label_en": "Mr. and Mrs. Frank Logan Medal, for the Art Institute of Chicago",
+    "inventory_number": "1983.011",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Mr."
+      },
+      {
+        "label": "PERSON",
+        "string": "Frank Logan Medal"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Art Institute"
+      },
+      {
+        "label": "GPE",
+        "string": "Chicago"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Frank Logan Medal"
+      },
+      {
+        "label": "ORG",
+        "string": "the Art Institute of Chicago"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Mr",
+        "confidence_score": 0.7263118029
+      },
+      {
+        "label": "name",
+        "string": "Mrs. Frank Logan Medal",
+        "confidence_score": 0.8764171451
+      },
+      {
+        "label": "group",
+        "string": "Art Institute",
+        "confidence_score": 0.834753722
+      },
+      {
+        "label": "place",
+        "string": "Chicago",
+        "confidence_score": 0.6682342887
+      }
+    ]
+  },
+  {
+    "qid": "Q106582786",
+    "label_en": "Obijime (Obi Cord Ornament) in the Form of Two Masu (Fish)",
+    "inventory_number": "1992.062",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Obijime"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Obi Cord"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "GPE",
+        "string": "Masu"
+      },
+      {
+        "label": "GPE",
+        "string": "Fish"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Obijime",
+        "confidence_score": 0.4704440832
+      },
+      {
+        "label": "name",
+        "string": "Obi Cord Ornament",
+        "confidence_score": 0.6308272779
+      },
+      {
+        "label": "group",
+        "string": "Two Masu",
+        "confidence_score": 0.5273130685
+      }
+    ]
+  },
+  {
+    "qid": "Q106582788",
+    "label_en": "One of a pair of carved hawk figures with inlaid orange glass eyes with yellow inlay around eyes",
+    "inventory_number": "2011.002",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "One"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582789",
+    "label_en": "One of a pair of carved hawk figures with inlaid orange glass eyes with yellow inlay around eyes",
+    "inventory_number": "2011.003",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "One"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582790",
+    "label_en": "One of a Pair of Carved Oval Wooden Picture Frames",
+    "inventory_number": "1992.337a",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Carved Oval Wooden Picture Frames"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "One"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582791",
+    "label_en": "One of a Pair of Carved Oval Wooden Picture Frames",
+    "inventory_number": "1992.337b",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Carved Oval Wooden Picture Frames"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "One"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582792",
+    "label_en": "One of two urns",
+    "inventory_number": "1979.0663P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "One"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "two"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582793",
+    "label_en": "Pale blue-green, grey and white bowl",
+    "inventory_number": "1979.0673P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pale"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582794",
+    "label_en": "Pale brown bottle",
+    "inventory_number": "1979.0555P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pale"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Pale brown",
+        "confidence_score": 0.4410341084
+      }
+    ]
+  },
+  {
+    "qid": "Q106582795",
+    "label_en": "Pale green and white glass bottle",
+    "inventory_number": "1979.0565P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pale"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582796",
+    "label_en": "Pale green bottle with design of an eagle",
+    "inventory_number": "1979.0549P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pale"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Pale"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582798",
+    "label_en": "Pale green glass bowl on a stem",
+    "inventory_number": "1979.0554P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pale"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582799",
+    "label_en": "Perfumer",
+    "inventory_number": "1997.152",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Perfumer"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Perfumer",
+        "confidence_score": 0.2329152375
+      }
+    ]
+  },
+  {
+    "qid": "Q106582800",
+    "label_en": "Pi disc, with center hole carved in antique design style. The verso is carved with Dao designs.",
+    "inventory_number": "1999.227",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pi"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Dao"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Pi disc",
+        "confidence_score": 0.6013730317
+      }
+    ]
+  },
+  {
+    "qid": "Q106582801",
+    "label_en": "Pierced Ojime (Closing Bead) in the Form of a Warrior's Head Wearing a Helmet",
+    "inventory_number": "1992.177",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Ojime"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Form"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Warrior"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Pierced Ojime",
+        "confidence_score": 0.8386264145
+      }
+    ]
+  },
+  {
+    "qid": "Q106582802",
+    "label_en": "Pitcher",
+    "inventory_number": "1979.0622P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pitcher"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582804",
+    "label_en": "Plate with a design of a crane (Ko-Kutani ware)",
+    "inventory_number": "1986.064",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Ko-Kutani"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Ko-Kutani",
+        "confidence_score": 0.5127537251
+      }
+    ]
+  },
+  {
+    "qid": "Q106582805",
+    "label_en": "Plate with a flower and bird design (Satsuma ware)",
+    "inventory_number": "1986.055",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Plate"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Satsuma"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Satsuma ware",
+        "confidence_score": 0.7718546093
+      }
+    ]
+  },
+  {
+    "qid": "Q106582806",
+    "label_en": "Pot",
+    "inventory_number": "1979.0449P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582807",
+    "label_en": "Pot",
+    "inventory_number": "1979.0450P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Pot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582808",
+    "label_en": "Poutos (a stringed instrument)",
+    "inventory_number": "1979.0442P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Poutos"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Poutos",
+        "confidence_score": 0.8890185356
+      }
+    ]
+  },
+  {
+    "qid": "Q106582809",
+    "label_en": "Putting Our Heads Together",
+    "inventory_number": "1999.249",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582811",
+    "label_en": "Red Pot",
+    "inventory_number": "1979.0491P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Red"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Pot"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Red Pot",
+        "confidence_score": 0.4837365448
+      }
+    ]
+  },
+  {
+    "qid": "Q106582812",
+    "label_en": "Reproduction of a Menuki (Sword Hilt Ornament) with a Design of a Praying Mantis",
+    "inventory_number": "1992.057",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.4001333714
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.5319256137
+      }
+    ]
+  },
+  {
+    "qid": "Q106582814",
+    "label_en": "Reproduction of a Menuki (Sword Hilt Ornament) with a Design of a Praying Mantis",
+    "inventory_number": "1992.058",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Menuki",
+        "confidence_score": 0.4001333714
+      },
+      {
+        "label": "group",
+        "string": "Sword Hilt Ornament",
+        "confidence_score": 0.5319256137
+      }
+    ]
+  },
+  {
+    "qid": "Q106582815",
+    "label_en": "Reproduction of a Menuki (Sword Hilt Ornament) with a Design of a Warrior on Horseback",
+    "inventory_number": "1992.060",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Menuki ( Sword Hilt Ornament",
+        "confidence_score": 0.5840279102
+      }
+    ]
+  },
+  {
+    "qid": "Q106582816",
+    "label_en": "Reproduction of a Menuki (Sword Hilt Ornament) with a Design of an Insect",
+    "inventory_number": "1992.055",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Menuki ( Sword Hilt Ornament",
+        "confidence_score": 0.5909087241
+      }
+    ]
+  },
+  {
+    "qid": "Q106582817",
+    "label_en": "Reproduction of a Menuki (Sword Hilt Ornament) with a Design of an Insect",
+    "inventory_number": "1992.056",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Menuki ( Sword Hilt Ornament",
+        "confidence_score": 0.5909087241
+      }
+    ]
+  },
+  {
+    "qid": "Q106582818",
+    "label_en": "Reproduction of a Menuki (Sword Hilt Ornament) with a Design of Two Armored Warriors",
+    "inventory_number": "1992.059",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Menuki"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Sword Hilt"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Menuki ( Sword Hilt Ornament",
+        "confidence_score": 0.5759471953
+      }
+    ]
+  },
+  {
+    "qid": "Q106582820",
+    "label_en": "Reproduction of an Ancient Chinese Horse",
+    "inventory_number": "1979.0102",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Chinese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.7560198903
+      }
+    ]
+  },
+  {
+    "qid": "Q106582821",
+    "label_en": "Reproduction of an Ancient Chinese Horse",
+    "inventory_number": "1979.0103",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Chinese"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Chinese"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Chinese",
+        "confidence_score": 0.7560198903
+      }
+    ]
+  },
+  {
+    "qid": "Q106582822",
+    "label_en": "Robe in K'o-ssu silk tapestry weave",
+    "inventory_number": "1978.026",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Robe"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Robe"
+      },
+      {
+        "label": "ORG",
+        "string": "K'o-ssu"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Robe",
+        "confidence_score": 0.3100508153
+      }
+    ]
+  },
+  {
+    "qid": "Q106582823",
+    "label_en": "Satyr Head",
+    "inventory_number": "1979.0815P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Satyr"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Satyr Head",
+        "confidence_score": 0.7033281028
+      }
+    ]
+  },
+  {
+    "qid": "Q106582824",
+    "label_en": "Scales from Salonica",
+    "inventory_number": "1979.0672P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Salonica"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Salonica"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Salonica",
+        "confidence_score": 0.5865698457
+      }
+    ]
+  },
+  {
+    "qid": "Q106582825",
+    "label_en": "Sheep bell",
+    "inventory_number": "1979.0429P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Sheep"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582826",
+    "label_en": "Silver-plate candle stick (one of a pair)",
+    "inventory_number": "1979.0995P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "one"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582827",
+    "label_en": "Silver-plate candle stick (one of a pair)",
+    "inventory_number": "1979.0996P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "CARDINAL",
+        "string": "one"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582828",
+    "label_en": "Small vase",
+    "inventory_number": "1979.0401P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Small"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582829",
+    "label_en": "Spear Thrower",
+    "inventory_number": "1979.0467P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Spear"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Spear Thrower"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Spear Thrower",
+        "confidence_score": 0.3716254234
+      }
+    ]
+  },
+  {
+    "qid": "Q106582830",
+    "label_en": "Square brown bottle",
+    "inventory_number": "1979.0430P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Square"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582831",
+    "label_en": "Standing Kuan Yin",
+    "inventory_number": "1980.034",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Kuan Yin"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Kuan Yin"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Kuan Yin",
+        "confidence_score": 0.7100180387
+      }
+    ]
+  },
+  {
+    "qid": "Q106582832",
+    "label_en": "Tea cup",
+    "inventory_number": "1979.1105P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582833",
+    "label_en": "Tea cup",
+    "inventory_number": "1979.1106P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582834",
+    "label_en": "Tea cup",
+    "inventory_number": "1979.1107P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582836",
+    "label_en": "Tea cup",
+    "inventory_number": "1979.1108P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582837",
+    "label_en": "Tea cup",
+    "inventory_number": "1979.1109P",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582838",
+    "label_en": "The Blacksmith Worker",
+    "inventory_number": "1976.036",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Blacksmith Worker"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "The Blacksmith Worker"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582839",
+    "label_en": "Untitled",
+    "inventory_number": "1996.021",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582840",
+    "label_en": "Untitled",
+    "inventory_number": "1999.035",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582841",
+    "label_en": "Untitled",
+    "inventory_number": "1999.036",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582842",
+    "label_en": "Untitled",
+    "inventory_number": "1999.037",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582843",
+    "label_en": "Untitled",
+    "inventory_number": "1999.038",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582844",
+    "label_en": "Untitled",
+    "inventory_number": "1999.039",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582845",
+    "label_en": "Vase",
+    "inventory_number": "1979.0675P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Vase"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582846",
+    "label_en": "Vase with colored glass decoration",
+    "inventory_number": "1979.0612P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Vase"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582847",
+    "label_en": "Vase with green stripes and design of pink flowers",
+    "inventory_number": "1979.0604P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Vase"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582848",
+    "label_en": "Vase with green stripes and design of pink flowers",
+    "inventory_number": "1979.0605P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Vase"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582849",
+    "label_en": "Vase with Lid",
+    "inventory_number": "1979.0444P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Vase"
+      },
+      {
+        "label": "PERSON",
+        "string": "Lid"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Lid"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582850",
+    "label_en": "Vase with marbleized glaze pattern",
+    "inventory_number": "2004.091",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Vase"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582851",
+    "label_en": "Wine pouring vessel in the shape of a snail with dragon-shaped handle",
+    "inventory_number": "1997.004",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582852",
+    "label_en": "Woman's purple kimono with off-white lining",
+    "inventory_number": "1979.0067",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582853",
+    "label_en": "Woman's white coat",
+    "inventory_number": "1979.0069",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582854",
+    "label_en": "Woman's white underclothing",
+    "inventory_number": "1979.0068",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Woman"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582855",
+    "label_en": "Woven bag",
+    "inventory_number": "1979.0465P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Woven"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q106582857",
+    "label_en": "Zori (Woven reed shoes for children)",
+    "inventory_number": "1979.1089P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Zori"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Zori"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Zori",
+        "confidence_score": 0.5652449131
+      },
+      {
+        "label": "name",
+        "string": "Woven reed",
+        "confidence_score": 0.7204820216
+      }
+    ]
+  },
+  {
+    "qid": "Q80566046",
+    "label_en": "Madonna and Child with Apollonia and Another Female Saint",
+    "inventory_number": "1979.0659P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Madonna"
+      },
+      {
+        "label": "GPE",
+        "string": "Child"
+      },
+      {
+        "label": "GPE",
+        "string": "Apollonia"
+      },
+      {
+        "label": "GPE",
+        "string": "Female"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      },
+      {
+        "label": "PERSON",
+        "string": "Child"
+      },
+      {
+        "label": "PERSON",
+        "string": "Apollonia"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Madonna",
+        "confidence_score": 0.407417804
+      },
+      {
+        "label": "group",
+        "string": "Apollonia",
+        "confidence_score": 0.4192982912
+      }
+    ]
+  },
+  {
+    "qid": "Q90716090",
+    "label_en": "Emily Thorn Vanderbilt Sloane",
+    "inventory_number": "",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Thorn Vanderbilt Sloane"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Vanderbilt Sloane"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Emily Thorn Vanderbilt Sloane",
+        "confidence_score": 0.8073304668
+      }
+    ]
+  },
+  {
+    "qid": "Q94002062",
+    "label_en": "Marine Landscape",
+    "inventory_number": "2002.014",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Marine Landscape"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94440586",
+    "label_en": "Portrait of a Gentleman",
+    "inventory_number": "1970.007",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Portrait"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Gentleman"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94543371",
+    "label_en": "Saint Barbara, in the shape of a roundel, with the four corners of the work added at a later date",
+    "inventory_number": "1985.012",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Saint"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Barbara"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Saint Barbara"
+      },
+      {
+        "label": "CARDINAL",
+        "string": "four"
+      },
+      {
+        "label": "DATE",
+        "string": "a later date"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Saint Barbara",
+        "confidence_score": 0.9160807133
+      },
+      {
+        "label": "group",
+        "string": "roundel",
+        "confidence_score": 0.819757998
+      }
+    ]
+  },
+  {
+    "qid": "Q94544652",
+    "label_en": "The Crucifixion with the Virgin Mary, St. Mary Magdalene, St. John the Evangelist, and a Female Saint",
+    "inventory_number": "1979.0653P",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Virgin Mary"
+      },
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Evangelist"
+      },
+      {
+        "label": "GPE",
+        "string": "Female"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "St. John the Evangelist"
+      },
+      {
+        "label": "PERSON",
+        "string": "Female Saint"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Virgin Mary",
+        "confidence_score": 0.5768241286
+      },
+      {
+        "label": "name",
+        "string": "St. Mary Magdalene",
+        "confidence_score": 0.6974152029
+      },
+      {
+        "label": "place",
+        "string": "St. John",
+        "confidence_score": 0.4123752713
+      }
+    ]
+  },
+  {
+    "qid": "Q94549679",
+    "label_en": "Crucifixion of St. Andrew",
+    "inventory_number": "1979.0302P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Andrew",
+        "confidence_score": 0.6678096354
+      }
+    ]
+  },
+  {
+    "qid": "Q94553168",
+    "label_en": "Bishop or Saint",
+    "inventory_number": "1972.003",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Bishop"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "Saint"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Saint",
+        "confidence_score": 0.5970205665
+      }
+    ]
+  },
+  {
+    "qid": "Q94696481",
+    "label_en": "Madonna and Child with St. Anne",
+    "inventory_number": "1979.0658P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Madonna"
+      },
+      {
+        "label": "GPE",
+        "string": "Child"
+      },
+      {
+        "label": "PERSON",
+        "string": "St. Anne"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      },
+      {
+        "label": "PERSON",
+        "string": "Child"
+      },
+      {
+        "label": "GPE",
+        "string": "St. Anne"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Madonna",
+        "confidence_score": 0.3505575061
+      },
+      {
+        "label": "place",
+        "string": "St. Anne",
+        "confidence_score": 0.5510756373
+      }
+    ]
+  },
+  {
+    "qid": "Q94696574",
+    "label_en": "Madonna with Three Saints and John",
+    "inventory_number": "1979.0657P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Madonna"
+      },
+      {
+        "label": "PERSON",
+        "string": "Three Saints"
+      },
+      {
+        "label": "PERSON",
+        "string": "John"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      },
+      {
+        "label": "ORG",
+        "string": "Three Saints"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Madonna",
+        "confidence_score": 0.3030618727
+      },
+      {
+        "label": "group",
+        "string": "Three Saints",
+        "confidence_score": 0.7676990926
+      },
+      {
+        "label": "name",
+        "string": "John",
+        "confidence_score": 0.8978687525
+      }
+    ]
+  },
+  {
+    "qid": "Q94696638",
+    "label_en": "St. Sebastian",
+    "inventory_number": "1979.0656P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Sebastian"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Sebastian",
+        "confidence_score": 0.4559467584
+      }
+    ]
+  },
+  {
+    "qid": "Q94696965",
+    "label_en": "Madonna and Child",
+    "inventory_number": "1979.0654P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Madonna"
+      },
+      {
+        "label": "GPE",
+        "string": "Child"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      },
+      {
+        "label": "PERSON",
+        "string": "Child"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Madonna",
+        "confidence_score": 0.3374719918
+      },
+      {
+        "label": "name",
+        "string": "Child",
+        "confidence_score": 0.3408644795
+      }
+    ]
+  },
+  {
+    "qid": "Q94701366",
+    "label_en": "Seated Warrior",
+    "inventory_number": "1969.062",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Warrior"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94702218",
+    "label_en": "Madonna and Child with the Holy Trinity and the Annunciation; Anonymous Martyr Saint; Resurrection; \"Noli me tangere\"",
+    "inventory_number": "1979.0652P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Madonna"
+      },
+      {
+        "label": "GPE",
+        "string": "Child"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Holy Trinity"
+      },
+      {
+        "label": "GPE",
+        "string": "Annunciation"
+      },
+      {
+        "label": "PERSON",
+        "string": "Anonymous Martyr Saint"
+      },
+      {
+        "label": "GPE",
+        "string": "Resurrection"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      },
+      {
+        "label": "PERSON",
+        "string": "Child"
+      },
+      {
+        "label": "PERSON",
+        "string": "Anonymous Martyr Saint"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Holy Trinity",
+        "confidence_score": 0.6237777174
+      },
+      {
+        "label": "name",
+        "string": "Noli",
+        "confidence_score": 0.6330298185
+      }
+    ]
+  },
+  {
+    "qid": "Q94702395",
+    "label_en": "St. Louis of Toulouse",
+    "inventory_number": "1979.0651P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Louis"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Toulouse"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "GPE",
+        "string": "St. Louis of Toulouse"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Louis",
+        "confidence_score": 0.8251003027
+      },
+      {
+        "label": "place",
+        "string": "Toulouse",
+        "confidence_score": 0.6882728338
+      }
+    ]
+  },
+  {
+    "qid": "Q94702413",
+    "label_en": "Madonna and Child",
+    "inventory_number": "1979.0650P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Madonna"
+      },
+      {
+        "label": "GPE",
+        "string": "Child"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Madonna"
+      },
+      {
+        "label": "PERSON",
+        "string": "Child"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Madonna",
+        "confidence_score": 0.3374719918
+      },
+      {
+        "label": "name",
+        "string": "Child",
+        "confidence_score": 0.3408644795
+      }
+    ]
+  },
+  {
+    "qid": "Q94702420",
+    "label_en": "The Crucifixion with the Virgin, Mary Magdalene and St. John the Evangelist",
+    "inventory_number": "1979.0649P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Virgin"
+      },
+      {
+        "label": "PERSON",
+        "string": "Mary Magdalene"
+      },
+      {
+        "label": "GPE",
+        "string": "St."
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Evangelist"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Mary Magdalene"
+      },
+      {
+        "label": "GPE",
+        "string": "St. John"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Mary Magdalene",
+        "confidence_score": 0.9309144616
+      },
+      {
+        "label": "place",
+        "string": "St. John",
+        "confidence_score": 0.4213762432
+      }
+    ]
+  },
+  {
+    "qid": "Q94702774",
+    "label_en": "A Baptismal Ceremony",
+    "inventory_number": "1979.0648P",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Baptismal Ceremony"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94702974",
+    "label_en": "St. Sebastian",
+    "inventory_number": "1979.0655P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "St."
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Sebastian"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "St. Sebastian",
+        "confidence_score": 0.4559467584
+      }
+    ]
+  },
+  {
+    "qid": "Q94824558",
+    "label_en": "Cat",
+    "inventory_number": "1979.0433P",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "group",
+        "string": "Cat",
+        "confidence_score": 0.5468450189
+      }
+    ]
+  },
+  {
+    "qid": "Q94826345",
+    "label_en": "Ding ware vessel with incised designs of lilies",
+    "inventory_number": "1999.171",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Ding ware",
+        "confidence_score": 0.8030129075
+      }
+    ]
+  },
+  {
+    "qid": "Q94827808",
+    "label_en": "Byzantine coin",
+    "inventory_number": "1983.017",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Byzantine"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Byzantine"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94830050",
+    "label_en": "Running Bear Effigy",
+    "inventory_number": "1979.0419P",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Bear Effigy"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "PERSON",
+        "string": "Bear Effigy"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94832545",
+    "label_en": "Still-life with Poppies",
+    "inventory_number": "1971.007",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94835121",
+    "label_en": "Reclining Nude",
+    "inventory_number": "1988.025",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Nude"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94837681",
+    "label_en": "Angry Cat",
+    "inventory_number": "1988.020",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Angry"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Cat"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94970906",
+    "label_en": "Ball player in warrior bird costume",
+    "inventory_number": "1994.532",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Ball"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Ball",
+        "confidence_score": 0.4740598202
+      }
+    ]
+  },
+  {
+    "qid": "Q94971052",
+    "label_en": "Quilt with blue & red star pattern",
+    "inventory_number": "1979.0974P",
+    "nltk": [],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "blue & red star pattern"
+      }
+    ],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94971493",
+    "label_en": "Red-figure kylix",
+    "inventory_number": "1975.059",
+    "nltk": [],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q94971573",
+    "label_en": "The Infant Shakespeare Attended by Nature and the Passions",
+    "inventory_number": "1972.063",
+    "nltk": [
+      {
+        "label": "ORGANIZATION",
+        "string": "Infant Shakespeare"
+      },
+      {
+        "label": "PERSON",
+        "string": "Nature"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": []
+  },
+  {
+    "qid": "Q95743325",
+    "label_en": "Polaroid of Dolly Parton",
+    "inventory_number": "2008.009",
+    "nltk": [
+      {
+        "label": "PERSON",
+        "string": "Dolly Parton"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "ORG",
+        "string": "Polaroid"
+      },
+      {
+        "label": "ORG",
+        "string": "Dolly Parton"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Dolly Parton",
+        "confidence_score": 0.6504561603
+      }
+    ]
+  },
+  {
+    "qid": "Q95743495",
+    "label_en": "Supper at Emmaus",
+    "inventory_number": "1968.001",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Supper"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "Emmaus"
+      }
+    ],
+    "spacy": [],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Emmaus",
+        "confidence_score": 0.2110547274
+      }
+    ]
+  },
+  {
+    "qid": "Q96063416",
+    "label_en": "West African Doll",
+    "inventory_number": "1994.530",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "West"
+      },
+      {
+        "label": "ORGANIZATION",
+        "string": "African Doll"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "West African"
+      }
+    ],
+    "parallel_dots": []
+  }
+]
