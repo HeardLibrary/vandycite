@@ -1,0 +1,110 @@
+[
+  {
+    "qid": "Q102965887",
+    "label_en": "Hagi ware bowl with fishnet design",
+    "inventory_number": "1993.098",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Hagi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Hagi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Hagi ware",
+        "confidence_score": 0.673853308
+      }
+    ]
+  },
+  {
+    "qid": "Q102965898",
+    "label_en": "Hagi ware chawan (tea bowl)",
+    "inventory_number": "1993.188",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Hagi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Hagi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Hagi ware",
+        "confidence_score": 0.667650193
+      }
+    ]
+  },
+  {
+    "qid": "Q102965905",
+    "label_en": "Hagi ware cup",
+    "inventory_number": "1993.104",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Hagi"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Hagi"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "name",
+        "string": "Hagi ware cup",
+        "confidence_score": 0.6176218688
+      }
+    ]
+  },
+  {
+    "qid": "Q102965912",
+    "label_en": "Hair comb with Indian and European figures",
+    "inventory_number": "1994.486",
+    "nltk": [
+      {
+        "label": "GPE",
+        "string": "Hair"
+      },
+      {
+        "label": "GPE",
+        "string": "Indian"
+      },
+      {
+        "label": "GPE",
+        "string": "European"
+      }
+    ],
+    "spacy": [
+      {
+        "label": "NORP",
+        "string": "Indian"
+      },
+      {
+        "label": "NORP",
+        "string": "European"
+      }
+    ],
+    "parallel_dots": [
+      {
+        "label": "place",
+        "string": "Indian",
+        "confidence_score": 0.9562000036
+      }
+    ]
+  }
+]
