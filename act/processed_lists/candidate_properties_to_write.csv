@@ -1,0 +1,11 @@
+value,wikidata_name,act_name,notes
+label,label,Title,try to extract labels in other languages from Commons data
+description,description,,create from instance of string and creator name
+P18,instance of,ObjectFunction,Check against object type in Commons data
+P170,creator,CreatorArtist,
+P1476,title,Title,
+P571,inception,date,compare against date in Commons data
+P495,country of origin,LocationCountry,check for data in OriginalLocation field
+P528,catalog code,,"sometimes available in accession number of Commons data, but dirty"
+P195,collection,,should try to extract from Commons data
+P6216,copyright status,CopyrightStatus (if Public Domain),sometimes available in Commons under Permission
