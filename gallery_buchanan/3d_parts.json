@@ -165,9 +165,9 @@
     "qid": "Q102961768",
     "type": "work of art",
     "label": "Arm Rest With a Design of a Persimmon",
-    "object_description": "Arm Rest With a Design of a Persimmon",
+    "object_description": "Arm Rest",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of a Persimmon",
     "includes": ""
   },
   {
@@ -246,8 +246,8 @@
     "qid": "Q102962062",
     "type": "work of art",
     "label": "Belt hook in the shape of two facing dragons",
-    "object_description": "Belt hook in the shape of two facing dragons",
-    "form_description": "",
+    "object_description": "Belt hook",
+    "form_description": "two facing dragons",
     "design_description": "",
     "includes": ""
   },
@@ -264,8 +264,8 @@
     "qid": "Q102962087",
     "type": "ceramics",
     "label": "Beppu ware incense container (Kogo) in the shape of an ox",
-    "object_description": "Beppu ware incense container (Kogo) in the shape of an ox",
-    "form_description": "",
+    "object_description": "Beppu ware incense container (Kogo)",
+    "form_description": "an ox",
     "design_description": "",
     "includes": ""
   },
@@ -282,9 +282,9 @@
     "qid": "Q102962145",
     "type": "textile",
     "label": "Bingata Cloth With Design of Camellia, a Stream, and Two Other Flowers",
-    "object_description": "Bingata Cloth With Design of Camellia, a Stream, and Two Other Flowers",
+    "object_description": "Bingata Cloth",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Camellia, a Stream, and Two Other Flowers",
     "includes": ""
   },
   {
@@ -723,10 +723,10 @@
     "qid": "Q102962620",
     "type": "ceramics",
     "label": "Bowl With Inlay Design on Interior and Exterior",
-    "object_description": "Bowl With Inlay Design on Interior and Exterior",
+    "object_description": "Bowl",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "Inlay Design on Interior and Exterior"
   },
   {
     "qid": "Q102962626",
@@ -777,10 +777,10 @@
     "qid": "Q102962667",
     "type": "work of art",
     "label": "Bowl with three handles in the shape of leopards",
-    "object_description": "Bowl",
-    "form_description": "",
+    "object_description": "Bowl with three handles",
+    "form_description": "leopards",
     "design_description": "",
-    "includes": "three handles in the shape of leopards"
+    "includes": ""
   },
   {
     "qid": "Q102962676",
@@ -939,10 +939,10 @@
     "qid": "Q102962834",
     "type": "work of art",
     "label": "Brush washer in the design of a dragon with the bowl portion in the shape of a peach with an incised design on the bottom of a fish and moon",
-    "object_description": "Brush washer in the design of a dragon",
-    "form_description": "",
+    "object_description": "Brush washer in the design of a dragon with the bowl portion",
+    "form_description": "a peach with an incised design on the bottom of a fish and moon",
     "design_description": "",
-    "includes": "the bowl portion in the shape of a peach with an incised design on the bottom of a fish and moon"
+    "includes": ""
   },
   {
     "qid": "Q102962840",
@@ -1065,8 +1065,8 @@
     "qid": "Q102963012",
     "type": "work of art",
     "label": "Carved Architectural Detail in the Shape of a Phoenix",
-    "object_description": "Carved Architectural Detail in the Shape of a Phoenix",
-    "form_description": "",
+    "object_description": "Carved Architectural Detail",
+    "form_description": "a Phoenix",
     "design_description": "",
     "includes": ""
   },
@@ -1146,10 +1146,10 @@
     "qid": "Q102963138",
     "type": "work of art",
     "label": "Censer in the shape of a duck with a hinged lid (dark patina)",
-    "object_description": "Censer in the shape of a duck",
-    "form_description": "",
+    "object_description": "Censer",
+    "form_description": "a duck with a hinged lid (dark patina)",
     "design_description": "",
-    "includes": "a hinged lid (dark patina)"
+    "includes": ""
   },
   {
     "qid": "Q102963144",
@@ -1389,10 +1389,10 @@
     "qid": "Q102963769",
     "type": "ceramics",
     "label": "Container in the shape of a squatting figure with broad face and goggles on his head",
-    "object_description": "Container in the shape of a squatting figure",
-    "form_description": "",
+    "object_description": "Container",
+    "form_description": "a squatting figure with broad face and goggles on his head",
     "design_description": "",
-    "includes": "broad face and goggles on his head"
+    "includes": ""
   },
   {
     "qid": "Q102963776",
@@ -1776,10 +1776,10 @@
     "qid": "Q102964524",
     "type": "work of art",
     "label": "Divination instrument in the shape of an animal with long protruding head and tail with small rubbing staff attached",
-    "object_description": "Divination instrument in the shape of an animal",
-    "form_description": "",
+    "object_description": "Divination instrument",
+    "form_description": "an animal with long protruding head and tail with small rubbing staff attached",
     "design_description": "",
-    "includes": "long protruding head and tail with small rubbing staff attached"
+    "includes": ""
   },
   {
     "qid": "Q102964535",
@@ -2406,10 +2406,10 @@
     "qid": "Q102965951",
     "type": "work of art",
     "label": "Handling Stone in the shape of a pomegranate branch with mature and immature fruit and blossom",
-    "object_description": "Handling Stone in the shape of a pomegranate branch",
-    "form_description": "",
+    "object_description": "Handling Stone",
+    "form_description": "a pomegranate branch with mature and immature fruit and blossom",
     "design_description": "",
-    "includes": "mature and immature fruit and blossom"
+    "includes": ""
   },
   {
     "qid": "Q102965977",
@@ -2766,9 +2766,9 @@
     "qid": "Q102966793",
     "type": "textile",
     "label": "K'o-ssu tapestry silk roundels depicting flowers in vases",
-    "object_description": "K'o-ssu tapestry silk roundels depicting flowers in vases",
+    "object_description": "K'o-ssu tapestry silk roundels",
     "form_description": "",
-    "design_description": "",
+    "design_description": "flowers in vases",
     "includes": ""
   },
   {
@@ -2883,10 +2883,10 @@
     "qid": "Q102966911",
     "type": "work of art",
     "label": "Kettle for tea with a knob in the shape of two No masks from Morioka",
-    "object_description": "Kettle for tea",
-    "form_description": "",
+    "object_description": "Kettle for tea with a knob",
+    "form_description": "two No masks from Morioka",
     "design_description": "",
-    "includes": "a knob in the shape of two No masks from Morioka"
+    "includes": ""
   },
   {
     "qid": "Q102966925",
@@ -2928,8 +2928,8 @@
     "qid": "Q102966983",
     "type": "ceramics",
     "label": "Kogo (Incense container) in the shape of a boar's head",
-    "object_description": "Kogo (Incense container) in the shape of a boar's head",
-    "form_description": "",
+    "object_description": "Kogo (Incense container)",
+    "form_description": "a boar's head",
     "design_description": "",
     "includes": ""
   },
@@ -3261,8 +3261,8 @@
     "qid": "Q102968471",
     "type": "work of art",
     "label": "Mask, Representing an Antelope",
-    "object_description": "Mask, Representing an Antelope",
-    "form_description": "",
+    "object_description": "Mask,",
+    "form_description": "an Antelope",
     "design_description": "",
     "includes": ""
   },
@@ -3314,7 +3314,8 @@
   {
     "qid": "Q102968590",
     "type": "work of art",
-    "label": "Mirror with a design of flying cranes, tortoise, pine tree with inscription in lacquered case with a design of a pine tree and bamboo"
+    "label": "Mirror with a design of flying cranes, tortoise, pine tree with inscription in lacquered case with a design of a pine tree and bamboo",
+    "object_description": "Error on \"with a Design\""
   },
   {
     "qid": "Q102968600",
@@ -3545,73 +3546,73 @@
     "qid": "Q102968949",
     "type": "sculpture",
     "label": "Netsuke depicting a deer with a dog on its back",
-    "object_description": "Netsuke depicting a deer",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
-    "includes": "a dog on its back"
+    "design_description": "a deer with a dog on its back",
+    "includes": ""
   },
   {
     "qid": "Q102968960",
     "type": "sculpture",
     "label": "Netsuke depicting a dog with a puppy on its back",
-    "object_description": "Netsuke depicting a dog",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
-    "includes": "a puppy on its back"
+    "design_description": "a dog with a puppy on its back",
+    "includes": ""
   },
   {
     "qid": "Q102968964",
     "type": "sculpture",
     "label": "Netsuke depicting a man with a basket of produce",
-    "object_description": "Netsuke depicting a man",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
-    "includes": "a basket of produce"
+    "design_description": "a man with a basket of produce",
+    "includes": ""
   },
   {
     "qid": "Q102968970",
     "type": "sculpture",
     "label": "Netsuke depicting a tiger and cub",
-    "object_description": "Netsuke depicting a tiger and cub",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
+    "design_description": "a tiger and cub",
     "includes": ""
   },
   {
     "qid": "Q102968975",
     "type": "sculpture",
     "label": "Netsuke depicting an inlaid gaming piece",
-    "object_description": "Netsuke depicting an inlaid gaming piece",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
+    "design_description": "an inlaid gaming piece",
     "includes": ""
   },
   {
     "qid": "Q102968985",
     "type": "sculpture",
     "label": "Netsuke depicting an octopus holding a shark",
-    "object_description": "Netsuke depicting an octopus holding a shark",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
+    "design_description": "an octopus holding a shark",
     "includes": ""
   },
   {
     "qid": "Q102968990",
     "type": "sculpture",
     "label": "Netsuke in the shape of a man with movable eyes holding a bag",
-    "object_description": "Netsuke in the shape of a man",
-    "form_description": "",
+    "object_description": "Netsuke",
+    "form_description": "a man with movable eyes holding a bag",
     "design_description": "",
-    "includes": "movable eyes holding a bag"
+    "includes": ""
   },
   {
     "qid": "Q102968996",
     "type": "sculpture",
     "label": "Netsuke with double gourd depicting a pig",
-    "object_description": "Netsuke",
+    "object_description": "Netsuke with double gourd",
     "form_description": "",
-    "design_description": "",
-    "includes": "double gourd depicting a pig"
+    "design_description": "a pig",
+    "includes": ""
   },
   {
     "qid": "Q102969059",
@@ -3653,10 +3654,10 @@
     "qid": "Q102969146",
     "type": "work of art",
     "label": "Octagonal Ink Stick With Relief of a Constellation of a Deity Riding a Mythical Creature",
-    "object_description": "Octagonal Ink Stick With Relief of a Constellation of a Deity Riding a Mythical Creature",
+    "object_description": "Octagonal Ink Stick",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "Relief of a Constellation of a Deity Riding a Mythical Creature"
   },
   {
     "qid": "Q102969152",
@@ -4112,10 +4113,10 @@
     "qid": "Q102969831",
     "type": "work of art",
     "label": "Plate With Carved Clematis Flower",
-    "object_description": "Plate With Carved Clematis Flower",
+    "object_description": "Plate",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "Carved Clematis Flower"
   },
   {
     "qid": "Q102969847",
@@ -4166,10 +4167,10 @@
     "qid": "Q102970141",
     "type": "textile",
     "label": "Purse With Three Monkeys in a Pine Tree on One Side, & a Dragon in Waves on the Other",
-    "object_description": "Purse With Three Monkeys in a Pine Tree on One Side, & a Dragon in Waves on the Other",
+    "object_description": "Purse",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "Three Monkeys in a Pine Tree on One Side, & a Dragon in Waves on the Other"
   },
   {
     "qid": "Q102970149",
@@ -4679,10 +4680,10 @@
     "qid": "Q102971296",
     "type": "work of art",
     "label": "Set of Eight Ink Sticks With Relief Designs of Landscapes & Calligraphy",
-    "object_description": "Set of Eight Ink Sticks With Relief Designs of Landscapes & Calligraphy",
+    "object_description": "Set of Eight Ink Sticks",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "Relief Designs of Landscapes & Calligraphy"
   },
   {
     "qid": "Q102971305",
@@ -4823,9 +4824,9 @@
     "qid": "Q102971492",
     "type": "sculpture",
     "label": "Signature Seal With a Design of Rocks and Bamboo",
-    "object_description": "Signature Seal With a Design of Rocks and Bamboo",
+    "object_description": "Signature Seal",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Rocks and Bamboo",
     "includes": ""
   },
   {
@@ -6047,10 +6048,10 @@
     "qid": "Q102972990",
     "type": "ceramics",
     "label": "Soba-choko (noodle sauce cup) with fluted sides and foliate rim in the shape of chrysanthemum",
-    "object_description": "Soba-choko (noodle sauce cup)",
-    "form_description": "",
+    "object_description": "Soba-choko (noodle sauce cup) with fluted sides and foliate rim",
+    "form_description": "chrysanthemum",
     "design_description": "",
-    "includes": "fluted sides and foliate rim in the shape of chrysanthemum"
+    "includes": ""
   },
   {
     "qid": "Q102972998",
@@ -6560,10 +6561,10 @@
     "qid": "Q102975077",
     "type": "work of art",
     "label": "Three legged incense burner with two loop handles in the shape of a Chinese ting bronze ritual vessel with nine characters meaning \"good luck\"",
-    "object_description": "Three legged incense burner",
-    "form_description": "",
+    "object_description": "Three legged incense burner with two loop handles",
+    "form_description": "a Chinese ting bronze ritual vessel with nine characters meaning \"good luck\"",
     "design_description": "",
-    "includes": "two loop handles in the shape of a Chinese ting bronze ritual vessel with nine characters meaning \"good luck\""
+    "includes": ""
   },
   {
     "qid": "Q102975095",
@@ -6641,8 +6642,8 @@
     "qid": "Q102975298",
     "type": "work of art",
     "label": "Toothpick holder in the shape of a folded paper crane",
-    "object_description": "Toothpick holder in the shape of a folded paper crane",
-    "form_description": "",
+    "object_description": "Toothpick holder",
+    "form_description": "a folded paper crane",
     "design_description": "",
     "includes": ""
   },
@@ -6704,8 +6705,8 @@
     "qid": "Q102975456",
     "type": "ceramics",
     "label": "Trivet for the tea ceremony in the shape of three folding fans",
-    "object_description": "Trivet for the tea ceremony in the shape of three folding fans",
-    "form_description": "",
+    "object_description": "Trivet for the tea ceremony",
+    "form_description": "three folding fans",
     "design_description": "",
     "includes": ""
   },
@@ -6731,9 +6732,9 @@
     "qid": "Q102975502",
     "type": "work of art",
     "label": "Tsuba (Sword Guard) With a Design of Sparrows and Bamboo",
-    "object_description": "Tsuba (Sword Guard) With a Design of Sparrows and Bamboo",
+    "object_description": "Tsuba (Sword Guard)",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Sparrows and Bamboo",
     "includes": ""
   },
   {
@@ -6992,10 +6993,10 @@
     "qid": "Q102976959",
     "type": "work of art",
     "label": "Wedding hair ornament set with elements depicting a landscape containing pine trees, cranes, tortoise",
-    "object_description": "Wedding hair ornament set",
+    "object_description": "Wedding hair ornament set with elements",
     "form_description": "",
-    "design_description": "",
-    "includes": "elements depicting a landscape containing pine trees, cranes, tortoise"
+    "design_description": "a landscape containing pine trees, cranes, tortoise",
+    "includes": ""
   },
   {
     "qid": "Q102976965",
@@ -7091,10 +7092,10 @@
     "qid": "Q102977132",
     "type": "work of art",
     "label": "Wine cup in the shape of an open lotus blossom, encircled with hawthorn branches, leaves and blossoms",
-    "object_description": "Wine cup in the shape of an open lotus blossom, encircled",
-    "form_description": "",
+    "object_description": "Wine cup",
+    "form_description": "an open lotus blossom, encircled with hawthorn branches, leaves and blossoms",
     "design_description": "",
-    "includes": "hawthorn branches, leaves and blossoms"
+    "includes": ""
   },
   {
     "qid": "Q102977231",
@@ -7226,10 +7227,10 @@
     "qid": "Q102977433",
     "type": "work of art",
     "label": "Yatate (Ink Horn) With Ruler on Handle",
-    "object_description": "Yatate (Ink Horn) With Ruler on Handle",
+    "object_description": "Yatate (Ink Horn)",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "Ruler on Handle"
   },
   {
     "qid": "Q102977444",
@@ -7343,8 +7344,8 @@
     "qid": "Q103296715",
     "type": "work of art",
     "label": "Altar vase, triangular shaped vessel in the shape of a gu (antique bronze) Decorated in low relief of clouds and dancing leopards",
-    "object_description": "Altar vase, triangular shaped vessel in the shape of a gu (antique bronze) Decorated in low relief of clouds and dancing leopards",
-    "form_description": "",
+    "object_description": "Altar vase, triangular shaped vessel",
+    "form_description": "a gu (antique bronze) Decorated in low relief of clouds and dancing leopards",
     "design_description": "",
     "includes": ""
   },
@@ -7433,9 +7434,9 @@
     "qid": "Q103297044",
     "type": "work of art",
     "label": "Arm Rest With Design of a Ghost of a Courtesan",
-    "object_description": "Arm Rest With Design of a Ghost of a Courtesan",
+    "object_description": "Arm Rest",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of a Ghost of a Courtesan",
     "includes": ""
   },
   {
@@ -7595,8 +7596,8 @@
     "qid": "Q103297678",
     "type": "ceramics",
     "label": "Bottle in the shape of a sitting jaguar",
-    "object_description": "Bottle in the shape of a sitting jaguar",
-    "form_description": "",
+    "object_description": "Bottle",
+    "form_description": "a sitting jaguar",
     "design_description": "",
     "includes": ""
   },
@@ -7604,10 +7605,10 @@
     "qid": "Q103297684",
     "type": "ceramics",
     "label": "Bottle Vase With Wax-Resistant Design of Grasses & Flowers on Both Sides",
-    "object_description": "Bottle Vase With Wax-Resistant Design of Grasses & Flowers on Both Sides",
+    "object_description": "Bottle Vase",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "Wax-Resistant Design of Grasses & Flowers on Both Sides"
   },
   {
     "qid": "Q103297693",
@@ -7775,10 +7776,10 @@
     "qid": "Q103298071",
     "type": "work of art",
     "label": "Candle stick in the shape of a ladder with one (musician) figure on the ladder near the top and two figures at the base",
-    "object_description": "Candle stick in the shape of a ladder",
-    "form_description": "",
+    "object_description": "Candle stick",
+    "form_description": "a ladder with one (musician) figure on the ladder near the top and two figures at the base",
     "design_description": "",
-    "includes": "one (musician) figure on the ladder near the top and two figures at the base"
+    "includes": ""
   },
   {
     "qid": "Q103298077",
@@ -7793,8 +7794,8 @@
     "qid": "Q103298103",
     "type": "sculpture",
     "label": "Carved bone in the shape of a claw",
-    "object_description": "Carved bone in the shape of a claw",
-    "form_description": "",
+    "object_description": "Carved bone",
+    "form_description": "a claw",
     "design_description": "",
     "includes": ""
   },
@@ -7856,8 +7857,8 @@
     "qid": "Q103298214",
     "type": "work of art",
     "label": "Censer in the shape of a chicken and a fish, antique style design",
-    "object_description": "Censer in the shape of a chicken and a fish, antique style design",
-    "form_description": "",
+    "object_description": "Censer",
+    "form_description": "a chicken and a fish, antique style design",
     "design_description": "",
     "includes": ""
   },
@@ -7910,8 +7911,8 @@
     "qid": "Q103298272",
     "type": "sculpture",
     "label": "Ceremonial drum in the shape of a male figure",
-    "object_description": "Ceremonial drum in the shape of a male figure",
-    "form_description": "",
+    "object_description": "Ceremonial drum",
+    "form_description": "a male figure",
     "design_description": "",
     "includes": ""
   },
@@ -8027,9 +8028,9 @@
     "qid": "Q103298486",
     "type": "work of art",
     "label": "Circular Mirror With a Design of Arrowroot",
-    "object_description": "Circular Mirror With a Design of Arrowroot",
+    "object_description": "Circular Mirror",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Arrowroot",
     "includes": ""
   },
   {
@@ -8144,8 +8145,8 @@
     "qid": "Q103298730",
     "type": "ceramics",
     "label": "Container in the shape of a jaguar",
-    "object_description": "Container in the shape of a jaguar",
-    "form_description": "",
+    "object_description": "Container",
+    "form_description": "a jaguar",
     "design_description": "",
     "includes": ""
   },
@@ -8153,8 +8154,8 @@
     "qid": "Q103298738",
     "type": "work of art",
     "label": "Container in the shape of a llama",
-    "object_description": "Container in the shape of a llama",
-    "form_description": "",
+    "object_description": "Container",
+    "form_description": "a llama",
     "design_description": "",
     "includes": ""
   },
@@ -8162,8 +8163,8 @@
     "qid": "Q103298742",
     "type": "ceramics",
     "label": "Container in the shape of a standing female figure",
-    "object_description": "Container in the shape of a standing female figure",
-    "form_description": "",
+    "object_description": "Container",
+    "form_description": "a standing female figure",
     "design_description": "",
     "includes": ""
   },
@@ -8198,10 +8199,10 @@
     "qid": "Q103298776",
     "type": "ceramics",
     "label": "Container with the handle in the shape of a face",
-    "object_description": "Container",
-    "form_description": "",
+    "object_description": "Container with the handle",
+    "form_description": "a face",
     "design_description": "",
-    "includes": "the handle in the shape of a face"
+    "includes": ""
   },
   {
     "qid": "Q103298821",
@@ -8225,10 +8226,10 @@
     "qid": "Q103298914",
     "type": "work of art",
     "label": "Covered vase in the shape of hu (antique bronze vessel) sitting on tree trunk with prunus leaves and two cranes, the cover with leaf-shaped knob",
-    "object_description": "Covered vase in the shape of hu (antique bronze vessel) sitting on tree trunk",
-    "form_description": "",
+    "object_description": "Covered vase",
+    "form_description": "hu (antique bronze vessel) sitting on tree trunk with prunus leaves and two cranes, the cover with leaf-shaped knob",
     "design_description": "",
-    "includes": "prunus leaves and two cranes, the cover with leaf-shaped knob"
+    "includes": ""
   },
   {
     "qid": "Q103298922",
@@ -8315,8 +8316,8 @@
     "qid": "Q103299325",
     "type": "work of art",
     "label": "Door knocker in the shape of a hand",
-    "object_description": "Door knocker in the shape of a hand",
-    "form_description": "",
+    "object_description": "Door knocker",
+    "form_description": "a hand",
     "design_description": "",
     "includes": ""
   },
@@ -9008,8 +9009,8 @@
     "qid": "Q103301070",
     "type": "sculpture",
     "label": "Heddle pulley in the shape of a carved figure",
-    "object_description": "Heddle pulley in the shape of a carved figure",
-    "form_description": "",
+    "object_description": "Heddle pulley",
+    "form_description": "a carved figure",
     "design_description": "",
     "includes": ""
   },
@@ -9206,9 +9207,9 @@
     "qid": "Q103301411",
     "type": "sculpture",
     "label": "Icon depicting standing priestly figure",
-    "object_description": "Icon depicting standing priestly figure",
+    "object_description": "Icon",
     "form_description": "",
-    "design_description": "",
+    "design_description": "standing priestly figure",
     "includes": ""
   },
   {
@@ -9260,10 +9261,10 @@
     "qid": "Q103301635",
     "type": "sculpture",
     "label": "Inro in four compartments with netsuke in the shape of a dog, including an ivory ojime on a silk cord",
-    "object_description": "Inro in four compartments",
-    "form_description": "",
+    "object_description": "Inro in four compartments with netsuke",
+    "form_description": "a dog, including an ivory ojime on a silk cord",
     "design_description": "",
-    "includes": "netsuke in the shape of a dog, including an ivory ojime on a silk cord"
+    "includes": ""
   },
   {
     "qid": "Q103301713",
@@ -9926,27 +9927,27 @@
     "qid": "Q103305767",
     "type": "sculpture",
     "label": "Netsuke depicting a man holding a book",
-    "object_description": "Netsuke depicting a man holding a book",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
+    "design_description": "a man holding a book",
     "includes": ""
   },
   {
     "qid": "Q103305772",
     "type": "sculpture",
     "label": "Netsuke depicting a squatting man with a sleeve over his head",
-    "object_description": "Netsuke depicting a squatting man",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
-    "includes": "a sleeve over his head"
+    "design_description": "a squatting man with a sleeve over his head",
+    "includes": ""
   },
   {
     "qid": "Q103305790",
     "type": "sculpture",
     "label": "Netsuke depicting a standing man",
-    "object_description": "Netsuke depicting a standing man",
+    "object_description": "Netsuke",
     "form_description": "",
-    "design_description": "",
+    "design_description": "a standing man",
     "includes": ""
   },
   {
@@ -10043,10 +10044,10 @@
     "qid": "Q103306274",
     "type": "sculpture",
     "label": "Pair of Signature Seals, Each With a Lion Dog With a Sphere Beneath One Paw",
-    "object_description": "Pair of Signature Seals, Each With a Lion Dog With a Sphere Beneath One Paw",
+    "object_description": "Pair of Signature Seals, Each",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "a Lion Dog with a Sphere Beneath One Paw"
   },
   {
     "qid": "Q103306279",
@@ -10106,19 +10107,19 @@
     "qid": "Q103306399",
     "type": "sculpture",
     "label": "Pax (baiser de paix) depicting the Crucifixion with the Virgin and Saint John the Evangelist",
-    "object_description": "Pax (baiser de paix) depicting the Crucifixion",
+    "object_description": "Pax (baiser de paix)",
     "form_description": "",
-    "design_description": "",
-    "includes": "the Virgin and Saint John the Evangelist"
+    "design_description": "the Crucifixion with the Virgin and Saint John the Evangelist",
+    "includes": ""
   },
   {
     "qid": "Q103306404",
     "type": "sculpture",
     "label": "Pax, depicting the Crucifixion with the Virgin raising her hands, Saint John the Evangelist, and two angels",
-    "object_description": "Pax, depicting the Crucifixion",
+    "object_description": "Pax,",
     "form_description": "",
-    "design_description": "",
-    "includes": "the Virgin raising her hands, Saint John the Evangelist, and two angels"
+    "design_description": "the Crucifixion with the Virgin raising her hands, Saint John the Evangelist, and two angels",
+    "includes": ""
   },
   {
     "qid": "Q103306426",
@@ -10178,8 +10179,8 @@
     "qid": "Q103306555",
     "type": "ceramics",
     "label": "Pipe bowl in the shape of a seated human",
-    "object_description": "Pipe bowl in the shape of a seated human",
-    "form_description": "",
+    "object_description": "Pipe bowl",
+    "form_description": "a seated human",
     "design_description": "",
     "includes": ""
   },
@@ -10808,18 +10809,18 @@
     "qid": "Q103308461",
     "type": "sculpture",
     "label": "Signature Seal With a Chinese Lion Dog on Top",
-    "object_description": "Signature Seal With a Chinese Lion Dog on Top",
+    "object_description": "Signature Seal",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "a Chinese Lion Dog on Top"
   },
   {
     "qid": "Q103308472",
     "type": "sculpture",
     "label": "Signature Seal With a Design of a Bat and Clouds",
-    "object_description": "Signature Seal With a Design of a Bat and Clouds",
+    "object_description": "Signature Seal",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of a Bat and Clouds",
     "includes": ""
   },
   {
@@ -10835,37 +10836,37 @@
     "qid": "Q103308483",
     "type": "sculpture",
     "label": "Signature Seal With a Design of a Lion Dog Under the Sun With Clouds",
-    "object_description": "Signature Seal With a Design of a Lion Dog Under the Sun With Clouds",
+    "object_description": "Signature Seal",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of a Lion Dog Under the Sun With Clouds",
     "includes": ""
   },
   {
     "qid": "Q103308491",
     "type": "sculpture",
     "label": "Signature Seal With a Design of Tree on Hill, Mountain Path, and Hut",
-    "object_description": "Signature Seal With a Design of Tree on Hill, Mountain Path, and Hut",
+    "object_description": "Signature Seal",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Tree on Hill, Mountain Path, and Hut",
     "includes": ""
   },
   {
     "qid": "Q103308498",
     "type": "sculpture",
     "label": "Signature Seal With a Design of Two Horses",
-    "object_description": "Signature Seal With a Design of Two Horses",
+    "object_description": "Signature Seal",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Two Horses",
     "includes": ""
   },
   {
     "qid": "Q103308503",
     "type": "sculpture",
     "label": "Signature Seal With a Dog on Top and Initials of HDD on Seal Surface",
-    "object_description": "Signature Seal With a Dog on Top and Initials of HDD on Seal Surface",
+    "object_description": "Signature Seal",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "a Dog on Top and Initials of HDD on Seal Surface"
   },
   {
     "qid": "Q103308515",
@@ -10880,28 +10881,28 @@
     "qid": "Q103308522",
     "type": "sculpture",
     "label": "Signature Seal With a Floral Design",
-    "object_description": "Signature Seal With a Floral Design",
+    "object_description": "Signature Seal",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "a Floral Design"
   },
   {
     "qid": "Q103308533",
     "type": "sculpture",
     "label": "Signature Seal With a Kirin (Mythical Beast) on Top",
-    "object_description": "Signature Seal With a Kirin (Mythical Beast) on Top",
+    "object_description": "Signature Seal",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "a Kirin (Mythical Beast) on Top"
   },
   {
     "qid": "Q103308543",
     "type": "sculpture",
     "label": "Signature Seal With a Recumbent Mythical Beast",
-    "object_description": "Signature Seal With a Recumbent Mythical Beast",
+    "object_description": "Signature Seal",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "a Recumbent Mythical Beast"
   },
   {
     "qid": "Q103308646",
@@ -11411,9 +11412,9 @@
     "qid": "Q103310153",
     "type": "ceramics",
     "label": "The stirrup-spout vessel, depicting an old mountain god",
-    "object_description": "The stirrup-spout vessel, depicting an old mountain god",
+    "object_description": "The stirrup-spout vessel,",
     "form_description": "",
-    "design_description": "",
+    "design_description": "an old mountain god",
     "includes": ""
   },
   {
@@ -11573,9 +11574,9 @@
     "qid": "Q103310646",
     "type": "work of art",
     "label": "Tsuba (Sword Guard) With a Design of Lotuses",
-    "object_description": "Tsuba (Sword Guard) With a Design of Lotuses",
+    "object_description": "Tsuba (Sword Guard)",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Lotuses",
     "includes": ""
   },
   {
@@ -11708,10 +11709,10 @@
     "qid": "Q103311921",
     "type": "ceramics",
     "label": "Vase in the shape of bamboo with egrets (or herons), kingfisher, and lotus in relief;  yellow, green, white, and mauve",
-    "object_description": "Vase in the shape of bamboo",
-    "form_description": "",
+    "object_description": "Vase",
+    "form_description": "bamboo with egrets (or herons), kingfisher, and lotus in relief;  yellow, green, white, and mauve",
     "design_description": "",
-    "includes": "egrets (or herons), kingfisher, and lotus in relief;  yellow, green, white, and mauve"
+    "includes": ""
   },
   {
     "qid": "Q103311928",
@@ -12410,8 +12411,8 @@
     "qid": "Q104031004",
     "type": "work of art",
     "label": "Carved Architectural Detail in the Shape of a Dragon",
-    "object_description": "Carved Architectural Detail in the Shape of a Dragon",
-    "form_description": "",
+    "object_description": "Carved Architectural Detail",
+    "form_description": "a Dragon",
     "design_description": "",
     "includes": ""
   },
@@ -12419,8 +12420,8 @@
     "qid": "Q104031007",
     "type": "work of art",
     "label": "Carved Architectural Detail in the Shape of a Dragon",
-    "object_description": "Carved Architectural Detail in the Shape of a Dragon",
-    "form_description": "",
+    "object_description": "Carved Architectural Detail",
+    "form_description": "a Dragon",
     "design_description": "",
     "includes": ""
   },
@@ -13418,8 +13419,8 @@
     "qid": "Q104032305",
     "type": "sculpture",
     "label": "Seal in the shape of a Chinese Lion Dog",
-    "object_description": "Seal in the shape of a Chinese Lion Dog",
-    "form_description": "",
+    "object_description": "Seal",
+    "form_description": "a Chinese Lion Dog",
     "design_description": "",
     "includes": ""
   },
@@ -13427,8 +13428,8 @@
     "qid": "Q104032306",
     "type": "sculpture",
     "label": "Seal in the shape of a Chinese Lion Dog",
-    "object_description": "Seal in the shape of a Chinese Lion Dog",
-    "form_description": "",
+    "object_description": "Seal",
+    "form_description": "a Chinese Lion Dog",
     "design_description": "",
     "includes": ""
   },
@@ -14561,10 +14562,10 @@
     "qid": "Q105095956",
     "type": "sculpture",
     "label": "Low relief votive fragment depicting the Egyptian God Ptah, standing in profile with the was scepter",
-    "object_description": "Low relief votive fragment depicting the Egyptian God Ptah, standing in profile",
+    "object_description": "Low relief votive fragment",
     "form_description": "",
-    "design_description": "",
-    "includes": "the was scepter"
+    "design_description": "the Egyptian God Ptah, standing in profile with the was scepter",
+    "includes": ""
   },
   {
     "qid": "Q105095960",
@@ -14677,7 +14678,8 @@
   {
     "qid": "Q106566917",
     "type": "work of art",
-    "label": "Inro with a design of bush clover (hagi) with agate drawstring bead (ojime) and carved wood netsuke with inlaid mother of pearl with a design of Camellia flowers, with an ivory"
+    "label": "Inro with a design of bush clover (hagi) with agate drawstring bead (ojime) and carved wood netsuke with inlaid mother of pearl with a design of Camellia flowers, with an ivory",
+    "object_description": "Error on \"with a Design\""
   },
   {
     "qid": "Q106566929",
@@ -14727,7 +14729,8 @@
   {
     "qid": "Q106566939",
     "type": "work of art",
-    "label": "Leather drawstring pouch with cloth lining, oval drawstring bead with a design of a horse and pine tree on both sides, netsuke with a design of a noh mask Okina (Old man)"
+    "label": "Leather drawstring pouch with cloth lining, oval drawstring bead with a design of a horse and pine tree on both sides, netsuke with a design of a noh mask Okina (Old man)",
+    "object_description": "Error on \"with a Design\""
   },
   {
     "qid": "Q106567536",
@@ -15282,10 +15285,10 @@
     "qid": "Q106582612",
     "type": "sculpture",
     "label": "Bird Without Nest (bicyclist sculpture)",
-    "object_description": "Bird Without Nest (bicyclist sculpture)",
+    "object_description": "Bird",
     "form_description": "",
     "design_description": "",
-    "includes": ""
+    "includes": "out Nest (bicyclist sculpture)"
   },
   {
     "qid": "Q106582613",
@@ -15669,9 +15672,9 @@
     "qid": "Q106582659",
     "type": "work of art",
     "label": "Circular Mirror With a Design of Taoist Immortals, a Pavilion, a Deer, a Crane, and a Conch Shell",
-    "object_description": "Circular Mirror With a Design of Taoist Immortals, a Pavilion, a Deer, a Crane, and a Conch Shell",
+    "object_description": "Circular Mirror",
     "form_description": "",
-    "design_description": "",
+    "design_description": "of Taoist Immortals, a Pavilion, a Deer, a Crane, and a Conch Shell",
     "includes": ""
   },
   {
@@ -16020,7 +16023,7 @@
     "qid": "Q106582707",
     "type": "work of art",
     "label": "Kanzashi (Woman's Hair Ornament) With a Design",
-    "object_description": "Kanzashi (Woman's Hair Ornament) With a Design",
+    "object_description": "Kanzashi (Woman's Hair Ornament)",
     "form_description": "",
     "design_description": "",
     "includes": ""
@@ -16929,10 +16932,10 @@
     "qid": "Q106582851",
     "type": "sculpture",
     "label": "Wine pouring vessel in the shape of a snail with dragon-shaped handle",
-    "object_description": "Wine pouring vessel in the shape of a snail",
-    "form_description": "",
+    "object_description": "Wine pouring vessel",
+    "form_description": "a snail with dragon-shaped handle",
     "design_description": "",
-    "includes": "dragon-shaped handle"
+    "includes": ""
   },
   {
     "qid": "Q106582852",
@@ -16983,10 +16986,10 @@
     "qid": "Q94543371",
     "type": "stained glass",
     "label": "Saint Barbara, in the shape of a roundel, with the four corners of the work added at a later date",
-    "object_description": "Saint Barbara, in the shape of a roundel,",
-    "form_description": "",
+    "object_description": "Saint Barbara,",
+    "form_description": "a roundel, with the four corners of the work added at a later date",
     "design_description": "",
-    "includes": "the four corners of the work added at a later date"
+    "includes": ""
   },
   {
     "qid": "Q94553168",
