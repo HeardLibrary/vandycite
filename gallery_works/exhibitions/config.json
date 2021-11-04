@@ -1,0 +1,45 @@
+{
+  "data_path": "",
+  "item_source_csv": "",
+  "item_pattern_file": "graph_pattern.txt",
+  "outfiles": [
+    {
+      "manage_descriptions": true,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "exhibition.csv",
+      "prop_list": [
+        {
+          "pid": "P608",
+          "variable": "exhibition_history",
+          "value_type": "item",
+          "qual": [
+            {
+              "pid": "P580",
+              "variable": "start_time",
+              "value_type": "date"
+            },
+            {
+              "pid": "P582",
+              "variable": "end_time",
+              "value_type": "date"
+            }
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
