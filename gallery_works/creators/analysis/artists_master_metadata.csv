@@ -1,0 +1,1358 @@
+qid,artistLabel,birthdate,deathdate,sexgender,ulan,birthplace,birthLabel,citizenship,citizenLabel,count,added
+Q2605345,Fritz Eichenberg,1901-10-24,1990-11-30,male,500045266,Q365,Cologne,Q183,Germany,291,False
+Q5603,Andy Warhol,1928-08-06,1987-02-22,male,500006031,Q1342,Pittsburgh,Q30,United States of America,163,False
+Q105090562,Michael Frederick,1966-01-01,,male,,Q2188558,Chebanse,Q30,United States of America,65,True
+Q105090602,Bryce McCloud,1975-01-01,,male,,Q23197,Nashville,Q30,United States of America,62,True
+Q3776378,Joaquim Gomis,1902-09-19,1991-12-12,male,500107878,Q1492,Barcelona,Q29,Spain,62,False
+Q11821277,Donna Ferrato,1949-06-05,,female,500333526,,,Q30,United States of America,61,False
+Q15994214,Eugene Biel-Bienne,1902-11-27,1969-01-17,male,,Q1741,Vienna,Q30,United States of America,58,False
+Q105090617,Jeremy D. Maynard,1977-01-01,,male,,Q23197,Nashville,Q30,United States of America,53,True
+Q187506,Honoré Daumier,1808-02-26,1879-02-10,male,500117998,Q23482,Marseille,Q142,France,50,False
+Q16841977,Harmony Korine,,,,,,,,,49,False
+Q23071693,Hans Hinterreiter,1902-01-28,1989-09-15,male,500094391,Q9125,Winterthur,Q39,Switzerland,48,False
+Q352438,Adriaen van Ostade,1610-12-10,1685-01-01,male,500021654,Q9920,Haarlem,Q29999,Kingdom of the Netherlands,45,False
+Q6297639,Joyce Tenneson,1945-05-29,,female,500342274,Q100,Boston,Q30,United States of America,42,False
+Q171344,William Hogarth,1697-11-10,1764-10-25,male,500004242,Q84,London,Q145,United Kingdom,38,False
+Q1233831,Ralph Gibson,1939-01-16,,male,500094623,Q65,Los Angeles,Q30,United States of America,37,False
+Q105090622,Edan M. Bryant,1978-01-01,,male,,Q23197,Nashville,Q30,United States of America,32,True
+Q2958342,Edouard de Beaumont,1821-01-01,1888-01-13,male,500011622,,,Q142,France,31,False
+Q52157443,Werner Wildner,1925-01-01,2004-01-01,male,,,,Q30,United States of America,31,False
+Q5548964,Gerald Brockhurst,1890-10-31,1978-05-04,male,500019583,Q2256,Birmingham,Q174193,United Kingdom of Great Britain and Ireland,30,False
+Q482193,Amédée de Noé,1819-01-26,1879-09-06,male,500017700,Q90,Paris,Q142,France,29,False
+Q58212905,Daniel Kunkel,,,male,,,,Q183,Germany,29,False
+Q105091182,Association of Art Directors and Graphic Designers,,,,,,,,,28,False
+Q102160836,Hatch Show Print,,,,,,,,,25,False
+Q105090088,Allen Ross Pittman,1883-01-01,1969-01-01,male,,,,Q30,United States of America,24,True
+Q105090600,Dan Jimerfield,1974-01-01,,male,,,,Q30,United States of America,24,True
+Q105090353,Joseph A. Pecsenke,1942-01-01,1989-01-01,male,,,,Q30,United States of America,24,True
+Q28957451,Juan Martinez,1942-12-02,,male,,Q1645560,Navas de San Juan,Q29,Spain,24,False
+Q467427,Utagawa Kunisada,1786-01-01,1865-01-12,male,500121373,Q215646,Edo,Q17,Japan,24,False
+Q7177423,Peter Turnley,1955-06-22,,male,,Q49268,Fort Wayne,Q142,France,23,False
+Q5577,Salvador Dalí,1904-05-11,1989-01-23,male,500009365,Q6839,Figueres,Q29,Spain,23,False
+Q170509,Henry James,1843-04-15,1916-02-28,male,500280063,Q60,New York City,Q145,United Kingdom,22,False
+Q7175899,Peter Milton,1930-01-01,,male,500040901,,,Q30,United States of America,22,False
+Q200798,Utagawa Hiroshige,1797-01-01,1858-10-12,male,500019641,Q215646,Edo,Q17,Japan,22,False
+Q467337,Yoshitoshi,1839-04-30,1892-01-01,male,500121372,Q215646,Edo,Q17,Japan,22,False
+Q828966,Erwin Bechtold,1925-04-12,,male,500386516,Q365,Cologne,Q183,Germany,21,False
+Q991589,Bruce Conner,1933-11-18,2008-07-07,male,500116235,Q2189250,McPherson,Q30,United States of America,20,False
+Q1239543,Don Thompson,1963-03-30,,male,,Q1297,Chicago,Q30,United States of America,20,False
+Q51754428,Kristin Capp,1964-01-01,,female,,Q6106,Portland,,,20,False
+Q152384,Joan Miró,1893-04-20,1983-12-25,male,500014094,Q1492,Barcelona,Q29,Spain,19,False
+Q5586,Katsushika Hokusai,1760-10-31,1849-05-10,male,500060426,Q1490,Tokyo,Q17,Japan,19,False
+Q105090238,Rafael Tur Costa,1927-01-01,,male,,Q24009589,Santa Eulària des Riu,Q29,Spain,19,True
+Q158099,Antoni Tàpies,1923-12-13,2012-02-06,male,500011373,Q1492,Barcelona,Q29,Spain,18,False
+Q105090646,Casey D. Gill,1981-01-01,,male,,Q487315,Monterey,Q30,United States of America,18,True
+Q105090451,Creighton Michael,1949-01-01,,male,500100489,,,Q30,United States of America,18,True
+Q105090286,Willow Legge,1934-01-01,,female,,,,,,18,True
+Q55946252,Antoni Marí Ribas,1906-01-01,1974-01-01,male,500039525,,,,,17,False
+Q657402,Hans Hartung,1904-09-21,1989-12-07,male,500003694,Q2079,Leipzig,Q183,Germany,17,False
+Q100741993,John Fraser,,,male,,,,,,17,False
+Q12028116,Karel Appel,,,,,,,,,17,False
+Q105090310,Robert Quijada,1937-01-01,1994-01-01,male,500096712,,,Q30,United States of America,17,True
+Q2847732,André Evrard,1936-04-01,2021-04-29,male,500137718,Q68124,La Chaux-de-Fonds,Q39,Switzerland,16,False
+Q7397563,Sadao Watanabe,1913-01-01,1996-01-08,male,,,,Q17,Japan,16,False
+Q3174119,Jean Proal,1904-07-16,1969-02-24,male,,Q842778,Seyne,Q142,France,15,False
+Q1395740,Lucien Clergue,1934-08-14,2014-11-15,male,500115463,Q48292,Arles,Q142,France,15,False
+Q3046492,Keisai Eisen,1790-01-01,1848-01-01,male,500121366,Q215646,Edo,Q17,Japan,14,False
+Q450236,Roberto Matta,1911-11-11,2002-11-23,male,500057123,Q2887,Santiago,Q298,Chile,14,False
+Q1866375,Hubert Goltzius,1526-11-09,1583-03-24,male,500009741,Q2999,Würzburg,Q6581823,Southern Netherlands,13,False
+Q47509394,John James Audubon,,,,,,,,,12,False
+Q22812990,Louise Bourgeois,,,,,,,,,12,False
+Q8016676,William Paul Morehouse,1929-01-01,1993-01-01,male,500092269,Q62,San Francisco,Q30,United States of America,12,False
+Q18508038,Charles François Gabriel Levachez,1800-01-01,,male,500108160,,,,,11,False
+Q1289326,Eduard Micus,1925-07-12,2000-11-16,male,500092619,Q16107,Höxter,Q183,Germany,11,False
+Q1580955,Hans Laabs,1915-01-02,2004-01-31,male,500346097,Q106268,Stargard,Q183,Germany,11,False
+Q105090179,Marcel Floris,1914-01-01,2007-01-01,male,,,,Q142,France,11,True
+Q701592,Mimmo Paladino,1948-12-18,,male,500021173,Q55935,Paduli,Q38,Italy,11,False
+Q950316,Utagawa Toyokuni I,1769-01-01,1825-02-24,male,500081100,Q2631862,Shiba,Q17,Japan,11,False
+Q61055,Arno Breker,1900-07-19,1991-02-13,male,500096044,Q702259,Elberfeld,Q183,Germany,10,False
+Q151165,Charles Dana Gibson,1867-09-14,1944-12-23,male,500012937,Q20138,Roxbury,Q30,United States of America,10,False
+Q53544284,Francesc Artigau,1940-01-01,,male,500124323,,,,,10,False
+Q316307,Giovanni Battista Piranesi,1720-10-04,1778-11-09,male,500114965,Q641,Venice,Q170174,Papal States,10,False
+Q105090636,Jenny Gill,1979-01-01,,female,,Q487315,Monterey,Q30,United States of America,10,True
+Q105090517,Jim Sherraden,1957-01-01,,male,,Q1650620,Salina,Q30,United States of America,10,True
+Q273696,Mona Hatoum,1952-02-01,,female,500033131,Q3820,Beirut,Q219060,State of Palestine,10,False
+Q261846,Tsuguharu Foujita,1886-11-27,1968-01-29,male,500027059,Q7473516,Tokyo,Q142,France,10,False
+Q100937563,William Tucker,,,male,,,,,,10,False
+Q2114093,Étienne Delaune,1518-01-01,1583-01-01,male,500026480,Q90,Paris,Q142,France,10,False
+Q957538,Alphonse Legros,1837-05-08,1911-12-08,male,500013515,Q7003,Dijon,Q174193,United Kingdom of Great Britain and Ireland,9,False
+Q472846,Conrad Marca-Relli,1913-06-05,2000-08-29,male,500020522,Q100,Boston,Q30,United States of America,9,False
+Q105090422,Dennis Lukas,1947-01-01,2003-01-01,male,,Q133116,Hamilton,Q16,Canada,9,True
+Q531234,Jim Dine,1935-06-16,,male,500028463,Q43196,Cincinnati,Q30,United States of America,9,False
+Q79988298,Jules Jacquemart,,,,,,,,,9,False
+Q921242,Stefano della Bella,1610-05-18,1664-07-12,male,500018966,Q2044,Florence,Q154849,Grand Duchy of Tuscany,9,False
+Q317736,Utagawa Kuniyoshi,1797-01-01,1861-04-14,male,500063102,Q1141952,Nihonbashi,Q17,Japan,9,False
+Q92800130,William Wylie,,,,,,,,,9,False
+Q147144,Zao Wou-Ki,1920-02-01,2013-04-09,male,500029565,Q956,Beijing,Q13426199,Republic of China 1912–1949,9,False
+Q451736,Amadeo Gabino,1922-01-01,2004-01-01,male,500025957,Q8818,Valencia,Q29,Spain,8,False
+Q105090402,Eduardo Mira,1945-01-01,,male,,,,,,8,True
+Q21460866,Fred Taylor,1875-03-22,1963-01-29,male,500087014,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,8,False
+Q105090382,Gilbert Herreyns,1943-02-02,,male,,Q203312,Uccle - Ukkel,Q31,Belgium,8,True
+Q21929746,Helen Gerardia,1903-01-01,1988-01-01,female,500053529,Q49518,Yekaterinoslav Governorate,Q30,United States of America,8,False
+Q80023302,Joseph Pennell,,,,,,,,,8,False
+Q6530475,Lesley Dill,1950-01-01,,female,500330492,Q928168,Bronxville,Q30,United States of America,8,False
+Q18686182,Lesley Foxcroft,1949-01-01,,female,500017797,Q42448,Sheffield,,,8,False
+Q24503,Michael Craig-Martin,1941-08-28,,male,500013170,Q1761,Dublin,Q145,United Kingdom,8,False
+Q105090144,Thomas Puryear Mims,1906-01-01,1975-01-01,male,500068379,,,Q30,United States of America,8,True
+Q105090201,Zdenka Zivkovic,1921-01-01,2011-01-01,female,,Q33946,Czechoslovakia,,,8,True
+Q16007897,Alonzo C. Webb,1888-04-01,1975-01-01,male,,Q23197,Nashville,Q30,United States of America,7,False
+Q822353,Bernard Cohen,1933-07-28,,male,500022012,Q84,London,Q145,United Kingdom,7,False
+Q1144898,Currier and Ives,,,,500034474,,,,,7,False
+Q734889,Francesco Bartolozzi,1728-09-25,1815-03-07,male,500032318,Q2044,Florence,Q145,United Kingdom,7,False
+Q156128,Georges Rouault,1871-05-27,1958-02-13,male,500024798,Q90,Paris,Q142,France,7,False
+Q5560919,Gilbert Gaul,1855-03-31,1919-12-21,male,500005060,Q26339,Jersey City,Q30,United States of America,7,False
+Q1455806,Joan Hernández Pijuan,1931-02-15,2005-12-28,male,500014460,Q1492,Barcelona,Q29,Spain,7,False
+Q80077266,John Taylor Arms,,,,,,,,,7,False
+Q57688022,Leonard Baskin,,,,,,,,,7,False
+Q1074290,Paul Gavarni,1804-01-13,1866-11-23,male,500006992,Q90,Paris,Q142,France,7,False
+Q105090619,Toby Sherrard,1977-01-01,,male,,Q5083,Seattle,Q30,United States of America,7,True
+Q693095,Conrad Felixmüller,1897-05-21,1977-03-24,male,500017719,Q1731,Dresden,Q183,Germany,6,False
+Q87406961,Janet Mitchell,1912-11-24,1998-01-01,female,500078722,Q368241,Medicine Hat,Q16,Canada,6,False
+Q366066,John Flaxman,1755-07-06,1826-12-07,male,500115449,Q42462,York,Q174193,United Kingdom of Great Britain and Ireland,6,False
+Q142472,Käthe Kollwitz,1867-07-08,1945-04-22,female,500016751,Q1829,Kaliningrad,Q41304,Weimar Republic,6,False
+Q55987884,Leopoldo Irriguible,1946-05-09,2017-01-11,male,,Q10305,Zaragoza,Q29,Spain,6,False
+Q165275,Robert Motherwell,1915-01-24,1991-07-16,male,500016415,Q233808,Aberdeen,Q30,United States of America,6,False
+Q94684059,Sally Gall,1956-01-01,,female,500040932,,,,,6,False
+Q94296230,Sidney Chafetz,1922-01-01,2013-01-01,male,500105615,,,,,6,False
+Q809510,Bartolomeo Pinelli,1771-11-20,1835-04-01,male,500030127,Q220,Rome,Q170174,Papal States,5,False
+Q105090629,Caleb Cain Marcus,1978-01-01,,male,,Q30,United States of America,Q30,United States of America,5,True
+Q105206935,Calvin J. Sumsion,1942-03-04,2014-12-28,male,,Q23443,Provo,,,5,False
+Q5078832,Charles Hazlewood Shannon,1863-04-26,1937-03-18,male,500020950,Q1891939,Sleaford,Q174193,United Kingdom of Great Britain and Ireland,5,False
+Q22237088,Frank Liefooghe,1943-01-01,,male,,,,,,5,False
+Q105090302,Henk van Putten,1936-01-01,,male,500058012,,,Q29999,Kingdom of the Netherlands,5,True
+Q89962122,Herbert Fink,,,male,,,,,,5,False
+Q63038130,Jill Mathis,1964-01-01,,female,,,,Q30,United States of America,5,False
+Q1679017,Johann Jakob Frey the Elder,1681-02-17,1752-01-11,male,500056707,Q7102,Hochdorf,Q39,Switzerland,5,False
+Q180727,John Cage,1912-09-05,1992-08-12,male,500092036,Q5582919,Good Samaritan Hospital,Q30,United States of America,5,False
+Q105090336,Manzano Acisclo,1940-01-01,,,,,,,,5,True
+Q105090639,Nick Butcher,1980-01-01,,male,,Q1268670,Dyersburg,Q30,United States of America,5,True
+Q5593,Pablo Picasso,1881-10-25,1973-04-08,male,500009666,Q8851,Málaga,Q29,Spain,5,False
+Q492111,Patrick Caulfield,1936-01-29,2005-09-29,male,500015976,Q84,London,Q145,United Kingdom,5,False
+Q105090366,Pere Puiggros,1942-01-01,,male,,,,Q29,Spain,5,True
+Q368645,Richard Long,1945-06-02,,male,500013903,Q23154,Bristol,Q145,United Kingdom,5,False
+Q105090241,Rolph Blakstad,1929-01-01,,male,,Q24639,Vancouver,Q16,Canada,5,True
+Q3469342,Sakai Hōitsu,1761-01-01,1828-01-04,male,500121066,Q3270459,Ogawamachi,Q17,Japan,5,False
+Q7634046,Sue Coe,1951-11-28,,female,500005739,Q704864,Tamworth,Q145,United Kingdom,5,False
+Q75972276,Thomas Bury,1776-10-24,,male,,,,,,5,False
+Q30743874,Timothy W. Clark,,,male,,,,,,5,False
+Q3087294,Toyohara Chikanobu,1838-01-01,1912-01-01,male,500335317,Q215646,Edo,Q17,Japan,5,False
+Q306759,Abbott Handerson Thayer,1849-08-12,1921-05-29,male,500016002,Q100,Boston,Q30,United States of America,4,False
+Q66990937,Andrzej Klimowski,1949-01-01,,male,500001700,Q84,London,Q145,United Kingdom,4,False
+Q4759891,André Fauteux,1946-03-15,,male,500104147,Q5315628,Dunnville,Q16,Canada,4,False
+Q105090457,Ann Kalmbach,1950-01-01,,female,,Q49218,Rochester,Q30,United States of America,4,True
+Q153920,Aristide Maillol,1861-12-08,1944-09-27,male,500001596,Q6753,Banyuls-sur-Mer,Q142,France,4,False
+Q56537701,Ben-Zion,,,,,,,,,4,False
+Q125409,Charles Jacque,1813-05-23,1894-05-07,male,500184537,Q90,Paris,Q142,France,4,False
+Q101232628,David Walsh,,,,,,,,,4,False
+Q156736,Eduardo Chillida,1924-01-10,2002-08-19,male,500013253,Q10313,Donostia-San Sebastián,Q33,Finland,4,False
+Q57915535,Elaine Cohen,,,female,,,,,,4,False
+Q21486072,Emilio Rodríguez-Larrain,1928-02-02,2015-01-01,male,500117546,Q2868,Lima,Q172579,Kingdom of Italy,4,False
+Q946578,Francis Seymour Haden,1818-09-16,1910-06-01,male,500021004,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,4,False
+Q5494910,Fred Cozzens,1846-10-11,1928-08-29,male,500021334,Q60,New York City,Q30,United States of America,4,False
+Q371280,George Romney,1734-12-26,1802-11-15,male,500115779,Q1158089,Dalton-in-Furness,Q145,United Kingdom,4,False
+Q105091223,HK Holbein,,,,,,,,,4,False
+Q165367,Hendrik Goltzius,1558-02-01,1617-01-01,male,500023327,Q2769211,Bracht,Q170072,Dutch Republic,4,False
+Q567547,Ian Hamilton Finlay,1925-10-28,2006-03-27,male,500023934,Q2467,Nassau,Q174193,United Kingdom of Great Britain and Ireland,4,False
+Q16995114,Isabel Bishop,,,,,,,,,4,False
+Q460124,Jacques Callot,1592-01-01,1635-03-25,male,500021688,Q40898,Nancy,Q155019,Duchy of Lorraine,4,False
+Q605799,Jacques Stella,1596-01-01,1657-04-29,male,500116814,Q456,Lyon,Q70972,Kingdom of France,4,False
+Q21993978,Jean Baptiste Hilaire,1751-07-16,1828-08-06,male,500028666,Q21917,Audun-le-Tiche,Q142,France,4,False
+Q105090551,Jeff Matz,1963-01-01,,male,500072728,Q49233,Orlando,Q30,United States of America,4,True
+Q3503915,John Crome,1768-12-22,1821-04-14,male,500115474,Q130191,Norwich,Q145,United Kingdom,4,False
+Q26924921,Joop Birker,1935-01-10,1993-08-04,male,,Q9871,Tilburg,Q29999,Kingdom of the Netherlands,4,False
+Q1358636,Katsukawa Shunshō,1726-01-01,1792-01-19,male,500118856,Q215646,Edo,Q17,Japan,4,False
+Q11553926,Kawamura Bunpō,1779-01-01,1821-01-01,male,,Q17,Japan,Q17,Japan,4,False
+Q6826451,Meyer Wolfe,1897-01-01,1985-01-01,male,,,,Q30,United States of America,4,False
+Q105090632,Mike McIntyre,1978-01-01,,male,,Q38022,St. Louis,Q30,United States of America,4,True
+Q22086169,Morris Davidson,1898-12-16,1979-01-01,male,500484365,Q49218,Rochester,Q30,United States of America,4,False
+Q99484208,Philippe Benoist,1957-01-01,,,,,,,,4,False
+Q2360939,Richard Earlom,1743-05-14,1822-10-09,male,500018023,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,4,False
+Q98765231,Richard Smith,1931-01-01,,male,,,,Q145,United Kingdom,4,False
+Q19845232,Rinaldo Paluzzi,1927-05-27,2013-03-27,male,500063266,Q734974,Greensburg,Q30,United States of America,4,False
+Q16297945,Roser Bru,1923-02-15,2021-05-26,female,500055921,Q1492,Barcelona,Q298,Chile,4,False
+Q11599030,Takehara Shunsensai,,,male,,,,Q17,Japan,4,False
+Q29219293,Tatana Kellner,1950-01-01,,female,,,,,,4,False
+Q52154484,Toyota Hokkei,1780-01-01,1850-01-01,,500327126,,,Q17,Japan,4,False
+Q1967967,Ugo da Carpi,1480-01-01,1523-07-20,male,500013568,Q100041,Carpi,Q38,Italy,4,False
+Q105090293,Victor Huggins,1936-01-01,2007-01-01,male,,Q49229,Durham,Q30,United States of America,4,True
+Q1961244,Willem Isaacsz Swanenburg,1580-01-29,1612-05-31,male,500005645,Q43631,Leiden,Q55,Netherlands,4,False
+Q326215,Abraham Bosse,1604-01-01,1676-02-14,male,500031187,Q288,Tours,Q142,France,3,False
+Q365388,Adolph Gottlieb,1903-03-14,1974-03-04,male,500004904,Q60,New York City,Q30,United States of America,3,False
+Q1297898,Aegidius Sadeler,1570-01-01,1629-01-01,male,500016165,Q12892,Antwerp,Q1031430,Habsburg Netherlands,3,False
+Q19594595,Albert Rosenthal,1863-01-01,1939-01-01,male,500021856,Q1345,Philadelphia,Q30,United States of America,3,False
+Q58470913,Alfredo Trento,,,male,,,,,,3,False
+Q105090676,Anita Gibson,,,female,,Q211795,Lima region,Q419,Peru,3,True
+Q944948,Antonio Maria Zanetti,1680-02-20,1757-12-31,male,500014948,Q641,Venice,Q4948,Republic of Venice,3,False
+Q3620165,Antonio Saura,,,,,,,,,3,False
+Q559929,Bernard Picart,1673-06-11,1733-05-08,male,500001805,Q90,Paris,Q142,France,3,False
+Q17194393,Beth Van Hoesen,1926-01-01,2010-11-16,female,500063546,Q35775,Boise,Q30,United States of America,3,False
+Q16091614,Ce Roser,1930-01-01,,female,,,,Q30,United States of America,3,False
+Q5077591,Charles Falls,1860-01-01,1936-09-20,male,,,,Q174193,United Kingdom of Great Britain and Ireland,3,False
+Q105090339,Cis Lenerts,1940-01-01,,,,,,,,3,True
+Q610532,David Burliuk,1882-07-21,1967-01-15,male,500026962,Q12152027,Semyrotivschyna,Q34266,Russian Empire,3,False
+Q105090305,Don Cameron,1936-01-01,,male,,,,,,3,True
+Q105090086,Earl A. Warner,1883-01-01,1918-01-01,male,,,,Q30,United States of America,3,True
+Q3048405,Eduardo Úrculo,1938-09-21,2003-03-31,male,,Q917886,Santurtzi,Q29,Spain,3,False
+Q449119,Emil Schumacher,1912-08-29,1999-10-04,male,500005420,Q2871,Hagen,Q183,Germany,3,False
+Q3056456,Erica Lennard,1950-01-01,,female,500223405,Q60,New York City,Q30,United States of America,3,False
+Q17146408,Ethelbert White,1891-02-26,1972-03-05,male,500014299,,,Q145,United Kingdom,3,False
+Q107194,George Grosz,1893-07-26,1959-07-06,male,500014558,Q64,Berlin,Q183,Germany,3,False
+Q105090189,Gerald Holly,1917-01-01,2004-01-01,male,,Q2355638,Lewisburg,Q30,United States of America,3,True
+Q105090277,Giorgio Pagliari,1933-01-01,2015-01-01,male,,Q220,Rome,,,3,True
+Q5593120,Graham Ovenden,1943-02-11,,male,500020791,Q1227651,New Alresford,Q145,United Kingdom,3,False
+Q77324910,Hiroshi Murata,1941-01-01,,male,,Q188712,Empire of Japan,Q17,Japan,3,False
+Q43132001,Immo Jalass,1938-01-01,,male,,,,Q183,Germany,3,False
+Q85895802,J Gross,,,,,,,,,3,False
+Q76135524,J. Ryan,,,male,,,,,,3,False
+Q24256439,Jakob Nussbaum,1873-01-08,1936-01-01,male,500407418,Q315361,Rhina,Q183,Germany,3,False
+Q105090376,James Joseph Juszczk,1943-01-01,,male,,Q1297,Chicago,Q30,United States of America,3,True
+Q56099,James Lavadour,1951-07-18,,male,500127002,Q944507,Pendleton,Q30,United States of America,3,False
+Q537266,James Montgomery Flagg,1877-06-18,1960-05-27,male,500003051,Q3452762,Pelham Manor,Q30,United States of America,3,False
+Q29047374,Jane Logemann,1942-01-01,,female,,Q37836,Milwaukee,Q30,United States of America,3,False
+Q60743508,Joe Downing,1903-06-26,1975-10-16,male,,,,Q30,United States of America,3,False
+Q75571020,John Goodyear,,,male,,,,,,3,False
+Q143750,John Rogers,1829-10-03,1904-07-26,male,500004980,Q54140,Salem,Q30,United States of America,3,False
+Q3192796,Kanō Yasunobu,1614-01-10,1685-10-01,male,500121026,Q34600,Kyoto,Q17,Japan,3,False
+Q63037298,Katinka Mann,1925-01-01,,female,,,,Q30,United States of America,3,False
+Q16739226,Katja Meirowsky,1920-01-01,2012-09-07,female,,Q572559,Spremberg,Q183,Germany,3,False
+Q931065,Kenneth Snelson,1927-06-29,2016-12-22,male,500007005,Q944507,Pendleton,Q30,United States of America,3,False
+Q3074364,Kitao Shigemasa,1739-01-01,1820-01-01,male,500074052,Q1490,Tokyo,Q17,Japan,3,False
+Q11545119,Kuniyasu,1794-01-01,1832-01-01,male,500334453,Q17,Japan,Q17,Japan,3,False
+Q28784581,Leo Rabkin,1919-01-01,2015-01-01,male,500014503,,,Q30,United States of America,3,False
+Q8342047,Louis Justin Laurent Icart,1888-12-09,1950-12-20,male,,Q7880,Toulouse,Q142,France,3,False
+Q6697422,Lucio Pozzi,1935-11-29,,male,500023646,Q490,Milan,Q30,United States of America,3,False
+Q93284,Marc Chagall,1887-07-07,1985-03-28,male,500115354,Q1025872,Liozna,Q34266,Russian Empire,3,False
+Q3302254,Max Papart,1911-12-19,1994-08-29,male,500007383,Q23482,Marseille,Q142,France,3,False
+Q16186318,Michael Kessler,1954-10-23,,male,500092061,,,Q30,United States of America,3,False
+Q105090333,Miquel Vilà,1940-01-01,,male,,Q1492,Barcelona,Q29,Spain,3,True
+Q711737,Nicolaes Pieterszoon Berchem,1622-01-01,1683-02-18,male,500010297,Q9920,Haarlem,Q55,Netherlands,3,False
+Q5624550,Pierre Drevet,1663-07-20,1738-08-09,male,500003983,Q1470408,Loire-sur-Rhône,Q142,France,3,False
+Q39931,Pierre-Auguste Renoir,1841-02-25,1919-12-03,male,500115467,Q45656,Limoges,Q142,France,3,False
+Q13426817,Rafael Armengol,1940-01-01,,male,500039377,Q8818,Valencia,Q29,Spain,3,False
+Q19569785,Raphael Sadeler the Elder,1560-01-01,1632-01-01,male,500026660,Q12892,Antwerp,Q31,Belgium,3,False
+Q3435664,Robert Lapoujade,1921-01-03,1993-05-17,male,500089858,Q172593,Montauban,Q142,France,3,False
+Q105090229,Robert W. Loberg,1927-01-01,1999-01-01,male,,Q1297,Chicago,Q30,United States of America,3,True
+Q982677,Roland Penrose,1900-10-14,1984-04-23,male,500004543,Q84,London,Q145,United Kingdom,3,False
+Q151679,Roy Lichtenstein,1923-10-27,1997-09-29,male,500013596,Q60,New York City,Q30,United States of America,3,False
+Q22237655,Roy Villevoye,1960-02-27,,male,,Q1309,Maastricht,Q29999,Kingdom of the Netherlands,3,False
+Q105090222,Rudolf Mauke,1924-01-01,,male,500094814,,,Q183,Germany,3,True
+Q659858,Seymour Lipton,1903-11-06,1986-12-15,male,500028802,Q60,New York City,Q30,United States of America,3,False
+Q361174,Sharaku,1770-01-01,1825-01-01,male,,,,Q17,Japan,3,False
+Q28861822,Stephanie Pogue,1944-01-01,2002-01-01,female,500122229,Q2029222,Shelby,,,3,False
+Q86449502,Susan DeMay,,,female,,,,,,3,False
+Q1805696,Sébastien Leclerc,1637-09-26,1714-10-25,male,500021137,Q22690,Metz,Q142,France,3,False
+Q105091278,The Little Friends of Printmaking,,,,,,,,,3,False
+Q75530019,Thomas Rowlandson,,,male,,,,,,3,False
+Q3074993,Utagawa Toyokuni II,1777-01-01,1835-01-01,male,500373160,,,Q17,Japan,3,False
+Q55219270,Vincent Longo,1923-01-01,,male,500082194,,,Q30,United States of America,3,False
+Q47513362,Will Barnet,,,,,,,,,3,False
+Q105090252,William Loy,1930-01-01,2008-01-01,male,,,,Q30,United States of America,3,True
+Q18552351,Willy Weber,1895-07-18,1959-06-24,male,,Q2910,Ludwigshafen,Q183,Germany,3,False
+Q11467416,Yamaguchi Soken,1759-01-01,1818-01-01,male,,Q34600,Kyoto,Q17,Japan,3,False
+Q75641239,A. Adams,,,male,,,,,,2,False
+Q105206589,Aaron Wilson,1972-01-01,,male,,Q1915576,Xenia,,,2,False
+Q4684075,Adolf Dehn,1895-11-22,1968-05-19,male,500009264,Q2227075,Waterville,Q30,United States of America,2,False
+Q105090323,Adolf Schlosser,1939-01-01,2004-01-01,male,,,,,,2,True
+Q4684426,Adolphe Jean-Baptiste Bayot,1810-01-01,1866-01-01,male,500083284,,,Q142,France,2,False
+Q2607849,Albert Ràfols-Casamada,1923-02-02,2009-12-17,male,500198261,Q1492,Barcelona,Q29,Spain,2,False
+Q157194,Alberto Giacometti,1901-10-10,1966-01-11,male,500118871,Q13100491,Borgonovo,Q142,France,2,False
+Q5580,Albrecht Dürer,1471-05-30,1528-04-16,male,500115493,Q2090,Nuremberg,Q47261,Duchy of Bavaria,2,False
+Q4727179,Alison Saar,1956-02-05,,female,500122244,Q65,Los Angeles,Q790,Haiti,2,False
+Q539036,Allaert van Everdingen,1621-06-18,1675-01-01,male,500115159,Q972,Alkmaar,Q55,Netherlands,2,False
+Q105090419,Alvin Garret,1946-01-01,,male,,,,,,2,True
+Q312529,André Masson,1896-01-04,1987-10-28,male,500030295,Q1098975,Balagny-sur-Thérain,Q142,France,2,False
+Q4794962,Arnold Blanch,1896-06-04,1968-01-01,male,500087778,Q2229417,Mantorville,Q30,United States of America,2,False
+Q105090076,Arthur Anselm Orr,1868-10-21,1949-11-09,male,500108104,Q84,London,Q145,United Kingdom,2,True
+Q19259705,Arwed D. Gorella,1937-03-25,2002-02-03,male,500069098,Q387396,Świdnica,Q183,Germany,2,False
+Q105090225,Augustin Ubeda,1925-01-01,,male,500175783,,,Q29,Spain,2,True
+Q2871122,Augustus Charles Pugin,1769-01-01,1832-12-19,male,500020563,Q15878,Normandy,Q142,France,2,False
+Q562540,Augustus John,1878-01-04,1961-10-31,male,500018892,Q558878,Tenby,Q145,United Kingdom,2,False
+Q105090174,Avery Handly,1913-01-01,1958-01-01,male,,,,Q30,United States of America,2,True
+Q4859173,Barbara Morgan,1900-07-08,1992-08-17,female,500023840,Q2548074,Buffalo,Q30,United States of America,2,False
+Q16971287,Bill Boysen,1936-01-23,2020-04-28,male,,,,Q30,United States of America,2,False
+Q5046268,Carrie Mae Weems,1953-04-20,,female,500329422,Q6106,Portland,Q30,United States of America,2,False
+Q23020275,Charles Edward Chambers,1883-08-09,1941-11-05,male,500026963,Q853566,Ottumwa,Q30,United States of America,2,False
+Q16866524,Charles Keene,,,male,,,,Q30,United States of America,2,False
+Q737635,Childe Hassam,1859-10-17,1935-08-27,male,500018088,Q1024037,Dorchester,Q30,United States of America,2,False
+Q2495654,Chris Drury,1948-01-01,,male,500128680,Q35381,Colombo,,,2,False
+Q1082620,Christiane Baumgartner,1967-01-01,,female,500386167,Q2079,Leipzig,Q183,Germany,2,False
+Q1274026,Claude Mellan,1598-05-23,1688-03-09,male,500026391,Q28520,Abbeville,Q142,France,2,False
+Q8353580,Daniel Argimon i Granell,1929-06-20,1996-11-23,male,500036437,Q1492,Barcelona,Q29,Spain,2,False
+Q23038869,Debbie Ann Thomas,,,female,,,,,,2,False
+Q61719403,Debora Dancy,1949-01-01,,female,500488753,Q79973,Bessemer,,,2,False
+Q105090465,Dimitrije Popovic,1951-01-01,,male,,,,Q403,Serbia,2,True
+Q234324,Dorothea Tanning,1910-08-25,2012-01-31,female,500000210,Q782574,Galesburg,Q30,United States of America,2,False
+Q64547233,Edward Steichen,,,,,,,,,2,False
+Q20750459,Emil Ganso,1895-04-14,1941-04-18,male,500017088,Q7072,Halberstadt,Q30,United States of America,2,False
+Q664257,Emilio Vedova,1919-08-09,2006-10-25,male,500016293,Q641,Venice,Q172579,Kingdom of Italy,2,False
+Q1343964,Enrique Chagoya,1953-01-01,,male,500299814,Q1489,Mexico City,Q96,Mexico,2,False
+Q105090283,Eric Rutherford,1933-01-01,,male,500003217,,,Q145,United Kingdom,2,True
+Q5398958,Esphyr Slobodkina,1908-09-22,2002-07-21,female,500070371,Q906,Chelyabinsk,Q159,Russia,2,False
+Q11697288,Eugeniusz Get-Stankiewicz,1942-05-14,2011-04-10,male,500467965,Q722836,Ashmyany,Q36,Poland,2,False
+Q714341,Eugène Isabey,1803-07-22,1886-04-25,male,500007382,Q90,Paris,Q142,France,2,False
+Q105090393,Faik Husein,1944-01-01,2004-01-01,male,,Q38811,Nasiriya,Q30,United States of America,2,True
+Q5440979,Federico Castellón,1914-09-14,1971-07-29,male,500009576,Q1444015,Alhabia,Q30,United States of America,2,False
+Q157183,Fernand Léger,1881-02-04,1955-08-17,male,500027374,Q207622,Argentan,Q142,France,2,False
+Q17516050,Francisco de Goya,,,,,,,,,2,False
+Q5488644,Frank Newbould,1887-09-24,1951-01-01,male,500159282,Q22905,Bradford,Q145,United Kingdom,2,False
+Q3511507,Frans Wildenhain,1905-06-05,1980-01-25,male,500059428,Q2079,Leipzig,Q183,Germany,2,False
+Q104300537,Fransje Killaars,1959-01-01,,male,500348728,,,Q29999,Kingdom of the Netherlands,2,False
+Q105090079,Fred Westphal,1871-01-01,,male,500082407,Q183,Germany,Q183,Germany,2,True
+Q160252,"Frederic Leighton, 1st Baron Leighton",1830-12-03,1896-01-25,male,500030022,Q743521,Scarborough,Q174193,United Kingdom of Great Britain and Ireland,2,False
+Q633574,Félix Bracquemond,1833-05-22,1914-10-27,male,500023048,Q90,Paris,Q142,France,2,False
+Q23310132,Gabriele Evertz,1945-01-01,,female,500333803,Q64,Berlin,Q30,United States of America,2,False
+Q698624,Georg Pencz,1500-01-01,1550-10-11,male,500006353,Q2090,Nuremberg,Q183,Germany,2,False
+Q105090067,George Etta Brinkley Cohen,1854-01-01,1930-01-01,female,,Q23197,Nashville,Q30,United States of America,2,True
+Q153793,Georges Braque,1882-05-13,1963-08-31,male,500025200,Q181946,Argenteuil,Q142,France,2,False
+Q5552550,Gerrit Beneker,1882-01-26,1934-10-23,male,500027967,,,Q30,United States of America,2,False
+Q105090111,Gian Carlo Polidori,1895-11-25,1962-04-16,male,500180479,Q2759,Urbino,Q38,Italy,2,True
+Q105090668,Giuseppe Raffetto,,,male,,Q1449,Genoa,Q38,Italy,2,True
+Q20199349,"Grien, Hans Baldung",,,,,,,,,2,False
+Q67390260,H. Takahashi,,,,,,,,,2,False
+Q5662727,Harold Weston,1894-02-14,1972-04-10,male,500006170,,,Q30,United States of America,2,False
+Q46481608,Hedwig Friedländer Edle von Malheim,1863-02-13,1945-12-09,female,500093630,Q1741,Vienna,Q533534,Cisleithania,2,False
+Q94668625,Helen Gilbert,,,female,,,,,,2,False
+Q2748223,Henri Goetz,1909-09-29,1989-08-12,male,500010355,Q60,New York City,Q142,France,2,False
+Q5719056,Henry C. Pearson,1914-10-08,2006-12-03,male,500074491,Q2048581,Kinston,Q30,United States of America,2,False
+Q27595506,Henry Patrick Raleigh,1880-01-01,1945-06-08,male,500044639,Q6106,Portland,Q30,United States of America,2,False
+Q18508293,Henry Pyall,1795-01-01,1833-01-01,male,500015642,,,Q174193,United Kingdom of Great Britain and Ireland,2,False
+Q1471865,Ibram Lassaw,1913-05-04,2003-12-30,male,500001384,Q87,Alexandria,Q79,Egypt,2,False
+Q11376888,Imao Keinen,1845-09-13,1924-01-01,male,,Q34600,Kyoto,,,2,False
+Q3950852,Irving Ramsey Wiles,1861-04-08,1948-07-29,male,500030155,Q2495519,Utica,Q30,United States of America,2,False
+Q55709573,Isabelle Rousseau,,,female,,,,,,2,False
+Q6096157,Ivan Dmitri,1900-02-03,1968-01-01,male,500124253,,,Q30,United States of America,2,False
+Q17343011,Jacob de Gheyn III,1596-01-01,1641-06-04,male,500023332,Q9920,Haarlem,Q55,Netherlands,2,False
+Q3158256,Jacques Bernard,1658-09-01,1718-04-27,male,,,,Q142,France,2,False
+Q766867,Jacques-Philippe Caresme,1734-02-25,1796-03-01,male,500115928,Q90,Paris,Q142,France,2,False
+Q48804653,James H. Price,1943-01-01,,male,,,,,,2,False
+Q203643,James McNeill Whistler,1834-07-11,1904-07-17,male,500012432,Q49162,Lowell,Q145,United Kingdom,2,False
+Q6142912,James Seawright,1936-01-01,,male,500106325,,,Q30,United States of America,2,False
+Q981631,Jan Both,1618-01-01,1652-08-09,male,500032845,Q803,Utrecht,Q55,Netherlands,2,False
+Q6149861,Jan Sawka,1946-12-10,2012-08-09,male,500056281,Q103892,Zabrze,Q36,Poland,2,False
+Q105090234,Jean Cohen,1927-01-01,2013-01-01,female,,Q18419,Brooklyn,Q30,United States of America,2,True
+Q170076,Jean Dubuffet,1901-07-31,1985-05-12,male,500019113,Q42810,Le Havre,Q142,France,2,False
+Q575664,Jean Morin,1590-01-01,1650-06-06,male,500012334,Q90,Paris,Q142,France,2,False
+Q95226775,Johann Hertel,,1588-12-13,male,,Q14859,Ansbach,,,2,False
+Q6231284,John Edward Costigan,1888-02-29,1972-01-01,male,500025727,Q18383,Providence,Q30,United States of America,2,False
+Q100816989,John Jackson,,,male,,,,,,2,False
+Q3290532,John Steuart Curry,1897-11-14,1946-08-29,male,500115503,Q4889632,Dunavant,Q30,United States of America,2,False
+Q358061,Josep Guinovart,1927-03-20,2007-12-12,male,500089251,Q1492,Barcelona,Q29,Spain,2,False
+Q23892587,Joseph Fiore,1925-01-01,2008-09-18,male,,,,Q30,United States of America,2,False
+Q105090244,Joseph Schwarz,1929-01-01,,male,500087117,,,Q30,United States of America,2,True
+Q105090488,José Luis Raymond,1954-01-01,,male,,,,,,2,True
+Q105090409,Judith Page,1946-01-01,,female,,Q49241,Lexington,Q30,United States of America,2,True
+Q50321227,Julius Wasserstein,1924-01-01,1985-01-01,male,500045321,Q18383,Providence,Q30,United States of America,2,False
+Q11514864,Kanenari Akatsuki,1793-01-01,1861-01-29,male,,,,Q205662,Tokugawa Shogunate,2,False
+Q6390816,Kenneth Wayne Bushnell,1933-01-01,2020-10-04,male,500059939,,,Q30,United States of America,2,False
+Q447300,Kiki Smith,1954-01-18,,female,500115982,Q2090,Nuremberg,Q30,United States of America,2,False
+Q947896,Kikukawa Eizan,1787-01-01,1867-01-01,male,500121367,,,Q17,Japan,2,False
+Q97607711,Kyle E. Walker,,,male,,,,,,2,False
+Q47512777,Le Corbusier,,,,,,,,,2,False
+Q18023286,Les Levine,1935-10-06,,male,500110692,Q1761,Dublin,Q30,United States of America,2,False
+Q295593,Lionel Barrymore,1878-04-28,1954-11-15,male,,Q1345,Philadelphia,Q30,United States of America,2,False
+Q2073966,Louis Raemaekers,1869-04-06,1956-07-26,male,500110122,Q9783,Roermond,Q29999,Kingdom of the Netherlands,2,False
+Q16019224,Louis Silverstein,1919-10-10,2011-12-01,male,,Q18419,Brooklyn,Q30,United States of America,2,False
+Q105090679,Louise De Gignilliet Rogers,,,female,,Q219656,Macon,Q30,United States of America,2,True
+Q105090220,Louise LeQuire,1924-01-01,2006-01-01,female,,Q23197,Nashville,Q30,United States of America,2,True
+Q7531,Louise Nevelson,1899-09-23,1988-04-17,female,500001621,Q1899,Kyiv,Q34266,Russian Empire,2,False
+Q22958009,Lucile Patterson Marsh,1890-01-01,1978-01-01,female,,Q213325,Rapid City,,,2,False
+Q16197627,Ludolph Büsinck,1599-01-01,1669-01-15,male,500022384,Q165380,Hann. Münden,Q183,Germany,2,False
+Q3271802,Léopold Flameng,1831-11-22,1911-09-04,male,500015671,Q239,City of Brussels,Q31,Belgium,2,False
+Q65953414,Mac Wells,1925-01-01,,male,,,,Q30,United States of America,2,False
+Q105090363,Manuel Boix Alvarez,1942-01-01,,male,,,,Q29,Spain,2,True
+Q724401,Mark Kostabi,1960-11-27,,male,500031393,Q65,Los Angeles,Q30,United States of America,2,False
+Q56480543,Markus Ackermann,1977-01-01,,male,,,,,,2,False
+Q6776001,Martin Lewis,1881-06-14,1962-02-22,male,500028815,Q260317,Castlemaine,Q408,Australia,2,False
+Q173223,Mary Cassatt,1844-05-22,1926-06-14,female,500012368,Q1752800,Allegheny,Q30,United States of America,2,False
+Q22002909,Mary Obering,1937-01-01,,female,500330468,Q80517,Shreveport,Q30,United States of America,2,False
+Q105090256,Matthew Carone,1930-01-01,,male,,Q1408,New Jersey,Q30,United States of America,2,True
+Q104439468,Maxime Darnaud,1931-02-23,2015-01-01,male,,Q456,Lyon,Q142,France,2,False
+Q2059329,Maxime Lalanne,1827-11-27,1886-07-29,male,500022662,Q1479,Bordeaux,Q142,France,2,False
+Q63037456,Nancy Manter,1951-01-01,,female,,,,Q30,United States of America,2,False
+Q62958479,Naomi Boretz,1935-01-01,,female,,,,Q30,United States of America,2,False
+Q19629062,Nicolas de Launay,1739-09-20,1792-03-02,male,500024572,Q90,Paris,Q70972,Kingdom of France,2,False
+Q3109429,Nishikawa Sukenobu,1671-01-01,1751-01-01,male,500118860,Q34600,Kyoto,Q17,Japan,2,False
+Q11541091,Nobukazu Yōsai,1872-01-01,1944-01-01,male,500336558,,,Q17,Japan,2,False
+Q555200,Oswaldo Guayacolin,1919-07-06,1999-03-10,male,500037784,Q2900,Quito,Q739,Colombia,2,False
+Q79461952,Paul Heald,,,male,,,,Q30,United States of America,2,False
+Q99604489,Peter Stroud,,,male,,,,,,2,False
+Q1379395,Philip Galle,1537-01-01,1612-03-12,male,500016136,Q9920,Haarlem,Q622783,Spanish Netherlands,2,False
+Q1970087,Philip James de Loutherbourg,1740-10-31,1812-03-11,male,500019411,Q6602,Strasbourg,Q174193,United Kingdom of Great Britain and Ireland,2,False
+Q105090150,Phillipe Sanh,1908-01-01,,,,Q43467,Indochina,,,2,True
+Q322341,Pierre-Jean Mariette,1694-05-07,1774-09-11,male,500013510,Q90,Paris,Q142,France,2,False
+Q724760,Pieter de Jode I,1570-01-01,1634-08-09,male,500015194,Q12892,Antwerp,Q6581823,Southern Netherlands,2,False
+Q44433952,Power Boothe,1945-03-12,,male,500062805,,,Q30,United States of America,2,False
+Q55946479,Rafael Amengual,1938-01-01,,male,,,,,,2,False
+Q153320,Rai San'yo,1780-01-21,1832-01-01,male,500324574,,,Q17,Japan,2,False
+Q654902,Raoul Ubac,1910-08-31,1985-03-24,male,500023591,Q159838,Malmedy,Q142,France,2,False
+Q63090034,Raquel Rabinovich,1929-01-01,,female,,,,Q414,Argentina,2,False
+Q5598,Rembrandt,1606-07-15,1669-10-04,male,500011051,Q33456378,Leiden,Q170072,Dutch Republic,2,False
+Q558505,Richard Anuszkiewicz,1930-05-23,2020-05-19,male,500025580,Q234061,Erie,Q30,United States of America,2,False
+Q19654778,Richard Samuel Chattock,1825-08-23,1906-01-30,male,,,,Q145,United Kingdom,2,False
+Q312786,Robert Mapplethorpe,1946-11-04,1989-03-18,male,500090430,Q991627,Floral Park,Q30,United States of America,2,False
+Q164358,Robert Rauschenberg,1925-10-22,2008-05-12,male,500002941,Q45400,Port Arthur,Q183,Germany,2,False
+Q114405,Rockwell Kent,1882-06-21,1971-03-13,male,500006820,Q1020341,Tarrytown,Q30,United States of America,2,False
+Q105090132,Rolf Key-Oberg,1900-01-01,1959-01-01,male,,,,Q30,United States of America,2,True
+Q278068,Romeyn de Hooghe,1645-09-10,1708-06-10,male,500015656,Q727,Amsterdam,Q170072,Dutch Republic,2,False
+Q11946185,Romà Vallès,1923-01-01,2015-06-15,male,500056913,Q1492,Barcelona,Q29,Spain,2,False
+Q100742953,Ron Adams,,,male,,,,,,2,False
+Q21454750,Ronald King,1932-01-01,,male,500118053,,,Q145,United Kingdom,2,False
+Q105090430,Rosalyn Richards,1947-01-01,,female,,,,,,2,True
+Q690790,Rufino Tamayo,1899-08-26,1991-06-24,male,500024331,Q739,Colombia,Q96,Mexico,2,False
+Q77325168,Ruth Eckstein,1916-01-01,2011-01-01,female,,,,Q30,United States of America,2,False
+Q384860,Serge Poliakoff,1900-01-08,1969-10-12,male,500180478,Q649,Moscow,Q34266,Russian Empire,2,False
+Q1251247,Shikō Munakata,1903-09-05,1975-01-01,male,500105681,Q146790,Aomori,Q17,Japan,2,False
+Q262413,Shirin Neshat,1957-03-26,,female,500114658,Q181578,Qazvin,Q794,Iran,2,False
+Q3482366,Shiro Kasamatsu,1898-01-11,1991-06-14,male,500332085,Q7473516,Tokyo,Q17,Japan,2,False
+Q16007123,Sidney H. Riesenberg,1885-12-12,1971-01-01,male,500068101,Q1297,Chicago,Q30,United States of America,2,False
+Q61911552,Stephen Tourlentes,1959-01-01,,male,,,,,,2,False
+Q7610832,Stephen Westfall,1953-01-01,,male,500085864,Q331380,Schenectady,Q30,United States of America,2,False
+Q94404007,Sterling Boyd Strauser,1907-01-01,1995-01-01,male,500055773,,,,,2,False
+Q7615294,Steven Spurrier,1878-07-13,1961-03-11,male,500003252,Q84,London,Q145,United Kingdom,2,False
+Q143595,Stradanus,1523-01-01,1605-11-03,male,500011304,Q12994,Bruges,Q6581823,Southern Netherlands,2,False
+Q11599029,Takehara Shunchōsai,t2222611369,1801-01-14,male,,,,Q17,Japan,2,False
+Q105090552,Teo Gonzáles,1964-01-01,,male,500471949,Q1752280,Quinto,Q29,Spain,2,True
+Q2405602,Terry Haass,1923-11-17,2016-03-01,female,500031546,Q278877,Český Těšín,Q213,Czech Republic,2,False
+Q105090342,Terry Max Hochstetler,1941-01-01,2019-01-01,male,,Q492478,Terre Haute,Q30,United States of America,2,True
+Q100960618,Terry Winters,,,male,,,,,,2,False
+Q28048030,Thomas Cheesman,,,,,,,,,2,False
+Q52155555,Thomas G. Moses,1856-01-01,1934-01-01,male,500336336,,,Q30,United States of America,2,False
+Q18508689,Thomas Sutherland,1785-01-01,1838-01-01,male,500032953,,,Q174193,United Kingdom of Great Britain and Ireland,2,False
+Q105090572,Tim Dooley,1967-01-01,,male,,Q8652,Miami,Q30,United States of America,2,True
+Q7807116,Timothy Cole,1852-04-16,1931-05-17,male,500022162,Q84,London,Q30,United States of America,2,False
+Q7827716,Toshiko Takaezu,1922-06-17,2011-03-09,female,500126272,Q2356964,Pepeekeo,Q30,United States of America,2,False
+Q105090605,Travis Millard,1975-01-01,,male,,Q745120,St. Joseph,Q30,United States of America,2,True
+Q3541630,Tsuchiya Kōitsu,1870-09-23,1949-11-13,male,,Q3034530,Sunpu Domain,Q17,Japan,2,False
+Q15992554,Vittorio Grassi,1878-04-17,1958-08-22,male,500155207,Q220,Rome,Q172579,Kingdom of Italy,2,False
+Q22086935,Ward Jackson,1928-01-01,2004-02-03,male,500381390,,,Q30,United States of America,2,False
+Q448555,Wenceslaus Hollar,1607-07-13,1677-03-25,male,500028368,Q1085,Prague,,,2,False
+Q18811399,William Gibbs Rogers,1792-01-01,1875-01-01,male,500281874,,,Q174193,United Kingdom of Great Britain and Ireland,2,False
+Q1616131,William Home Lizars,1788-05-04,1859-03-30,male,500030357,Q23436,Edinburgh,Q161885,Great Britain,2,False
+Q18508744,William Unger,1837-09-11,1932-03-05,male,500047449,Q1715,Hanover,Q183,Germany,2,False
+Q8021437,Willie Cole,1955-01-01,,male,500334448,Q25395,Newark,Q30,United States of America,2,False
+Q8056314,Yoshitoshi Mori,1898-10-31,1992-05-29,male,500322857,Q1490,Tokyo,Q17,Japan,2,False
+Q105090345,Yukio Katsuda,1941-01-01,,male,,,,,,2,True
+Q220545,Zoran Mušič,1909-02-12,2005-04-25,male,500000140,Q2355438,Bukovica,Q172579,Kingdom of Italy,2,False
+Q264193,Émile Bernard,1868-04-28,1941-04-16,male,500012925,Q648,Lille,Q142,France,2,False
+Q18670007,Aberdeen painter,,,t900834599,500011950,,,Q844930,Classical Athens,1,False
+Q76335886,Abraham Bloemaert,,,,,,,,,1,False
+Q56617289,Abraham Le Blond,1819-02-11,1894-01-01,male,500063026,Q1787230,Wymondham,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q345569,Ad Reinhardt,1913-12-24,1967-08-30,male,500013982,Q40435,Buffalo,Q30,United States of America,1,False
+Q20973068,Adolphe Paul Émile Balfourier,1816-08-11,1876-07-22,male,500183562,Q316891,Montmorency,Q142,France,1,False
+Q365874,Adolphe Willette,1857-07-30,1926-02-04,male,500015711,Q47135,Châlons-en-Champagne,Q142,France,1,False
+Q948338,Adrien Étienne Gaudez,1845-02-09,1902-01-23,male,500061178,Q456,Lyon,Q142,France,1,False
+Q316269,Agostino Carracci,1557-08-26,1602-02-23,male,500115349,Q1891,Bologna,Q170174,Papal States,1,False
+Q2827531,Ahmed Cherkaoui,1934-10-02,1967-08-17,male,500057033,Q895029,Boujad,Q1028,Morocco,1,False
+Q17130120,Akira Kurosaki,1937-01-10,2019-05-14,male,500093690,Q74881,Dalian,Q17,Japan,1,False
+Q43264278,Albany E. Howarth,1872-01-01,1936-01-01,male,500002605,,,,,1,False
+Q34670,Albert Camus,1913-11-07,1960-01-04,male,,Q1924629,Dréan,Q142,France,1,False
+Q556534,Albert Herter,1871-03-02,1950-02-15,male,500024105,Q60,New York City,Q30,United States of America,1,False
+Q65565560,Albrecht Altdorfer,,,,,,,,,1,False
+Q56025387,Alcide-Joseph Lorentz,1813-02-25,1889-07-10,male,500022471,Q90,Paris,Q142,France,1,False
+Q61963892,Alejandra Garrido,,,female,,,,Q414,Argentina,1,False
+Q21542105,Alessandro Turchi,1969-01-01,,male,,,,Q38,Italy,1,False
+Q96788382,Aleta Cornelius,,,,,,,,,1,False
+Q21682728,Alex Redein,1912-01-01,1990-01-01,male,500054166,Q49174,Bridgeport,Q30,United States of America,1,False
+Q157578,Alexander Archipenko,1887-05-30,1964-02-24,male,500022523,Q1899,Kyiv,Q34266,Russian Empire,1,False
+Q151580,Alexander Calder,1898-07-22,1976-11-11,male,500007824,Q1186496,Lawnton,Q30,United States of America,1,False
+Q372225,Alexander Melamid,1945-07-14,,male,500120585,Q649,Moscow,Q159,Russia,1,False
+Q105090652,Alexandra Janezic,1988-01-01,,male,,Q982388,Orange,Q30,United States of America,1,True
+Q4721520,Alexis Rockman,1962-01-01,,male,500056823,Q60,New York City,Q30,United States of America,1,False
+Q105090274,Alfonso Gomez Bonifacio,1933-01-01,2011-01-01,male,,,,,,1,True
+Q105090271,Alfred J. Pounders,1931-01-01,,male,,,,Q30,United States of America,1,True
+Q3611295,Alfred L. Copley,1910-06-06,1992-01-28,male,500019879,Q1731,Dresden,Q30,United States of America,1,False
+Q664268,Alfred Manessier,1911-12-05,1993-08-01,male,500010362,Q758937,Saint-Ouen,Q142,France,1,False
+Q105090096,Alfred Orr,1886-01-01,,male,,,,Q30,United States of America,1,True
+Q460186,Alice Neel,1900-01-28,1984-10-13,female,500022216,Q5566378,Gladwyne,Q30,United States of America,1,False
+Q4738749,Alyson Shotz,1964-01-01,,female,,,,Q30,United States of America,1,False
+Q16165783,America Sanchez,1939-05-29,,male,500391861,Q1486,Buenos Aires,Q414,Argentina,1,False
+Q470846,Amico Aspertini,1475-01-01,1552-01-01,male,500022951,Q1891,Bologna,Q64576860,Lordship of Bologna,1,False
+Q105090135,Amos Seweil,1901-01-01,1983-01-01,male,,Q586762,Westport,Q30,United States of America,1,True
+Q65524523,Anders Zorn,,,,,,,,,1,False
+Q105090025,Andrea Andriani,1584-01-01,1610-01-01,,,,,,,1,True
+Q390098,Andrea di Bartolo,1360-01-01,1428-01-01,male,500024770,Q2751,Siena,,,1,False
+Q503335,Andres Serrano,1950-08-15,,male,500059149,Q60,New York City,Q30,United States of America,1,False
+Q97608201,Andrew Karoly,1895-01-01,,male,,,,,,1,False
+Q18069312,Andrew Picken,1815-01-01,1845-01-01,male,500021753,,,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q516950,André Beaudin,1895-02-03,1979-06-06,male,500024624,Q1165781,Mennecy,Q142,France,1,False
+Q156272,André Derain,1880-06-10,1954-09-10,male,500004535,Q240752,Chatou,Q142,France,1,False
+Q321657,André Lanskoy,1902-04-13,1976-08-24,male,500030813,Q649,Moscow,Q159,Russia,1,False
+Q123098,Angelica Kauffmann,1741-10-30,1807-11-03,female,500115055,Q69007,Chur,Q672685,Three Leagues,1,False
+Q105086214,Angélique Tilliard,1743-01-01,1782-01-01,female,,,,,,1,False
+Q4765608,Anita Parkhurst Willcox,1892-01-01,1984-01-01,female,,Q1297,Chicago,Q30,United States of America,1,False
+Q41261783,Ankie Crommelin,1911-10-20,2006-01-13,female,,,,Q29999,Kingdom of the Netherlands,1,False
+Q105090122,Ann Mittelman,1898-01-01,1996-01-01,female,,,,,,1,True
+Q2734012,Anne Claude de Caylus,1692-10-31,1765-09-05,male,500014478,Q90,Paris,Q142,France,1,False
+Q105090649,Annie Herlocker,1982-01-01,,female,,Q6346,Indianapolis,Q30,United States of America,1,True
+Q63540053,Ansei Uchima,1921-01-01,2000-05-09,male,500051067,,,Q30,United States of America,1,False
+Q314350,Antoine Bourdelle,1861-10-30,1929-10-01,male,500028923,Q172593,Montauban,Q142,France,1,False
+Q27942021,Antoine Radigues,1721-11-07,1809-07-20,male,,Q90,Paris,Q142,France,1,False
+Q18123317,Antoine-Jean Duclos,1742-01-01,1795-10-30,male,500040734,Q90,Paris,Q142,France,1,False
+Q80013984,Antoine-Louis Barye,,,,,,,,,1,False
+Q105090027,Anton Wierix III,1596-01-01,1624-01-01,male,,,,,,1,True
+Q10803129,Antoni Abad i Roses,1956-01-01,,male,500385143,Q15090,Lleida,Q29,Spain,1,False
+Q537652,Antoni Clavé,1913-04-05,2005-09-01,male,500124348,Q1492,Barcelona,Q29,Spain,1,False
+Q2406301,Antoni Muntadas,1942-01-01,,male,500027740,Q1492,Barcelona,Q30,United States of America,1,False
+Q194820,Antonie Waterloo,1609-01-01,1690-01-01,male,500004986,Q648,Lille,Q55,Netherlands,1,False
+Q5547,Antonio Canova,1757-11-01,1822-10-13,male,500115339,Q29369,Possagno,Q4948,Republic of Venice,1,False
+Q3610506,Antonio Frasconi,1919-04-28,2013-01-08,male,500030189,Q1486,Buenos Aires,Q30,United States of America,1,False
+Q5700294,Antonio Salamanca,1478-04-13,1562-07-21,male,500025118,Q15695,Salamanca,,,1,False
+Q3620374,Antonio da Trento,1508-01-01,1550-01-01,male,500020814,Q3376,Trento,,,1,False
+Q4782029,April Gornik,1953-01-01,,female,500118770,Q37320,Cleveland,Q30,United States of America,1,False
+Q96401814,Armand Étienne Bracony,1825-01-01,1894-01-01,male,,Q90,Paris,Q142,France,1,False
+Q18511480,Arnold van Westerhout,1651-01-01,1725-01-01,male,500120165,Q12892,Antwerp,Q1031430,Habsburg Netherlands,1,False
+Q710479,Arthur Luiz Piza,1928-01-13,2017-05-26,male,500335008,Q174,São Paulo,Q155,Brazil,1,False
+Q29364862,Arthur William Heintzelman,1891-11-22,1965-04-04,male,500057101,Q25395,Newark,Q30,United States of America,1,False
+Q4802573,Ary Stillman,1891-02-13,1967-01-01,male,500095124,Q159,Russia,Q30,United States of America,1,False
+Q30132143,Asa Cheffetz,1896-01-01,1965-01-01,male,500099606,Q40435,Buffalo,Q30,United States of America,1,False
+Q105090061,August M. Young,1837-07-08,1913-11-06,male,,Q183,Germany,,,1,True
+Q763477,August Puig,1929-04-01,1999-10-25,male,500348310,Q1492,Barcelona,Q29,Spain,1,False
+Q2871039,Auguste André Lançon,1836-12-16,1885-04-13,male,500023482,Q212444,Saint-Claude,Q142,France,1,False
+Q30755,Auguste Rodin,1840-11-13,1917-11-17,male,500016619,Q90,Paris,Q142,France,1,False
+Q781120,Augustin Feyen-Perrin,1826-04-12,1888-10-14,male,500025647,Q229977,Bey-sur-Seille,Q142,France,1,False
+Q43132705,Augustus Koopman,1869-01-02,1914-01-31,male,500020211,Q16565,Charlotte,Q30,United States of America,1,False
+Q2591295,Avigdor Arikha,1929-04-28,2010-04-29,male,500103107,Q431347,Rădăuți,Q801,Israel,1,False
+Q105090044,Baisetsudo,1751-01-01,1764-01-01,,,,,,,1,True
+Q262284,Barbara Kruger,1945-01-26,,female,500118792,Q2096453,Wark,Q30,United States of America,1,False
+Q61030012,Barbara Kwasniewska,1931-09-11,,female,,,,Q36,Poland,1,False
+Q105090416,Barry Buxkamper,1946-01-01,,male,,,,Q30,United States of America,1,True
+Q4865508,Bartolomeo Coriolano,1599-01-01,1676-01-01,male,500014634,Q1891,Bologna,Q170174,Papal States,1,False
+Q27979251,Beatrice Riese,1917-01-01,2004-01-01,female,500097869,Q36600,The Hague,Q30,United States of America,1,False
+Q3638203,Benigno Bossi,1727-01-01,1792-11-04,male,500020376,Q39489,Arcisate,,,1,False
+Q4888453,Benjamin Curtis Porter,1843-08-27,1908-04-02,male,500013156,Q54143,Melrose,Q30,United States of America,1,False
+Q817668,Benjamin Haydon,1786-01-26,1846-06-22,male,500021184,Q43382,Plymouth,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q817749,Benjamin Wilson,1721-06-21,1788-06-06,male,500001626,Q39121,Leeds,Q161885,Great Britain,1,False
+Q822388,Bernard Dufour,1922-11-21,2016-07-22,male,500020665,Q90,Paris,Q142,France,1,False
+Q2898210,Bernard Leach,1887-01-05,1979-05-06,male,500018779,Q1054923,British Hong Kong,Q145,United Kingdom,1,False
+Q825382,Bernhard Jäger,1935-06-17,,male,,Q1726,Munich,Q183,Germany,1,False
+Q105090085,Bernice M. Branson,1882-01-01,1936-01-01,female,,,,Q30,United States of America,1,True
+Q105320,Berthe Morisot,1841-01-14,1895-03-02,female,500029669,Q132404,Bourges,Q142,France,1,False
+Q72967120,Betty Esman,1904-01-01,1996-01-01,female,,,,,,1,False
+Q105090187,Beveridge Moore,1915-01-01,2004-01-01,male,,Q43421,Richmond,Q30,United States of America,1,True
+Q437616,Bill Viola,1951-01-25,,male,500092205,Q1058775,Flushing,Q30,United States of America,1,False
+Q744747,Bonifazio Veronese,1487-01-01,1553-11-08,male,500014243,Q2028,Verona,Q4948,Republic of Venice,1,False
+Q569021,Bram van Velde,1895-10-19,1981-12-28,male,500020102,Q2180579,Zoeterwoude-Dorp,Q29999,Kingdom of the Netherlands,1,False
+Q28948928,Brenda Miller,1941-01-01,,female,500083892,Q60,New York City,,,1,False
+Q105090475,Bronlyn Jones,1954-01-01,,male,,Q2099362,Williamsburg,Q30,United States of America,1,True
+Q21461198,Bruce Burn,1954-01-01,,male,,,,,,1,False
+Q96757477,Bruce Currie,1911-01-01,2011-01-01,male,500048574,,,,,1,False
+Q4978091,Bruce Onobrakpeya,1932-08-30,,male,500118582,Q4691648,Agbara-Otor,Q1033,Nigeria,1,False
+Q47508828,Bryant Baker,,,,,,,,,1,False
+Q102289,Buckminster Fuller,1895-07-12,1983-07-01,male,500015697,Q739428,Milton,Q30,United States of America,1,False
+Q2641808,Budd Hopkins,1931-06-15,2011-08-21,male,500008902,Q838112,Wheeling,Q30,United States of America,1,False
+Q79460884,Burton Rice,,,male,,,,Q30,United States of America,1,False
+Q50546546,Byron Gordon McKeeby,1936-01-01,1984-01-01,male,500467498,Q264605,Humboldt,Q30,United States of America,1,False
+Q3076784,Bōsai Kameda,1752-10-21,1826-04-15,male,500320340,Q338861,Kanda,Q17,Japan,1,False
+Q57615161,Camilla B Hill,,,female,,,,,,1,False
+Q6958929,Carlo Antonio Tavella,1668-01-01,1738-12-02,male,500029841,Q490,Milan,Q153529,Duchy of Milan,1,False
+Q2918353,Carlo Cesio,1625-04-17,1682-01-06,male,500030069,Q223434,Antrodoco,Q38,Italy,1,False
+Q43899608,Carlo Faucci,1729-01-01,1784-01-01,male,,Q2044,Florence,,,1,False
+Q5044573,Carol Summers,1925-12-26,2016-10-27,male,500021858,Q868660,Kingston,Q30,United States of America,1,False
+Q464603,Cass Gilbert,1859-11-29,1934-05-17,male,500007284,Q146811,Zanesville,Q30,United States of America,1,False
+Q105090440,Cathie Ruggie-Saunders,1949-01-01,,female,,Q1297,Chicago,Q30,United States of America,1,True
+Q94418252,Cecily Kahn,1959-01-01,,female,,,,,,1,False
+Q105090697,Ch'en Ku,,,,,Q57719,Xuzhou,,,1,True
+Q4976935,Chaim Gross,1904-03-17,1991-05-05,male,500033064,Q52193,Kolomyia,Q30,United States of America,1,False
+Q105090370,Chaim Kanner,1943-01-01,2000-01-01,male,,Q33959,Nice,Q142,France,1,True
+Q103896852,Cham,,,,,,,,,1,False
+Q59525409,Charles Bouleau,1906-03-18,1986-02-19,male,,Q90,Paris,Q142,France,1,False
+Q105090053,Charles Clayton,,,male,500080867,,,Q145,United Kingdom,1,True
+Q82291,Charles Despiau,1874-11-04,1946-10-28,male,500115511,Q188033,Mont-de-Marsan,Q142,France,1,False
+Q52155066,Charles Edmond Renault,1829-10-23,1905-01-01,male,,,,Q142,France,1,False
+Q21556352,Charles Frederick Naegele,1857-05-08,1944-01-01,male,,Q185582,Knoxville,Q30,United States of America,1,False
+Q18508039,Charles Green Bush,1842-01-01,1909-01-01,male,500336622,Q100,Boston,Q30,United States of America,1,False
+Q5079004,Charles Herbert Woodbury,1864-07-14,1940-01-22,male,500008853,Q49188,Lynn,Q30,United States of America,1,False
+Q18516464,Charles Joseph Grips,1825-11-22,1920-11-18,male,500040933,Q9839,Grave,Q29999,Kingdom of the Netherlands,1,False
+Q271676,Charles Le Brun,1619-02-24,1690-02-12,male,500016215,Q90,Paris,Q142,France,1,False
+Q247505,Charles Méryon,1821-11-23,1868-02-13,male,500001302,Q90,Paris,Q142,France,1,False
+Q21288650,Charles Stuart Forbes,1860-01-01,1926-01-01,male,500108813,,,Q30,United States of America,1,False
+Q252357,Charles-François Daubigny,1817-02-15,1878-02-19,male,500115164,Q90,Paris,Q142,France,1,False
+Q28854657,Charles-Marie Dulac,1866-11-26,1898-12-29,male,500000748,Q90,Paris,Q142,France,1,False
+Q2958262,Charles-Nicolas Cochin the Elder,1688-04-29,1754-07-05,male,500008603,Q90,Paris,Q142,France,1,False
+Q20487023,Cheryl Goldsleger,1951-12-16,,female,500097443,Q1345,Philadelphia,Q30,United States of America,1,False
+Q2963561,Chikutō Nakabayashi,1776-01-01,1853-01-01,male,,Q11751,Nagoya,Q17,Japan,1,False
+Q105090069,Chikuyôdô,1860-01-01,1890-01-01,,,,,,,1,True
+Q105090099,Childe de Rohan d'Harcourt,1886-01-01,,male,,,,,,1,True
+Q5102670,Chizuko Yoshida,1924-01-01,2017-04-01,female,,,,,,1,False
+Q42745780,Christo,,,,,,,,,1,False
+Q1976706,Christoffel Jegher,1596-01-01,1652-01-01,male,500004848,Q12892,Antwerp,Q6581823,Southern Netherlands,1,False
+Q536197,Chryssa,1933-12-31,2013-01-01,female,500022002,Q1524,Athens,Q41,Greece,1,False
+Q453883,Chuck Close,1940-07-05,2021-08-19,male,500031023,Q1055861,Monroe,Q30,United States of America,1,False
+Q2972135,Chōkōsai Eishō,,,male,500335350,,,Q17,Japan,1,False
+Q105090280,Claire Bush,1933-01-01,,female,,Q16898647,Pocono Lake,Q30,United States of America,1,True
+Q18347825,Clarissa Sligh,1939-01-01,,female,500341147,Q61,"Washington, D.C.",Q30,United States of America,1,False
+Q559969,Claude Gillot,1673-04-27,1722-05-04,male,500115197,Q203293,Langres,Q142,France,1,False
+Q1100270,Clement Meadmore,1929-02-09,2005-04-19,male,500105583,Q3141,Melbourne,Q408,Australia,1,False
+Q32947646,Clement Rollins Grant,1849-01-01,1893-01-01,male,500027311,Q1453617,Freeport,Q30,United States of America,1,False
+Q105090326,Clover Vail,1939-03-29,,male,500330786,Q807,Lausanne,Q30,United States of America,1,True
+Q21288694,Conrad Atkinson,1940-06-15,,male,500020961,,,Q145,United Kingdom,1,False
+Q51909432,Conrad J Burden,,,male,,,,,,1,False
+Q105207251,Cornelia Wieg,1955-01-01,,female,,Q2467,Nassau,,,1,False
+Q1133546,Cornelis Dusart,1660-04-24,1704-04-01,male,500002441,Q9920,Haarlem,Q55,Netherlands,1,False
+Q22018621,Cornelius Hankins,1863-07-12,1946-05-12,male,,Q490852,Itawamba County,,,1,False
+Q55228971,Cornelius Tiebout,1777-01-01,1832-01-01,male,,Q60,New York City,,,1,False
+Q18596481,Crescenzio Onofri,1634-05-23,1698-01-01,male,500025313,Q220,Rome,Q170174,Papal States,1,False
+Q94940731,Cushman Parker,1881-01-01,1940-01-01,male,,Q100,Boston,,,1,False
+Q22226795,Cécile Delphine Gaudez,1851-12-21,,female,,,,Q142,France,1,False
+Q105090577,Dan Grzeca,1968-01-01,,male,,Q1297,Chicago,Q30,United States of America,1,True
+Q61940111,Dan Smith,1865-01-01,1934-12-10,male,500062583,Q950978,Ivittuut,Q30,United States of America,1,False
+Q105090507,Daniel G. Hill,1956-01-01,,male,,Q60,New York City,Q30,United States of America,1,True
+Q11916574,Daniel Giralt-Miracle i Rodríguez,1944-09-03,,male,,Q1492,Barcelona,Q29,Spain,1,False
+Q105090391,Daniel Gualdoni,1943-01-01,,male,,,,Q30,United States of America,1,True
+Q334351,Daoguang Emperor,1782-09-16,1850-02-25,male,,Q80290,Forbidden City,Q8733,Qing dynasty,1,False
+Q11774380,Dave McCabe,1980-01-01,,male,,Q1830491,Whiston,Q145,United Kingdom,1,False
+Q315647,David Alfaro Siqueiros,1896-12-29,1974-01-06,male,500008908,Q1489,Mexico City,Q96,Mexico,1,False
+Q30019620,David Deuchar,1743-01-01,1808-01-01,male,500005478,Q420303,Montrose,Q22,Scotland,1,False
+Q47513332,David Driskell,,,,,,,,,1,False
+Q159907,David Hockney,1937-07-09,,male,500017273,Q22905,Bradford,Q145,United Kingdom,1,False
+Q3695975,David Johnson,1827-05-10,1908-01-30,male,500005613,Q60,New York City,Q30,United States of America,1,False
+Q99590174,David Leach,,,male,,,,,,1,False
+Q141478,David Levine,1926-12-20,2009-12-29,male,500032114,Q18419,Brooklyn,Q30,United States of America,1,False
+Q43136021,David Row,1949-01-01,,male,,Q49201,Portland,Q30,United States of America,1,False
+Q2637678,David Salle,1952-09-28,,male,500027321,Q40347,Norman,Q30,United States of America,1,False
+Q105090388,David Shapiro,1943-01-01,,male,,,,Q30,United States of America,1,True
+Q726169,David Smith,1906-03-09,1965-05-23,male,500015402,Q2348734,Decatur,Q30,United States of America,1,False
+Q105090385,David Smyth,1943-01-01,,male,500021111,,,Q30,United States of America,1,True
+Q364498,David d'Angers,1788-03-12,1856-01-06,male,500115506,Q38380,Angers,Q142,France,1,False
+Q105090437,Dawson Nesbitt,1948-01-01,,,,,,,,1,True
+Q105090207,De La Rue,1922-01-01,,,,Q90,Paris,Q142,France,1,True
+Q12278090,Dean Wolstenholme the elder,1757-01-01,1837-01-01,male,500015939,,,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q21757749,Denny Winters,1907-03-17,1985-01-01,female,,Q184587,Grand Rapids,Q30,United States of America,1,False
+Q105090360,Diana R. Hansen,1942-01-01,,female,,,,,,1,True
+Q105090591,Diana Sudyka,1972-01-01,,female,,,,Q30,United States of America,1,True
+Q3027925,Dikran Daderian,1929-10-29,,male,500041410,Q3820,Beirut,Q822,Lebanon,1,False
+Q105090204,Dimitri Perdikitis,1922-01-01,,male,,Q1524,Athens,Q41,Greece,1,True
+Q63929089,Dineh Moghdam,1946-01-05,,,,,,Q30,United States of America,1,False
+Q66686055,Don Kunkel,,,male,,,,,,1,False
+Q5293660,Don Voisine,1952-01-01,,male,,,,Q30,United States of America,1,False
+Q5294237,Donald De Lue,1897-10-05,1988-08-26,male,500048047,Q100,Boston,Q30,United States of America,1,False
+Q29373888,Donald Shaw MacLaughlan,1876-11-09,1938-01-01,male,500050463,Q2127,Charlottetown,Q30,United States of America,1,False
+Q98121146,Donald Wilson,,,male,,,,,,1,False
+Q105090130,Dorothy Paris,1899-01-01,1986-01-01,female,500487272,,,Q30,United States of America,1,True
+Q96024602,Douglas Gordon,,,male,,,,,,1,False
+Q706462,Duane Hanson,1925-01-17,1996-01-06,male,500007844,Q538210,Alexandria,Q30,United States of America,1,False
+Q5790356,Dudley Hardy,1867-01-15,1922-08-11,male,500014364,Q42448,Sheffield,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q28842044,Edgar Parker,1840-06-07,1892-04-09,male,500028691,Q988568,Framingham,,,1,False
+Q19668052,Edmund Marion Ashe,1867-01-01,1941-01-01,male,500094966,Q60,New York City,Q30,United States of America,1,False
+Q165397,Eduardo Paolozzi,1924-03-07,2005-04-22,male,500027981,Q1018540,Leith,Q145,United Kingdom,1,False
+Q9250846,Edward Dwurnik,1943-04-19,2018-10-28,male,500091329,Q609246,Radzymin,Q36,Poland,1,False
+Q583959,Edward Kienholz,1927-10-23,1994-06-10,male,500028686,Q485276,Spokane County,Q30,United States of America,1,False
+Q26703615,Edward Knippers,1946-01-01,,male,500347757,,,Q30,United States of America,1,False
+Q2605527,Edward Lamson Henry,1841-01-12,1919-05-09,male,500006188,Q47716,Charleston,Q30,United States of America,1,False
+Q966864,Edward Moran,1829-08-19,1901-06-09,male,500018805,Q184579,Bolton,Q30,United States of America,1,False
+Q2912571,Edward Penfield,1866-06-02,1925-02-08,male,500017237,Q18419,Brooklyn,Q30,United States of America,1,False
+Q105090442,Edward Shalala,1949-01-01,,male,,Q37320,Cleveland,Q30,United States of America,1,True
+Q1293858,Edward Theodore Compton,1849-07-29,1921-03-22,male,500000992,Q205679,London Borough of Hackney,Q183,Germany,1,False
+Q535048,Edwin Scharff,1887-03-21,1955-05-18,male,500069708,Q4120,Neu-Ulm,Q183,Germany,1,False
+Q5346807,Edwin Scheier,1910-11-11,2008-04-20,male,500126185,Q18426,The Bronx,Q30,United States of America,1,False
+Q3048809,Edwin Schlossberg,1945-07-19,,male,500242227,Q60,New York City,Q30,United States of America,1,False
+Q1325708,Eleanor Antin,1935-02-27,,female,500061710,Q60,New York City,Q30,United States of America,1,False
+Q29510471,Elena del Rivero,1949-01-01,,female,,Q8818,Valencia,Q29,Spain,1,False
+Q105090158,Elenor Ulman,1909-01-01,1997-01-01,female,,,,Q30,United States of America,1,True
+Q2575649,Elisabeth Frink,1930-11-14,1993-04-18,female,500032694,Q23111,Suffolk,Q145,United Kingdom,1,False
+Q18671113,Elisha Kirkall,1682-01-01,1742-10-01,male,500003465,Q42448,Sheffield,Q179876,Kingdom of England,1,False
+Q96749882,Elizabeth N. Erlanger,1889-01-01,1975-01-01,female,,,,,,1,False
+Q105090424,Elliot Ross,1947-01-01,,male,500129424,Q1297,Chicago,Q30,United States of America,1,True
+Q5366175,Ellsworth Young,1866-01-01,1952-01-01,male,,,,Q30,United States of America,1,False
+Q28731157,Elmer Boyd Smith,1860-05-31,1943-10-05,male,500048489,Q203403,Saint John,Q16,Canada,1,False
+Q21481715,Emil Armin,1883-01-01,1971-01-01,male,500023260,Q431347,Rădăuți,,,1,False
+Q5371205,Emil Carlsen,1853-10-19,1932-01-02,male,500005813,Q1748,Copenhagen,Q30,United States of America,1,False
+Q152788,Emil Nolde,1867-08-07,1956-04-13,male,500003109,Q10601769,Nolde,Q183,Germany,1,False
+Q936534,Eric Fischl,1948-03-09,,male,500023590,Q60,New York City,Q30,United States of America,1,False
+Q551426,Eric Gill,1882-02-22,1940-11-17,male,500025465,Q131491,Brighton,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q156700,Erich Heckel,1883-07-31,1970-01-27,male,500032971,Q71163,Döbeln,Q183,Germany,1,False
+Q105090626,Erin Salter,1978-01-01,,female,,Q23197,Nashville,Q30,United States of America,1,True
+Q18508149,Ernest David Roth,1879-01-01,1964-01-01,male,500124333,Q1022,Stuttgart,,,1,False
+Q77262864,Ernst Barlach,,,,,,,,,1,False
+Q229272,Ernst Ludwig Kirchner,1880-05-06,1938-06-15,male,500027704,Q3942,Aschaffenburg,Q1206012,German Reich,1,False
+Q5396074,Ervine Metzl,1899-05-28,1963-11-22,male,,Q1297,Chicago,Q30,United States of America,1,False
+Q23071496,Erwin Broner,1898-11-16,1971-10-15,male,500254518,Q1726,Munich,,,1,False
+Q19352738,Eugene Higgins,1874-02-01,1958-02-19,male,500020838,Q41819,Kansas City,Q30,United States of America,1,False
+Q97095687,Eugene Massin,1920-01-01,,male,,,,,,1,False
+Q33477,Eugène Delacroix,1798-04-26,1863-08-13,male,500115509,Q274327,Saint-Maurice,Q142,France,1,False
+Q51952268,Eugène Gaujean,1850-01-01,1900-01-01,male,500044559,Q90,Paris,,,1,False
+Q5423958,F. Luis Mora,1874-07-27,1940-06-05,male,500012333,Q1335,Montevideo,Q77,Uruguay,1,False
+Q5433958,Fannie Hillsmith,1911-03-11,2007-07-27,female,500069895,Q100,Boston,Q30,United States of America,1,False
+Q78164423,Fay Lansner,1921-06-21,2010-01-01,female,500078485,Q1345,Philadelphia,Q30,United States of America,1,False
+Q5441839,Feliks Topolski,1907-08-14,1989-08-24,male,500008564,Q270,Warsaw,Q145,United Kingdom,1,False
+Q52157263,Felix Ruvolo,1912-01-01,1992-01-01,male,,Q60,New York City,Q30,United States of America,1,False
+Q1403886,Felix Waske,1942-05-28,,male,,Q1741,Vienna,Q40,Austria,1,False
+Q374039,Ferdinand Bol,1616-06-24,1680-07-24,male,500013764,Q26421,Dordrecht,Q170072,Dutch Republic,1,False
+Q95287880,Ferdinand Springer,1847-01-01,,male,,,,,,1,False
+Q3069483,Fernando Lerin,1929-01-01,2016-11-18,male,,Q1492,Barcelona,Q29,Spain,1,False
+Q105090308,Ferran Teixidor,1936-01-01,,male,,,,Q29,Spain,1,True
+Q105090124,Frances Marian Hebert,1899-01-01,1960-01-01,female,,,,Q30,United States of America,1,True
+Q56682344,Francesco Aquila,,,male,,,,,,1,False
+Q447991,Francesco Fontebasso,1707-10-04,1769-05-31,male,500010956,Q641,Venice,Q4948,Republic of Venice,1,False
+Q21117631,Francis Calcraft Turner,1772-01-01,1846-01-01,male,500031966,,,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q1345302,Francis Davis Millet,1848-11-03,1912-04-15,male,500028658,Q282802,Mattapoisett,Q30,United States of America,1,False
+Q105090176,"Francis Joseph Gyra, Jr.",1914-01-01,2007-01-01,male,,,,Q30,United States of America,1,True
+Q105090184,Francisco Gutiérrez,1915-01-01,1945-01-01,male,,Q34110,Oaxaca State,,,1,True
+Q936876,Franciszek Starowieyski,1930-07-08,2009-02-23,male,500064153,Q270,Warsaw,Q36,Poland,1,False
+Q16831391,Frank Badur,1944-04-09,,male,500081618,Q14808,Oranienburg,Q183,Germany,1,False
+Q560115,Frank Brangwyn,1867-05-12,1956-06-11,male,500026093,Q12994,Bruges,Q145,United Kingdom,1,False
+Q5485626,Frank C. Penfold,1849-01-01,1921-01-01,male,500090855,Q40435,Buffalo,Q30,United States of America,1,False
+Q17466741,Frank Lobdell,1921-01-01,2013-01-01,male,500095092,,,Q30,United States of America,1,False
+Q21866302,Frank Tomlinson,1883-01-01,1974-01-01,male,,Q23064,Cheshire,Q30,United States of America,1,False
+Q20877821,Franklin C. Watkins,1894-12-30,1972-01-01,male,500025403,Q60,New York City,Q30,United States of America,1,False
+Q559297,Frans Masereel,1889-07-30,1972-01-03,male,500022087,Q328104,Blankenberge,Q31,Belgium,1,False
+Q647812,Franz Hanfstaengl,1804-03-01,1877-04-18,male,500017348,Q506523,Dietramszell,Q154195,Kingdom of Bavaria,1,False
+Q94888280,Franz Stuck,1770-01-01,1836-01-01,male,,,,,,1,False
+Q105090114,Franz Würbel,1896-01-01,,male,,,,,,1,True
+Q3083787,François Aman-Jean,1894-09-14,1986-04-02,male,500121945,Q90,Paris,Q142,France,1,False
+Q56692101,François Ragot,1638-06-22,1670-06-01,male,500093529,Q208943,Bagnolet,Q142,France,1,False
+Q81003794,Fred G. Cooper,1883-01-01,1962-01-01,male,500042463,Q852693,McMinnville,Q30,United States of America,1,False
+Q27964788,Fred Nagler,1891-02-27,1983-01-01,male,500051560,,,Q30,United States of America,1,False
+Q5496654,Freda Lingstrom,1893-07-23,1989-04-15,female,,Q743535,Chelsea,,,1,False
+Q560787,Frederic Remington,1861-10-04,1909-12-26,male,500024759,Q2936647,Canton,Q30,United States of America,1,False
+Q105090055,Friedrich August Schlegel,1828-01-01,1928-01-01,male,500091512,,,Q183,Germany,1,True
+Q20950183,Frédéric-Auguste Laguillermie,1841-03-27,1934-12-15,male,500020378,Q90,Paris,Q142,France,1,False
+Q13585004,Frédérique Émilie Auguste O'Connell,1822-03-28,1885-10-21,female,500057266,Q1711,Potsdam,Q38872,Prussia,1,False
+Q2012984,Félix Labisse,1905-03-09,1982-01-27,male,500030073,Q664772,Marchiennes,Q142,France,1,False
+Q67215243,G Schreiber,,,,,,,,,1,False
+Q970016,Gabor Peterdi,1915-09-17,2001-08-13,male,500022299,Q1233483,Pestújhely,Q28,Hungary,1,False
+Q105090494,Gabriel Warren,1955-01-01,,male,,Q49145,New Haven,Q30,United States of America,1,True
+Q5517088,Gail Gregg,,,female,,,,Q30,United States of America,1,False
+Q105090688,Genzaburo Hayashi,,,,,Q34600,Kyoto,Q17,Japan,1,True
+Q1480173,Georg Ehrlich,1897-02-22,1966-07-01,male,500021625,Q1741,Vienna,Q145,United Kingdom,1,False
+Q167132,George Bellows,1882-08-12,1925-01-08,male,500003261,Q16567,Columbus,Q30,United States of America,1,False
+Q5538976,George Elmer Browne,1871-05-06,1946-06-13,male,500000067,Q49156,Gloucester,Q30,United States of America,1,False
+Q5540204,George Hand Wright,1872-08-06,1951-03-14,male,500017128,Q518920,Fox Chase,Q30,United States of America,1,False
+Q704868,George Inness,1825-05-01,1894-08-03,male,500013380,Q7017154,"Newburgh (town), New York",Q30,United States of America,1,False
+Q52156792,George John Illian,1894-11-29,1932-01-01,male,,,,Q30,United States of America,1,False
+Q105090210,George King Stark,1923-01-01,1992-01-01,male,,Q331380,Schenectady,Q30,United States of America,1,True
+Q59507385,George Luks,,,,,,,,,1,False
+Q2405427,George Morland,1763-06-26,1804-10-29,male,500031295,Q84,London,Q161885,Great Britain,1,False
+Q64633,George Peter Alexander Healy,1813-07-15,1894-06-24,male,500022150,Q100,Boston,Q30,United States of America,1,False
+Q105090165,George Stang,1909-01-01,,male,,,,Q142,France,1,True
+Q1920946,George Sugarman,1912-05-11,1999-08-25,male,500016027,Q18426,The Bronx,Q30,United States of America,1,False
+Q2028017,Georges Michel,1763-01-12,1843-06-07,male,500021197,Q90,Paris,Q142,France,1,False
+Q105090162,Georges Sanh,1909-01-01,,male,,Q1858,Hanoi,Q142,France,1,True
+Q5546919,Georges William Thornley,1857-05-02,1935-08-31,male,500033002,Q316452,Thiais,Q142,France,1,False
+Q61507,Gerhard Marcks,1889-02-18,1981-11-13,male,500029431,Q64,Berlin,Q183,Germany,1,False
+Q164351,Gerhard Richter,1932-02-09,,male,500003003,Q1731,Dresden,Q183,Germany,1,False
+Q3104278,Gerolamo Giovenone,1490-01-01,1555-01-01,male,500010664,Q5990,Vercelli,,,1,False
+Q1880444,Gerrit Claesz Bleker,1592-01-01,1656-02-08,male,500028731,Q9920,Haarlem,Q55,Netherlands,1,False
+Q60594130,Gertrude Hamilton,,,female,,,,,,1,False
+Q2704031,Giacomo Cavedone,1577-04-24,1660-01-01,male,500010514,Q8598,Sassuolo,,,1,False
+Q17302923,Giacomo Maria Giovannini,1667-01-01,1717-05-15,male,500012611,Q1891,Bologna,,,1,False
+Q2696819,Gianni Bertini,1922-08-31,2010-07-10,male,500025812,Q13375,Pisa,Q172579,Kingdom of Italy,1,False
+Q105090674,Gigi Aramescu,1910-01-01,1994-01-01,female,,Q170996,Galați,Q30,United States of America,1,True
+Q105090504,Gilbert Hsiao,1956-01-01,,male,,Q1400,Pennsylvania,Q30,United States of America,1,True
+Q3764824,Gioacchino Fortini,1670-10-20,1736-12-12,male,500029528,Q942605,Settignano,,,1,False
+Q1452239,Giovanni Agostino da Lodi,1470-01-01,1519-01-01,male,500024062,Q6244,Lodi,,,1,False
+Q27493848,Giovanni Antonio Faldoni,1689-04-24,1770-01-01,male,500006603,Q29371,Asolo,Q4948,Republic of Venice,1,False
+Q5563765,Giovanni Battista de'Cavalieri,1525-01-01,1601-07-23,male,500022492,Q328037,Villa Lagarina,Q38,Italy,1,False
+Q27078403,Giovanni Dalessi,1964-05-09,,male,,Q9832,Eindhoven,Q29999,Kingdom of the Netherlands,1,False
+Q89506125,Giovanni Guerra,,,male,,,,,,1,False
+Q47537705,Giovanni Venturini,1991-01-01,,male,,Q4035,Osasco,Q155,Brazil,1,False
+Q215305,Giulio Romano,1499-01-01,1546-11-01,male,500115304,Q220,Rome,Q38,Italy,1,False
+Q52154483,Giuseppe Acquaroni,1780-01-01,1847-01-01,male,500353520,Q220,Rome,Q170174,Papal States,1,False
+Q872778,Giuseppe Galli da Bibbiena,1696-01-05,1757-03-12,male,500028721,Q2683,Parma,,,1,False
+Q3108086,Giuseppe Maria Mazza,1653-05-13,1741-06-08,male,500023777,Q1891,Bologna,Q170174,Papal States,1,False
+Q5565479,Giuseppe Niccolò Vicentino,1525-01-01,,male,500327629,,,Q38,Italy,1,False
+Q105090520,Gloria DeArcangelis,1957-01-01,,female,,Q1726,Munich,Q183,Germany,1,True
+Q77348303,Gloria Ortiz-Hernández,1943-01-01,,female,500471957,Q51103,Cali,Q739,Colombia,1,False
+Q21176767,Gordon Grant,1875-06-07,1962-01-01,male,500029752,Q62,San Francisco,Q30,United States of America,1,False
+Q1537756,Goswin van der Weyden,1455-01-01,1543-01-01,male,500115539,Q9005,Brussels metropolitan area,Q1031430,Habsburg Netherlands,1,False
+Q28052050,Graham Vivian Sutherland,,,,,,,,,1,False
+Q217434,Grant Wood,1891-02-13,1942-02-13,male,500031056,Q1657547,Anamosa,Q30,United States of America,1,False
+Q105090215,Gray Phillips,1923-01-01,2005-01-01,male,,Q186702,Chattanooga,Q30,United States of America,1,True
+Q1545366,Gregory Masurovsky,1929-11-26,2009-07-17,male,500017577,Q18426,The Bronx,Q30,United States of America,1,False
+Q1623328,Guglielmo della Porta,1500-01-01,1577-01-16,male,500001864,Q47510,Porlezza,,,1,False
+Q17107128,Guillermo Silva Santamaria,1921-06-07,2007-06-29,male,500477923,Q2841,Bogotá,Q739,Colombia,1,False
+Q59511477,Guntars Sietiņš,1962-01-01,,male,,Q155281,Kuldīga,Q211,Latvia,1,False
+Q6682,Gustave Doré,1832-01-06,1883-01-23,male,500013657,Q6602,Strasbourg,Q142,France,1,False
+Q94687983,H. Peter Kahn,1921-01-01,1997-01-01,male,,,,,,1,False
+Q15489989,Hale Woodruff,1900-08-26,1980-09-06,male,500097842,Q575306,Cairo,Q30,United States of America,1,False
+Q325142,Hamish Fulton,1946-07-21,,male,500008342,Q84,London,Q145,United Kingdom,1,False
+Q3109209,Hanabusa Itchō,1652-01-01,1724-01-01,male,500121207,Q35765,Osaka,Q17,Japan,1,False
+Q254663,Hannah Wilke,1940-03-07,1993-01-28,female,500021825,Q60,New York City,Q30,United States of America,1,False
+Q52911390,Hans Buchner,1856-01-01,1941-01-01,male,500432077,,,,,1,False
+Q559004,Hans Rottenhammer,1564-01-01,1625-08-17,male,500010371,Q1726,Munich,Q183,Germany,1,False
+Q65018568,Hans Sebald Beham,,,,,,,,,1,False
+Q269079,Hans Springinklee,1495-01-01,1540-01-01,male,500009118,Q2090,Nuremberg,Q183,Germany,1,False
+Q105090460,Hans Waanders,1951-01-04,2001-01-01,male,,Q10002,Enschede,Q29999,Kingdom of the Netherlands,1,True
+Q21466076,Harden Sidney Melville,1824-01-01,1894-01-01,male,500014878,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q22091105,Harmen Brethouwer,1960-12-15,,male,,Q593220,Aalten,Q29999,Kingdom of the Netherlands,1,False
+Q52151111,Harold Krisel,1920-01-01,1995-01-01,male,500128990,Q2925171,Bridgehampton,Q30,United States of America,1,False
+Q105090105,Harold Speakman,1888-01-01,1928-01-01,male,,Q5604635,Greenville,Q30,United States of America,1,True
+Q5668720,Harry Everett Townsend,1879-01-01,1941-01-01,male,500008013,,,Q30,United States of America,1,False
+Q21929739,Harry Shokler,1896-01-01,1978-01-01,male,500336291,Q43196,Cincinnati,Q30,United States of America,1,False
+Q61714992,Harvey Dunn,,,,,,,,,1,False
+Q15488059,Harvey Littleton,1922-06-14,2013-12-13,male,500078793,Q576395,Corning,Q30,United States of America,1,False
+Q5677520,Harvey Quaytman,1937-04-20,2002-04-08,male,500018665,Q62460,Far Rockaway,Q30,United States of America,1,False
+Q344166,Hasui Kawase,1883-05-18,1957-11-07,male,500333884,Q10530734,Shiba-ku,Q17,Japan,1,False
+Q105086491,Haverford Painter,-0400-01-01,,t565312869,500094857,Q41,Greece,Q844930,Classical Athens,1,False
+Q21550356,Heidi Gluck,1944-01-01,,female,500086897,,,Q30,United States of America,1,False
+Q1596187,Heiner Stachelhaus,1930-01-01,2002-01-01,male,,Q11039,Radevormwald,Q183,Germany,1,False
+Q105090247,Heiner Stackelhaus,1930-01-01,2002-01-01,male,,,,Q183,Germany,1,True
+Q62514,Heinrich Aldegrever,1502-01-01,1561-01-01,male,500002169,Q2971,Paderborn,Q183,Germany,1,False
+Q1597438,Heinrich Guttenberg,1749-04-29,1818-01-16,male,500041155,Q2596359,Wöhrd,Q183,Germany,1,False
+Q99043869,Helen Harrison,,,female,,,,,,1,False
+Q105089946,Helen Soreff,1926-01-01,1998-01-01,female,500093844,Q60,New York City,Q30,United States of America,1,True
+Q5713854,Hendrik Carré,1656-10-02,1721-07-07,male,500031584,Q727,Amsterdam,Q170072,Dutch Republic,1,False
+Q1605029,Hendrik Dirk Kruseman van Elten,1829-11-14,1904-07-12,male,500015566,Q972,Alkmaar,Q29999,Kingdom of the Netherlands,1,False
+Q926814,Hendrik Hondius I,1573-06-09,1650-10-29,male,500006788,Q615109,Duffel,Q55,Netherlands,1,False
+Q18508277,Hendrik Hulk,1842-05-12,1937-04-05,male,500004832,Q727,Amsterdam,Q29999,Kingdom of the Netherlands,1,False
+Q310715,Henri Fantin-Latour,1836-01-25,1904-08-25,male,500025754,Q1289,Grenoble,Q142,France,1,False
+Q926308,Henri Gaudier-Brzeska,1891-10-04,1915-06-05,male,500115741,Q787817,Saint-Jean-de-Braye,Q142,France,1,False
+Q5589,Henri Matisse,1869-12-31,1954-11-03,male,500017300,Q329103,Le Cateau-Cambrésis,Q142,France,1,False
+Q82445,Henri de Toulouse-Lautrec,1864-11-24,1901-09-09,male,500029114,Q132801,Albi,Q71092,Second French Empire,1,False
+Q56280260,Henry Brown,,,male,,,,Q30,United States of America,1,False
+Q5721138,Henry Farrer,1844-03-23,1903-02-24,male,500184170,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q75597332,Henry Farrer,,1633-01-01,male,,,,,,1,False
+Q122382,Henry Fuseli,1741-02-07,1825-04-16,male,500115235,Q72,Zürich,Q145,United Kingdom,1,False
+Q151097,Henry Moore,1898-07-30,1986-08-31,male,500032596,Q546485,Castleford,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q733780,Henry Salt,1780-06-14,1827-10-30,male,500025553,Q207371,Lichfield,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q5730446,Henry Wolf,1852-08-03,1916-03-18,male,500031861,Q21333,Eckwersheim,Q142,France,1,False
+Q379956,Henry de Montherlant,1895-04-20,1972-09-21,male,,Q259463,7th arrondissement of Paris,Q142,France,1,False
+Q610767,Henryk Tomaszewski,1914-06-10,2005-09-11,male,500175007,Q270,Warsaw,Q36,Poland,1,False
+Q1608029,Herbert Bayer,1926-11-05,1981-01-19,male,,,,Q183,Germany,1,False
+Q105090704,Herman Weyen,,,male,,,,,,1,True
+Q105090432,Hernan Zúñiga Albán,1948-01-01,,male,,Q210161,Ambato,Q736,Ecuador,1,True
+Q481327,Hervé Télémaque,1937-11-05,,male,500025851,Q34261,Port-au-Prince,Q790,Haiti,1,False
+Q105090031,Hinaya Ryuho,1599-01-01,1669-01-01,male,,Q17,Japan,,,1,True
+Q11620184,Hishikawa Moronobu,,,male,,,,Q17,Japan,1,False
+Q11619850,Hobun Kikuchi,1862-11-08,1918-01-01,male,,Q122723,Ōsaka Prefecture,Q17,Japan,1,False
+Q15109511,Horatio Joseph Lucas,1839-01-01,1873-01-01,male,500073087,,,,,1,False
+Q5917300,Hovsep Pushman,1877-05-09,1966-02-13,male,500031387,Q720583,Tigranocerta,Q30,United States of America,1,False
+Q3141534,Howard Chandler Christy,1873-01-10,1952-03-03,male,500010917,Q146811,Zanesville,Q30,United States of America,1,False
+Q21598753,Howard Thomas,1899-01-01,1971-01-01,male,500093503,Q1892836,Mount Pleasant,Q30,United States of America,1,False
+Q548205,Hubert Robert,1733-05-22,1808-04-15,male,500009558,Q90,Paris,Q142,France,1,False
+Q3787466,Hugo Ballin,1879-03-07,1956-11-27,male,500011066,Q60,New York City,Q30,United States of America,1,False
+Q1488149,Ida Applebroog,1929-11-11,,female,500091955,Q18426,The Bronx,Q30,United States of America,1,False
+Q460198,Ignacio Zuloaga,1870-07-26,1945-10-31,male,500015091,Q496567,Eibar,Q29,Spain,1,False
+Q3148401,Ikeda Mitsumasa,1609-05-10,1682-06-27,male,,,,Q17,Japan,1,False
+Q467613,Ikkyū,1394-02-09,1481-12-21,male,500319872,Q34600,Kyoto,Q1154406,Ashikaga shogunate,1,False
+Q19571518,Ilonka Karasz,1896-07-13,1981-05-26,female,500267915,Q1781,Budapest,Q30,United States of America,1,False
+Q19630842,Inez Nathaniel Walker,1911-01-01,1990-01-01,female,500125733,Q513933,Sumter County,Q30,United States of America,1,False
+Q93232541,Irene Lawrence,1942-01-01,,female,,,,,,1,False
+Q3155497,Isoda Koryūsai,1735-01-01,1790-01-01,male,500057320,,,Q17,Japan,1,False
+Q358612,Israel Silvestre,1621-08-13,1691-10-11,male,500021067,Q40898,Nancy,Q142,France,1,False
+Q105090227,Iwami Reika,1927-01-01,1989-01-01,female,,Q1490,Tokyo,,,1,True
+Q49724699,J Spring,,,,,,,,,1,False
+Q6104584,J. Allen St. John,1872-10-01,1957-05-23,male,500467948,,,Q30,United States of America,1,False
+Q76042238,J. Butler,,,male,,,,,,1,False
+Q565457,J. C. Leyendecker,1874-03-23,1951-07-25,male,500014389,Q632991,Montabaur,Q30,United States of America,1,False
+Q159758,J. M. W. Turner,1775-04-23,1851-12-19,male,500026846,Q23041988,Maiden Lane,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q105090580,J. Suzanne Powney,1969-01-01,,female,,Q490720,Biloxi,Q30,United States of America,1,True
+Q6111358,Jack Boynton,1928-01-12,2010-04-05,male,500372872,Q16558,Fort Worth,Q30,United States of America,1,False
+Q55219798,Jack Sonenberg,1925-01-01,,male,,,,Q30,United States of America,1,False
+Q6115333,Jack Stauffacher,1920-12-19,2017-11-16,male,500335124,,,Q30,United States of America,1,False
+Q105090701,Jacob Vanderbilt,,,male,,,,Q30,United States of America,1,True
+Q1375551,Jacobus Houbraken,1698-01-01,1780-12-14,male,500007033,Q26421,Dordrecht,Q55,Netherlands,1,False
+Q3805978,Jacopo di Paolo,1345-01-01,1430-01-01,male,500011044,,,,,1,False
+Q105090047,Jacques Couche,1759-01-01,,male,,Q28520,Abbeville,,,1,True
+Q1366347,Jacques Courtois,1621-02-12,1676-11-14,male,500019546,Q841403,Saint-Hippolyte,Q642314,County of Burgundy,1,False
+Q53505543,Jacques Louis Pérée,1769-01-01,1832-01-01,male,500040947,Q12675,Oise,,,1,False
+Q105090038,Jacques Prou,1620-01-01,1683-01-01,male,500124831,,,Q142,France,1,True
+Q452254,Jacques Villon,1875-07-31,1963-06-09,male,500003616,Q317336,Damville,Q142,France,1,False
+Q3160350,Jacques de Tonnancour,1917-01-03,2005-01-13,male,500010395,Q340,Montreal,Q16,Canada,1,False
+Q280936,Jacques-Philippe Le Bas,1707-07-08,1783-04-14,male,500016455,Q90,Paris,Q142,France,1,False
+Q6130862,James Caldwall,1739-01-01,1822-01-01,male,500040649,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q20081176,James Charles Oldmeadow,1820-01-01,1875-01-01,male,500062993,,,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q6133916,James Fittler,1758-10-01,1835-12-02,male,500001202,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q105090138,James Kirk Merrick,1905-01-01,1985-01-01,male,,,,,,1,True
+Q94533007,James O. Clark,1948-01-01,,male,,Q1133193,Coatesville,,,1,False
+Q6140645,James Ormsbee Chapin,1887-07-09,1975-07-12,male,500020765,Q1087121,Orange,Q30,United States of America,1,False
+Q6141049,James Pattison Cockburn,1779-03-18,1847-03-18,male,500025261,Q60,New York City,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q2646288,Jan Pauwel Gillemans the Younger,1651-01-01,1704-01-01,male,500001275,Q12892,Antwerp,Q6581823,Southern Netherlands,1,False
+Q21646595,Jan Ruyscher,1625-01-01,1675-01-01,male,500029215,,,,,1,False
+Q42424649,Jan Wijga,1902-12-13,1978-12-10,male,,,,Q29999,Kingdom of the Netherlands,1,False
+Q94760542,Jan de Bisschop,,,male,,,,,,1,False
+Q6150317,Jan de Visscher,1636-01-01,1700-01-01,male,500025525,Q9920,Haarlem,Q55,Netherlands,1,False
+Q527869,Jan van Huysum,1682-04-15,1749-02-08,male,500095563,Q727,Amsterdam,Q55,Netherlands,1,False
+Q16062742,Jane Stuart,1812-01-01,1888-01-01,female,500006645,Q100,Boston,Q30,United States of America,1,False
+Q55937531,Janet Boulton,1936-01-01,,female,,,,,,1,False
+Q1451318,Jasper Francis Cropsey,1823-02-18,1900-06-22,male,500012491,Q18432,Staten Island,Q30,United States of America,1,False
+Q105090448,Jay Bolotin,1949-01-01,,male,500466991,Q491931,Fayette County,Q30,United States of America,1,True
+Q153739,Jean Arp,1888-09-16,1966-06-07,male,500031000,Q6602,Strasbourg,Q183,Germany,1,False
+Q1373528,Jean Bérain the Elder,1640-06-04,1711-01-24,male,500015026,Q194932,Saint-Mihiel,Q142,France,1,False
+Q83158,Jean Cocteau,1889-07-05,1963-10-11,male,500003025,Q463951,Maisons-Laffitte,Q142,France,1,False
+Q728088,Jean Hélion,1904-04-21,1987-10-27,male,500071676,Q1095792,Couterne,Q142,France,1,False
+Q744442,Jean Ignace Isidore Gérard Grandville,1803-09-15,1847-03-17,male,500029535,Q40898,Nancy,Q142,France,1,False
+Q3173212,Jean Leymarie,1953-01-01,,male,,,,Q142,France,1,False
+Q827495,Jean Messagier,1920-07-13,1999-09-10,male,500014631,Q197297,17th arrondissement of Paris,Q142,France,1,False
+Q30014874,Jean Moyreau,1690-01-16,1762-10-26,male,500168108,Q6548,Orléans,Q142,France,1,False
+Q105090317,Jean Wall Penland,1938-01-01,2019-01-01,female,,,,Q30,United States of America,1,True
+Q43948017,Jean-Baptiste Delafosse,1721-01-01,1806-01-01,male,500025572,Q90,Paris,Q142,France,1,False
+Q347139,Jean-Baptiste Greuze,1725-08-21,1805-03-21,male,500000119,Q501900,Tournus,Q142,France,1,False
+Q562013,Jean-Baptiste Le Prince,1734-09-17,1781-09-30,male,500026693,Q22690,Metz,Q142,France,1,False
+Q3164251,Jean-Baptiste Mallet,1759-01-01,1835-08-16,male,500016922,Q173705,Grasse,Q142,France,1,False
+Q105090064,Jean-Baptiste-Clement Bourne,1844-01-01,1866-01-01,male,,,,,,1,True
+Q719614,Jean-Louis Forain,1852-10-23,1931-07-11,male,500115211,Q41876,Reims,Q142,France,1,False
+Q354786,Jean-Louis-Ernest Meissonier,1815-02-21,1891-01-31,male,500001155,Q456,Lyon,Q142,France,1,False
+Q105090171,Jeanette Alexander Judson,1912-01-01,2002-01-01,female,,,,,,1,True
+Q19868567,Jeanne Miles,1908-11-13,1999-08-27,female,500044488,Q5092,Baltimore,Q30,United States of America,1,False
+Q105090445,Jeanne Wilkinson,1949-01-01,,female,,Q485708,Duluth,Q30,United States of America,1,True
+Q94617719,Jerrold Ballaine,1934-01-01,,male,,,,,,1,False
+Q77353684,Jerzy Czerniawski,1947-04-24,,male,,,,Q36,Poland,1,False
+Q98765930,Jim Bird,1937-01-01,,male,,,,Q145,United Kingdom,1,False
+Q1689162,Jim Melchert,1930-01-01,,male,500083332,Q282406,Bremen,Q30,United States of America,1,False
+Q1641647,Jo Davidson,1883-03-30,1952-01-02,male,500011498,Q60,New York City,Q30,United States of America,1,False
+Q1689979,Joachim Berthold,1917-10-17,1990-09-25,male,500092418,Q7070,Eisenach,Q183,Germany,1,False
+Q1092559,Joan Ponç,1927-11-28,1984-04-04,male,500009446,Q1492,Barcelona,Q29,Spain,1,False
+Q105090569,Joel Elrod,1967-01-01,,male,,Q43199,Omaha,Q30,United States of America,1,True
+Q105090607,Joel Shane,1976-01-01,,male,,Q2135,Winnipeg,Q16,Canada,1,True
+Q60533514,Joel Turner,,,male,,,,,,1,False
+Q214458,Johann Christian Reinhart,1761-01-24,1847-06-09,male,500008782,Q6938,Hof,Q154195,Kingdom of Bavaria,1,False
+Q509724,Johann Georg Wille,1715-11-05,1808-04-05,male,500019339,Q3874,Gießen,Q183,Germany,1,False
+Q22669889,Johann Lorenz Haid,1702-01-01,1750-01-01,male,500116578,,,,,1,False
+Q6216496,Johannes Adam Simon Oertel,1823-11-03,1909-12-09,male,500032127,Q3075,Fürth,Q30,United States of America,1,False
+Q105086429,Johannes Beeldemaker,1630-01-01,1710-01-01,male,500013717,Q36600,The Hague,,,1,False
+Q1697296,Johannes Bosboom,1817-02-18,1891-09-14,male,500002589,Q36600,The Hague,Q29999,Kingdom of the Netherlands,1,False
+Q1699461,John Burnet,1784-03-20,1868-04-29,male,500031008,Q37718,Musselburgh,Q145,United Kingdom,1,False
+Q468760,John Chamberlain,1927-04-16,2011-12-21,male,500118724,Q991186,Rochester,Q30,United States of America,1,False
+Q94065651,John Christie,,,,,,,,,1,False
+Q6234155,John Frederick Tayler,1802-04-30,1889-06-20,male,500021236,Q19931,Elstree,Q145,United Kingdom,1,False
+Q313787,John Gould,1804-09-14,1881-02-03,male,500006638,Q82490,Lyme Regis,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q105090297,John Gwinn,1936-01-01,,male,,Q1400,Pennsylvania,Q30,United States of America,1,True
+Q17314304,John Hoyland,,,,,,,,,1,False
+Q6243041,John Keyse Sherwin,1751-01-01,1790-09-24,male,500021802,,,Q21,England,1,False
+Q20887178,John Langley Howard,1902-01-01,1999-11-15,male,,Q3458395,Upper Montclair,Q30,United States of America,1,False
+Q2481088,John Opie,1761-05-16,1807-04-09,male,500011687,Q7838941,Trevellas,Q161885,Great Britain,1,False
+Q105090405,John P. Stewart,1945-01-01,,male,,,,,,1,True
+Q105090467,John Phillips,1953-01-01,,male,,Q1297,Chicago,Q30,United States of America,1,True
+Q4363211,John Piper,1903-12-13,1992-06-28,male,500001054,Q993164,Epsom,Q145,United Kingdom,1,False
+Q17626379,John Postle Heseltine,1843-01-06,1929-03-02,male,500032394,,,Q145,United Kingdom,1,False
+Q61468000,John R. Albers,,,male,,,,,,1,False
+Q96747782,John Scott Williams,1877-01-01,1975-01-01,male,,,,,,1,False
+Q1288248,John Sell Cotman,1782-05-16,1842-07-24,male,500014103,Q130191,Norwich,Q161885,Great Britain,1,False
+Q861756,John Sloan,1871-08-02,1951-09-08,male,500014645,Q1187817,Lock Haven,Q30,United States of America,1,False
+Q41732933,John W. Winkler,1894-01-01,1979-01-01,male,500014630,Q1741,Vienna,,,1,False
+Q324571,John Walker,1939-11-12,,male,500022965,Q2256,Birmingham,Q145,United Kingdom,1,False
+Q6265578,John de Martelly,1903-01-01,1980-01-01,male,500331451,,,Q30,United States of America,1,False
+Q52157275,Joichi Hoshi,1913-01-01,1979-01-01,male,,,,Q17,Japan,1,False
+Q26262461,Jon Carsman,1944-01-01,1987-01-01,male,500001369,,,Q30,United States of America,1,False
+Q94512539,Jon Kuhn,1949-01-01,,male,,,,,,1,False
+Q6273482,Jonathan Janson,1950-11-10,,male,500148152,,,Q30,United States of America,1,False
+Q1703783,Jorge Camacho,1934-01-05,2011-03-30,male,500079242,Q1563,Havana,Q241,Cuba,1,False
+Q326813,Jorge Castillo,1933-06-16,,male,500017765,Q12411,Pontevedra,Q717,Venezuela,1,False
+Q332041,Jose Clemente Orozco,1883-11-23,1949-09-07,male,500012316,Q1094355,Ciudad Guzmán,Q96,Mexico,1,False
+Q467712,Josep Lluís Sert,1902-07-01,1983-03-15,male,500010456,Q1492,Barcelona,Q29,Spain,1,False
+Q768731,Josep Riera i Aragó,1954-01-01,,male,,Q1492,Barcelona,Q29,Spain,1,False
+Q77010447,Joseph Beuys,,,,,,,,,1,False
+Q3184747,Joseph Charles Marin,1759-01-01,1834-09-18,male,500013262,Q90,Paris,Q142,France,1,False
+Q13489389,Joseph Goupy,1689-01-01,1769-01-01,male,500032559,Q84,London,,,1,False
+Q313113,Joseph Kosuth,1945-01-31,,male,500115645,Q49239,Toledo,Q30,United States of America,1,False
+Q6286362,Joseph Probst,1911-11-18,1997-07-08,male,500195414,Q836082,Vianden,Q32,Luxembourg,1,False
+Q11728479,Joseph Wagner,1706-01-01,1780-01-01,male,500020794,Q552419,Gestratz,Q12548,Holy Roman Empire,1,False
+Q12068855,Joshua Shaw,1776-01-01,1860-01-01,male,500030051,Q1748350,Billingborough,,,1,False
+Q99671839,José Luis Balagueró Cucurull,1930-01-01,,male,,,,,,1,False
+Q64667799,Joyce Reopel,1933-01-21,2019-01-16,female,,Q49179,Worcester,Q30,United States of America,1,False
+Q714363,Ju Ming,1938-01-01,,male,500079137,Q713026,Tongxiao,Q865,Taiwan,1,False
+Q5947128,Juan Alonso Villabrille y Ron,1663-01-01,1732-01-01,male,500036382,,,Q29,Spain,1,False
+Q1710483,Juan Genovés,1930-05-31,2020-05-15,male,500071097,Q8818,Valencia,Q29,Spain,1,False
+Q1710844,Jud Fine,1944-11-20,,male,500022723,Q65,Los Angeles,Q30,United States of America,1,False
+Q63044600,Judith Murray,1941-01-01,,female,500329947,Q60,New York City,Q30,United States of America,1,False
+Q18600486,Jules Adolphe Goupil,1839-05-08,1883-04-28,male,500029901,Q90,Paris,Q142,France,1,False
+Q347455,Jules Coignet,1798-11-02,1860-04-01,male,500015282,Q90,Paris,Q142,France,1,False
+Q959212,Jules Dupré,1811-04-05,1889-10-06,male,500029859,Q12191,Nantes,Q142,France,1,False
+Q18508439,Jules Gaildrau,1816-09-18,1898-01-01,male,500106944,,,,,1,False
+Q3188680,Jules Jacques Veyrassat,1828-04-12,1893-07-02,male,500009250,Q90,Paris,Q142,France,1,False
+Q3188753,Jules Louis Machard,1839-09-22,1900-09-27,male,500005069,Q614564,Sampans,Q142,France,1,False
+Q105090471,Julian Jackson,1953-01-01,,male,,Q43421,Richmond,Q30,United States of America,1,True
+Q316531,Julio González,1876-09-21,1942-03-27,male,500024353,Q1492,Barcelona,Q29,Spain,1,False
+Q297838,Jusepe de Ribera,1591-01-12,1652-09-03,male,500008521,Q738013,Xàtiva,Q204920,Crown of Aragon,1,False
+Q64856656,K Dujardin,,,,,,,,,1,False
+Q3192787,Kanō Naonobu,1607-01-01,1650-05-07,male,500121025,Q34600,Kyoto,Q17,Japan,1,False
+Q6369637,Karen Finley,1956-01-01,,female,500351456,Q462799,Evanston,Q30,United States of America,1,False
+Q105090499,Karen Leonard Lyles,1955-01-01,,female,,,,,,1,True
+Q1730518,Karl Bodmer,1911-11-03,1955-11-07,male,,Q320960,Ebingen,Q183,Germany,1,False
+Q62249,Karl Hofer,1878-10-11,1955-04-03,male,500015138,Q1040,Karlsruhe,Q183,Germany,1,False
+Q161143,Karl Schmidt-Rottluff,1884-12-01,1976-08-10,male,500005940,Q1069548,Rottluff,Q183,Germany,1,False
+Q105090611,Karsten Creightney,1976-01-01,,male,,Q34804,Albuquerque,Q30,United States of America,1,True
+Q105090685,Katherine J. Fries,,,female,,Q28260,Lincoln,Q30,United States of America,1,True
+Q105090588,Katherine McCanless Ruffin,1972-01-01,,female,,Q79860,Huntsville,Q30,United States of America,1,True
+Q105090643,Kathleen O'Connell,1980-01-01,,female,,Q998669,Plattsburgh,Q30,United States of America,1,True
+Q105090413,Kathleen Walkup,1946-01-01,,female,,Q6106,Portland,Q30,United States of America,1,True
+Q3194229,Katsukawa Shun'ei,1762-01-01,1819-01-01,male,500057323,Q7473516,Tokyo,Q17,Japan,1,False
+Q3075055,Katsukawa Shunkō I,1743-01-01,1812-12-01,male,500121075,Q7473516,Tokyo,Q17,Japan,1,False
+Q6379524,Kawai Kanjirō,1890-08-24,1966-11-18,male,500234059,Q851114,Yasugi,Q17,Japan,1,False
+Q2838030,Kawanabe Kyōsai,1831-05-18,1889-04-26,male,500092866,Q836836,Koga,Q17,Japan,1,False
+Q105090545,Kees Verbeek,1961-01-01,,male,,Q628616,"Son, North Brabant",Q29999,Kingdom of the Netherlands,1,True
+Q22001567,Keith Boyle,1930-02-15,,male,500082597,Q651108,Defiance,Q30,United States of America,1,False
+Q6385757,Kelli Connell,1974-01-01,,female,,Q34863,Oklahoma City,Q30,United States of America,1,False
+Q3195174,Kenneth Hayes Miller,1876-03-11,1952-01-01,male,500025218,Q1380694,Oneida,Q30,United States of America,1,False
+Q640339,Kenneth Martin,1905-04-13,1984-11-18,male,500007319,Q42448,Sheffield,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q105090585,Kerry McAleer-Keeler,1971-01-01,,female,500488507,Q18383,Providence,Q30,United States of America,1,True
+Q105090524,Kit Reuther,1957-01-01,,female,,,,Q30,United States of America,1,True
+Q272045,Kitagawa Utamaro,1753-01-01,1806-10-31,male,500054492,Q215646,Edo,Q17,Japan,1,False
+Q3197564,Kitao Masayoshi,1764-01-01,1824-04-21,male,500065756,Q215646,Edo,Q17,Japan,1,False
+Q1241113,Kiyokata Kaburaki,1878-08-31,1972-03-02,male,500123229,Q338861,Kanda,Q17,Japan,1,False
+Q6419119,Kiyoshi Saitō,1907-01-01,1997-11-14,male,500169214,Q71707,Fukushima Prefecture,Q17,Japan,1,False
+Q105090539,Koo Kyung Sook,1960-01-01,,female,,Q1192050,Uzen Province,Q884,South Korea,1,True
+Q3200184,Kubo Shunman,1757-01-01,1820-10-26,male,500121370,Q7473516,Tokyo,Q17,Japan,1,False
+Q321715,Kumi Sugai,1919-03-13,1996-05-14,male,500025060,Q48320,Kōbe,Q17,Japan,1,False
+Q64739888,L. Lotto,,,,,,,,,1,False
+Q105090146,La Rue Storm,1908-01-01,2005-01-01,female,,Q8652,Miami,Q30,United States of America,1,True
+Q664291,Larry Rivers,1923-08-17,2002-08-14,male,500003280,Q18426,The Bronx,Q30,United States of America,1,False
+Q13604451,Laurenz Janscha,1749-06-30,1812-04-01,male,500027878,Q911638,"Breznica, Stropkov District",Q131964,Austrian Empire,1,False
+Q3219659,Laurie Simmons,1949-10-03,,female,500077698,Q62460,Far Rockaway,Q30,United States of America,1,False
+Q105090291,Lawrence Anthony,1934-01-01,,male,,,,,,1,True
+Q105090090,Lawrence Harris,1885-01-01,1970-01-01,male,,,,,,1,True
+Q22001593,Lawrence Nelson Wilbur,1897-12-21,1988-01-01,male,500044804,Q2536900,Whitman,Q30,United States of America,1,False
+Q13748529,Lawrence Weiner,,,,,,,,,1,False
+Q1421536,Lawson Wood,1878-08-23,1957-10-26,male,500002744,Q123947,Highgate,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q237959,Lee Krasner,1908-10-27,1984-06-19,female,500010144,Q18419,Brooklyn,Q30,United States of America,1,False
+Q105090155,Lei Pei-Zhi,1909-01-01,1985-01-01,,,,,,,1,True
+Q105090050,Lemercier,,,male,500050139,,,Q142,France,1,True
+Q105090373,Lenore Vanderkooi,1943-01-01,,female,,Q100,Boston,Q30,United States of America,1,True
+Q1818533,Leo Delitz,1882-02-26,1966-02-01,male,500134446,Q1435,Zagreb,Q40,Austria,1,False
+Q52148493,Leon Moran,1864-10-04,1941-01-01,male,500078311,Q1345,Philadelphia,Q30,United States of America,1,False
+Q979381,Leonaert Bramer,1596-12-24,1674-02-01,male,500015658,Q690,Delft,Q55,Netherlands,1,False
+Q22712804,Leonard J. Koscianski,1952-01-01,,male,500083572,Q37320,Cleveland,Q30,United States of America,1,False
+Q464011,Leonor Fini,1908-08-30,1996-01-18,female,500002643,Q1486,Buenos Aires,Q414,Argentina,1,False
+Q3271860,Leopoldo Novoa,1919-12-17,2012-02-24,male,,Q12411,Pontevedra,Q414,Argentina,1,False
+Q6528994,Leroy Lamis,1925-09-27,2010-08-19,male,500080873,Q990626,Eddyville,Q30,United States of America,1,False
+Q100846680,Lester Johnson,,,male,,,,,,1,False
+Q105090658,Levi Sherman,1990-01-01,,male,,Q5083,Seattle,Q30,United States of America,1,True
+Q103950429,Liang Kai,,,,,,,,,1,False
+Q1374872,Liberale da Verona,1441-01-01,1529-01-01,male,500006509,Q2028,Verona,Q4948,Republic of Venice,1,False
+Q21556380,Linda Samson-Talleur,,,female,,,,,,1,False
+Q105090398,Lisa Collado,1944-01-01,,female,500387117,,,Q30,United States of America,1,True
+Q2254738,Lorenzo di Bicci,1350-01-01,1427-01-01,male,500013711,Q2044,Florence,,,1,False
+Q6681389,Lorna Simpson,1960-08-13,,female,500088695,Q18419,Brooklyn,Q30,United States of America,1,False
+Q6686753,Louis Betts,1873-10-05,1961-01-01,male,500019988,Q33405,Little Rock,Q30,United States of America,1,False
+Q6687104,Louis Eilshemius,1864-02-04,1941-12-29,male,500030951,Q25395,Newark,Q30,United States of America,1,False
+Q19569548,Louis Jacob,1696-01-01,1802-01-01,male,500049990,Q188743,Lisieux,Q142,France,1,False
+Q3262746,Louis Morin,1855-08-05,1938-06-02,male,500028284,Q90,Paris,Q142,France,1,False
+Q1284603,Louis-François Roubiliac,1695-01-01,1762-01-11,male,500017615,Q456,Lyon,Q142,France,1,False
+Q1608030,Louis-Simon Boizot,1743-10-09,1809-03-10,male,500002158,Q90,Paris,Q142,France,1,False
+Q21289417,Louis-Simon Cabaillot-Lassalle,1810-01-01,1870-01-01,male,500074633,,,Q142,France,1,False
+Q6693179,Lowell Blair Nesbitt,1933-10-04,1993-07-08,male,500023038,Q5092,Baltimore,Q30,United States of America,1,False
+Q6695060,Lubaina Himid,1954-01-01,,female,500193841,Q1774,Zanzibar,Q924,Tanzania,1,False
+Q6695843,Luca Bertelli,1550-01-01,1580-01-01,male,500027416,Q641,Venice,Q4948,Republic of Venice,1,False
+Q191748,Lucas Cranach the Elder,1472-10-13,1553-10-26,male,500115364,Q494537,Kronach,Q12548,Holy Roman Empire,1,False
+Q6699954,Luigi Bechi,1830-03-01,1919-11-19,male,500031605,Q2044,Florence,Q172579,Kingdom of Italy,1,False
+Q5984244,Luis Rey Polo,1924-08-29,2000-05-14,male,,,,Q29,Spain,1,False
+Q3841000,Lyle Ashton Harris,1965-02-06,,male,500329853,Q18426,The Bronx,Q30,United States of America,1,False
+Q23418770,Lynne Harlow,1968-01-01,,female,,,,Q30,United States of America,1,False
+Q16731731,Lynne Woods Turner,1951-01-01,,female,,,,Q30,United States of America,1,False
+Q158255,Lyonel Feininger,1871-07-17,1956-01-13,male,500115308,Q60,New York City,Q30,United States of America,1,False
+Q67237646,M Krueger,,,,,,,,,1,False
+Q37912626,M. Leone Bracker,1885-01-01,1937-01-01,male,500075828,Q37320,Cleveland,Q30,United States of America,1,False
+Q67390004,M. Watanabe,,,,,,,,,1,False
+Q98234521,Maarten Vos,,,male,,,,,,1,False
+Q18150137,Mabel Dwight,1876-01-29,1955-09-04,female,500019538,Q43196,Cincinnati,Q30,United States of America,1,False
+Q16014925,Maki Haku,1924-01-01,2000-01-01,male,500475794,,,Q17,Japan,1,False
+Q28052067,Malcolm Morley,,,,,,,,,1,False
+Q46139,Man Ray,1890-08-27,1976-11-18,male,500015030,Q1345,Philadelphia,Q30,United States of America,1,False
+Q872832,Manfred Mohr,1938-06-08,,male,500333910,Q3046,Pforzheim,Q183,Germany,1,False
+Q6752769,Manuel Neri,1930-04-12,,male,500059909,Q174427,Sanger,Q96,Mexico,1,False
+Q105090481,Mara Held,1954-01-01,,female,,Q60,New York City,Q30,United States of America,1,True
+Q690155,Marcel Gromaire,1892-07-24,1971-04-11,male,500009137,Q1099832,Noyelles-sur-Sambre,Q142,France,1,False
+Q21208132,Marco Sebastiano Giampiccoli,1737-07-18,1809-06-23,male,500141582,Q641,Venice,Q4948,Republic of Venice,1,False
+Q6759491,Margaret Harrison,1940-01-01,,female,500058095,Q216638,Wakefield,Q145,United Kingdom,1,False
+Q98755555,Margareta Stahle,1956-01-01,,female,,,,Q34,Sweden,1,False
+Q242399,Maria Helena Vieira da Silva,1908-06-13,1992-01-01,female,500124985,Q597,Lisbon,Q142,France,1,False
+Q233088,Marie Laurencin,1883-10-31,1956-06-08,female,500011424,Q163948,10th arrondissement of Paris,Q142,France,1,False
+Q86449500,Marilyn Murphy,,,female,,,,,,1,False
+Q52157108,Marion Montague Junkin,1905-01-01,1977-01-01,male,500079268,,,Q30,United States of America,1,False
+Q105090484,Mark Gibian,1954-01-01,,male,,,,,,1,True
+Q105090454,Mark Williams,1950-01-01,,male,500285848,Q1342,Pittsburgh,Q30,United States of America,1,True
+Q567421,Mark di Suvero,1933-09-18,,male,500013375,Q8686,Shanghai,Q30,United States of America,1,False
+Q105090559,Martha Chiplis,1964-01-01,,female,,Q6346,Indianapolis,Q30,United States of America,1,True
+Q79461681,Martha Keller,1948-01-01,,female,,,,Q30,United States of America,1,False
+Q20679938,Marthe Keller,1948-01-01,,female,,Q1384,New York,Q30,United States of America,1,False
+Q33123451,Martin Barooshian,1929-01-01,,male,500465916,Q54156,Chelsea,Q30,United States of America,1,False
+Q6776418,Martin Puryear,1941-05-23,,male,500009936,Q61,"Washington, D.C.",Q30,United States of America,1,False
+Q100243501,Marvin Bradley,1913-01-16,1986-01-10,male,,,,,,1,False
+Q77325049,Marvin Prentiss Brown,1943-07-02,,male,,Q60,New York City,Q30,United States of America,1,False
+Q21985030,Mary Butler,1865-01-01,1946-03-16,female,,Q1345,Philadelphia,Q30,United States of America,1,False
+Q6004250,María Magdalena Campos Pons,1959-08-22,,female,500125073,Q272471,Matanzas,Q241,Cuba,1,False
+Q11581269,Masuda Gyokujō,1881-01-01,1955-01-01,,,,,Q17,Japan,1,False
+Q105090597,Mat Daly,1974-01-01,,male,,,,,,1,True
+Q105090594,Matt Egan,1973-01-01,,male,,Q52999,Newmarket,Q16,Canada,1,True
+Q67394955,Matt Runkle,,,male,,,,,,1,False
+Q23000682,Matthias Oesterreich,1716-01-01,1778-03-19,male,500354384,Q1055,Hamburg,Q183,Germany,1,False
+Q440369,Maurice Denis,1870-11-25,1943-11-13,male,500032673,Q333559,Granville,Q142,France,1,False
+Q108301,Maurice Utrillo,1883-12-26,1955-11-05,male,500008404,Q186115,Montmartre,Q142,France,1,False
+Q241098,Maurice de Vlaminck,1876-04-04,1958-10-11,male,500008582,Q90,Paris,Q142,France,1,False
+Q3301739,Mauro Gandolfi,1764-09-18,1834-01-04,male,500008969,Q1891,Bologna,Q170174,Papal States,1,False
+Q79271415,Max Bill,,,,,,,,,1,False
+Q44252,Max Klinger,1857-02-18,1920-07-05,male,500023867,Q2079,Leipzig,Q183,Germany,1,False
+Q162105,Max Pechstein,1881-12-31,1955-06-29,male,500032015,Q3778,Zwickau,Q183,Germany,1,False
+Q6795193,Max Rosenthal,1833-11-23,1918-08-08,male,500084267,Q924132,Turek,Q34266,Russian Empire,1,False
+Q16011308,Maxwell Frederic Coplan,1912-02-13,1985-07-01,male,,,,Q30,United States of America,1,False
+Q6810674,Mel Chin,1951-01-01,,male,500128668,,,Q30,United States of America,1,False
+Q105090102,Melville Thomas Wire,1887-01-01,1966-01-01,male,500335773,,,Q30,United States of America,1,True
+Q43139749,Merrill Wagner,1935-01-01,,male,500058940,,,Q30,United States of America,1,False
+Q23927640,Michael Challenger,1939-01-01,,male,500010688,Q23298,Kent,Q145,United Kingdom,1,False
+Q105090320,Michael Garman,1938-01-01,,male,,,,,,1,True
+Q98615164,Michael Kempson,,,male,,,,,,1,False
+Q6831868,Michael Kidner,1917-09-11,2009-11-29,male,500028839,,,Q145,United Kingdom,1,False
+Q6832612,Michael Mazur,1935-11-02,2009-08-18,male,500094336,Q60,New York City,Q30,United States of America,1,False
+Q105090463,Michael Peel,1951-01-01,,male,500014926,,,Q145,United Kingdom,1,True
+Q262771,Michael Wolgemut,1434-01-01,1519-12-10,male,500031446,Q2090,Nuremberg,Q183,Germany,1,False
+Q2017872,Michel Anguier,1612-09-28,1686-07-11,male,500018160,Q211593,Eu,Q142,France,1,False
+Q6836743,Michele Felice Cornè,1752-01-01,1845-01-01,male,500125213,Q45328,Elba,Q30,United States of America,1,False
+Q185495,Michiel van Musscher,1645-01-01,1705-06-20,male,500000139,Q34370,Rotterdam,Q55,Netherlands,1,False
+Q64630219,Milton Avery,,,,,,,,,1,False
+Q3858097,Milton Resnick,1917-01-07,2004-03-12,male,500007270,Q903241,Bratslav,Q212,Ukraine,1,False
+Q590523,Minamoto no Yorimitsu,0944-01-01,1021-09-04,male,,,,Q17,Japan,1,False
+Q3113895,Ministry of Culture,,,,,,,,,1,False
+Q542496,Miriam Schapiro,1923-11-15,2015-06-20,female,500028006,Q172,Toronto,Q30,United States of America,1,False
+Q105090109,Montgomery Melbourne,1893-01-01,1970-01-01,,,,,,,1,True
+Q17219892,Mori Tetsuzan,1775-02-01,1841-06-24,male,,Q35765,Osaka,Q17,Japan,1,False
+Q99672574,Myra Kathleen Hughes,1877-01-01,1918-01-01,female,500024734,Q209126,Wexford,,,1,False
+Q20041812,Nakajima Raishō,1796-01-01,1871-01-01,male,,Q202907,Ōtsu,Q17,Japan,1,False
+Q6967681,Nassos Daphnis,1914-07-23,2010-11-23,male,500004321,Q41,Greece,Q30,United States of America,1,False
+Q38030520,Nathaniel Sparks,1880-06-18,1956-01-01,male,500083565,Q23154,Bristol,,,1,False
+Q11172645,Nicholas Harrison,1964-11-05,,male,,,,Q145,United Kingdom,1,False
+Q1984917,Nicholas Krushenick,1929-05-31,1999-02-05,male,500000295,Q18426,The Bronx,Q30,United States of America,1,False
+Q7025912,Nicholas Monro,1936-01-01,,male,500017948,Q84,London,Q145,United Kingdom,1,False
+Q2527625,Nicolaes Lauwers,1600-01-01,1652-01-01,male,500128917,Q12892,Antwerp,Q31,Belgium,1,False
+Q7029366,Nicolaes de Bruyn,1571-01-01,1656-01-01,male,500013601,Q12892,Antwerp,Q55,Netherlands,1,False
+Q82733672,Nicolas Le Sueur,1545-01-01,1594-01-01,male,,,,,,1,False
+Q18736527,Nicolas de Larmessin III,1645-01-01,1725-12-18,male,,Q90,Paris,Q142,France,1,False
+Q3296364,Nicolás García Uriburu,1937-12-24,2016-06-19,male,500273640,Q1486,Buenos Aires,Q414,Argentina,1,False
+Q16666530,Nicolò della Casa,,,male,500019377,Q1137,Lorraine,,,1,False
+Q105090218,Ninon Lacey,1923-01-01,,female,,Q759,New Hampshire,Q30,United States of America,1,True
+Q105090196,Nola Zirin,1920-01-01,,female,,Q60,New York City,Q30,United States of America,1,True
+Q534279,Ogata Kenzan,1663-01-01,1743-01-01,male,500121062,Q34600,Kyoto,Q17,Japan,1,False
+Q11438243,Oishi Matora,1792-02-01,1833-06-01,male,,,,Q205662,Tokugawa Shogunate,1,False
+Q1394396,Okada Hanko,1782-01-01,1846-01-01,male,500332405,Q35765,Osaka,Q17,Japan,1,False
+Q105090427,Okada Teru,1947-01-01,,,,,,,,1,True
+Q105090236,Olen Bryant,1927-01-01,2017-01-01,male,,Q2456192,Cookeville,Q30,United States of America,1,True
+Q105090313,Oscar Magnan,1937-01-01,,male,,Q190005,Cienfuegos,Q241,Cuba,1,True
+Q154260,Oskar Kokoschka,1886-03-01,1980-02-22,male,500024536,Q255350,Pöchlarn,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q160172,Ossip Zadkine,1890-07-14,1967-11-25,male,500007328,Q102217,Vitebsk,Q142,France,1,False
+Q18511902,Otto Henry Bacher,1856-03-31,1909-08-16,male,500027140,Q37320,Cleveland,Q30,United States of America,1,False
+Q1599655,Pablo O'Higgins,1904-03-01,1983-07-16,male,500062848,Q23337,Salt Lake City,Q96,Mexico,1,False
+Q28501555,Pantaleón Mendoza,1855-01-01,,male,,,,Q739,Colombia,1,False
+Q105090289,Patricia Jean Burg,1934-01-01,,female,500064860,,,Q16,Canada,1,True
+Q105090655,Patrick Gosnell,1989-01-01,,male,,Q23556,Atlanta,Q30,United States of America,1,True
+Q7147317,Patrick Nasmyth,1787-01-07,1831-08-17,male,500005417,Q23436,Edinburgh,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q3370428,Paul Adolphe Rajon,1843-07-02,1888-06-08,male,500019115,Q7003,Dijon,Q142,France,1,False
+Q16162086,Paul Augustin Aizpiri,1919-05-14,2016-01-22,male,500048083,Q90,Paris,Q142,France,1,False
+Q7149478,Paul Brach,1924-03-13,2007-11-16,male,500018752,Q60,New York City,Q30,United States of America,1,False
+Q153905,Paul Celan,1920-11-23,1970-04-20,male,,Q157725,Chernivtsi,Q218,Romania,1,False
+Q105090514,Paul D'Amato,1956-01-01,,male,500463231,,,Q30,United States of America,1,True
+Q105090435,Paul Eric Berger,1948-01-01,,male,,,,Q30,United States of America,1,True
+Q28050346,Paul Falconer Poole,,,,,,,,,1,False
+Q2959082,Paul Jean Clays,1819-11-27,1900-02-10,male,500006597,Q12994,Bruges,Q31,Belgium,1,False
+Q105090259,Paul Lancaster,1930-01-01,,male,,Q1509,Tennessee,Q30,United States of America,1,True
+Q7151935,Paul Landacre,1893-07-09,1963-06-03,male,500069734,Q16567,Columbus,Q30,United States of America,1,False
+Q266637,Paul Sandby,1725-01-01,1809-11-07,male,500010522,Q41262,Nottingham,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q18508577,Paul Seignac,1826-02-12,1904-01-01,male,500027520,Q1479,Bordeaux,Q142,France,1,False
+Q7153754,Paul Stahr,1883-01-01,1953-01-01,male,500467955,,,Q30,United States of America,1,False
+Q87749338,Paul Takács,1932-01-01,2000-01-01,male,,Q1781,Budapest,Q30,United States of America,1,False
+Q105090478,Paul Tosh,1954-01-01,,male,,Q241814,Kingsport,Q30,United States of America,1,True
+Q21396155,Paul Verrees,1889-01-01,1942-01-01,male,500177572,,,Q31,Belgium,1,False
+Q1280976,Paul Weber,1823-01-19,1916-10-12,male,500011997,Q2973,Darmstadt,Q20135,Grand Duchy of Hesse,1,False
+Q59620,Paulus Moreelse,1571-01-01,1638-03-19,male,500006080,Q803,Utrecht,Q55,Netherlands,1,False
+Q1854445,Paulus Pontius,1603-05-27,1658-01-16,male,500010060,Q12892,Antwerp,Q6581823,Southern Netherlands,1,False
+Q105090073,Peggy Smith,1861-01-01,,female,500055676,,,Q30,United States of America,1,True
+Q79211751,Perelle,,,,,,,,,1,False
+Q1463270,Perfect Day,,,,,,,,,1,False
+Q472646,Pericle Fazzini,1913-05-04,1987-12-04,male,500012647,Q56071,Grottammare,Q172579,Kingdom of Italy,1,False
+Q79651108,Peter Cave,1940-08-26,,male,,Q84,London,Q145,United Kingdom,1,False
+Q7173913,Peter F. Rothermel,1817-07-08,1895-08-15,male,500032416,Q646485,"Nescopeck, Pennsylvania",Q30,United States of America,1,False
+Q105207980,Peter Foolen,1955-01-01,,male,,Q9832,Eindhoven,,,1,False
+Q21995272,Peter Solow,1952-01-01,,male,500081644,,,,,1,False
+Q3376949,Peter Voulkos,1924-01-29,2002-02-16,male,500081144,Q569678,Bozeman,Q30,United States of America,1,False
+Q21516117,Philip F. May,,,male,,,,,,1,False
+Q2086752,Philip Gilbert Hamerton,1834-09-10,1894-11-04,male,500048327,Q1474774,Shaw and Crompton,Q145,United Kingdom,1,False
+Q708763,Philip Pearlstein,1924-01-01,,male,500011988,Q1342,Pittsburgh,Q30,United States of America,1,False
+Q4362456,Philippe Pigouchet,1488-01-01,1518-01-01,male,500089704,,,,,1,False
+Q105090357,Phillis Ideal,1942-01-01,,female,,Q33561,Roswell,Q30,United States of America,1,True
+Q105090555,Phurba Namgay,1964-01-01,,male,,Q4511781,Chendebji Chorten,Q917,Bhutan,1,True
+Q328248,Pierre Alechinsky,1927-10-19,,male,500027985,Q12887,Schaerbeek - Schaarbeek,Q31,Belgium,1,False
+Q43375277,Pierre Bracquemond,1870-06-26,1926-01-29,male,500030909,Q90,Paris,Q142,France,1,False
+Q2093368,Pierre Daret,1604-01-01,1678-03-29,male,500019399,Q90,Paris,Q142,France,1,False
+Q2093524,Pierre Haubensak,1935-06-19,,male,500072009,Q369093,Brünig Pass,Q39,Switzerland,1,False
+Q95761439,Pierre Langlois,,,male,,,,,,1,False
+Q216873,Pierre Puvis de Chavannes,1824-12-14,1898-10-24,male,500008870,Q456,Lyon,Q142,France,1,False
+Q21544490,Pierre Ranson,1736-01-01,1786-09-26,male,500031549,Q90,Paris,Q142,France,1,False
+Q433804,Pieter Jansz. Saenredam,1597-06-09,1665-05-31,male,500115526,Q1614461,Assendelft,Q55,Netherlands,1,False
+Q3388088,Pietro Bettelini,1763-09-06,1829-01-01,male,500066424,Q67270,Caslano,Q39,Switzerland,1,False
+Q369279,Pietro Lombardo,1435-01-01,1515-01-01,male,500016577,Q68453,Carona,Q4948,Republic of Venice,1,False
+Q7193032,Pietro Ruga,,1825-01-01,male,500054872,,,,,1,False
+Q1106798,Pietro Santi Bartoli,1635-01-01,1700-11-07,male,500019038,Q3437,Perugia,Q38,Italy,1,False
+Q544839,Pietro di Francesco degli Orioli,1458-01-01,1496-08-09,male,500031403,Q2751,Siena,,,1,False
+Q16043803,Pio Ricci,1850-01-01,1919-08-21,male,,,,,,1,False
+Q56087658,Piola family,,,,,,,,,1,False
+Q11817669,Piotr Kowalski,,,,,,,,,1,False
+Q492909,Pol Bury,1922-04-26,2005-09-28,male,500008200,Q2274320,Haine-Saint-Pierre,Q31,Belgium,1,False
+Q30581143,Pseudo Granacci,,,t2292779076,500024055,,,,,1,False
+Q105091233,Pérelle family,,,,,,,,,1,False
+Q569505,R. B. Kitaj,1932-10-29,2007-10-21,male,500007852,Q534836,Chagrin Falls,Q30,United States of America,1,False
+Q105090329,Rainer Pfnür,1939-01-01,,male,500104132,,,Q183,Germany,1,True
+Q7287448,Ralph Eleaser Whiteside Earl,1785-01-01,1838-09-16,male,500022904,,,Q30,United States of America,1,False
+Q105090213,Ralph H. Scharf,1923-01-01,1993-01-01,male,,Q1297,Chicago,Q30,United States of America,1,True
+Q105090565,Ramon Marcus Kadi,1967-01-01,,male,,Q11462,Surabaya,Q252,Indonesia,1,True
+Q105090510,Randall Lavender,1956-01-01,,male,,,,Q30,United States of America,1,True
+Q2131415,Raphael Soyer,1899-12-25,1987-11-04,male,500009897,Q132698,Borisoglebsk,Q30,United States of America,1,False
+Q97104727,Ray Prohaska,1901-01-01,1981-01-01,male,500054113,,,,,1,False
+Q105090665,Ray Wakeland,,1964-01-01,male,,Q646230,Monteagle,Q30,United States of America,1,True
+Q5978282,Raúl Martínez,1927-11-01,1995-04-02,male,500020055,Q115465,Ciego de Ávila,Q241,Cuba,1,False
+Q3422714,Red Grooms,1937-06-07,,male,500008450,Q23197,Nashville,Q30,United States of America,1,False
+Q7308806,Reginald Marsh,1898-03-14,1954-07-03,male,500016727,Q90,Paris,Q30,United States of America,1,False
+Q64341,Renée Sintenis,1888-03-20,1965-04-22,female,500076525,Q284604,Kłodzko,Q183,Germany,1,False
+Q20679431,Reynold Weidenaar,1915-11-17,1985-01-01,male,500051994,,,,,1,False
+Q7322848,Ricardo Viera,1945-01-01,,male,,,,Q241,Cuba,1,False
+Q98764250,Richard Devereux,1956-01-01,,male,,,,Q145,United Kingdom,1,False
+Q1281597,Richard Diebenkorn,1922-04-22,1993-03-30,male,500025721,Q6106,Portland,Q30,United States of America,1,False
+Q105090082,Richard Mueller,1874-01-01,1954-01-01,male,,,,,,1,True
+Q21647599,Richard Zoellner,1908-01-01,2003-01-01,male,,Q685335,Portsmouth,Q30,United States of America,1,False
+Q105091258,Richter & Co,,,,,,,,,1,False
+Q75646518,Robert Barry,,,male,,,,,,1,False
+Q94921903,Robert Blum,1889-02-27,1974-10-04,male,,Q4126,Schweinfurt,,,1,False
+Q2676807,Robert Colescott,1925-08-26,2009-06-04,male,500102583,Q17042,Oakland,Q30,United States of America,1,False
+Q62032165,Robert Conover,1920-01-01,1998-01-01,male,500046076,Q25330,Trenton,Q30,United States of America,1,False
+Q23720084,Robert Gordy,1933-01-01,1986-09-25,male,500074594,,,Q30,United States of America,1,False
+Q105090263,Robert Hauser,1930-01-01,,male,,,,,,1,True
+Q7346738,Robert Laurent,1890-06-29,1970-04-20,male,500049308,Q17393,Concarneau,Q30,United States of America,1,False
+Q1356084,Robert Nanteuil,1623-01-01,1678-12-09,male,500023363,Q41876,Reims,Q142,France,1,False
+Q28001298,Robert Riggs,1896-02-05,1970-01-01,male,500105897,,,Q30,United States of America,1,False
+Q80833252,Robert Smullyan Sloan,1915-01-01,2013-01-01,male,500027254,,,,,1,False
+Q20815857,Robert Storr,,,,,,,,,1,False
+Q21995288,Robert Swain,1940-01-01,,male,500017096,,,Q30,United States of America,1,False
+Q62392913,Roberto Otero,1931-01-01,2004-01-01,male,500338469,Q1486,Buenos Aires,Q414,Argentina,1,False
+Q28611613,Roger Ackling,1947-08-11,2014-06-05,male,500110383,Q2432955,Isleworth,Q145,United Kingdom,1,False
+Q430765,Roger Caillois,1913-03-03,1978-12-21,male,,Q41876,Reims,Q142,France,1,False
+Q476100,Roman Cieślewicz,1930-01-13,1996-01-21,male,500020802,Q36036,Lviv,Q142,France,1,False
+Q1291679,Romare Bearden,1911-09-02,1988-03-12,male,500007871,Q16565,Charlotte,Q30,United States of America,1,False
+Q433895,Roni Horn,1955-09-25,,female,500062257,Q60,New York City,Q30,United States of America,1,False
+Q28872515,Rosa 'Camille Pissarro',,,,,,,,,1,False
+Q7367281,Rosalyn Drexler,1926-11-25,,female,,Q18426,The Bronx,Q30,United States of America,1,False
+Q43193557,Rosana Paulino,1967-01-01,,female,,Q174,São Paulo,Q155,Brazil,1,False
+Q1711445,Ross Bleckner,1949-05-12,,male,500118722,Q60,New York City,Q30,United States of America,1,False
+Q7372739,Roy De Forest,1930-02-11,2007-05-18,male,500027754,Q989960,North Platte,Q30,United States of America,1,False
+Q55219642,Rudy Pozzatti,1925-01-01,,male,500029096,Q1641728,Telluride,Q30,United States of America,1,False
+Q21151324,Ruth Leaf,1923-01-05,2015-04-17,female,,Q60,New York City,Q30,United States of America,1,False
+Q11534045,Ryūryūkyo Shinsai,t2460202017,1820-01-01,male,500334455,Q215646,Edo,Q205662,Tokugawa Shogunate,1,False
+Q105090536,Sabine Friesicke,1960-01-01,,female,,Q1055,Hamburg,Q183,Germany,1,True
+Q105090126,Sadie Skoletsky Rosenblum,1899-01-01,1982-01-01,female,500337489,,,Q30,United States of America,1,True
+Q256434,Sally Mann,1951-05-01,,female,500105206,Q501761,Lexington,Q30,United States of America,1,False
+Q7407437,Sam Durant,1961-01-01,,male,500121146,Q5083,Seattle,Q30,United States of America,1,False
+Q2216478,Sam Gilliam,1933-11-30,,male,500013570,Q667727,Tupelo,Q30,United States of America,1,False
+Q64539213,Samarkand,,,,,,,,,1,False
+Q7411095,Samuel Charles Brees,1810-01-01,1865-05-05,male,,Q150120,Bloomsbury,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q105090582,"Samuel L. Dunson, Jr.",1970-01-01,,male,,Q34739,Dayton,Q30,United States of America,1,True
+Q982251,Samuel Palmer,1805-01-27,1881-05-24,male,500020452,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q938347,Santō Kyōden,1761-09-13,1816-10-27,male,500121368,Q11518258,Kiba,Q17,Japan,1,False
+Q105090671,Sara Langworthy,,,female,,Q1546,Iowa,Q30,United States of America,1,True
+Q105090691,Sarah Hulsey,,,female,,Q34863,Oklahoma City,Q30,United States of America,1,True
+Q105090613,Sarah McCoy,1976-01-01,,female,,Q43788,Madison,Q30,United States of America,1,True
+Q536884,Saul Bass,1920-05-08,1996-04-25,male,500021030,Q18426,The Bronx,Q30,United States of America,1,False
+Q2288622,Schelte a Bolswert,1586-01-01,1659-12-12,male,500005257,Q329582,Bolsward,Q55,Netherlands,1,False
+Q2251074,School of Rubens,,,,,,,,,1,False
+Q105090694,Scott Russell,,,male,,Q490385,Bloomington,Q30,United States of America,1,True
+Q18206992,Sears Gallagher,1869-04-30,1955-06-09,male,500335769,Q100,Boston,Q30,United States of America,1,False
+Q48514,Sesshū Tōyō,1420-01-01,1506-08-01,male,500121053,Q1047514,Bitchū Province,Q17,Japan,1,False
+Q7490219,Sharon Sutton,1941-01-01,,female,,Q43196,Cincinnati,Q30,United States of America,1,False
+Q87666227,Shimokôbe Shusui,,,,,,,,,1,False
+Q11621791,Shitomi Kangetsu,1747-01-01,1797-12-08,male,,,,Q205662,Tokugawa Shogunate,1,False
+Q105090040,Shugaku Watanabe,1644-01-01,1734-01-01,,,,,,,1,True
+Q3074677,Shunkōsai Hokushū,1750-01-01,t2456741560,male,,,,Q17,Japan,1,False
+Q3090171,Shōji Hamada,1894-12-09,1978-01-05,male,500078963,Q127513,Kanagawa Prefecture,Q17,Japan,1,False
+Q1302630,Si Lewen,1918-11-08,2016-07-25,male,500049416,Q37333,Lublin,Q30,United States of America,1,False
+Q21810657,Sidney Gordin,1918-10-24,1996-01-01,male,500053701,Q159,Russia,Q159,Russia,1,False
+Q20859511,Sidney Laufman,1891-10-29,1985-01-01,male,500009087,Q37320,Cleveland,Q30,United States of America,1,False
+Q376062,Sigmar Polke,1941-02-13,2010-06-10,male,500115233,Q138229,Oleśnica,Q183,Germany,1,False
+Q59998565,Simeon Barber,,,,,,,,,1,False
+Q27704719,Siri Berg,1921-09-14,2020-04-08,female,,Q1754,Stockholm,Q30,United States of America,1,False
+Q168587,Sol LeWitt,1928-09-09,2007-04-08,male,500115429,Q33486,Hartford,Q30,United States of America,1,False
+Q3496871,Stanley Twardowicz,1917-07-08,2008-06-12,male,500051007,Q12439,Detroit,Q30,United States of America,1,False
+Q641304,Stanley William Hayter,1901-12-27,1988-05-04,male,500010689,Q84,London,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q21898072,Stefan Hirsch,1899-01-02,1964-09-28,male,500024254,Q2090,Nuremberg,Q30,United States of America,1,False
+Q19730649,Stephen James Ferris,1835-12-25,1915-07-09,male,500006340,Q1345,Philadelphia,Q30,United States of America,1,False
+Q105090527,Stephen Maine,1958-01-01,,male,,Q33486,Hartford,Q30,United States of America,1,True
+Q105090541,Steve Karlik,1960-01-01,,male,,Q6106,Portland,Q30,United States of America,1,True
+Q704588,Stuart Davis,1892-12-07,1964-06-24,male,500115507,Q1345,Philadelphia,Q30,United States of America,1,False
+Q45458157,Su Liupeng,,,male,,,,Q8733,Qing dynasty,1,False
+Q105090181,Su-chin Wen Chen,1914-01-01,,,,Q16967,Zhejiang,,,1,True
+Q7634090,Sue Fuller,1914-08-11,2006-04-19,female,500053650,Q1342,Pittsburgh,Q30,United States of America,1,False
+Q105090057,Sugawara Hakuryu,1833-01-01,1898-01-01,male,,Q1192050,Uzen Province,Q17,Japan,1,True
+Q156889,Suzanne Valadon,1865-09-23,1938-04-07,female,500032597,Q173866,Bessines-sur-Gartempe,Q142,France,1,False
+Q360978,Suzuki Harunobu,1724-01-01,1770-07-07,male,500057319,Q215646,Edo,Q17,Japan,1,False
+Q13560725,Suzy Frelinghuysen,1911-05-07,1988-03-19,female,500028988,Q25395,Newark,Q30,United States of America,1,False
+Q7659513,Sybil Gibson,1908-02-18,1995-01-02,female,500125770,Q79234,Dora,Q30,United States of America,1,False
+Q7660937,Sylvia Hyman,1917-09-09,2012-12-23,female,,,,,,1,False
+Q11544230,Tachibana Morikuni,1679-01-01,1748-01-01,male,,Q35765,Osaka,Q205662,Tokugawa Shogunate,1,False
+Q1375891,Tani Bunchō,1763-10-15,1841-01-06,male,500121188,Q11536292,Negishi,Q17,Japan,1,False
+Q272194,Ted Hughes,1930-08-17,1998-10-28,male,,Q2342234,Mytholmroyd,Q145,United Kingdom,1,False
+Q105090491,Terri Zupanc,1955-01-01,,female,,Q1537,Wisconsin,,,1,True
+Q16096991,Terry Fox,1935-07-31,,male,,Q1297,Chicago,,,1,False
+Q105090501,Terry Thacker,1955-01-01,,male,,,,,,1,True
+Q15919506,Tetsuya Noda,1940-03-05,,male,500159688,Q130308,Kumamoto Prefecture,Q17,Japan,1,False
+Q48977187,Thomas Allen,1996-11-04,,male,,Q41087,Raleigh,,,1,False
+Q21460035,Thomas Buford Meteyard,1865-11-01,1928-01-01,male,500032378,,,Q30,United States of America,1,False
+Q100772456,Thomas Cooper,,,male,,,,,,1,False
+Q105091409,Thomas Forman & Sons,,,,,,,,,1,False
+Q76138242,Thomas Holland,,,male,,,,,,1,False
+Q312096,Thomas Lawrence,1769-04-13,1830-01-07,male,500022619,Q23154,Bristol,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q2425847,Thomas Locher,1956-01-01,,male,500111321,Q515163,Munderkingen,Q183,Germany,1,False
+Q7817541,Thomas Shannon,1947-06-23,,male,500067555,Q462161,Kenosha,Q30,United States of America,1,False
+Q22132695,Thomas Willoughby Nason,1889-01-01,1971-01-01,male,500073675,Q771,Massachusetts,Q30,United States of America,1,False
+Q43140105,Thomas Worth,1839-01-01,1917-12-29,male,500005361,Q60,New York City,Q30,United States of America,1,False
+Q105090267,Thomas Zvi Wilson,1931-01-01,2012-01-01,male,,,,Q30,United States of America,1,True
+Q7796569,Thornton Willis,1936-05-25,,male,500026609,Q486306,Pensacola,Q30,United States of America,1,False
+Q310025,Théodore Rousseau,1812-04-15,1867-12-22,male,500019946,Q90,Paris,Q142,France,1,False
+Q706041,Théophile Steinlen,1859-11-10,1923-12-13,male,500017451,Q807,Lausanne,Q142,France,1,False
+Q105090152,Tibbie Levy,1908-01-01,,female,,,,Q30,United States of America,1,True
+Q105090682,Tim Hooper,,,male,,Q23197,Nashville,Q30,United States of America,1,True
+Q105090496,Tjue Teeuwen,1955-01-01,,,,Q9832,Eindhoven,Q29999,Kingdom of the Netherlands,1,True
+Q7812635,Todd Siler,1953-08-23,,male,500000234,,,Q30,United States of America,1,False
+Q114709,Toko Shinoda,1913-03-28,2021-03-01,female,500171912,Q74881,Dalian,Q17,Japan,1,False
+Q1377454,Tomioka Tessai,1837-01-25,1924-12-31,male,500121336,Q11355860,Sanjō-dōri Street,Q17,Japan,1,False
+Q3136190,Torii Kiyomasu,1690-01-01,1720-01-01,male,500118868,,,Q17,Japan,1,False
+Q3136173,Torii Kiyomitsu,1735-01-01,1785-01-01,male,500057317,Q7473516,Tokyo,Q17,Japan,1,False
+Q427642,Torii Kiyonaga,1752-01-01,1815-06-28,male,500058786,Q215646,Edo,Q17,Japan,1,False
+Q105090192,Toru Mabuchi,1920-01-12,1994-03-25,male,,Q1795214,Kyōbashi-ku,Q17,Japan,1,True
+Q2738241,Toyohara Kunichika,1835-01-01,1900-01-01,male,500334003,Q215646,Edo,Q17,Japan,1,False
+Q21462038,Trevor Sutton,1948-01-01,,male,,,,Q145,United Kingdom,1,False
+Q7862732,Tōshi Yoshida,1911-01-01,1995-01-01,male,,,,,,1,False
+Q105090034,Tōteki Unkoku,1606-01-01,1664-01-01,,,,,,,1,True
+Q11578726,Umetaro Azechi,1902-12-28,1999-04-12,male,500330875,Q845857,Uwajima,Q17,Japan,1,False
+Q3004216,Utagawa Kuninao,1793-01-01,1854-01-01,male,500333878,,,Q17,Japan,1,False
+Q3552729,Utagawa Kunisada III,1848-01-01,1920-01-01,male,,Q215646,Edo,Q17,Japan,1,False
+Q3552727,Utagawa Sadahide,1807-01-01,1873-01-01,male,500072517,Q11480759,Fusa,Q17,Japan,1,False
+Q11545174,Utagawa Yoshikazu,1850-01-01,1870-01-01,male,500334458,Q215646,Edo,Q17,Japan,1,False
+Q3075041,Utagawa Yoshitora,1836-01-01,1880-01-01,male,500342437,Q1490,Tokyo,Q17,Japan,1,False
+Q5770067,Valentine Green,1739-10-03,1813-07-29,male,500021991,Q782628,Salford Priors,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q105090530,Vera Vasek,1959-01-01,,female,,Q40435,Buffalo,Q30,United States of America,1,True
+Q34136,Vernon Orlando Bailey,1864-06-21,1942-04-20,male,,Q2326485,Manchester,Q30,United States of America,1,False
+Q154448,Victor Vasarely,1908-04-09,1997-03-15,male,500030657,Q45779,Pécs,Q171150,Kingdom of Hungary,1,False
+Q7926791,Victoria Hutson Huntley,1900-01-01,1971-01-01,female,500054391,Q1082527,Hasbrouck Heights,Q30,United States of America,1,False
+Q1288454,Vik Muniz,1961-12-20,,male,500114657,Q174,São Paulo,Q155,Brazil,1,False
+Q7931648,Vincent Aderente,1880-02-20,1941-06-13,male,,Q2634,Naples,Q30,United States of America,1,False
+Q105090167,Vincent McPharlin,1910-01-01,1985-01-01,male,,Q2544149,Hastings,Q30,United States of America,1,True
+Q826891,Vincenzo Agnetti,1926-09-14,1981-09-02,male,500078671,Q490,Milan,Q172579,Kingdom of Italy,1,False
+Q23829587,Vincenzo Feoli,1750-01-01,1831-01-01,male,500048427,Q220,Rome,Q170174,Papal States,1,False
+Q6470990,Virgilije Nevjestić,1935-11-21,2009-08-25,male,,Q998961,Tomislavgrad,Q142,France,1,False
+Q880221,Vitaly Komar,1943-09-11,,male,500120584,Q649,Moscow,Q15180,Soviet Union,1,False
+Q7937162,Vito Giacalone,1924-01-01,2012-02-19,male,,,,Q172579,Kingdom of Italy,1,False
+Q1349738,Vittore Crivelli,1440-01-01,1501-01-01,male,500032229,Q641,Venice,Q4948,Republic of Venice,1,False
+Q1978366,Vladimir Veličković,1935-08-11,2019-08-29,male,500018438,Q3711,Belgrade,Q36704,Yugoslavia,1,False
+Q105090141,W. H. Walker,1906-01-01,1926-01-01,male,500002863,,,Q145,United Kingdom,1,True
+Q3565323,Waldo Peirce,1884-12-17,1970-03-18,male,500124326,Q327012,Bangor,Q30,United States of America,1,False
+Q7964647,Walter Darby Bannard,1934-09-23,2016-10-02,male,500018212,Q49145,New Haven,Q30,United States of America,1,False
+Q3130609,Watanabe Kazan,1793-10-20,1841-11-23,male,500121065,Q17215107,Miyakezaka,Q17,Japan,1,False
+Q105090349,Watthana Watthanāphan,1941-01-01,,male,500122968,,,Q869,Thailand,1,True
+Q465342,Wifredo Lam,1902-12-08,1982-09-11,male,500006317,Q5030,Sagua La Grande,Q241,Cuba,1,False
+Q98424,Wilhelm Friedrich Gmelin,1760-11-26,1820-09-22,male,500016400,Q25430,Badenweiler,Q183,Germany,1,False
+Q19302017,Will Faber,1901-05-29,1987-02-17,male,500036129,Q1724,Saarbrücken,Q183,Germany,1,False
+Q15459073,William Anastasi,1933-01-01,,male,500056778,Q1345,Philadelphia,Q30,United States of America,1,False
+Q105090094,William Crawford Young,1886-01-01,,male,,,,Q30,United States of America,1,True
+Q8008915,William Faithorne the Younger,1656-01-01,1701-01-01,male,500073448,Q84,London,Q179876,Kingdom of England,1,False
+Q22002308,William H. W. Bicknell,1860-01-01,1947-01-01,male,500105394,Q100,Boston,Q30,United States of America,1,False
+Q105090119,William MacLean,1897-01-01,1977-01-01,male,,,,Q30,United States of America,1,True
+Q265820,William Merritt Chase,1849-11-01,1916-10-25,male,500115356,Q14688715,Nineveh,Q30,United States of America,1,False
+Q27068037,William Monk,1863-01-01,1937-01-01,male,500006475,,,,,1,False
+Q188176,William S. Burroughs,1914-02-05,1997-08-02,male,500053989,Q38022,St. Louis,Q30,United States of America,1,False
+Q2547129,William Strang,1859-02-13,1921-04-12,male,500016057,Q34779,Dumbarton,Q174193,United Kingdom of Great Britain and Ireland,1,False
+Q65051176,William Wiley,1931-01-01,1999-12-07,male,,Q3495331,St James,,,1,False
+Q26707502,Willie Betty Newman,1863-01-21,1935-02-06,female,,Q501766,Murfreesboro,Q30,United States of America,1,False
+Q62059821,Willy Dzubas,1877-07-21,1947-01-01,male,500485782,,,Q183,Germany,1,False
+Q344838,Winslow Homer,1836-02-24,1910-09-29,male,500019202,Q100,Boston,Q30,United States of America,1,False
+Q8029853,Wolf Kahn,1927-10-04,2020-03-15,male,500084815,Q1022,Stuttgart,Q30,United States of America,1,False
+Q27050361,Wouter van Riessen,1967-09-12,,male,,Q9908,Bloemendaal,Q29999,Kingdom of the Netherlands,1,False
+Q65832435,Yu Zhiding,,,male,,,,,,1,False
+Q105090198,Yves Johnston,1920-01-01,,male,,,,,,1,True
+Q105090662,Zhongbao Yao,1870-01-01,1924-01-01,,,Q956,Beijing,Q13426199,Republic of China 1912–1949,1,True
+Q245361,Zygmunt Menkes,1896-05-06,1986-08-20,male,500004834,Q36036,Lviv,Q36,Poland,1,False
+Q3588699,Émile Peynot,1850-11-22,1932-01-01,male,,Q898114,Villeneuve-sur-Yonne,Q142,France,1,False
