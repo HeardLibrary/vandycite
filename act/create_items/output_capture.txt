@@ -1,0 +1,494 @@
+commons data type: information
+Abbie Sweetwine Treating Injured
+work type: drawing
+
+commons data type: artwork
+Madonna with Chancellor Nicholas Rolin
+work type: painting
+
+commons data type: artwork
+Adoration of the Shepherds
+work type: manuscript
+
+commons data type: artwork
+Eastern Orthodox icon of Jesus Christ as the True Vine
+work type: painting
+
+commons data type: none
+Alfa i Omega Monument on Torredembarra beach, Catalonia
+work type: sculpture
+
+commons data type: artwork
+David the Prophet - King David in Prayer
+work type: painting
+
+commons data type: information
+Icon of Christ Feeding the Multitude
+work type: painting
+
+commons data type: artwork
+Burghers of Calais
+work type: sculpture
+
+commons data type: artwork
+Apostles with God
+work type: carving
+
+commons data type: information
+Parable of the Prodigal Son, detail
+work type: textile
+
+commons data type: artwork
+Tree of Jesse, a Bavarian ivory panel.
+work type: 
+
+commons data type: artwork
+Christ Pantocrator
+work type: painting
+
+commons data type: information
+2009 world map showing countries by prevalence of female trafficking.
+work type: garment
+
+commons data type: information
+Fog
+work type: photograph
+
+commons data type: none
+Detail of St. Benedict
+work type: 
+
+commons data type: artwork
+Philip the Apostle
+work type: painting
+
+commons data type: information
+Holy Spirit Seminary
+work type: architectural structure
+
+commons data type: information
+John VI Kantakouzenos
+work type: manuscript
+
+commons data type: information
+Snowstorm of Stars
+work type: photograph
+
+commons data type: information
+Solomon and the Queen of Sheba
+work type: sculpture
+
+commons data type: artwork
+David and Abigail
+work type: painting
+
+commons data type: information
+ Interior view of Yuriria Convent, founded in 1550, Yuriria, Guanajuato, Mexico
+work type: architectural structure
+
+commons data type: information
+Three Youths in the Fiery Furnace
+work type: 
+
+commons data type: artwork
+Ecce Homo - "Here is the Man"
+work type: painting
+
+commons data type: information
+A mosaic map of 6th century Jerusalem
+work type: mosaic
+
+commons data type: information
+Bell Tower Clock
+work type: architectural structure
+
+commons data type: none
+Jesus, the Gerasene, and the Unclean Spirits
+work type: manuscript
+
+commons data type: artwork
+Joseph the Carpenter
+work type: painting
+
+commons data type: artwork
+Christ and the Samaritan Woman
+work type: fresco
+No match with possible names: [{'qid': 'Q1151590', 'label': 'Manuel Panselinos', 'description': 'Greek painter and iconographer'}]
+
+commons data type: artwork
+Tobias and the Angel
+work type: painting
+
+commons data type: artwork
+Gathering of the Manna
+work type: painting
+
+commons data type: artwork
+Arnolfini Wedding, detail
+work type: painting
+
+commons data type: artwork
+Judah and Tamar
+work type: painting
+
+commons data type: information
+Thou shalt not commit adultery (Nathan confronts David)
+work type: sculpture
+No match with possible names: [{'qid': 'Q302580', 'label': 'Henry de Triqueti', 'description': 'French sculptor (1803-1874)'}]
+
+commons data type: artwork
+Last Judgment
+work type: painting
+
+commons data type: artwork
+Narcissus
+work type: painting
+
+commons data type: artwork
+Baptism of Christ
+work type: painting
+
+commons data type: artwork
+Jephtha's Return
+work type: painting
+
+commons data type: information
+Righteous Job
+work type: manuscript
+
+commons data type: information
+Christ, Mary, Saints, and Angels in Glory
+work type: fresco
+
+commons data type: information
+Leaf from Codex Washingtonensis
+work type: manuscript
+
+commons data type: artwork
+Deposition of Christ, detail
+work type: painting
+
+commons data type: artwork
+Sacrifice of Isaac
+work type: painting
+
+commons data type: information
+Christ and the Woman with the Issue of Blood
+work type: fresco
+
+commons data type: artwork
+Baptism of Christ
+work type: painting
+No match with possible names: [{'qid': 'Q2538308', 'label': 'Jacopino del Conte', 'description': 'Italian painter (1513-1598)'}, {'qid': 'Q21557973', 'label': 'J. Conte', 'description': ''}]
+
+commons data type: information
+Manche Masemola, South African Martyr
+work type: sculpture
+
+commons data type: information
+Widow with Child
+work type: sculpture
+
+commons data type: none
+Philemon and Apphia
+work type: painting
+
+commons data type: artwork
+Portrait of Pope John VII, presenting model of a newly dedicated church
+work type: mosaic
+
+commons data type: artwork
+Psalter Manuscript
+work type: manuscript
+No match with possible names: [{'qid': 'Q59650587', 'label': 'Folchardus', 'description': 'Swiss illuminator, who wrote Folchard Psalter'}]
+
+commons data type: information
+Santa Prassede
+work type: architectural structure
+No match with possible names: [{'qid': 'Q81634', 'label': 'Sixtus I', 'description': '7th Pope of the Catholic Church'}, {'qid': 'Q167065', 'label': 'Sixtus III', 'description': 'Pope and bishop of Rome from 432 to 440'}, {'qid': 'Q2290946', 'label': 'Sixtus of Reims', 'description': 'French saint'}, {'qid': 'Q127385', 'label': 'Sixtus II', 'description': 'Bishop of Rome from 257 to 258'}, {'qid': 'Q46992669', 'label': 'Sixtus of Esztergom', 'description': ''}]
+
+commons data type: artwork
+Hannah before Eli the High Priest
+work type: manuscript
+
+commons data type: information
+Michal lets David escape from the window
+work type: print
+
+commons data type: artwork
+Detail of St. Mark
+work type: fresco
+
+commons data type: information
+Mausoleum of Grigor Tatevatsi, in the Tatev Monastery, Armenia
+work type: architectural structure
+No match with possible names: [{'qid': 'Q28147777', 'label': 'Diego Delso', 'description': 'Spanish photographer (1974-)'}]
+
+commons data type: artwork
+Sun of Righteousness
+work type: print
+
+commons data type: artwork
+Twelve Teachers of Wisdom
+work type: painting
+
+commons data type: information
+Charity to Street Arab
+work type: print
+
+commons data type: artwork
+Still Life
+work type: painting
+No match with possible names: [{'qid': 'Q580452', 'label': 'Albrecht Kauw', 'description': 'artist (1621-1681)'}]
+
+commons data type: artwork
+Piercing of Christ's Side
+work type: painting
+
+commons data type: none
+Christ with Beard
+work type: fresco
+
+commons data type: information
+Sweet Honey in the Rock live at Ravinia
+work type: photograph
+
+commons data type: artwork
+Jeanne Jugan, founder of Little Sisters of the Poor
+work type: painting
+
+commons data type: artwork
+Judgment of Solomon
+work type: painting
+No match with possible names: [{'qid': 'Q26248636', 'label': 'Ingobertus', 'description': '9th century, Calligrapher.'}]
+
+commons data type: artwork
+Isaac and Rebecca
+work type: painting
+No match with possible names: [{'qid': 'Q5598', 'label': 'Rembrandt', 'description': 'Dutch painter and etcher (1606-1669)'}]
+
+commons data type: none
+Annunciation with St. Margaret and St. Ansanus
+work type: painting
+
+commons data type: information
+Job and His Friends
+work type: manuscript
+
+commons data type: none
+Device to Root out Evil
+work type: sculpture
+
+commons data type: artwork
+Prophet Hosea
+work type: painting
+No match with possible names: [{'qid': 'Q15792', 'label': 'Duccio di Buoninsegna', 'description': 'Italian painter'}]
+
+commons data type: artwork
+Christ Before Caiaphas
+work type: painting
+No match with possible names: [{'qid': 'Q949627', 'label': 'Matthias Stom', 'description': 'Dutch or Flemish painter'}]
+
+commons data type: information
+Apostasia
+work type: drawing
+No match with possible names: [{'qid': 'Q17612634', 'label': 'Michael Henderson', 'description': ''}, {'qid': 'Q22319570', 'label': 'Michael Henderson', 'description': ''}, {'qid': 'Q102151500', 'label': 'Michael I Henderson', 'description': 'researcher'}, {'qid': 'Q6831079', 'label': 'Michael Henderson', 'description': 'English sportswriter'}, {'qid': 'Q100802158', 'label': 'Michael Henderson', 'description': 'college basketball player (2006–2007) Chicago State'}, {'qid': 'Q6831077', 'label': 'Michael Henderson', 'description': 'former New Zealand fencer'}, {'qid': 'Q76119839', 'label': 'Michael Henderson', 'description': 'Northern Irish politician'}, {'qid': 'Q75260143', 'label': 'Michael Henderson', 'description': '(1906-1953)'}, {'qid': 'Q364387', 'label': 'Michael Henderson', 'description': 'American musician'}, {'qid': 'Q100455591', 'label': 'Michael T Henderson', 'description': 'researcher'}, {'qid': 'Q99299778', 'label': 'Michael Henderson', 'description': 'birth/death: 1947-1994  LCAuth[n2006067568] VIAF[31428894]'}, {'qid': 'Q59898237', 'label': 'Michael Henderson', 'description': 'researcher ORCID ID = 0000-0003-4975-9029'}, {'qid': 'Q15452064', 'label': 'Michael Henderson', 'description': 'American journalist'}, {'qid': 'Q6831078', 'label': 'Michael Henderson', 'description': 'Australian rugby league footballer'}, {'qid': 'Q83883591', 'label': 'Michael X Henderson', 'description': 'researcher'}, {'qid': 'Q87337607', 'label': 'Michael Henderson', 'description': 'researcher'}]
+
+commons data type: artwork
+Fugitive Slaves in the Dismal Swamp
+work type: painting
+
+No match with possible names: [{'qid': 'Q1174304', 'label': 'David Edward Cronin', 'description': 'American painter (1839-1925)'}]
+
+commons data type: artwork
+Under the Wave off Kanagawa
+work type: print
+
+commons data type: none
+Interior of the Church of the Light
+work type: architectural structure
+
+commons data type: information
+Cueva de las Manos
+work type: mural
+No match with possible names: [{'qid': 'Q98083959', 'label': 'Marianus Scholasticus', 'description': 'Ancient Greek epigrammatist'}, {'qid': 'Q104431193', 'label': 'Mariano', 'description': 'Cuban artist (active 1943)'}, {'qid': 'Q98960647', 'label': 'Mariano', 'description': 'Bishop of Sulcis'}, {'qid': 'Q80529869', 'label': 'Maria Mariano', 'description': 'researcher'}, {'qid': 'Q17621638', 'label': 'Mariano Mariano', 'description': 'Spanish musician, actor, writer and Real Madrid player'}, {'qid': 'Q16298371', 'label': 'Mariano Chiesa', 'description': 'Argentin actor'}, {'qid': 'Q30122641', 'label': 'Mariano', 'description': 'association football player'}, {'qid': 'Q311469', 'label': 'Mariana of Austria', 'description': 'Queen consort of Spain (1634-1696)'}, {'qid': 'Q31766', 'label': 'Mariano Ferreira Filho', 'description': 'football player from Brazil'}, {'qid': 'Q4396038', 'label': 'Mariano Rodríguez', 'description': 'Cuban painter (1912-1990)'}, {'qid': 'Q10556350', 'label': 'Mariano Díaz', 'description': 'Spanish association football player'}, {'qid': 'Q20005650', 'label': 'Marianus', 'description': ''}, {'qid': 'Q23858441', 'label': 'Marianus', 'description': ''}, {'qid': 'Q54589390', 'label': 'Mariano', 'description': ''}, {'qid': 'Q63405928', 'label': 'Mariano', 'description': ''}]
+
+commons data type: information
+Rossano Gospels - Christ before Pilate
+work type: manuscript
+
+commons data type: information
+Hannah, prophetess and mother of Samuel, thanking God
+work type: manuscript
+
+commons data type: information
+ Rankin House on Liberty Hill in Ripley, home of Abolitionist John Rankin
+work type: photograph
+
+commons data type: artwork
+The Reverend Absalom Jones
+work type: painting
+
+commons data type: artwork
+Storyteller Under Sunny Skies
+work type: sculpture
+
+commons data type: information
+Cathedral of Our Lady of Peace
+work type: architectural structure
+
+commons data type: artwork
+Saint Apollinaris
+work type: mosaic
+
+commons data type: artwork
+Naomi entreating Ruth and Orpah to return to the land of Moab
+work type: watercolor
+
+commons data type: information
+Church of the Sacred Heart
+work type: 
+
+commons data type: artwork
+Miraculous Draught of Fishes
+work type: painting
+
+commons data type: artwork
+Regent receiving a falcon, surrounded by birds
+work type: painting
+
+commons data type: information
+Thrush Nest
+work type: print
+
+commons data type: artwork
+Entry Into Jerusalem
+work type: mosaic
+
+commons data type: information
+Battle for soul at death, from the Grandes Heures de Rohan
+work type: manuscript
+
+commons data type: none
+Baptistery of Kelisa-e-Vank
+work type: architectural structure
+
+commons data type: information
+Mary Eliza Mahoney
+work type: photograph
+
+commons data type: information
+Sunday School
+work type: photograph
+
+commons data type: artwork
+Golden Triptych of Virgin Mary from the Khakhuli Monastery in Georgia
+work type: manuscript
+
+commons data type: information
+Pentecost
+work type: sculpture
+
+commons data type: information
+Transfiguracion del Divino Salvador del Mundo
+work type: architectural structure
+
+commons data type: information
+Mary and Child
+work type: fresco
+
+commons data type: information
+Baptism of Jesus
+work type: fresco
+No match with possible names: [{'qid': 'Q2941413', 'label': 'Castera Bazile', 'description': 'Haitian painter (1923-1966)'}]
+
+commons data type: none
+Poste Camino de Santiago
+work type: 
+
+commons data type: artwork
+Madonna with Children
+work type: painting
+
+commons data type: information
+Medieval Tithe Barn 
+work type: architectural structure
+
+commons data type: information
+Patrobulus, Hermas, Linus, Caius, Philologus of the 70 Disciples
+work type: manuscript
+
+commons data type: artwork
+Altar of the Mystical Lamb - Throne of God the Father
+work type: painting
+
+commons data type: information
+Julia A. J. Foote
+work type: 
+No match with possible names: [{'qid': 'Q6306155', 'label': 'Julia A. J. Foote', 'description': 'American deacon'}]
+
+commons data type: none
+Annunciation with St. Margaret and St. Ansanus
+work type: painting
+
+commons data type: artwork
+Crucifixion with Mary and John
+work type: painting
+
+commons data type: information
+Jesus Appearing to the Disciples on the Sea
+work type: sculpture
+
+commons data type: information
+The Promised Land
+work type: painting
+No match with possible names: [{'qid': 'Q6533524', 'label': 'Lette Valeska', 'description': 'German artist (1885-1985)'}]
+
+commons data type: information
+Shiphrah, Puah, Jocheved, Miriam, Pharoah's Daughter, and the infant Moses
+work type: mural
+
+commons data type: artwork
+Banquet of Herod
+work type: painting
+No match with possible names: [{'qid': 'Q3374052', 'label': 'Pedro García de Benavarre', 'description': 'painter'}]
+
+commons data type: information
+Eye of Providence
+work type: painting
+
+commons data type: artwork
+Christ before Pilate
+work type: painting
+
+commons data type: artwork
+Our Lady of the Unexpected Joy
+work type: painting
+
+commons data type: information
+Sanctuary of the Divine Works of Mercy, Window
+work type: architectural structure
+
+commons data type: information
+Satan Sowing
+work type: drawing
+
+commons data type: none
+Philemon and Apphia
+work type: painting
+
+commons data type: none
+Interior of the Church of the Light
+work type: architectural structure
+
+commons data type: none
+Fresco-Catacomb of San Gennaro - - [Lectionary selection, Fifth Sunday of Easter, Year C]
+work type: fresco
+
+commons data type: information
+Mill Children in Macon
+work type: 
+
+done
+
+​
