@@ -1,0 +1,7 @@
+qid,accession_number,label_en,image_name,iiif_manifest,notes
+Q90716090,,Emily Thorn Vanderbilt Sloane,Emily Thorn Vanderbilt Sloane White.jpg,,
+Q94702774,1979.0648P,A Baptismal Ceremony,Amico Aspertini.1474–1552A Baptismal Ceremony Cress Collection.jpg,,
+Q80566046,1979.0659P,Madonna and Child with Apollonia and Another Female Saint,Gerolamo Giovenone - Madonna and Child with Saint Apollonia and one other saint.jpg,,
+Q94002062,2002.014,Marine Landscape,Paul-Jean Clays - Paysage marin.jpg,,
+Q65080716,1956.032,The Entombment,"Lucas Cranach the Elder, The Entombment, in or before 1509, NGA 37023.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=37023,Merged from Q103309678. Can't figure out why it isn't getting picked up by Listeria - only getting old version.
+Q76552832,1965.002,Zacharie Astruc,"Félix Bracquemond, Zacharie Astruc, 1865, NGA 151064.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=151064,The image is not identical to the one in our collection. Merged from Q103310115.
