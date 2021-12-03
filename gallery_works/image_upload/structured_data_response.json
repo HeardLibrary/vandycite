@@ -1,0 +1,25 @@
+{
+    "pageinfo": {
+      "lastrevid": 611677588
+    },
+    "success": 1,
+    "claim": {
+      "mainsnak": {
+        "snaktype": "value",
+        "property": "P6243",
+        "hash": "fc7078c92b5f92a83fa02038d802b4f1256b7ec0",
+        "datavalue": {
+          "value": {
+            "entity-type": "item",
+            "numeric-id": 102961225,
+            "id": "Q102961225"
+          },
+          "type": "wikibase-entityid"
+        },
+        "datatype": "wikibase-item"
+      },
+      "type": "statement",
+      "id": "M113028886$15A1845C-772F-47BA-953B-0535EFCD84FE",
+      "rank": "normal"
+    }
+  }

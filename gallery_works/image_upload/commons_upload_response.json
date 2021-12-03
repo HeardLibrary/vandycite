@@ -1,0 +1,283 @@
+{
+    "upload": {
+      "result": "Success",
+      "filename": "A_Conversation_with_Guido_di_Brettinoro_-_Vanderbilt_Fine_Arts_Gallery_-_1984.021.tif",
+      "imageinfo": {
+        "timestamp": "2021-12-03T15:50:23Z",
+        "user": "Baskaufs",
+        "userid": 210439,
+        "size": 73428750,
+        "width": 3984,
+        "height": 3071,
+        "pagecount": 1,
+        "parsedcomment": "Uploaded media file and metadata via API",
+        "comment": "Uploaded media file and metadata via API",
+        "html": "<div>\n<div class=\"thumb tright\"><div class=\"thumbinner\" style=\"width:102px;\"><a href=\"/w/index.php?title=Special:Upload&amp;wpDestFile=A_Conversation_with_Guido_di_Brettinoro_-_Vanderbilt_Fine_Arts_Gallery_-_1984.021.tif\" class=\"new\" title=\"File:A Conversation with Guido di Brettinoro - Vanderbilt Fine Arts Gallery - 1984.021.tif\">File:A Conversation with Guido di Brettinoro - Vanderbilt Fine Arts Gallery - 1984.021.tif</a>  <div class=\"thumbcaption\">Existing file</div></div></div>\n<p><span id=\"wpUploadWarningFileexists\">A file with this name already exists; please check <b><a class=\"mw-selflink selflink\">the existing file</a></b> if you are not sure whether you want to change it. Please choose another filename, unless you are uploading a technically improved version of the same file. <br />Do not overwrite an image with a different one of the same topic (see <a href=\"/wiki/Commons:File_naming\" title=\"Commons:File naming\">file naming</a>).</span>\n</p>\n<div style=\"clear:both;\"></div>\n</div>",
+        "canonicaltitle": "File:A Conversation with Guido di Brettinoro - Vanderbilt Fine Arts Gallery - 1984.021.tif",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/A_Conversation_with_Guido_di_Brettinoro_-_Vanderbilt_Fine_Arts_Gallery_-_1984.021.tif",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:A_Conversation_with_Guido_di_Brettinoro_-_Vanderbilt_Fine_Arts_Gallery_-_1984.021.tif",
+        "sha1": "be94d56c5363735c1298d67aa960a60fba06b87c",
+        "metadata": [
+          {
+            "name": "page_data",
+            "value": [
+              {
+                "name": 1,
+                "value": [
+                  {
+                    "name": "width",
+                    "value": 3984
+                  },
+                  {
+                    "name": "height",
+                    "value": 3071
+                  },
+                  {
+                    "name": "page",
+                    "value": 1
+                  },
+                  {
+                    "name": "alpha",
+                    "value": "false"
+                  },
+                  {
+                    "name": "pixels",
+                    "value": 12234864
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "page_count",
+            "value": 1
+          },
+          {
+            "name": "first_page",
+            "value": 1
+          },
+          {
+            "name": "last_page",
+            "value": 1
+          },
+          {
+            "name": "exif",
+            "value": [
+              {
+                "name": "ImageWidth",
+                "value": 3984
+              },
+              {
+                "name": "ImageLength",
+                "value": 3071
+              },
+              {
+                "name": "BitsPerSample",
+                "value": [
+                  {
+                    "name": 0,
+                    "value": 16
+                  },
+                  {
+                    "name": 1,
+                    "value": 16
+                  },
+                  {
+                    "name": 2,
+                    "value": 16
+                  }
+                ]
+              },
+              {
+                "name": "Compression",
+                "value": 1
+              },
+              {
+                "name": "PhotometricInterpretation",
+                "value": 2
+              },
+              {
+                "name": "Make",
+                "value": "Canon"
+              },
+              {
+                "name": "Model",
+                "value": "Canon EOS REBEL T3i"
+              },
+              {
+                "name": "StripOffsets",
+                "value": 19566
+              },
+              {
+                "name": "SamplesPerPixel",
+                "value": 3
+              },
+              {
+                "name": "RowsPerStrip",
+                "value": 3071
+              },
+              {
+                "name": "StripByteCounts",
+                "value": 73409184
+              },
+              {
+                "name": "XResolution",
+                "value": "240/1"
+              },
+              {
+                "name": "YResolution",
+                "value": "240/1"
+              },
+              {
+                "name": "PlanarConfiguration",
+                "value": 1
+              },
+              {
+                "name": "ResolutionUnit",
+                "value": 2
+              },
+              {
+                "name": "Software",
+                "value": "Adobe Photoshop Lightroom 4.0 (Macintosh)"
+              },
+              {
+                "name": "DateTime",
+                "value": "2013:01:29 16:11:10"
+              },
+              {
+                "name": "ExposureTime",
+                "value": "1/80"
+              },
+              {
+                "name": "FNumber",
+                "value": "56/10"
+              },
+              {
+                "name": "ExposureProgram",
+                "value": 3
+              },
+              {
+                "name": "ISOSpeedRatings",
+                "value": 400
+              },
+              {
+                "name": "ExifVersion",
+                "value": "0230"
+              },
+              {
+                "name": "DateTimeOriginal",
+                "value": "2013:01:28 02:45:13"
+              },
+              {
+                "name": "DateTimeDigitized",
+                "value": "2013:01:28 02:45:13"
+              },
+              {
+                "name": "ShutterSpeedValue",
+                "value": "6321928/1000000"
+              },
+              {
+                "name": "ApertureValue",
+                "value": "4970854/1000000"
+              },
+              {
+                "name": "ExposureBiasValue",
+                "value": "5/3"
+              },
+              {
+                "name": "MaxApertureValue",
+                "value": "5/1"
+              },
+              {
+                "name": "MeteringMode",
+                "value": 5
+              },
+              {
+                "name": "Flash",
+                "value": 16
+              },
+              {
+                "name": "FocalLength",
+                "value": "51/1"
+              },
+              {
+                "name": "SubSecTimeOriginal",
+                "value": "26"
+              },
+              {
+                "name": "SubSecTimeDigitized",
+                "value": "26"
+              },
+              {
+                "name": "FocalPlaneXResolution",
+                "value": "5184000/905"
+              },
+              {
+                "name": "FocalPlaneYResolution",
+                "value": "3456000/595"
+              },
+              {
+                "name": "FocalPlaneResolutionUnit",
+                "value": 2
+              },
+              {
+                "name": "CustomRendered",
+                "value": 0
+              },
+              {
+                "name": "ExposureMode",
+                "value": 0
+              },
+              {
+                "name": "WhiteBalance",
+                "value": 0
+              },
+              {
+                "name": "SceneCaptureType",
+                "value": 0
+              },
+              {
+                "name": "MEDIAWIKI_EXIF_VERSION",
+                "value": 2
+              }
+            ]
+          },
+          {
+            "name": "TIFF_METADATA_VERSION",
+            "value": "1.4"
+          }
+        ],
+        "commonmetadata": [],
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-12-03 15:50:23",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "A Conversation with Guido di Brettinoro - Vanderbilt Fine Arts Gallery - 1984.021",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          }
+        },
+        "mime": "image/tiff",
+        "mediatype": "BITMAP",
+        "bitdepth": 0
+      }
+    }
+  }
