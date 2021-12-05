@@ -1,19 +1,20 @@
-qid,commons_id,accession_number,label_en,local_filename,image_name,iiif_manifest,notes
-Q90716090,M31171961,,Emily Thorn Vanderbilt Sloane,,Emily Thorn Vanderbilt Sloane White.jpg,,
-Q94702774,M6649731,1979.0648P,A Baptismal Ceremony,,Amico Aspertini.1474–1552A Baptismal Ceremony Cress Collection.jpg,,
-Q80566046,M85506789,1979.0659P,Madonna and Child with Apollonia and Another Female Saint,,Gerolamo Giovenone - Madonna and Child with Saint Apollonia and one other saint.jpg,,
-Q94002062,M18081868,2002.014,Marine Landscape,,Paul-Jean Clays - Paysage marin.jpg,,
-Q65080716,M81681029,1956.032,The Entombment,,"Lucas Cranach the Elder, The Entombment, in or before 1509, NGA 37023.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=37023,Merged from Q103309678. Can't figure out why it isn't getting picked up by Listeria - only getting old version.
-Q76552832,M81854064,1965.002,Zacharie Astruc,,"Félix Bracquemond, Zacharie Astruc, 1865, NGA 151064.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=151064,The image is not identical to the one in our collection. Merged from Q103310115.
-Q102961225,M113028886,1984.021,"A Conversation with Guido di Brettinoro, (Purgatorio, Canto 14) from Illustrations to Dante's Divine Comedy",1984.021.tif,A Conversation with Guido di Brettinoro - Vanderbilt Fine Arts Gallery - 1984.021.tif,,"Trial upload by script, linked by Quickstatements from Wikidata"
-Q102963263,M113034430,1978.014,Chinese Winter Landscape,1978.014.tif,Chinese Winter Landscape - Vanderbilt Fine Arts Gallery - 1978.014.tif,,
-Q102961508,M113040378,1979.0264P,Adoration of the Sheperds,1979.0264P.tif,Adoration of the Sheperds - Vanderbilt Fine Arts Gallery - 1979.0264P.tif,,
-Q102961566,M113051913,1993.222,Album painting of two men in a cottage in a mountain landscape,1993.222.tif,Album painting of two men in a cottage in a mountain landscape - Vanderbilt Fine Arts Gallery - 1993.222.tif,,
-Q102961830,M113053575,1979.0303P,Autumn River ,1979.0303P.tif,Autumn River - Vanderbilt Fine Arts Gallery - 1979.0303P.tif,,
-Q102962942,M113053895,1973.005,Caney Fork Cabin,1973.005.tif,Caney Fork Cabin - Vanderbilt Fine Arts Gallery - 1973.005.tif,,
-Q102962954,M113054778,1979.0121,"Capt. Sterrett in the Schr Enterprise paying tribute to Tripoli, August 1801",1979.0121.tif,"Capt. Sterrett in the Schr Enterprise paying tribute to Tripoli, August 1801 - Vanderbilt Fine Arts Gallery - 1979.0121.tif",,
-Q102963306,M113055090,1973.017,Christ Preaching,1973.017.tif,Christ Preaching - Vanderbilt Fine Arts Gallery - 1973.017.tif,,
-Q102964059,M113061603,1984.022,"Dante Discoursing with Cacciaguida (Paradisio, Canto 17) from Illustrations to Dante's Divine Comedy",1984.022.tif,"Dante Discoursing with Cacciaguida (Paradisio, Canto 17) from Illustrations to Dante's Divine Comedy - Vanderbilt Fine Arts Gallery - 1984.022.tif",,
-Q102964735,M113063344,1973.014,Elegant Lovers,1973.014.tif,Elegant Lovers - Vanderbilt Fine Arts Gallery - 1973.014.tif,,
-Q102964101,fail,1971.006,Death of Absalom,1971.006.tif,Death of Absalom - Vanderbilt Fine Arts Gallery - 1971.006.tif,,
-Q102965329,M113064283,1973.016,Four Studies of a Draped Torso,1973.016.med.jpg,Four Studies of a Draped Torso - Vanderbilt Fine Arts Gallery - 1973.016.med.jpg,,"Image needs to be rotated 180 degrees. Rotation was requested in Commons, but it needs to be rotated locally."
+qid,commons_id,accession_number,label_en,directory,local_filename,image_name,iiif_manifest,notes
+Q90716090,M31171961,,Emily Thorn Vanderbilt Sloane,,,Emily Thorn Vanderbilt Sloane White.jpg,,
+Q94702774,M6649731,1979.0648P,A Baptismal Ceremony,,,Amico Aspertini.1474–1552A Baptismal Ceremony Cress Collection.jpg,,
+Q80566046,M85506789,1979.0659P,Madonna and Child with Apollonia and Another Female Saint,,,Gerolamo Giovenone - Madonna and Child with Saint Apollonia and one other saint.jpg,,
+Q94002062,M18081868,2002.014,Marine Landscape,,,Paul-Jean Clays - Paysage marin.jpg,,
+Q65080716,M81681029,1956.032,The Entombment,,,"Lucas Cranach the Elder, The Entombment, in or before 1509, NGA 37023.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=37023,Merged from Q103309678. Can't figure out why it isn't getting picked up by Listeria - only getting old version.
+Q76552832,M81854064,1965.002,Zacharie Astruc,,,"Félix Bracquemond, Zacharie Astruc, 1865, NGA 151064.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=151064,The image is not identical to the one in our collection. Merged from Q103310115.
+Q102961225,M113028886,1984.021,"A Conversation with Guido di Brettinoro, (Purgatorio, Canto 14) from Illustrations to Dante's Divine Comedy",1984,1984.021.tif,A Conversation with Guido di Brettinoro - Vanderbilt Fine Arts Gallery - 1984.021.tif,,"Trial upload by script, linked by Quickstatements from Wikidata"
+Q102963263,M113034430,1978.014,Chinese Winter Landscape,1978,1978.014.tif,Chinese Winter Landscape - Vanderbilt Fine Arts Gallery - 1978.014.tif,,
+Q102961508,M113040378,1979.0264P,Adoration of the Sheperds,1979,1979.0264P.tif,Adoration of the Sheperds - Vanderbilt Fine Arts Gallery - 1979.0264P.tif,,
+Q102961566,M113051913,1993.222,Album painting of two men in a cottage in a mountain landscape,1993,1993.222.tif,Album painting of two men in a cottage in a mountain landscape - Vanderbilt Fine Arts Gallery - 1993.222.tif,,
+Q102961830,M113053575,1979.0303P,Autumn River ,1979,1979.0303P.tif,Autumn River - Vanderbilt Fine Arts Gallery - 1979.0303P.tif,,
+Q102962942,M113053895,1973.005,Caney Fork Cabin,1973,1973.005.tif,Caney Fork Cabin - Vanderbilt Fine Arts Gallery - 1973.005.tif,,
+Q102962954,M113054778,1979.0121,"Capt. Sterrett in the Schr Enterprise paying tribute to Tripoli, August 1801",1979,1979.0121.tif,"Capt. Sterrett in the Schr Enterprise paying tribute to Tripoli, August 1801 - Vanderbilt Fine Arts Gallery - 1979.0121.tif",,
+Q102963306,M113055090,1973.017,Christ Preaching,1973,1973.017.tif,Christ Preaching - Vanderbilt Fine Arts Gallery - 1973.017.tif,,
+Q102964059,M113061603,1984.022,"Dante Discoursing with Cacciaguida (Paradisio, Canto 17) from Illustrations to Dante's Divine Comedy",1984,1984.022.tif,"Dante Discoursing with Cacciaguida (Paradisio, Canto 17) from Illustrations to Dante's Divine Comedy - Vanderbilt Fine Arts Gallery - 1984.022.tif",,
+Q102964735,M113063344,1973.014,Elegant Lovers,1973,1973.014.tif,Elegant Lovers - Vanderbilt Fine Arts Gallery - 1973.014.tif,,
+Q102964101,fail,1971.006,Death of Absalom,1971,1971.006.tif,Death of Absalom - Vanderbilt Fine Arts Gallery - 1971.006.tif,,
+Q102965329,M113064283,1973.016,Four Studies of a Draped Torso,1973,1973.016.med.jpg,Four Studies of a Draped Torso - Vanderbilt Fine Arts Gallery - 1973.016.med.jpg,,"Image needs to be rotated 180 degrees. Rotation was requested in Commons, but it needs to be rotated locally."
+Q102965629,M113064403,1978.091,Furyu Kyoken Shyami Sen,1978,1978.091.tif,Furyu Kyoken Shyami Sen - Vanderbilt Fine Arts Gallery - 1978.091.tif,,
