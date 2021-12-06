@@ -1,15 +1,15 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest.json?cultObj:id=297",
+    "@id": "https://manifest.iiif.library.vanderbilt.edu/gallery/1973/1973.005.tif.json",
     "@type": "sc:Manifest",
     "label": "Caney Fork Cabin",
-    "description": "painting by Gilbert Gaul ",
-    "logo": "https://www.nga.gov/etc/designs/ngaweb/images/nga-seal.png",
+    "description": "painting by Gilbert Gaul",
+    "logo": "https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg",
     "attribution": "Provided by Vanderbilt University Fine Arts Gallery",
     "metadata": [
         {
         "label": "Artist",
-        "value": "David Johnson"
+        "value": "Gilbert Gaul"
         },
         {
         "label": "Accession Number",
@@ -30,7 +30,7 @@
         "@type": "sc:Sequence",
         "label": "Caney Fork Cabin",
         "canvases": [{
-            "@id": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=297",
+            "@id": "https://manifest.iiif.library.vanderbilt.edu/gallery/1973/1973.005.tif.json#canvas",
             "@type": "sc:Canvas",
             "width": 4820,
             "height": 3065,
@@ -39,18 +39,18 @@
                 "@type": "oa:Annotation",
                 "motivation": "sc:painting",
                 "resource": {
-                    "@id": "https://www.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas/resource.json?cultObj:id=297",
+                    "@id": "https://manifest.iiif.library.vanderbilt.edu/gallery/1973/1973.005.tif.json#resource",
                     "@type": "dctypes:Image",
                     "format": "image/jpeg",
-                    "height": 4820,
-                    "width": 3065,
+                    "width": 4820,
+                    "height": 3065,
                     "service": {
                         "@context": "http://iiif.io/api/image/2/context.json",
                         "@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1973%2F1973.005.tif",
                         "profile": "http://iiif.io/api/image/2/level2.json"
                         }
                     },
-                "on": "https://cq.nga.gov/content/ngaweb/api/v1/iiif/presentation/manifest/sequence/canvas.json?cultObj:id=297"
+                "on": "https://manifest.iiif.library.vanderbilt.edu/gallery/1973/1973.005.tif.json#canvas"
                 }],
             "thumbnail": {
                 "@id": "https://iiif.library.vanderbilt.edu/iiif/3/gallery%2F1973%2F1973.005.tif/full/!100,100/0/default.jpg",
