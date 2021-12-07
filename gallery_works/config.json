@@ -1,7 +1,7 @@
 {
   "data_path": "",
-  "item_source_csv": "works_qids.csv",
-  "item_pattern_file": "",
+  "item_source_csv": "",
+  "item_pattern_file": "graph_pattern.txt",
   "outfiles": [
     {
       "manage_descriptions": true,
@@ -412,6 +412,29 @@
             "pid": "P276",
             "variable": "location",
             "value_type": "item",
+            "qual": [],
+            "ref": [
+              {
+                "pid": "P248",
+                "variable": "statedIn",
+                "value_type": "item"
+              },
+              {
+                "pid": "P854",
+                "variable": "referenceUrl",
+                "value_type": "uri"
+              },
+              {
+                "pid": "P813",
+                "variable": "retrieved",
+                "value_type": "date"
+              }
+            ]
+        },
+        {
+            "pid": "P6108",
+            "variable": "iiif_manifest",
+            "value_type": "uri",
             "qual": [],
             "ref": [
               {

@@ -1220,256 +1220,67 @@
             "datatype": "integer",
             "aboutUrl": "http://example.com/.well-known/genid/{location_ref1_retrieved_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#timePrecision"
-          }
-        ]
-      }
-    },
-    {
-      "url": "works_material_used.csv",
-      "tableSchema": {
-        "columns": [
-          {
-            "titles": "qid",
-            "name": "qid",
-            "datatype": "string",
-            "suppressOutput": true
           },
           {
-            "titles": "label_en",
-            "name": "label_en",
-            "datatype": "string",
-            "suppressOutput": true
-          },
-          {
-            "titles": "material_used_uuid",
-            "name": "material_used_uuid",
+            "titles": "iiif_manifest_uuid",
+            "name": "iiif_manifest_uuid",
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/{qid}",
-            "propertyUrl": "http://www.wikidata.org/prop/P186",
-            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{material_used_uuid}"
+            "propertyUrl": "http://www.wikidata.org/prop/P6108",
+            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{iiif_manifest_uuid}"
           },
           {
-            "titles": "material_used",
-            "name": "material_used",
+            "titles": "iiif_manifest",
+            "name": "iiif_manifest",
             "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{material_used_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/statement/P186",
-            "valueUrl": "http://www.wikidata.org/entity/{material_used}"
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{iiif_manifest_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/statement/P6108",
+            "valueUrl": "{+iiif_manifest}"
           },
           {
-            "titles": "material_used_applies_to_part",
-            "name": "material_used_applies_to_part",
+            "titles": "iiif_manifest_ref1_hash",
+            "name": "iiif_manifest_ref1_hash",
             "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{material_used_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/qualifier/P518",
-            "valueUrl": "http://www.wikidata.org/entity/{material_used_applies_to_part}"
-          },
-          {
-            "titles": "material_used_ref1_hash",
-            "name": "material_used_ref1_hash",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{material_used_uuid}",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{iiif_manifest_uuid}",
             "propertyUrl": "prov:wasDerivedFrom",
-            "valueUrl": "http://www.wikidata.org/reference/{material_used_ref1_hash}"
+            "valueUrl": "http://www.wikidata.org/reference/{iiif_manifest_ref1_hash}"
           },
           {
-            "titles": "material_used_ref1_statedIn",
-            "name": "material_used_ref1_statedIn",
+            "titles": "iiif_manifest_ref1_statedIn",
+            "name": "iiif_manifest_ref1_statedIn",
             "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{material_used_ref1_hash}",
+            "aboutUrl": "http://www.wikidata.org/reference/{iiif_manifest_ref1_hash}",
             "propertyUrl": "http://www.wikidata.org/prop/reference/P248",
-            "valueUrl": "http://www.wikidata.org/entity/{material_used_ref1_statedIn}"
+            "valueUrl": "http://www.wikidata.org/entity/{iiif_manifest_ref1_statedIn}"
           },
           {
-            "titles": "material_used_ref1_referenceUrl",
-            "name": "material_used_ref1_referenceUrl",
+            "titles": "iiif_manifest_ref1_referenceUrl",
+            "name": "iiif_manifest_ref1_referenceUrl",
             "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{material_used_ref1_hash}",
+            "aboutUrl": "http://www.wikidata.org/reference/{iiif_manifest_ref1_hash}",
             "propertyUrl": "http://www.wikidata.org/prop/reference/P854",
-            "valueUrl": "{+material_used_ref1_referenceUrl}"
+            "valueUrl": "{+iiif_manifest_ref1_referenceUrl}"
           },
           {
-            "titles": "material_used_ref1_retrieved_nodeId",
-            "name": "material_used_ref1_retrieved_nodeId",
+            "titles": "iiif_manifest_ref1_retrieved_nodeId",
+            "name": "iiif_manifest_ref1_retrieved_nodeId",
             "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{material_used_ref1_hash}",
+            "aboutUrl": "http://www.wikidata.org/reference/{iiif_manifest_ref1_hash}",
             "propertyUrl": "http://www.wikidata.org/prop/reference/value/P813",
-            "valueUrl": "http://example.com/.well-known/genid/{material_used_ref1_retrieved_nodeId}"
+            "valueUrl": "http://example.com/.well-known/genid/{iiif_manifest_ref1_retrieved_nodeId}"
           },
           {
-            "titles": "material_used_ref1_retrieved_val",
-            "name": "material_used_ref1_retrieved_val",
+            "titles": "iiif_manifest_ref1_retrieved_val",
+            "name": "iiif_manifest_ref1_retrieved_val",
             "datatype": "dateTime",
-            "aboutUrl": "http://example.com/.well-known/genid/{material_used_ref1_retrieved_nodeId}",
+            "aboutUrl": "http://example.com/.well-known/genid/{iiif_manifest_ref1_retrieved_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#timeValue"
           },
           {
-            "titles": "material_used_ref1_retrieved_prec",
-            "name": "material_used_ref1_retrieved_prec",
+            "titles": "iiif_manifest_ref1_retrieved_prec",
+            "name": "iiif_manifest_ref1_retrieved_prec",
             "datatype": "integer",
-            "aboutUrl": "http://example.com/.well-known/genid/{material_used_ref1_retrieved_nodeId}",
-            "propertyUrl": "http://wikiba.se/ontology#timePrecision"
-          }
-        ]
-      }
-    },
-    {
-      "url": "works_depicts.csv",
-      "tableSchema": {
-        "columns": [
-          {
-            "titles": "qid",
-            "name": "qid",
-            "datatype": "string",
-            "suppressOutput": true
-          },
-          {
-            "titles": "label_en",
-            "name": "label_en",
-            "datatype": "string",
-            "suppressOutput": true
-          },
-          {
-            "titles": "depicts_uuid",
-            "name": "depicts_uuid",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
-            "propertyUrl": "http://www.wikidata.org/prop/P180",
-            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{depicts_uuid}"
-          },
-          {
-            "titles": "depicts",
-            "name": "depicts",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{depicts_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/statement/P180",
-            "valueUrl": "http://www.wikidata.org/entity/{depicts}"
-          },
-          {
-            "titles": "depicts_ref1_hash",
-            "name": "depicts_ref1_hash",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{depicts_uuid}",
-            "propertyUrl": "prov:wasDerivedFrom",
-            "valueUrl": "http://www.wikidata.org/reference/{depicts_ref1_hash}"
-          },
-          {
-            "titles": "depicts_ref1_statedIn",
-            "name": "depicts_ref1_statedIn",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{depicts_ref1_hash}",
-            "propertyUrl": "http://www.wikidata.org/prop/reference/P248",
-            "valueUrl": "http://www.wikidata.org/entity/{depicts_ref1_statedIn}"
-          },
-          {
-            "titles": "depicts_ref1_referenceUrl",
-            "name": "depicts_ref1_referenceUrl",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{depicts_ref1_hash}",
-            "propertyUrl": "http://www.wikidata.org/prop/reference/P854",
-            "valueUrl": "{+depicts_ref1_referenceUrl}"
-          },
-          {
-            "titles": "depicts_ref1_retrieved_nodeId",
-            "name": "depicts_ref1_retrieved_nodeId",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{depicts_ref1_hash}",
-            "propertyUrl": "http://www.wikidata.org/prop/reference/value/P813",
-            "valueUrl": "http://example.com/.well-known/genid/{depicts_ref1_retrieved_nodeId}"
-          },
-          {
-            "titles": "depicts_ref1_retrieved_val",
-            "name": "depicts_ref1_retrieved_val",
-            "datatype": "dateTime",
-            "aboutUrl": "http://example.com/.well-known/genid/{depicts_ref1_retrieved_nodeId}",
-            "propertyUrl": "http://wikiba.se/ontology#timeValue"
-          },
-          {
-            "titles": "depicts_ref1_retrieved_prec",
-            "name": "depicts_ref1_retrieved_prec",
-            "datatype": "integer",
-            "aboutUrl": "http://example.com/.well-known/genid/{depicts_ref1_retrieved_nodeId}",
-            "propertyUrl": "http://wikiba.se/ontology#timePrecision"
-          }
-        ]
-      }
-    },
-    {
-      "url": "creator_additional.csv",
-      "tableSchema": {
-        "columns": [
-          {
-            "titles": "qid",
-            "name": "qid",
-            "datatype": "string",
-            "suppressOutput": true
-          },
-          {
-            "titles": "label_en",
-            "name": "label_en",
-            "datatype": "string",
-            "suppressOutput": true
-          },
-          {
-            "titles": "creator_uuid",
-            "name": "creator_uuid",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
-            "propertyUrl": "http://www.wikidata.org/prop/P170",
-            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{creator_uuid}"
-          },
-          {
-            "titles": "creator",
-            "name": "creator",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{creator_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/statement/P170",
-            "valueUrl": "http://www.wikidata.org/entity/{creator}"
-          },
-          {
-            "titles": "creator_ref1_hash",
-            "name": "creator_ref1_hash",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{creator_uuid}",
-            "propertyUrl": "prov:wasDerivedFrom",
-            "valueUrl": "http://www.wikidata.org/reference/{creator_ref1_hash}"
-          },
-          {
-            "titles": "creator_ref1_statedIn",
-            "name": "creator_ref1_statedIn",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{creator_ref1_hash}",
-            "propertyUrl": "http://www.wikidata.org/prop/reference/P248",
-            "valueUrl": "http://www.wikidata.org/entity/{creator_ref1_statedIn}"
-          },
-          {
-            "titles": "creator_ref1_referenceUrl",
-            "name": "creator_ref1_referenceUrl",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{creator_ref1_hash}",
-            "propertyUrl": "http://www.wikidata.org/prop/reference/P854",
-            "valueUrl": "{+creator_ref1_referenceUrl}"
-          },
-          {
-            "titles": "creator_ref1_retrieved_nodeId",
-            "name": "creator_ref1_retrieved_nodeId",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/reference/{creator_ref1_hash}",
-            "propertyUrl": "http://www.wikidata.org/prop/reference/value/P813",
-            "valueUrl": "http://example.com/.well-known/genid/{creator_ref1_retrieved_nodeId}"
-          },
-          {
-            "titles": "creator_ref1_retrieved_val",
-            "name": "creator_ref1_retrieved_val",
-            "datatype": "dateTime",
-            "aboutUrl": "http://example.com/.well-known/genid/{creator_ref1_retrieved_nodeId}",
-            "propertyUrl": "http://wikiba.se/ontology#timeValue"
-          },
-          {
-            "titles": "creator_ref1_retrieved_prec",
-            "name": "creator_ref1_retrieved_prec",
-            "datatype": "integer",
-            "aboutUrl": "http://example.com/.well-known/genid/{creator_ref1_retrieved_nodeId}",
+            "aboutUrl": "http://example.com/.well-known/genid/{iiif_manifest_ref1_retrieved_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#timePrecision"
           }
         ]
