@@ -154,6 +154,16 @@
     ],
     "possible_matches": [
       {
+        "qid": "Q17612634",
+        "label": "Michael Henderson",
+        "description": ""
+      },
+      {
+        "qid": "Q22319570",
+        "label": "Michael Henderson",
+        "description": ""
+      },
+      {
         "qid": "Q102151500",
         "label": "Michael I Henderson",
         "description": "researcher"
@@ -222,16 +232,6 @@
         "qid": "Q87337607",
         "label": "Michael Henderson",
         "description": "researcher"
-      },
-      {
-        "qid": "Q17612634",
-        "label": "Michael Henderson",
-        "description": ""
-      },
-      {
-        "qid": "Q22319570",
-        "label": "Michael Henderson",
-        "description": ""
       }
     ]
   },

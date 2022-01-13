@@ -1,27 +1,14 @@
-49613 | Jan van Eyck 070.jpg | Disagreement between ACT and Commons on circa.
-
-58778 | Northern India, Uttar Pradesh, Allahabad, Mughal period - The Adoration of the Shepherds, from a Mirror of Holiness (Mir'at al-quds) - 2005.145.6 - Cleveland Museum of Art.tif | ACT inception: 1603, Commons inception: 1602
 58778 | Northern India, Uttar Pradesh, Allahabad, Mughal period - The Adoration of the Shepherds, from a Mirror of Holiness (Mir'at al-quds) - 2005.145.6 - Cleveland Museum of Art.tif | ACT precision: 9, Commons precision: 8
 
-58829 | Statue bourgeois calais rodin.jpg | ACT inception: 1882, Commons inception: 1850
+58829 | Statue bourgeois calais rodin.jpg | ACT inception: 1889, Commons inception: 1850
 58829 | Statue bourgeois calais rodin.jpg | ACT precision: 9, Commons precision: 7
-58829 | Statue bourgeois calais rodin.jpg | ACT date range: 1884-1880, Commons date range: 1884-1895
-58829 | Statue bourgeois calais rodin.jpg | Final date in range before initial date: 1884-01-01T00:00:00Z, 1880-01-01T00:00:00Z
-
-27238 | Could not identify type (instance of)
-
-47775 | Could not identify type (instance of)
 
 46630 | Georges de La Tour 053.jpg | ACT inception: 1637, Commons inception: 1650
 46630 | Georges de La Tour 053.jpg | ACT precision: 9, Commons precision: 7
 
-49955 | Could not identify type (instance of)
-
 55115 | Ecce homo by Antonio Ciseri (1).jpg | ACT inception: 1871, Commons inception: 1850
 55115 | Ecce homo by Antonio Ciseri (1).jpg | Disagreement between ACT and Commons on circa.
 55115 | Ecce homo by Antonio Ciseri (1).jpg | ACT precision: 9, Commons precision: 7
-
-56178 | Healing of the demon-possessed.jpg | no dates retrieved. Commons data: []
 
 54763 | Photina of Protat.JPG | ACT inception: 1300, Commons inception: 1500
 54763 | Photina of Protat.JPG | ACT precision: 9, Commons precision: 6
@@ -29,16 +16,13 @@
 56580 | Tissot The Gathering of the Manna (color).jpg | ACT inception: 1899, Commons inception: 1500
 56580 | Tissot The Gathering of the Manna (color).jpg | ACT precision: 9, Commons precision: 6
 
-55139 | Check ACT artist name (more than 4 parts)
-55139 | Low similarity ratio: 65 between ACT name: Henri Joseph François Triqueti and Commons name: Baron Henri de Triqueti (1803-1874)
+55139 | Low similarity ratio: 34 between ACT name: active 15th century Rohan Master and Commons name: Baron Henri de Triqueti (1803-1874)
 
 58438 | Low similarity ratio: 90 between ACT name: Stephan Lochner and Commons name: Stefan Lochner
 
 55579 | Low similarity ratio: 8 between ACT name: Girolamo Mazzola Bedoli and Commons name: wit
 
-54822 | Sacrifice of Isaac-Caravaggio (c. 1603).jpg | ACT inception: 1598, Commons inception: 1603
-
-56596 | Low similarity ratio: 29 between ACT name: Liki Buma and Commons name: Brbbl
+56596 | Low similarity ratio: 29 between ACT name: Lidi Buma and Commons name: Brbbl
 
 55642 | Philemon and Apphia.jpg | no dates retrieved. Commons data: []
 
@@ -46,69 +30,46 @@
 
 54454 | Monasterio de Tatev, Armenia, 2016-10-01, DD 86-88 HDR.jpg | no dates retrieved. Commons data: ["\n1 October 2016, 19:17:11"]
 
-55638 | Albrecht Dürer - Sol Iustitiae (Sun of Righteousness) (NGA 1943.3.3484).jpg | ACT inception: 1500, Commons inception: 1499
 55638 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
 
 55368 | Low similarity ratio: 26 between ACT name: Geo. C. (George Carter) Needham and Commons name: This file is lacking
 
 57411 | Rembrandt Harmensz. van Rijn - Het Joodse bruidje.jpg | ACT inception: 1664, Commons inception: 1662
-57411 | Rembrandt Harmensz. van Rijn - Het Joodse bruidje.jpg | Disagreement between ACT and Commons on circa.
 57411 | Rembrandt Harmensz. van Rijn - Het Joodse bruidje.jpg | ACT precision: 9, Commons precision: 8
 
 58363 | Check ACT artist name (more than 4 parts)
 
-55279 | Mattias Stom, Christ before Caiaphas.jpg | ACT inception: 1634, Commons inception: 1630
-55279 | Mattias Stom, Christ before Caiaphas.jpg | Disagreement between ACT and Commons on circa.
+55279 | Mattias Stom, Christ before Caiaphas.jpg | ACT inception: 0, Commons inception: 1630
 55279 | Mattias Stom, Christ before Caiaphas.jpg | ACT precision: 9, Commons precision: 8
 55279 | Low similarity ratio: 93 between ACT name: Matthias Stomer and Commons name: Matthias Stom
 
 58624 | The Great Wave off Kanagawa.jpg | ACT inception: 1831, Commons inception: 1930
+58624 | The Great Wave off Kanagawa.jpg | Disagreement between ACT and Commons on circa.
 58624 | Commons says name unknown, but ACT gives name: Hokusai Katsushika
-58826 | SantaCruz-CuevaManos-P2210651b.jpg | Inception date occurs in the future. Date: 9000-01-01T00:00:00Z
+58826 | SantaCruz-CuevaManos-P2210651b.jpg | Inception date occurs in the future. Date: 5500-01-01T00:00:00Z
 
 55547 | Low similarity ratio: 70 between ACT name: Rick Dikeman and Commons name: Rdikeman
 
 56107 | Low similarity ratio: 65 between ACT name: Rose Pecos-Sun Rhodes and Commons name: Jemez Pueblo Rose Pecos-SunRhodes
-
-49973 | Sacré-Cœur de Shizhi.jpg | no dates retrieved. Commons data: ["\nAround From 2001-12 to 2002-01"]
-49973 | Could not identify type (instance of)
 
 55136 | Le Mort devant son juge, Maitre de Rohan.jpg | ACT inception: 1432, Commons inception: 1450
 55136 | Le Mort devant son juge, Maitre de Rohan.jpg | Disagreement between ACT and Commons on circa.
 55136 | Le Mort devant son juge, Maitre de Rohan.jpg | ACT precision: 9, Commons precision: 7
 55136 | Low similarity ratio: 71 between ACT name: 15th cent. Rohan Master and Commons name: Maitre de Rohan / Rohan Master
 
-49939 | Baptistère kelisa-e-vank esfahan.jpg | no dates retrieved. Commons data: []
-
-55377 | Transfiguracion del Divino Salvador del Mundo.jpg | no dates retrieved. Commons data: ["\n5 August 2010"]
-
 54305 | Low similarity ratio: 33 between ACT name: Castera Bazile and Commons name: User:Doron
 
 56696 | Could not identify type (instance of)
 
-47895 | Fra Filippo Lippi - Madonna and Child with two Angels - Uffizi.jpg | ACT inception: 1445, Commons inception: 1460
-47895 | Fra Filippo Lippi - Madonna and Child with two Angels - Uffizi.jpg | Disagreement between ACT and Commons on circa.
+47895 | Fra Filippo Lippi - Madonna and Child with two Angels - Uffizi.jpg | ACT inception: 1462, Commons inception: 1460
 47895 | Fra Filippo Lippi - Madonna and Child with two Angels - Uffizi.jpg | ACT precision: 9, Commons precision: 8
-
-55175 | Tithe Barn Pilton.jpg | no dates retrieved. Commons data: ["\n2 August 2005"]
 
 48725 | Check ACT artist name (more than 4 parts)
 
-55931 | Julia A. J. Foote.jpg | no dates retrieved. Commons data: ["Unknown date", "Unknown date"]
-55931 | Could not identify type (instance of)
 55931 | ACT says author unidentified, but Commons gives name: Julia A. J. Foote
 58363 | Check ACT artist name (more than 4 parts)
 
-57990 | Low similarity ratio: 19 between ACT name: active approximately 1130-approximately 1180 Maître de Cabestany and Commons name: Guillem F-H
-
-57038 | Pedro García de Benabarre and workshop - Herod's Banquet - Google Art Project.jpg | ACT inception: 1477, Commons inception: 1470
-57038 | Low similarity ratio: 49 between ACT name: Pere Garcia de Benavarri and Commons name: Pedro García de Benabarre and workshop Documented 1445-1485
-
-55293 | Low similarity ratio: 67 between ACT name: of Minden Bertram and Commons name: Master Bertram
+57990 | Low similarity ratio: 18 between ACT name: ca.1130-1180. Maître de Cabestany and Commons name: Guillem F-H
 
 57774 | Low similarity ratio: 35 between ACT name: Jorge Luis Narea and Commons name: Agencia de Noticias ANDES/César Muñoz
-
-55642 | Philemon and Apphia.jpg | no dates retrieved. Commons data: []
-
-55696 | Could not identify type (instance of)
 
