@@ -1,20 +1,19 @@
-act_id,qid,filename
-49613,Q1516449,Jan van Eyck 070.jpg
-58829,Q978987,Statue bourgeois calais rodin.jpg
-49636,Q109422739,Apostles Christ ivory Louvre OA3850.jpg
-47775,Q3005521,Fra Angelico 031.jpg
-55115,Q55177712,Ecce homo by Antonio Ciseri (1).jpg
-46626,Q743643,Georges de La Tour 048.jpg
-47454,Q7811679,Filippino Lippi 016.jpg
-58435,Q746716,Narcissus-Caravaggio (1594-96) edited.jpg
-46655,Q602530,Gerard David 004.jpg
-47842,Q2529591,Fra Angelico 074.jpg
-47776,Q3005521,Fra Angelico 032.jpg
-57411,Q766782,Rembrandt Harmensz. van Rijn - Het Joodse bruidje.jpg
-58363,Q979440,Simone Martini and Lippo Memmi - The Annunciation and Two Saints - WGA15010.jpg
-55342,Q9019507,Konrad Witz 008.jpg
-47895,Q1055111,Fra Filippo Lippi - Madonna and Child with two Angels - Uffizi.jpg
-58363,Q979440,Simone Martini and Lippo Memmi - The Annunciation and Two Saints - WGA15010.jpg
-46131,Q3698180,Antonello da Messina 027.jpg
-57038,Q17301597,Pedro García de Benabarre and workshop - Herod's Banquet - Google Art Project.jpg
-55293,Q3613127,Meister Bertram von Minden 011.jpg
+act_id,good_qid,filename,bad qid,
+46131,Q3698180,Antonello da Messina 027.jpg,Q3235597,done
+49636,Q109422739,Apostles Christ ivory Louvre OA3850.jpg,Q87645685,"duplicates, merged to good qid"
+55115,Q55177712,Ecce homo by Antonio Ciseri (1).jpg,Q21074334,already done
+47454,Q7811679,Filippino Lippi 016.jpg,Q131737,done
+47775,Q3005521,Fra Angelico 031.jpg,Q44265,already done
+47776,Q3005521,Fra Angelico 032.jpg,Q379691,already done
+47842,Q2529591,Fra Angelico 074.jpg,Q309736,"bad qid is a closeup of larger good qid, didn't change"
+47895,Q1055111,Fra Filippo Lippi - Madonna and Child with two Angels - Uffizi.jpg,Q3148548,done
+46626,Q743643,Georges de La Tour 048.jpg,Q128267,done
+46655,Q602530,Gerard David 004.jpg,Q602530,did not seem to be needed to be fixed
+49613,Q1516449,Jan van Eyck 070.jpg,Q28740109,done
+55342,Q9019507,Konrad Witz 008.jpg,Q313183,done
+55293,Q3613127,Meister Bertram von Minden 011.jpg,Q3613127,already done
+58435,Q746716,Narcissus-Caravaggio (1594-96) edited.jpg,Q186529,done
+57038,Q17301597,Pedro García de Benabarre and workshop - Herod's Banquet - Google Art Project.jpg,Q17301597,already done
+57411,Q766782,Rembrandt Harmensz. van Rijn - Het Joodse bruidje.jpg,Q464863,done
+58363,Q979440,Simone Martini and Lippo Memmi - The Annunciation and Two Saints - WGA15010.jpg,Q3624153,done
+58829,Q978987,Statue bourgeois calais rodin.jpg,Q29273401,"the good qid is the broader set of statues, the bad one is the particular one pictured so I didn't change it"
