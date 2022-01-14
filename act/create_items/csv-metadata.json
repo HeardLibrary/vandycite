@@ -205,6 +205,14 @@
             "valueUrl": "http://www.wikidata.org/entity/{creator}"
           },
           {
+            "titles": "creator_object_has_role",
+            "name": "creator_object_has_role",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{creator_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/qualifier/P3831",
+            "valueUrl": "http://www.wikidata.org/entity/{creator_object_has_role}"
+          },
+          {
             "titles": "creator_ref1_hash",
             "name": "creator_ref1_hash",
             "datatype": "string",

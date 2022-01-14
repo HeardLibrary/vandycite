@@ -70,7 +70,13 @@
           "pid": "P170",
           "variable": "creator",
           "value_type": "item",
-          "qual": [],
+          "qual": [
+            {
+              "pid": "P3831",
+              "variable": "object_has_role",
+              "value_type": "item"
+            }
+          ],
           "ref": [
             {
               "pid": "P854",
