@@ -1,0 +1,2 @@
+?qid wdt:P50 ?author.
+?author wdt:P1416 wd:Q7914452.
