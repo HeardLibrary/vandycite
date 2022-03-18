@@ -1,0 +1,3 @@
+{?item wdt:P31 wd:Q1266946.} # thesis
+union
+{?item wdt:P31 wd:Q1385450.} # dissertation
