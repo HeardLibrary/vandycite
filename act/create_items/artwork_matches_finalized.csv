@@ -1,0 +1,48 @@
+act_id,act_title,title_match,qid,wikidata_label,act_artist,artist_match,wikidata_artist,notes
+46260,Christ before Pilate,100,Q64952432,Christ before Pilate,"Altdorfer, Albrecht, ca. 1480-1538",100,Albrecht Altdorfer,"print, not painting"
+46261,Rest on the flight into Egypt,90,Q64952528,The Rest on the Flight into Egypt,"Altdorfer, Albrecht, ca. 1480-1538",100,Albrecht Altdorfer,"print, not painting"
+46715,Waterlilies,87,Q3877090,Water Lilies,"Monet, Claude, 1840-1926",100,Claude Monet,
+46717,Salome with the head of John the Baptist,98,Q28031519,Salome with the Head of John the Baptist,"Dolci, Carlo, 1616-1686",100,Carlo Dolci,not exactly identical; bracelets 
+46718,Landscape with the Flight into Egypt,86,Q20188337,Landscape with the Rest on the Flight into Egypt,"Lorrain, Claude, 1600-1682",100,Claude Lorrain,
+46755,Mary Magdalene,96,Q3949115,Mary Magdalen,"Crivelli, Carlo, 15th cent.",100,Carlo Crivelli,not matched
+47460,Madonna and Child,100,Q4009968,Madonna and Child,"Angelico, fra, approximately 1400-1455",100,Fra Angelico,not matched
+47460,Madonna and Child,100,Q55085054,Madonna and Child,"Angelico, fra, approximately 1400-1455",100,Fra Angelico,not matched
+47837,Annunciation,100,Q2851765,Annunciation,"Angelico, fra, approximately 1400-1455",100,Fra Angelico,
+48740,Crucifixion,100,Q3698208,Crucifixion,"Bondone, Giotto di, 1266?-1337",100,Giotto,not matched
+49614,"Arnolfini Wedding, detail",100,Q110561832,"Arnolfini Wedding, detail","Eyck, Jan van, 1390-1440",100,Jan van Eyck,not matched
+49615,"Arnolfini Wedding, detail",100,Q110561832,"Arnolfini Wedding, detail","Eyck, Jan van, 1390-1440",100,Jan van Eyck,not matched
+49617,"Arnolfini Wedding, detail",100,Q110561832,"Arnolfini Wedding, detail","Eyck, Jan van, 1390-1440",100,Jan van Eyck,not matched
+49618,"Arnolfini Wedding, detail",100,Q110561832,"Arnolfini Wedding, detail","Eyck, Jan van, 1390-1440",100,Jan van Eyck,not matched 
+50629,David Playing the Harp before Saul,100,Q65023300,David Playing the Harp before Saul,"Lucas, van Leyden, 1494-1533 ",100,Lucas van Leyden,"not matched, different collection"
+50629,David Playing the Harp before Saul,100,Q76347918,David Playing the Harp before Saul,"Lucas, van Leyden, 1494-1533 ",100,Lucas van Leyden,"not matched, different collection"
+55189,Pentecost,100,Q3374931,Pentecost,"Bondone, Giotto di, 1266?-1337",100,Giotto,
+55350,Crossing Sweeper,89,Q7728190,The Crossing Sweeper,"Frith, William Powell, 1819-1909",100,William Powell Frith,
+55397,Right hand,90,Q63809245,Right Hand,"Rodin, Auguste, 1840-1917",100,Auguste Rodin,
+55408,"As the Old Sing, the Young Pipe",95,Q19753101,"As the Old Sing, So the Young Pipe","Jordaens, Jacob, 1593-1678",100,Jacob Jordaens,
+55456,Chris Carrying the Cross,94,Q27697660,Christ carrying the Cross,"Piombo, Sebastiano Luciani, known as del, 1485-1547",100,Sebastiano del Piombo,
+55462,Last Supper,85,Q98206970,The Last Supper,"Master Paul of Locse, active 1500-1520",86,Master S.,
+55472,Job's Evil Dreams,100,Q64962557,Job's Evil Dreams,"Blake, William, 1757-1827",100,William Blake,
+55496,Hand of God,100,Q63863745,Hand of God,"Rodin, Auguste, 1840-1917",100,Auguste Rodin,
+56315,Adoration of the Magi,100,Q4684623,Adoration of the Magi,"Rubens, Peter Paul, 1577-1640",100,Peter Paul Rubens,
+56410,Christ in the Wilderness,100,Q2354080,Christ in the Wilderness,"Kramskoi?, Ivan Nikolaevich, 1837-1887",100,Ivan Kramskoi,
+56583,Adams Memorial,100,Q351935,Adams Memorial,"Saint-Gaudens, Augustus, 1848-1907",100,Augustus Saint-Gaudens,
+56804,Crucifixion,100,Q490312,Crucifixion,"Tintoretto, Jacopo, 1518-1594",100,Tintoretto,
+57262,Grandes Heures of Anne of Brittany,100,Q999790,Grandes Heures of Anne of Brittany,"Bourdichon, Jean, 1457?-1521?",100,Jean Bourdichon,not matched
+57686,Job and His Family,100,Q64962538,Job and His Family,"Blake, William, 1757-1827",100,William Blake,
+57687,Satan Before the Throne of God,100,Q64962716,Satan Before the Throne of God,"Blake, William, 1757-1827",100,William Blake,
+57688,Satan Before the Throne of God,100,Q64962540,Satan Before the Throne of God,"Blake, William, 1757-1827",100,William Blake,
+57691,Messengers Tell Job of His Misfortunes,95,Q64962544,The Messengers Tell Job of His Misfortunes,"Blake, William, 1757-1827",100,William Blake,
+57692,Messengers Tell Job of His Misfortunes,95,Q64962721,The Messengers Tell Job of His Misfortunes,"Blake, William, 1757-1827",100,William Blake,
+57693,Satan Going Forth from the Presence of the Lord,100,Q64962723,Satan Going Forth from the Presence of the Lord,"Blake, William, 1757-1827",100,William Blake,
+57695,Satan Going Forth From the Presence of the Lord,98,Q64962545,Satan Going Forth from the Presence of the Lord,"Blake, William, 1757-1827",100,William Blake,
+57698,Vision of Eliphaz,89,Q64962554,The Vision of Eliphaz,"Blake, William, 1757-1827",100,William Blake,
+57699,Job Rebuked by His Friends,100,Q64962735,Job Rebuked by His Friends,"Blake, William, 1757-1827",100,William Blake,
+57701,Wrath of Elihu,88,Q64962738,The Wrath of Elihu,"Blake, William, 1757-1827",100,William Blake,
+57703,Behemoth and Leviathan,100,Q64962563,Behemoth and Leviathan,"Blake, William, 1757-1827",100,William Blake,
+57704,Lord Answers Job Out of the Whirlwind,88,Q64962559,The Lord Answering Job out of the Whirlwind,"Blake, William, 1757-1827",100,William Blake,
+57705,Fall of Satan,87,Q64962566,The Fall of Satan,"Blake, William, 1757-1827",100,William Blake,
+57709,Job and His Daughters,100,Q64962574,Job and His Daughters,"Blake, William, 1757-1827",100,William Blake,
+57710,Job and His Family Restored to Prosperity,90,Q64962576,Job and His Wife Restored to Prosperity,"Blake, William, 1757-1827",100,William Blake,
+57742,Spirit of Justice,100,Q17062455,Spirit of Justice,"Jennewein, Carl Paul, 1890-1978",93,C. Paul Jennewein,
+57969,Healing of the Lame Man,92,Q77926299,The Healing of the Lame Man,"Raphael, 1483-1520",100,Raphael,
+57982,Christ Preaching (The Hundred Guilder Print),100,Q65082088,Christ Preaching (The Hundred Guilder Print),"Rembrandt Harmenszoon van Rijn, 1606-1669",100,Rembrandt,
