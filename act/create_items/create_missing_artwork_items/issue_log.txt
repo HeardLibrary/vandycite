@@ -1,0 +1,2336 @@
+46139 | Andrea Mantegna 009.jpg | Disagreement between ACT and Commons on circa.
+
+46152 | Andrea Mantegna 103.jpg | ACT inception: 1496, Commons inception: 1495
+46152 | Andrea Mantegna 103.jpg | ACT precision: 9, Commons precision: 8
+
+46160 | Andrea Mantegna 025.jpg | ACT inception: 1459, Commons inception: 1450
+46160 | Andrea Mantegna 025.jpg | ACT precision: 9, Commons precision: 7
+
+46163 | Andrea Mantegna 017.jpg | ACT precision: 9, Commons precision: 8
+46163 | Could not identify type (instance of)
+
+46164 | Andrea Mantegna 015.jpg | ACT precision: 9, Commons precision: 8
+46164 | Could not identify type (instance of)
+
+46165 | Andrea Mantegna 013.jpg | ACT precision: 9, Commons precision: 8
+46165 | Could not identify type (instance of)
+
+46166 | Alexander Andrejewitsch Iwanow 003.jpg | ACT inception: 1847, Commons inception: 1850
+46166 | Alexander Andrejewitsch Iwanow 003.jpg | ACT precision: 9, Commons precision: 7
+46166 | Low similarity ratio: 65 between ACT name: Aleksandr Andreevich Ivanov and Commons name: Alexander Ivanov
+
+46207 | Andrea Mantegna 012.jpg | Disagreement between ACT and Commons on circa.
+
+46212 | Antonello da Messina 005.jpg | Disagreement between ACT and Commons on circa.
+
+46215 | Antonello da Messina - St Jerome in his study - National Gallery London - detail.jpg | ACT inception: 1474, Commons inception: 1475
+46215 | Antonello da Messina - St Jerome in his study - National Gallery London - detail.jpg | Disagreement between ACT and Commons on circa.
+
+46218 | Adalpertus 001.jpg | Disagreement between ACT and Commons on circa.
+
+46221 | Andrea Mantegna 002.jpg | Disagreement between ACT and Commons on circa.
+
+46230 | Low similarity ratio: 65 between ACT name: Aleksandr Andreevich Ivanov and Commons name: Alexander Ivanov
+
+46239 | Abram Jefimowitsch Archipow 002.jpg | Disagreement between ACT and Commons on circa.
+
+46250 | Giotto di Bondone 038.jpg | ACT inception: 1305, Commons inception: 1304
+46250 | Giotto di Bondone 038.jpg | ACT precision: 9, Commons precision: 8
+
+46263 | Albrecht Altdorfer - Kreuzigung Detail (Gemäldegalerie Alte Meister Kassel).jpg | ACT inception: 1515, Commons inception: 1512
+46263 | Albrecht Altdorfer - Kreuzigung Detail (Gemäldegalerie Alte Meister Kassel).jpg | Disagreement between ACT and Commons on circa.
+
+46264 | Could not identify type (instance of)
+
+46271 | Albrecht Dürer 068.jpg | ACT inception: 1504, Commons inception: 1503
+46271 | Albrecht Dürer 068.jpg | Disagreement between ACT and Commons on circa.
+46271 | Albrecht Dürer 068.jpg | ACT precision: 9, Commons precision: 7
+46271 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
+
+46276 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
+
+46304 | Albrecht Dürer 006.jpg | ACT inception: 1491, Commons inception: 1492
+46304 | Albrecht Dürer 006.jpg | Disagreement between ACT and Commons on circa.
+46304 | Albrecht Dürer 006.jpg | ACT precision: 9, Commons precision: 8
+46304 | Albrecht Dürer 006.jpg | ACT date range: 1490-1493, Commons date range: 1492-1494
+46304 | Low similarity ratio: 9 between ACT name: Albrecht Dürer and Commons name: Possibly
+
+46323 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
+
+46325 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
+
+46412 | Low similarity ratio: 64 between ACT name: di Lese Benozzo and Commons name: Benozzo Gozzoli
+
+46416 | Byzantinischer Mosaizist um 1000 001.jpg | Disagreement between ACT and Commons on circa.
+
+46417 | Byzantinischer Mosaizist um 1000 002.jpg | Disagreement between ACT and Commons on circa.
+
+46450 | Could not identify type (instance of)
+
+46465 | Carlo Crivelli 055.jpg | Disagreement between ACT and Commons on circa.
+
+46491 | Carlo Crivelli 057.jpg | Disagreement between ACT and Commons on circa.
+
+46511 | Guido Reni 042.jpg | ACT inception: 1641, Commons inception: 1640
+46511 | Guido Reni 042.jpg | ACT precision: 9, Commons precision: 8
+
+46521 | Giotto di Bondone 036.jpg | ACT inception: 1305, Commons inception: 1304
+46521 | Giotto di Bondone 036.jpg | ACT precision: 9, Commons precision: 8
+
+46524 | Giotto di Bondone 085.jpg | Disagreement between ACT and Commons on circa.
+
+46525 | Jan van Eyck 056.jpg | Disagreement between ACT and Commons on circa.
+
+46554 | Guido Reni 044.jpg | Disagreement between ACT and Commons on circa.
+
+46559 | Low similarity ratio: 69 between ACT name: ca. 1310-ca. 1370 Guariento and Commons name: Guariento di Arpo
+
+46561 | Guido Reni Neapolitan Baroque painting (1630–1642).jpg | ACT inception: 1636, Commons inception: 1641
+46561 | Guido Reni Neapolitan Baroque painting (1630–1642).jpg | ACT precision: 9, Commons precision: 8
+46561 | Guido Reni Neapolitan Baroque painting (1630–1642).jpg | ACT date range: 1630-1642, Commons date range: 1641-1642
+
+46562 | Guido Reni 003.jpg | ACT inception: 1636, Commons inception: 1641
+46562 | Guido Reni 003.jpg | ACT precision: 9, Commons precision: 8
+46562 | Guido Reni 003.jpg | ACT date range: 1630-1642, Commons date range: 1641-1642
+
+46566 | Giotto di Bondone 010.jpg | ACT inception: 1305, Commons inception: 1304
+46566 | Giotto di Bondone 010.jpg | ACT precision: 9, Commons precision: 8
+
+46588 | Bernt Notke 002.jpg | Disagreement between ACT and Commons on circa.
+
+46605 | Bayerischer Meister 001.jpg | Disagreement between ACT and Commons on circa.
+
+46609 | Bernaerd van Orley 006.jpg | ACT inception: 1525, Commons inception: 1550
+46609 | Bernaerd van Orley 006.jpg | Disagreement between ACT and Commons on circa.
+46609 | Bernaerd van Orley 006.jpg | ACT precision: 9, Commons precision: 7
+
+46614 | Could not identify type (instance of)
+
+46620 | Georges de La Tour - The New-born (detail, Musée des Beaux-Arts de Rennes).jpg | ACT inception: 1646, Commons inception: 1645
+46620 | Georges de La Tour - The New-born (detail, Musée des Beaux-Arts de Rennes).jpg | Disagreement between ACT and Commons on circa.
+46620 | Georges de La Tour - The New-born (detail, Musée des Beaux-Arts de Rennes).jpg | ACT precision: 9, Commons precision: 8
+
+46624 | Georges de La Tour 047.jpg | ACT inception: 1637, Commons inception: 1650
+46624 | Georges de La Tour 047.jpg | ACT precision: 9, Commons precision: 7
+46624 | Georges de La Tour 047.jpg | ACT date range: 1625-1650, Commons date range: 1624-1650
+
+46633 | Low similarity ratio: 64 between ACT name: di Lese Benozzo and Commons name: Benozzo Gozzoli
+
+46658 | Duccio di Buoninsegna 060.jpg | ACT inception: 1309, Commons inception: 1350
+46658 | Duccio di Buoninsegna 060.jpg | ACT precision: 9, Commons precision: 7
+46658 | Could not identify type (instance of)
+
+46673 | Gillis van Coninxloo 001.jpg | ACT inception: 1590, Commons inception: 1550
+46673 | Gillis van Coninxloo 001.jpg | Disagreement between ACT and Commons on circa.
+46673 | Gillis van Coninxloo 001.jpg | ACT precision: 9, Commons precision: 7
+
+46687 | Low similarity ratio: 67 between ACT name: Giovanni Bellini and Commons name: Giovanni di Niccolò Mansueti
+
+46698 | Jan de Beer 001.jpg | Disagreement between ACT and Commons on circa.
+
+46703 | Constant Troyon 003.jpg | Disagreement between ACT and Commons on circa.
+
+46714 | Carlo Crivelli 002.jpg | Disagreement between ACT and Commons on circa.
+
+46722 | Low similarity ratio: 92 between ACT name: Karl Spitzweg and Commons name: Carl Spitzweg
+
+46739 | Französischer Meister um 1675 001.jpg | Disagreement between ACT and Commons on circa.
+
+46741 | Giotto di Bondone 013.jpg | ACT inception: 1305, Commons inception: 1304
+46741 | Giotto di Bondone 013.jpg | ACT precision: 9, Commons precision: 8
+
+46754 | Carlo Crivelli 018.jpg | Disagreement between ACT and Commons on circa.
+
+46769 | Gentile da Fabriano 071.jpg | Disagreement between ACT and Commons on circa.
+
+46770 | Gentile da Fabriano 076.jpg | Disagreement between ACT and Commons on circa.
+
+46771 | Gentile da Fabriano 054.jpg | Disagreement between ACT and Commons on circa.
+
+46772 | Gentile da Fabriano 055.jpg | Disagreement between ACT and Commons on circa.
+
+46773 | Gentile da Fabriano 053.jpg | Disagreement between ACT and Commons on circa.
+
+46774 | Gentile da Fabriano 049.jpg | Disagreement between ACT and Commons on circa.
+
+46785 | Carlo Crivelli 015.jpg | Disagreement between ACT and Commons on circa.
+
+46787 | Carlo Crivelli 004.jpg | Disagreement between ACT and Commons on circa.
+
+46807 | Christian Wilhelm Ernst Dietrich 001.jpg | Disagreement between ACT and Commons on circa.
+
+46992 | Low similarity ratio: 64 between ACT name: 1489?-1534 Correggio and Commons name: Antonio da Correggio
+
+46994 | Correggio-Saints Peter, Martha, Mary Magdalen, and Leonard.jpg | ACT inception: 1517, Commons inception: 1510
+46994 | Correggio-Saints Peter, Martha, Mary Magdalen, and Leonard.jpg | ACT precision: 9, Commons precision: 8
+46994 | Low similarity ratio: 64 between ACT name: 1489?-1534 Correggio and Commons name: Antonio da Correggio
+
+46997 | Low similarity ratio: 64 between ACT name: 1489?-1534 Correggio and Commons name: Antonio da Correggio
+
+46999 | Cimabue - Christ Enthroned between the Virgin and St John the Evangelist (detail) - WGA04939.jpg | ACT precision: 9, Commons precision: 8
+46999 | Could not identify type (instance of)
+
+47003 | Low similarity ratio: 94 between ACT name: Claes Cornelisz Moeyaert and Commons name: Claes Corneliszoon Moeyaert
+
+47004 | Cimabue 020.jpg | ACT inception: 1279, Commons inception: 1250
+47004 | Cimabue 020.jpg | ACT precision: 9, Commons precision: 7
+
+47005 | Could not identify type (instance of)
+47005 | Low similarity ratio: 24 between ACT name: Cimabue and Commons name: No machine-readable author provided.
+
+47013 | Correggio 003.jpg | Disagreement between ACT and Commons on circa.
+47013 | Low similarity ratio: 64 between ACT name: 1489?-1534 Correggio and Commons name: Antonio da Correggio
+
+47015 | Jan Victors 002.jpg | Disagreement between ACT and Commons on circa.
+
+47413 | Giotto di Bondone 033.jpg | ACT inception: 1305, Commons inception: 1304
+47413 | Giotto di Bondone 033.jpg | ACT precision: 9, Commons precision: 8
+
+47419 | Ferdinand Bol 001.jpg | ACT precision: 9, Commons precision: 7
+
+47420 | Federico Zuccari 001.jpg | Disagreement between ACT and Commons on circa.
+
+47421 | Low similarity ratio: 81 between ACT name: Ferdinand Georg Waldmüller and Commons name: Ferdinand Georg Waldmüller
+
+47422 | Low similarity ratio: 81 between ACT name: Ferdinand Georg Waldmüller and Commons name: Ferdinand Georg Waldmüller
+
+47426 | Ferdinand Olivier 003.jpg | Disagreement between ACT and Commons on circa.
+
+47449 | Giotto di Bondone - Pietà, Detail.jpg | ACT inception: 1365, Commons inception: 1300
+47449 | Giotto di Bondone - Pietà, Detail.jpg | Disagreement between ACT and Commons on circa.
+
+47450 | Französischer Meister um 1390 001.jpg | Disagreement between ACT and Commons on circa.
+
+47451 | Low similarity ratio: 94 between ACT name: Claes Cornelisz Moeyaert and Commons name: Claes Corneliszoon Moeyaert
+
+47679 | Could not identify type (instance of)
+
+47680 | Fra Angelico 003.jpg | Disagreement between ACT and Commons on circa.
+
+47681 | Fra Angelico 005.jpg | Disagreement between ACT and Commons on circa.
+
+47684 | Fra Angelico 008.jpg | Disagreement between ACT and Commons on circa.
+
+47765 | Fra Angelico 007.jpg | Disagreement between ACT and Commons on circa.
+
+47768 | Fra Angelico 024.jpg | ACT inception: 1450, Commons inception: 1441
+47768 | Fra Angelico 024.jpg | ACT precision: 9, Commons precision: 8
+
+47828 | Low similarity ratio: 27 between ACT name: fra Angelico and Commons name: {{creator:|Permission=
+
+47831 | Low similarity ratio: 27 between ACT name: fra Angelico and Commons name: {{creator:|Permission=
+
+47832 | Low similarity ratio: 27 between ACT name: fra Angelico and Commons name: {{creator:|Permission=
+
+47833 | Fra Angelico 046.jpg | Disagreement between ACT and Commons on circa.
+47833 | Fra Angelico 046.jpg | ACT precision: 9, Commons precision: 7
+
+47834 | Low similarity ratio: 27 between ACT name: fra Angelico and Commons name: {{creator:|Permission=
+
+47839 | Fra Angelico 059.jpg | ACT precision: 9, Commons precision: 7
+
+47899 | Low similarity ratio: 67 between ACT name: Francesco Salviati and Commons name: Francesco de' Rossi
+
+48046 | El Greco 014.jpg | Disagreement between ACT and Commons on circa.
+48046 | Low similarity ratio: 77 between ACT name: 1541?-1614 Greco and Commons name: El Greco
+
+48066 | Low similarity ratio: 10 between ACT name: Master of the School of Tavara Emetrius and Commons name: Ende
+
+48071 | Low similarity ratio: 94 between ACT name: Eugène Delacroix and Commons name: Eugène Delacroix
+
+48075 | Edward Hicks 001.jpg | Disagreement between ACT and Commons on circa.
+
+48716 | Check ACT artist name (more than 4 parts)
+
+48717 | Check ACT artist name (more than 4 parts)
+
+48719 | Check ACT artist name (more than 4 parts)
+
+48720 | Check ACT artist name (more than 4 parts)
+48720 | Low similarity ratio: 80 between ACT name: Hubert van Eyck and Commons name: Jan van Eyck
+
+48721 | Check ACT artist name (more than 4 parts)
+48721 | Low similarity ratio: 80 between ACT name: Hubert van Eyck and Commons name: Jan van Eyck
+
+48722 | Check ACT artist name (more than 4 parts)
+
+48723 | Check ACT artist name (more than 4 parts)
+
+48724 | Check ACT artist name (more than 4 parts)
+48724 | Low similarity ratio: 80 between ACT name: Hubert van Eyck and Commons name: Jan van Eyck
+
+48727 | Check ACT artist name (more than 4 parts)
+
+48728 | Check ACT artist name (more than 4 parts)
+
+48729 | Hubert van Eyck 010.jpg | ACT inception: 1429, Commons inception: 1432
+48729 | Check ACT artist name (more than 4 parts)
+48729 | Low similarity ratio: 80 between ACT name: Hubert van Eyck and Commons name: Jan van Eyck
+
+48730 | Check ACT artist name (more than 4 parts)
+
+48741 | Jan van Eyck 055.jpg | Disagreement between ACT and Commons on circa.
+
+48980 | Iranischer Meister 001.jpg | Disagreement between ACT and Commons on circa.
+
+48985 | Low similarity ratio: 73 between ACT name: Isaak Ilʹich Levitan and Commons name: Isaac Levitan
+
+48987 | Low similarity ratio: 73 between ACT name: Isaak Ilʹich Levitan and Commons name: Isaac Levitan
+
+48990 | Italo-Byzantinischer Meister 001.jpg | Disagreement between ACT and Commons on circa.
+
+48991 | Italo-Byzantinischer Meister 002.jpg | Disagreement between ACT and Commons on circa.
+
+49129 | Low similarity ratio: 32 between ACT name: Domenico Ghirlandaio and Commons name: Yair Haklai
+
+49142 | Low similarity ratio: 93 between ACT name: Diego Velázquez and Commons name: Diego Velázquez
+
+49144 | Deutscher Meister um 1650 001.jpg | Disagreement between ACT and Commons on circa.
+
+49146 | Dieric Bouts 004.jpg | ACT inception: 1467, Commons inception: 1465
+49146 | Dieric Bouts 004.jpg | Disagreement between ACT and Commons on circa.
+
+49151 | Duccio di Buoninsegna 069.jpg | ACT inception: 1309, Commons inception: 1350
+49151 | Duccio di Buoninsegna 069.jpg | ACT precision: 9, Commons precision: 7
+
+49156 | Duccio di Buoninsegna 033.jpg | ACT inception: 1309, Commons inception: 1350
+49156 | Duccio di Buoninsegna 033.jpg | ACT precision: 9, Commons precision: 7
+
+49246 | Low similarity ratio: 30 between ACT name: Hieronymus Bosch and Commons name: Workshop of
+
+49255 | Duccio di Buoninsegna 032.jpg | ACT inception: 1309, Commons inception: 1350
+49255 | Duccio di Buoninsegna 032.jpg | ACT precision: 9, Commons precision: 7
+
+49484 | Jacopo Pontormo 067.jpg | ACT inception: 1527, Commons inception: 1525
+
+49485 | Jacopo Pontormo 068.jpg | ACT inception: 1527, Commons inception: 1526
+
+49586 | Jacquemart de Hesdin 001.jpg | Disagreement between ACT and Commons on circa.
+
+49591 | Jan Baegert 001.jpg | no dates retrieved. Commons data: ["Deutsch:", "1. Viertel 16. Jh.", "English:", "1st quarter of 16th century"]
+
+49602 | Low similarity ratio: 92 between ACT name: Jaime Huguet and Commons name: Jaume Huguet
+
+49609 | Jan Victors 001.jpg | Disagreement between ACT and Commons on circa.
+
+49611 | Jan Victors 003.jpg | Disagreement between ACT and Commons on circa.
+
+49620 | Check ACT artist name (more than 4 parts)
+49620 | Low similarity ratio: 80 between ACT name: Hubert van Eyck and Commons name: Jan van Eyck
+
+49622 | Hubert van Eyck 008.jpg | ACT inception: 1429, Commons inception: 1450
+49622 | Hubert van Eyck 008.jpg | Disagreement between ACT and Commons on circa.
+49622 | Hubert van Eyck 008.jpg | ACT precision: 9, Commons precision: 7
+49622 | Check ACT artist name (more than 4 parts)
+
+49623 | Hubert van Eyck 009.jpg | ACT inception: 1429, Commons inception: 1432
+49623 | Check ACT artist name (more than 4 parts)
+
+49625 | Hubert van Eyck 011.jpg | ACT inception: 1429, Commons inception: 1432
+49625 | Check ACT artist name (more than 4 parts)
+
+49626 | Check ACT artist name (more than 4 parts)
+
+49629 | Agape feast 03.jpg | ACT inception: 250, Commons inception: 350
+
+49644 | Could not identify type (instance of)
+
+49938 | CLUNY-Retable St Denis dt1.JPG | no dates retrieved. Commons data: []
+
+49941 | Could not identify type (instance of)
+
+49942 | Could not identify type (instance of)
+
+49945 | Catacombes Paris.JPG | no dates retrieved. Commons data: []
+49945 | Could not identify type (instance of)
+
+49946 | Could not identify type (instance of)
+
+49947 | Christ teacher.jpg | ACT inception: 250, Commons inception: 350
+
+49951 | Could not identify type (instance of)
+
+49952 | Detail croix qara kelisa iran.jpg | no dates retrieved. Commons data: ["6 June 2005\u00a0(according to", "Exif", "data)"]
+49952 | Could not identify type (instance of)
+
+49953 | Could not identify type (instance of)
+
+49956 | Could not identify type (instance of)
+
+49958 | Could not identify type (instance of)
+
+49959 | Could not identify type (instance of)
+
+49960 | Could not identify type (instance of)
+
+49961 | Could not identify type (instance of)
+
+49962 | Could not identify type (instance of)
+
+49964 | Could not identify type (instance of)
+
+49965 | Kalkmaleri 1 Bregninge Kirke.jpg | no dates retrieved. Commons data: []
+49965 | Could not identify type (instance of)
+
+49966 | Kalkmaleri 2 Bregninge Kirke.jpg | no dates retrieved. Commons data: []
+49966 | Could not identify type (instance of)
+
+49967 | Kapernaum Gedaechtniskirche Speyer.jpg | no dates retrieved. Commons data: ["\nNovember 2005"]
+49967 | Could not identify type (instance of)
+
+49970 | Could not identify type (instance of)
+
+49972 | Nørre.Helev.jpg | no dates retrieved. Commons data: []
+49972 | Could not identify type (instance of)
+
+49976 | Could not identify type (instance of)
+
+49977 | Sant'Ignazio - affresco soffitto -antmoose.jpg | ACT inception: 1650, Commons inception: 1690
+49977 | Sant'Ignazio - affresco soffitto -antmoose.jpg | ACT precision: 7, Commons precision: 9
+
+49978 | Sarcophage à arbres, Louvre 00.JPG | ACT inception: 300, Commons inception: 350
+49978 | Could not identify type (instance of)
+
+49980 | Could not identify type (instance of)
+
+49981 | Could not identify type (instance of)
+
+49982 | Could not identify type (instance of)
+
+49983 | Could not identify type (instance of)
+
+49984 | Could not identify type (instance of)
+
+49986 | Could not identify type (instance of)
+
+49987 | Could not identify type (instance of)
+
+49988 | Could not identify type (instance of)
+
+49989 | Could not identify type (instance of)
+
+49990 | Could not identify type (instance of)
+
+49991 | Could not identify type (instance of)
+
+50210 | Could not identify type (instance of)
+
+50216 | Merritt Anna Lea Eve 1885 Oil On Canvas-large.jpg | ACT inception: 1900, Commons inception: 1885
+
+50218 | First Four Articles of the Creed tapestry.jpg | ACT inception: 1487, Commons inception: 1500
+50218 | First Four Articles of the Creed tapestry.jpg | ACT precision: 9, Commons precision: 6
+50218 | Could not identify type (instance of)
+
+54104 | Check ACT artist name (more than 4 parts)
+
+54139 | The Last Supper MET sf32-100-143s1.jpg | ACT inception: 1515, Commons inception: 1500
+54139 | The Last Supper MET sf32-100-143s1.jpg | Disagreement between ACT and Commons on circa.
+
+54169 | Low similarity ratio: 31 between ACT name: Giovanni Battista Gaulli and Commons name: No machine-readable author provided.
+
+54171 | Jan Brueghel the Younger Paradise.jpg | ACT inception: 1620, Commons inception: 1650
+54171 | Jan Brueghel the Younger Paradise.jpg | Disagreement between ACT and Commons on circa.
+54171 | Low similarity ratio: 63 between ACT name: Jan Bruegel and Commons name: Jan Brueghel the Younger
+
+54177 | Could not identify type (instance of)
+
+54179 | Jan Victors - Esther en Haman voor Ahasverus.jpg | ACT inception: 1639, Commons inception: 1650
+54179 | Jan Victors - Esther en Haman voor Ahasverus.jpg | ACT precision: 9, Commons precision: 7
+
+54223 | Low similarity ratio: 13 between ACT name: 1386?-1466 Donatello and Commons name: Yair Haklai
+
+54231 | Check ACT artist name (more than 4 parts)
+
+54235 | Low similarity ratio: 31 between ACT name: Charles LePlae and Commons name: Jules Grandgagnage
+
+54254 | Could not identify type (instance of)
+
+54257 | Could not identify type (instance of)
+
+54277 | Schadow,FW-Die klugen und törichten Jungfrauen-2.JPG | ACT inception: 1840, Commons inception: 1850
+54277 | Schadow,FW-Die klugen und törichten Jungfrauen-2.JPG | ACT precision: 9, Commons precision: 7
+
+54282 | 'Joseph's Dream', painting by Gaetano Gandolfi, c. 1790.jpg | Disagreement between ACT and Commons on circa.
+
+54304 | Brooklyn Museum - Jesus Tempted in the Wilderness (Jésus tenté dans le désert) - James Tissot - overall.jpg | ACT inception: 1890, Commons inception: 1850
+54304 | Brooklyn Museum - Jesus Tempted in the Wilderness (Jésus tenté dans le désert) - James Tissot - overall.jpg | Disagreement between ACT and Commons on circa.
+54304 | Brooklyn Museum - Jesus Tempted in the Wilderness (Jésus tenté dans le désert) - James Tissot - overall.jpg | ACT precision: 9, Commons precision: 7
+
+54361 | Alexandr Ivanov 075.jpg | Disagreement between ACT and Commons on circa.
+54361 | Alexandr Ivanov 075.jpg | ACT precision: 9, Commons precision: 7
+
+54449 | PorecFotoThalerTamas14.jpg | no dates retrieved. Commons data: ["\n24 May 2010"]
+54449 | Could not identify type (instance of)
+
+54450 | KellsFol033rCarpetPage v2.jpg | no dates retrieved. Commons data: []
+54450 | Could not identify type (instance of)
+
+54452 | Armenian Catholicossate of Cilicia - khatchkar.jpg | no dates retrieved. Commons data: ["\n8 May 2006, 12:02:04"]
+
+54456 | Matenadaran 3.jpg | no dates retrieved. Commons data: ["\n27 August 2012"]
+
+54457 | Presentation of Christ in the Temple - Psalter of Queen Melisende (1131-1143), f.3 - BL Egerton MS 1139.jpg | ACT inception: 1137, Commons inception: 1150
+54457 | Presentation of Christ in the Temple - Psalter of Queen Melisende (1131-1143), f.3 - BL Egerton MS 1139.jpg | ACT precision: 9, Commons precision: 7
+
+54475 | Pilgrim flask St. Menas Louvre MN1469.jpg | ACT inception: 600, Commons inception: 650
+54475 | Could not identify type (instance of)
+
+54476 | Embellished Manuscript Page at the Monastery of Na’akuto La’ab (3418742275).jpg | no dates retrieved. Commons data: ["\n2 November 2007, 15:27"]
+
+54539 | Could not identify type (instance of)
+
+54557 | ACT says author unidentified, but Commons gives name: Gryffindor
+54588 | Could not identify type (instance of)
+
+54600 | Could not identify type (instance of)
+
+54619 | Meister von Sopocani 001.jpg | ACT inception: 1266, Commons inception: 1235
+54619 | Meister von Sopocani 001.jpg | Disagreement between ACT and Commons on circa.
+
+54626 | Low similarity ratio: 51 between ACT name: Master of the School of Tavara and Commons name: Creator:Magius (Meister der Schule von Távara)
+
+54633 | Tesoro de Guarrazar (M.A.N. Madrid) 01b.jpg | Disagreement between ACT and Commons on circa.
+54633 | Tesoro de Guarrazar (M.A.N. Madrid) 01b.jpg | ACT precision: 9, Commons precision: 7
+54633 | Could not identify type (instance of)
+
+54710 | Samaritaner-serie.jpg | no dates retrieved. Commons data: ["\nMay 2000"]
+54710 | Could not identify type (instance of)
+
+54712 | The Good Samaritan - geograph.org.uk - 714046.jpg | no dates retrieved. Commons data: ["\n4 March 2008"]
+
+54716 | Low similarity ratio: 35 between ACT name: Unknown artist and Commons name: Meester van de Barmhartige Samaritaan
+
+54718 | Low similarity ratio: 25 between ACT name: David Teniers and Commons name: Workshop of
+
+54720 | De barmhartige Samaritaan Frank Letterie Dorpsstraat Putten.jpg | no dates retrieved. Commons data: ["\n24 July 2010"]
+54720 | Could not identify type (instance of)
+
+54721 | Low similarity ratio: 38 between ACT name: Piet Esser and Commons name: japiot
+
+54724 | Kaiser Franz Joseph Spital6.JPG | no dates retrieved. Commons data: ["\n2007"]
+54724 | Check ACT artist name (more than 4 parts)
+54724 | Low similarity ratio: 23 between ACT name: Elisabeth Turolt and Commons name: Buchhändler
+
+54725 | Kaiser Franz Joseph Spital5.JPG | no dates retrieved. Commons data: ["\n2007"]
+54725 | Check ACT artist name (more than 4 parts)
+54725 | Low similarity ratio: 23 between ACT name: Elisabeth Turolt and Commons name: Buchhändler
+
+54726 | Barmhartige Samaritaan - Sint Anthonis.JPG | no dates retrieved. Commons data: ["\n27 November 2009"]
+54726 | Low similarity ratio: 18 between ACT name: Gerard Bruning and Commons name: Erik1980
+
+54728 | Moritz Schulz-Samariter.jpg | Disagreement between ACT and Commons on circa.
+54728 | Low similarity ratio: 45 between ACT name: Moritz Schultz and Commons name: Sculptor:
+
+54729 | Nordenskirker Slaghellig(25).jpg | no dates retrieved. Commons data: ["\n29 February 2008"]
+54729 | Could not identify type (instance of)
+
+54730 | Could not identify type (instance of)
+54730 | Low similarity ratio: 27 between ACT name: Heinrich Aldegrever and Commons name: User:FA2010
+
+54733 | Jheronimus Bosch Allegories 2 (before restoration).jpg | ACT inception: 1514, Commons inception: 1550
+54733 | Jheronimus Bosch Allegories 2 (before restoration).jpg | Disagreement between ACT and Commons on circa.
+54733 | Jheronimus Bosch Allegories 2 (before restoration).jpg | ACT precision: 9, Commons precision: 7
+
+54749 | Could not identify type (instance of)
+54749 | Low similarity ratio: 88 between ACT name: Bernardo Martorell and Commons name: Bernat Martorell
+
+54754 | Samaritánka.JPG | no dates retrieved. Commons data: []
+
+54759 | Biberach Pfarrkirche Decke Seitenschiff Jesus und Samariterin.jpg | no dates retrieved. Commons data: ["\nSeptember 2009"]
+54759 | Could not identify type (instance of)
+
+54760 | Bamberg St Jakob Gespräch am Jakobsbrunnen.jpg | no dates retrieved. Commons data: ["\nSeptember 2008"]
+54760 | Could not identify type (instance of)
+
+54761 | Could not identify type (instance of)
+
+54764 | Samaritana di Pietro Benvenuti.jpg | no dates retrieved. Commons data: []
+
+54765 | Cristo e la Samaritana al pozzo.jpg | no dates retrieved. Commons data: []
+54765 | Low similarity ratio: 20 between ACT name: Andrea Pozzo and Commons name: RobyBS89
+
+54767 | Could not identify type (instance of)
+
+54787 | Christ-and-the-Samaritan-woman-24042008.jpg | no dates retrieved. Commons data: []
+
+54793 | Parable of the Lost Drachma by Fetti.jpg | ACT inception: 1620, Commons inception: 1650
+54793 | Parable of the Lost Drachma by Fetti.jpg | Disagreement between ACT and Commons on circa.
+54793 | Parable of the Lost Drachma by Fetti.jpg | ACT precision: 9, Commons precision: 7
+
+54810 | Espinosa-sacrificiodeisaac.jpg | ACT inception: 1604, Commons inception: 1650
+54810 | Espinosa-sacrificiodeisaac.jpg | ACT precision: 9, Commons precision: 7
+
+54811 | G. ter Borch the Elder The Sacrifice of Abraham 1618-1619.jpg | ACT precision: 9, Commons precision: 8
+
+54813 | Juan de Valdés Leal , Sacrifice of Isaac 01.jpg | ACT inception: 1658, Commons inception: 1657
+54813 | Juan de Valdés Leal , Sacrifice of Isaac 01.jpg | ACT precision: 9, Commons precision: 8
+
+54815 | Lambrechtshagen Kirche Empore1.jpg | no dates retrieved. Commons data: ["\n26 September 2010"]
+
+54818 | Petschow Kirche Fresco 12.jpg | no dates retrieved. Commons data: ["\n20 December 2008"]
+
+54826 | CapitelsacrificiodeIsaac.JPG | no dates retrieved. Commons data: ["\n24 April 2010"]
+
+54829 | Could not identify type (instance of)
+
+54830 | Vitrail Chartres 210209 12.jpg | no dates retrieved. Commons data: ["\n21 February 2009"]
+54830 | Could not identify type (instance of)
+
+54834 | Barmhartige Samaritaan Han Wezelaar.jpg | no dates retrieved. Commons data: ["\n6 April 2009"]
+54834 | Could not identify type (instance of)
+54834 | Low similarity ratio: 48 between ACT name: Han Wezelaar and Commons name: Gouwenaar
+
+54835 | Vitrail Chartres 210209 27.jpg | no dates retrieved. Commons data: ["\n01/04/09"]
+54835 | Could not identify type (instance of)
+
+54916 | 13th-century painters - English Apocalypse - WGA15756.jpg | Disagreement between ACT and Commons on circa.
+54916 | 13th-century painters - English Apocalypse - WGA15756.jpg | ACT precision: 7, Commons precision: 9
+
+54922 | Wooden pilgrim - geograph.org.uk - 778390.jpg | no dates retrieved. Commons data: ["\n26 April 2008"]
+
+54923 | Pilgrim Path Waymarker (Ireland).jpg | no dates retrieved. Commons data: ["\n9 August 2011"]
+54923 | Could not identify type (instance of)
+
+54947 | Could not identify type (instance of)
+
+54954 | Master of the Karlsruhe Passion 001.jpg | Disagreement between ACT and Commons on circa.
+54954 | Low similarity ratio: 57 between ACT name: active 15th century Meister der Karlsruher Passion and Commons name: Master of the Karlsruhe Passion
+
+54972 | A z.JPG | no dates retrieved. Commons data: []
+
+54974 | Roma San Clemente Abside Mosaico Dettaglio7.JPG | no dates retrieved. Commons data: ["\n8 September 2006"]
+
+54982 | Benozzo Gozzoli - The Parable of the Holy Trinity (detail) - WGA10305.jpg | Disagreement between ACT and Commons on circa.
+54982 | Benozzo Gozzoli - The Parable of the Holy Trinity (detail) - WGA10305.jpg | ACT precision: 9, Commons precision: 8
+54982 | Low similarity ratio: 64 between ACT name: di Lese Benozzo and Commons name: Benozzo Gozzoli
+
+54986 | Bartholomeus van Bassen, The Parable of the Rich Man and Lazarus, ca. 1620-30..jpg | ACT inception: 1625, Commons inception: 1620
+54986 | Bartholomeus van Bassen, The Parable of the Rich Man and Lazarus, ca. 1620-30..jpg | ACT precision: 9, Commons precision: 10
+54986 | Could not identify type (instance of)
+
+54993 | St James the Less, Vauxhall Bridge Road, SW1 - Capital - geograph.org.uk - 1851192.jpg | no dates retrieved. Commons data: ["\n6 May 2010"]
+54993 | Could not identify type (instance of)
+
+54994 | St James the Less, Vauxhall Bridge Road, SW1 - Capital - geograph.org.uk - 1851197.jpg | no dates retrieved. Commons data: ["\n6 May 2010"]
+54994 | Could not identify type (instance of)
+
+54999 | Check ACT artist name (more than 4 parts)
+
+55000 | Egger-Lienz - Sähmann und Teufel.jpg | Disagreement between ACT and Commons on circa.
+55000 | Could not identify type (instance of)
+
+55001 | Ronald Rae statue - geograph.org.uk - 1027532.jpg | no dates retrieved. Commons data: ["\n30 October 2008"]
+55001 | Could not identify type (instance of)
+55001 | Low similarity ratio: 42 between ACT name: Ronald Rae and Commons name: Lis Burke
+
+55014 | Cazeaux de Larboust-Parabole du Paradis Terrestre.jpg | no dates retrieved. Commons data: ["\nTaken on\u00a017 July 2010"]
+55014 | Could not identify type (instance of)
+
+55015 | Chartres - Vitrail de la Parabole du bon samaritain -1.JPG | no dates retrieved. Commons data: ["\nAugust 2010"]
+55015 | Could not identify type (instance of)
+
+55016 | Could not identify type (instance of)
+
+55017 | Could not identify type (instance of)
+
+55018 | Bourges - Cathédrale - Vitraux -33.jpg | no dates retrieved. Commons data: ["\n8 July 2011"]
+55018 | Could not identify type (instance of)
+
+55020 | Met-de-bles-2.jpg | ACT inception: 1538, Commons inception: 1550
+
+55034 | Could not identify type (instance of)
+
+55035 | Glasfenster Fußwaschung Korntal Christuskirche.jpg | no dates retrieved. Commons data: ["\n1 June 2010"]
+55035 | Could not identify type (instance of)
+
+55118 | Matthias Stom - Sarah Leading Hagar to Abraham - WGA21803.jpg | ACT inception: 1638, Commons inception: 1637
+55118 | Matthias Stom - Sarah Leading Hagar to Abraham - WGA21803.jpg | Disagreement between ACT and Commons on circa.
+55118 | Matthias Stom - Sarah Leading Hagar to Abraham - WGA21803.jpg | ACT precision: 9, Commons precision: 8
+55118 | Low similarity ratio: 93 between ACT name: Matthias Stomer and Commons name: Matthias Stom
+
+55127 | Low similarity ratio: 17 between ACT name: Lucas Cranach and Commons name: Workshop of
+
+55129 | Could not identify type (instance of)
+
+55134 | Maitre de Rohan january.jpg | ACT inception: 1432, Commons inception: 1450
+55134 | Maitre de Rohan january.jpg | Disagreement between ACT and Commons on circa.
+55134 | Maitre de Rohan january.jpg | ACT precision: 9, Commons precision: 7
+55134 | Low similarity ratio: 86 between ACT name: 15th cent. Rohan Master and Commons name: The Rohan Master
+
+55160 | Low similarity ratio: 70 between ACT name: Workshop of Rembrandt and Commons name: Rembrandt (Werkstatt)
+
+55162 | An Allegory of Man.jpg | ACT precision: 9, Commons precision: 7
+
+55163 | St. Nicholas' Church, Deptford Green, SE8 - carved panel representing Ezekiel in the Valley of the Dry Bones - geograph.org.uk - 1501992.jpg | no dates retrieved. Commons data: ["\n2 July 2009"]
+
+55168 | Maitre de Rohan (pentecost).jpg | ACT inception: 1432, Commons inception: 1450
+55168 | Maitre de Rohan (pentecost).jpg | ACT precision: 9, Commons precision: 7
+55168 | Low similarity ratio: 86 between ACT name: 15th cent. Rohan Master and Commons name: The Rohan Master
+
+55186 | Commons says name unknown, but ACT gives name: French (active 12th century in Limoges) Unknown Miniaturist
+55199 | Commons says name unknown, but ACT gives name: Anonymous 17th century Master in the manner of Jan de Bray
+55208 | 8 Nicolo di Pietro,1413-15. The Saint Augustine Baptized by Saint Ambrose. Pinacoteca, Vatican..jpg | ACT inception: 1414, Commons inception: 1413
+55208 | 8 Nicolo di Pietro,1413-15. The Saint Augustine Baptized by Saint Ambrose. Pinacoteca, Vatican..jpg | ACT precision: 9, Commons precision: 8
+55208 | Low similarity ratio: 77 between ACT name: Niccolò di Pietro Gerini and Commons name: Nicolo di Pietro
+
+55209 | Low similarity ratio: 29 between ACT name: Wolfgang Mattheuer and Commons name: Jaimrsilva
+
+55219 | Could not identify type (instance of)
+
+55251 | Commons says name unknown, but ACT gives name: Anonymous (Northern Italy)
+55261 | Saltiri anglocatalà f93r.jpg | ACT inception: 1335, Commons inception: 1350
+55261 | Saltiri anglocatalà f93r.jpg | Disagreement between ACT and Commons on circa.
+55261 | Saltiri anglocatalà f93r.jpg | ACT precision: 9, Commons precision: 7
+55261 | Could not identify type (instance of)
+
+55282 | Commons says name unknown, but ACT gives name: Anonymous (Byzantine Empire)
+55283 | Duccio di Buoninsegna - Pilate's First Interrogation of Christ - WGA06803.jpg | ACT inception: 1309, Commons inception: 1350
+55283 | Duccio di Buoninsegna - Pilate's First Interrogation of Christ - WGA06803.jpg | Disagreement between ACT and Commons on circa.
+55283 | Duccio di Buoninsegna - Pilate's First Interrogation of Christ - WGA06803.jpg | ACT precision: 9, Commons precision: 7
+
+55288 | Saint Charles Seminary (Carthagena, Ohio), Chapel of the Assumption, tabernacle and mosaic.jpg | no dates retrieved. Commons data: ["\n18 February 2012"]
+
+55294 | Angelico, niccolina 02.jpg | ACT inception: 1448, Commons inception: 1447
+55294 | Angelico, niccolina 02.jpg | Disagreement between ACT and Commons on circa.
+55294 | Angelico, niccolina 02.jpg | ACT precision: 9, Commons precision: 8
+
+55301 | Low similarity ratio: 21 between ACT name: M. Hildreth Meiere and Commons name: Tim Evanson
+
+55304 | Low similarity ratio: 46 between ACT name: M. Hildreth Meiere and Commons name: Fletcher6
+
+55311 | Low similarity ratio: 26 between ACT name: Zakare and Commons name: Dickran Kouymjian
+
+55313 | Villeneuve-sur-Lot - Chapelle du Bout-du-Pont -090.jpg | no dates retrieved. Commons data: ["\n14 July 2011"]
+55313 | Could not identify type (instance of)
+
+55317 | Low similarity ratio: 72 between ACT name: Pieter Bruegel and Commons name: Pieter Brueghel the Elder
+
+55318 | Low similarity ratio: 35 between ACT name: Martin van Heemskerk and Commons name: Jan van Scorel
+
+55330 | William de Brailes - Top - Ruth Meets Boaz as she gleans (Ruth 2 -4-16) - Walters W10618R - Full Page.jpg | Disagreement between ACT and Commons on circa.
+55330 | William de Brailes - Top - Ruth Meets Boaz as she gleans (Ruth 2 -4-16) - Walters W10618R - Full Page.jpg | ACT precision: 7, Commons precision: 9
+55330 | Could not identify type (instance of)
+
+55333 | Andrea di Bartolo - The Resurrection - Walters 37741.jpg | ACT inception: 1400, Commons inception: 1500
+55333 | Andrea di Bartolo - The Resurrection - Walters 37741.jpg | ACT precision: 9, Commons precision: 6
+55333 | Low similarity ratio: 67 between ACT name: Andrea del Castagno and Commons name: Andrea di Bartolo
+
+55346 | Low similarity ratio: 67 between ACT name: Jan Bruegel and Commons name: Jan Brueghel the Elder
+
+55347 | Could not identify type (instance of)
+55347 | Low similarity ratio: 25 between ACT name: Henrik Olrik and Commons name: Ib Rasmussen
+
+55349 | Make Poverty History - letter A.jpg | no dates retrieved. Commons data: ["\n2 July 2004, 21:27:24"]
+
+55354 | Piero della Francesca - Polyptych of the Misericordia - Madonna of Mercy - WGA17449.jpg | ACT inception: 1461, Commons inception: 1460
+55354 | Piero della Francesca - Polyptych of the Misericordia - Madonna of Mercy - WGA17449.jpg | Disagreement between ACT and Commons on circa.
+55354 | Piero della Francesca - Polyptych of the Misericordia - Madonna of Mercy - WGA17449.jpg | ACT precision: 9, Commons precision: 8
+
+55367 | Charity relieving Distress.jpg | no dates retrieved. Commons data: ["Unknown date", "Unknown date"]
+
+55372 | Low similarity ratio: 39 between ACT name: Gian Martino Spanzotti and Commons name: No machine-readable author provided.
+
+55373 | Commons says name unknown, but ACT gives name: Christian Egenolf Erben
+55378 | Transfiguracion salvador del mundo4 2011.JPG | no dates retrieved. Commons data: ["\n1 June 2011"]
+
+55380 | Korean puppets-Deolmi-01.jpg | no dates retrieved. Commons data: ["\n13 April 2007, 02:00:51"]
+
+55382 | Could not identify type (instance of)
+55382 | Low similarity ratio: 83 between ACT name: Louise-Magdeleine Hortemels and Commons name: Louise-Magdeleine Horthemels (1686-1767)
+
+55383 | Skulyabin Alms House Vologda Roof.jpg | no dates retrieved. Commons data: ["19 July 2009\u00a0(according to", "Exif", "data)"]
+
+55384 | Alms houses, Chipping Norton.JPG | no dates retrieved. Commons data: []
+
+55387 | The Hunger March in Copenhagen (dk).JPG | no dates retrieved. Commons data: ["\n1 January 1997"]
+
+55392 | Dirc van Delft - Holy Face and Ten Names of God - Walters W1713R - Full Page.jpg | ACT inception: 1402, Commons inception: 1400
+55392 | Dirc van Delft - Holy Face and Ten Names of God - Walters W1713R - Full Page.jpg | Disagreement between ACT and Commons on circa.
+55392 | Dirc van Delft - Holy Face and Ten Names of God - Walters W1713R - Full Page.jpg | ACT precision: 9, Commons precision: 8
+
+55399 | Tree of Life memorial, Birmingham.JPG | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+55399 | Low similarity ratio: 27 between ACT name: Lorenzo Quinn and Commons name: Erebus555
+
+55403 | Low similarity ratio: 27 between ACT name: Oscar Niemeyer and Commons name: Dornicke
+
+55404 | WLA amart La Mano Poderosa.jpg | no dates retrieved. Commons data: ["\nTaken in\u00a0February 2009"]
+55404 | ACT says author unidentified, but Commons gives name: Wikipedia Loves Art participant "
+55405 | Rock with cross in Šumava region.jpg | no dates retrieved. Commons data: ["\n5 July 2011, 17:38:36"]
+55405 | Could not identify type (instance of)
+
+55409 | Bantry Church of St. Brendan The Navigator Second North Window Psalm 66.2 Detail Sing Forth the Honour of His Name 2009 09 09.jpg | no dates retrieved. Commons data: ["\n9 September 2009"]
+55409 | Could not identify type (instance of)
+
+55413 | Pieter Brueghel the Younger (or workshop) The Payment of the Tithes Bonhams.jpg | ACT inception: 1619, Commons inception: 1650
+55413 | Pieter Brueghel the Younger (or workshop) The Payment of the Tithes Bonhams.jpg | Disagreement between ACT and Commons on circa.
+55413 | Pieter Brueghel the Younger (or workshop) The Payment of the Tithes Bonhams.jpg | ACT precision: 9, Commons precision: 7
+55413 | Low similarity ratio: 80 between ACT name: 1564-1638 Workshop of Pieter Bruegel the Younger and Commons name: Pieter Breughel the Younger
+
+55417 | Could not identify type (instance of)
+
+55419 | Hands Across the Divide - geograph.org.uk - 478600.jpg | no dates retrieved. Commons data: ["\n7 August 2006"]
+55419 | Low similarity ratio: 32 between ACT name: Maurice Harron and Commons name: zoocreative
+
+55420 | 'Hands Across the Divide' sculpture, Derry.jpg | no dates retrieved. Commons data: ["\n19 November 2005, 13:03:20"]
+55420 | Low similarity ratio: 0 between ACT name: Maurice Harron and Commons name: {{{1}}}
+
+55430 | Low similarity ratio: 33 between ACT name: Jean de Limbourg and Commons name: This file is lacking
+
+55435 | Dirc van Delft - Fountain of Life and the Four Rivers of Paradise - Walters W17119V - Full Page.jpg | ACT inception: 1402, Commons inception: 1400
+55435 | Dirc van Delft - Fountain of Life and the Four Rivers of Paradise - Walters W17119V - Full Page.jpg | Disagreement between ACT and Commons on circa.
+55435 | Dirc van Delft - Fountain of Life and the Four Rivers of Paradise - Walters W17119V - Full Page.jpg | ACT precision: 9, Commons precision: 8
+
+55441 | Could not identify type (instance of)
+
+55442 | Dieric Bouts - The Feast of the Passover (detail) - WGA03014.jpg | ACT inception: 1465, Commons inception: 1464
+55442 | Dieric Bouts - The Feast of the Passover (detail) - WGA03014.jpg | Disagreement between ACT and Commons on circa.
+55442 | Dieric Bouts - The Feast of the Passover (detail) - WGA03014.jpg | ACT precision: 9, Commons precision: 8
+
+55443 | Dieric Bouts - The Feast of the Passover - WGA03013.jpg | ACT inception: 1465, Commons inception: 1464
+55443 | Dieric Bouts - The Feast of the Passover - WGA03013.jpg | Disagreement between ACT and Commons on circa.
+55443 | Dieric Bouts - The Feast of the Passover - WGA03013.jpg | ACT precision: 9, Commons precision: 8
+
+55444 | Tissot The Signs on the Door.jpg | ACT inception: 1894, Commons inception: 1500
+55444 | Tissot The Signs on the Door.jpg | ACT precision: 9, Commons precision: 6
+55444 | Tissot The Signs on the Door.jpg | ACT date range: 1886-1902, Commons date range: 1896-1902
+
+55449 | 2012-02-Kathedrale Sancti Spiritus 04 anagoria.JPG | no dates retrieved. Commons data: ["\n17 February 2012"]
+
+55457 | Matthias Grünewald - Carrying the Cross - WGA10791.jpg | Disagreement between ACT and Commons on circa.
+55457 | Matthias Grünewald - Carrying the Cross - WGA10791.jpg | ACT precision: 9, Commons precision: 8
+55457 | Low similarity ratio: 94 between ACT name: Matthias Grünewald and Commons name: Matthias Grünewald
+
+55463 | Could not identify type (instance of)
+55463 | Low similarity ratio: 38 between ACT name: Tilman Riemenschneider and Commons name: Wolfgang Sauber
+
+55466 | Low similarity ratio: 15 between ACT name: di Fredi Bartolo and Commons name: Vignaccia76
+
+55469 | Low similarity ratio: 37 between ACT name: Jesus D. Jimenez Rodriguez and Commons name: No machine-readable author provided.
+
+55478 | Priest with Large Canvas at the Church of the Monastery of Na’akuto La’ab (3425155404).jpg | no dates retrieved. Commons data: ["\n2 November 2007, 15:48"]
+
+55479 | Low similarity ratio: 31 between ACT name: Péter Gáspár and Commons name: Szeder László
+
+55481 | The Master of the Furies - Tormented Figure - Walters 71435.jpg | ACT inception: 1645, Commons inception: 1650
+55481 | The Master of the Furies - Tormented Figure - Walters 71435.jpg | Disagreement between ACT and Commons on circa.
+55481 | The Master of the Furies - Tormented Figure - Walters 71435.jpg | ACT precision: 9, Commons precision: 7
+
+55486 | Annibale Carracci, attrib., Portrait of an African Slave Woman, ca. 1580s. Oil on canvas, 60 x 39 x 2 cm (fragment of a larger painting.jpg | ACT inception: 1584, Commons inception: 1580
+55486 | Low similarity ratio: 33 between ACT name: Annibale Carracci and Commons name: Attributed to
+
+55488 | Egyptian - Slave - Walters 542372.jpg | Disagreement between ACT and Commons on CE/BCE.
+
+55497 | Could not identify type (instance of)
+
+55503 | St Mary's church - stained glass detail - geograph.org.uk - 1252096.jpg | no dates retrieved. Commons data: ["\n14 April 2009"]
+55503 | Could not identify type (instance of)
+55503 | Low similarity ratio: 32 between ACT name: Harry Mileham and Commons name: Evelyn Simak
+
+55505 | Low similarity ratio: 19 between ACT name: Karl Hultström and Commons name: Boberger
+
+55511 | Low similarity ratio: 27 between ACT name: Maurice Glickman and Commons name: US Federal Government
+
+55516 | Could not identify type (instance of)
+
+55519 | Wenceslas Hollar - Rich man.jpg | no dates retrieved. Commons data: ["Unknown date", "Unknown date", "(author lived 1607-1677)"]
+
+55534 | Ste Chapelle Basse s.jpg | no dates retrieved. Commons data: ["\n15 August 2007"]
+55534 | Could not identify type (instance of)
+
+55535 | Tissot God's Promises to Abram.jpg | ACT inception: 1899, Commons inception: 1500
+55535 | Tissot God's Promises to Abram.jpg | ACT precision: 9, Commons precision: 6
+
+55537 | Saint Anthony of Padua Church, Bento Goncalves, Brazil 00.JPG | no dates retrieved. Commons data: ["\n8 January 2012"]
+
+55538 | San Rafael church wall detail2.JPG | no dates retrieved. Commons data: ["\n17 February 2009"]
+
+55541 | Check ACT artist name (more than 4 parts)
+55541 | Low similarity ratio: 91 between ACT name: J. Noël (Joseph Noël) Paton and Commons name: Joseph Noel Paton
+
+55542 | Low similarity ratio: 33 between ACT name: John Cleal and Commons name: ceridwen
+
+55544 | French - Virgin and Child, Crucifixion - Walters 71232 - Side B.jpg | ACT inception: 1345, Commons inception: 1350
+55544 | French - Virgin and Child, Crucifixion - Walters 71232 - Side B.jpg | Disagreement between ACT and Commons on circa.
+55544 | French - Virgin and Child, Crucifixion - Walters 71232 - Side B.jpg | ACT precision: 9, Commons precision: 7
+
+55545 | Thorma Alms.jpg | no dates retrieved. Commons data: ["Unknown date", "Unknown date"]
+
+55546 | Could not identify type (instance of)
+
+55550 | Low similarity ratio: 76 between ACT name: active 1488-1530 Master of James IV of Scotland and Commons name: before 1465 - about 1541) (1465 - 1541) – illuminator (Flemish) Workshop of the Master of James IV of Scotland (Flemish
+
+55562 | Destitute man vacant store.gif | Disagreement between ACT and Commons on circa.
+
+55563 | Refusing a beggar with one leg and a crutch.jpg | no dates retrieved. Commons data: []
+
+55568 | Low similarity ratio: 19 between ACT name: Antonio Barluzzi and Commons name: Otter
+
+55570 | Could not identify type (instance of)
+55570 | Low similarity ratio: 38 between ACT name: Antonio Barluzzi and Commons name: NataliaSil
+
+55571 | Could not identify type (instance of)
+
+55572 | Commons says name unknown, but ACT gives name: Italian School
+55581 | Could not identify type (instance of)
+55581 | Low similarity ratio: 32 between ACT name: Anonymous Portuguese Master and Commons name: Alvesgaspar
+
+55586 | Gesina ter Borch - echtelijke ruzie.jpg | ACT inception: 1670, Commons inception: 1650
+55586 | Gesina ter Borch - echtelijke ruzie.jpg | Disagreement between ACT and Commons on circa.
+55586 | Gesina ter Borch - echtelijke ruzie.jpg | ACT precision: 9, Commons precision: 7
+
+55588 | Zion Fire Baptized Holiness Church of God of The Americas Roxbury MA.jpg | no dates retrieved. Commons data: ["\n17 April 2011, 13:11:17"]
+
+55589 | St Mary, Yelverton, Norfolk - Porch window - geograph.org.uk - 1254679.jpg | no dates retrieved. Commons data: ["\n6 April 2009"]
+55589 | Could not identify type (instance of)
+55589 | Low similarity ratio: 16 between ACT name: Pippa Blackall and Commons name: John Salmon
+
+55595 | Could not identify type (instance of)
+
+55600 | Low similarity ratio: 30 between ACT name: Maria von Everdingen and Commons name: Willemnabuurs
+
+55604 | Wrockwardine Church 02.jpg | no dates retrieved. Commons data: ["\n9 February 2009"]
+55604 | Could not identify type (instance of)
+
+55605 | Les Contrastes - 1820 - Ludwig Rullmann.jpg | ACT inception: 1821, Commons inception: 1820
+55605 | Les Contrastes - 1820 - Ludwig Rullmann.jpg | Disagreement between ACT and Commons on circa.
+55605 | Les Contrastes - 1820 - Ludwig Rullmann.jpg | ACT precision: 9, Commons precision: 8
+
+55607 | Low similarity ratio: 25 between ACT name: Gustel Stein and Commons name: created by Ingo Schloesser - Finthen Mai 2010
+
+55614 | Could not identify type (instance of)
+
+55618 | Prayer sculpture by Rodin; back side.JPG | no dates retrieved. Commons data: ["\n29 April 2011, 13:36:00"]
+55618 | Low similarity ratio: 7 between ACT name: François-Auguste-René Rodin and Commons name: Emw
+
+55619 | Could not identify type (instance of)
+55619 | Low similarity ratio: 29 between ACT name: Marguerite Gaudin and Commons name: Tim Evanson
+
+55625 | Sightless among Miracles Skip Wallen Mauritskade Amsterdam.JPG | no dates retrieved. Commons data: ["\n28 June 2010, 18:03:14"]
+55625 | Low similarity ratio: 12 between ACT name: Skip Wallen and Commons name: Brbbl
+
+55629 | George Romney - Effects of Pride or Injustice - Google Art Project.jpg | no dates retrieved. Commons data: ["\nundated"]
+
+55630 | Sacro Monte di Orta 014.JPG | no dates retrieved. Commons data: ["\n9 April 2009"]
+
+55632 | On Arizona Highway 87, south of Chandler. Maricopa County, Arizona. Children in a democracy. A migra . . . - NARA - 522527.jpg | ACT precision: 9, Commons precision: 10
+
+55633 | The 1st Commandment of God. I am the Lord thy God. You shall have no other gods before Me..jpg | no dates retrieved. Commons data: ["\n22 April 2013, 22:42:09"]
+
+55637 | Dublin Christ Church Cathedral Passage to Synod Hall Window Fruit of the Spirit 2012 09 26.jpg | no dates retrieved. Commons data: ["\n26 September 2012"]
+55637 | Could not identify type (instance of)
+
+55639 | Claude Monet, Water-Lily Pond and Weeping Willow.JPG | ACT inception: 1917, Commons inception: 1916
+55639 | Claude Monet, Water-Lily Pond and Weeping Willow.JPG | ACT precision: 9, Commons precision: 10
+
+55643 | Onesimus sign.jpg | no dates retrieved. Commons data: ["\n12 May 2006"]
+55643 | Could not identify type (instance of)
+
+55649 | Low similarity ratio: 22 between ACT name: Lindsay Daen and Commons name: https://www.flickr.com/people/rekha6/
+
+55651 | Mural at All Saints School - geograph.org.uk - 740300.jpg | no dates retrieved. Commons data: ["\n24 March 2008"]
+
+55656 | Frederick Douglass listened to William Lloyd Garrison denounce slavery - NARA - 559099.jpg | no dates retrieved. Commons data: []
+55656 | Could not identify type (instance of)
+
+55662 | KeurMoussaIntérieur.jpg | no dates retrieved. Commons data: ["\n7 September 2008"]
+
+55663 | Could not identify type (instance of)
+
+55664 | Low similarity ratio: 34 between ACT name: Giovanni Fantoni and Commons name: David Bjorgen
+
+55671 | Could not identify type (instance of)
+55671 | Low similarity ratio: 19 between ACT name: Brad Howe and Commons name: Ernesto Perales Soto (fotografía de)
+
+55676 | Could not identify type (instance of)
+55676 | Low similarity ratio: 24 between ACT name: Rampton Parish Church and Commons name: Keith Edkins
+
+55677 | Low similarity ratio: 14 between ACT name: Marshall M. Fredericks and Commons name: Notwist
+
+55678 | Low similarity ratio: 58 between ACT name: Guillaume Vrelant and Commons name: died 1481 Willem Vrelant (Flemish
+
+55681 | El Salvador killed more than 75.000.jpg | no dates retrieved. Commons data: ["\n7 December 2007, 18:01"]
+
+55683 | Low similarity ratio: 31 between ACT name: Fri Heil and Commons name: Brbbl
+
+55689 | Balm of Gilead - 98584.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+
+55691 | "Accusing Finger of Conscience...God and Conscience Witness Every Action...The Authorities Ask That You Save Fats...Reli - NARA - 512560.jpg | ACT inception: 1918, Commons inception: 1917
+55691 | "Accusing Finger of Conscience...God and Conscience Witness Every Action...The Authorities Ask That You Save Fats...Reli - NARA - 512560.jpg | ACT precision: 9, Commons precision: 8
+
+55692 | Low similarity ratio: 30 between ACT name: Giovanni Battista Tiepolo and Commons name: Wolfgang Sauber
+
+55694 | Wasted Gallantry by Captain James Hope.jpg | ACT inception: 1862, Commons inception: 1850
+55694 | Wasted Gallantry by Captain James Hope.jpg | ACT precision: 9, Commons precision: 7
+
+55699 | Motherhood.jpg | no dates retrieved. Commons data: ["\nOctober 2006"]
+55699 | Low similarity ratio: 25 between ACT name: Nelly Romeo Alves and Commons name: Picture taken by Eurico Zimbres
+
+55703 | Apuleius advises the use of demons as mediators between mankind and the gods.jpg | ACT inception: 1477, Commons inception: 1450
+55703 | Apuleius advises the use of demons as mediators between mankind and the gods.jpg | Disagreement between ACT and Commons on circa.
+55703 | Apuleius advises the use of demons as mediators between mankind and the gods.jpg | ACT precision: 9, Commons precision: 7
+55703 | Low similarity ratio: 47 between ACT name: active 1468-1482 Maître François and Commons name: Maître François
+
+55704 | "Kakindo Crucifixion" - NARA - 558948.tif | no dates retrieved. Commons data: []
+
+55705 | Could not identify type (instance of)
+
+55707 | ACT says author unidentified, but Commons gives name: Flemish painter
+55714 | Could not identify type (instance of)
+
+55715 | Spinello Aretino 013.jpg | ACT inception: 1397, Commons inception: 1395
+
+55716 | Where kings or merchants lament for Babylon.jpg | no dates retrieved. Commons data: ["\ncopy of c.1175"]
+
+55718 | Heilbronn-Kaethchenhaus-Habacuc.JPG | no dates retrieved. Commons data: ["\n17 August 2007"]
+
+55730 | Low similarity ratio: 91 between ACT name: Abraham van Dyck and Commons name: Abraham van Dijck
+
+55732 | Could not identify type (instance of)
+
+55733 | Could not identify type (instance of)
+
+55735 | Low similarity ratio: 18 between ACT name: Norman Rockwell and Commons name: English:
+
+55744 | ACT says author unidentified, but Commons gives name: No machine-readable author provided.
+55745 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
+
+55752 | Could not identify type (instance of)
+55752 | ACT says author unidentified, but Commons gives name: Diganta Talukdar
+55756 | Low similarity ratio: 38 between ACT name: Jesús Rafael Soto and Commons name: Javier D. Volcán R.
+
+55764 | Could not identify type (instance of)
+
+55771 | Low similarity ratio: 31 between ACT name: Georg Anton Macheln and Commons name: Mattana
+
+55772 | Low similarity ratio: 26 between ACT name: Johann Michael Rottmayr and Commons name: Wolfgang Sauber
+
+55776 | Detail, Shrine to St. Abbo (3307931322).jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+55776 | Could not identify type (instance of)
+
+55777 | Chinese Martyrs of 1307 Katowice Panewniki.jpg | no dates retrieved. Commons data: ["\n2011"]
+
+55784 | ACT says author unidentified, but Commons gives name: Pfir
+55792 | Could not identify type (instance of)
+
+55793 | ACT says author unidentified, but Commons gives name: Andrew Parodi
+55796 | Walk in the lIght.JPG | no dates retrieved. Commons data: ["\n4 April 2008"]
+
+55811 | Crossing-of-the-red-sea 01.JPG | ACT precision: 9, Commons precision: 8
+
+55812 | Low similarity ratio: 52 between ACT name: active 13th century Tʻoros Ṛoslin and Commons name: Toros Roslin
+
+55820 | Could not identify type (instance of)
+
+55821 | Could not identify type (instance of)
+
+55822 | Could not identify type (instance of)
+
+55833 | Could not identify type (instance of)
+
+55836 | 1529 Cranach Allegorie auf Gesetz und Gnade anagoria.JPG | ACT precision: 9, Commons precision: 7
+
+55841 | Low similarity ratio: 20 between ACT name: Benno Elkan and Commons name: Deror avi
+
+55842 | Could not identify type (instance of)
+
+55843 | Low similarity ratio: 36 between ACT name: Alexander Liberman and Commons name: Smallbones
+
+55849 | Could not identify type (instance of)
+
+55850 | Jean-Francois Millet - The Shepherd - Google Art Project.jpg | ACT inception: 1873, Commons inception: 1872
+55850 | Jean-Francois Millet - The Shepherd - Google Art Project.jpg | ACT precision: 9, Commons precision: 8
+55850 | Low similarity ratio: 69 between ACT name: Jean François Millet and Commons name: Jean-Francois Millet (1814 - 1875)  (French)
+
+55854 | Commons says name unknown, but ACT gives name: Unknown
+55855 | Low similarity ratio: 36 between ACT name: Gunnar Torhamn and Commons name: Bernt Fransson
+
+55859 | ACT says author unidentified, but Commons gives name: Jopparn
+55862 | Hans Memling , The Virgin Mary nursing the Christ Child. Oil and gold on panel, circular, (17.4 cm.) diameter. Christie's.jpg | ACT inception: 1488, Commons inception: 1450
+55862 | Hans Memling , The Virgin Mary nursing the Christ Child. Oil and gold on panel, circular, (17.4 cm.) diameter. Christie's.jpg | Disagreement between ACT and Commons on circa.
+55862 | Hans Memling , The Virgin Mary nursing the Christ Child. Oil and gold on panel, circular, (17.4 cm.) diameter. Christie's.jpg | ACT precision: 9, Commons precision: 7
+
+55864 | Could not identify type (instance of)
+55864 | ACT says author unidentified, but Commons gives name: Wolfgang Sauber
+55871 | Giovanni Da Udine - Study of a Flying Sparrow - WGA09431.jpg | ACT inception: 1517, Commons inception: 1550
+55871 | Giovanni Da Udine - Study of a Flying Sparrow - WGA09431.jpg | Disagreement between ACT and Commons on circa.
+55871 | Giovanni Da Udine - Study of a Flying Sparrow - WGA09431.jpg | ACT precision: 9, Commons precision: 7
+
+55876 | Maitre Birth of Esau and Jacob (detail).jpg | ACT inception: 1477, Commons inception: 1450
+55876 | Maitre Birth of Esau and Jacob (detail).jpg | ACT precision: 9, Commons precision: 7
+55876 | Low similarity ratio: 46 between ACT name: active 1468-1482 Maître François and Commons name: François Maitre
+
+55877 | Low similarity ratio: 67 between ACT name: Andreĭ (Andreĭ Nikolaevich) Mironov and Commons name: Andrey Mironov
+
+55878 | Could not identify type (instance of)
+55878 | Low similarity ratio: 83 between ACT name: Everhard (possibly) and Gerhard Remisch Rensig and Commons name: Everhard  – maker Rensig
+
+55879 | Lorenzo Ghiberti - Esaú e Jacó - Porta do Paraíso.jpg | ACT inception: 1438, Commons inception: 1450
+55879 | Lorenzo Ghiberti - Esaú e Jacó - Porta do Paraíso.jpg | ACT precision: 9, Commons precision: 7
+
+55883 | Low similarity ratio: 30 between ACT name: Eva Rybakken and Commons name: Harvey Barrison
+
+55884 | ACT says author unidentified, but Commons gives name: Sailko
+55886 | Low similarity ratio: 58 between ACT name: Guillaume Vrelant and Commons name: died 1481 Willem Vrelant (Flemish
+
+55889 | Could not identify type (instance of)
+
+55892 | Helsinki--Saint Peter.jpg | no dates retrieved. Commons data: ["\n16 March 2006 (original upload date)"]
+
+55902 | Could not identify type (instance of)
+
+55908 | Could not identify type (instance of)
+55908 | ACT says author unidentified, but Commons gives name: Goodness Shamrock
+55909 | Low similarity ratio: 24 between ACT name: Mohammed Nadir Samarkandi and Commons name: anonimous
+
+55911 | Low similarity ratio: 30 between ACT name: Muhammad ibn Saeed Mirza Muhammad and Commons name: anonimous
+
+55912 | Commons says name unknown, but ACT gives name: Anonymous
+55913 | Low similarity ratio: 93 between ACT name: Károly Ferenczy and Commons name: Károly Ferenczy
+
+55920 | Check ACT artist name (more than 4 parts)
+
+55926 | Sign for the Cross Keys - geograph.org.uk - 1587505.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+55926 | ACT says author unidentified, but Commons gives name: Trish Steel
+55927 | Mosan Workshop - Saint Peter - Walters 44101.jpg | ACT inception: 1170, Commons inception: 1150
+55927 | Mosan Workshop - Saint Peter - Walters 44101.jpg | Disagreement between ACT and Commons on circa.
+55927 | Mosan Workshop - Saint Peter - Walters 44101.jpg | ACT precision: 9, Commons precision: 7
+55927 | Could not identify type (instance of)
+
+55955 | ACT says author unidentified, but Commons gives name: Willemnabuurs
+55956 | Could not identify type (instance of)
+
+55957 | CofSBurningBushLogo.JPG | no dates retrieved. Commons data: ["\n23 October 2006"]
+55957 | Could not identify type (instance of)
+55957 | ACT says author unidentified, but Commons gives name: Matthew Ross
+55958 | Weltchronik Fulda Aa88 087r detail.jpg | ACT inception: 1362, Commons inception: 1350
+55958 | Weltchronik Fulda Aa88 087r detail.jpg | Disagreement between ACT and Commons on circa.
+55958 | Weltchronik Fulda Aa88 087r detail.jpg | ACT precision: 9, Commons precision: 7
+55958 | Commons says name unknown, but ACT gives name: Rudolf von Ems
+55964 | Could not identify type (instance of)
+
+55967 | Catching Quails by C.C.A. Christensen.png | ACT inception: 1846, Commons inception: 1850
+55967 | Catching Quails by C.C.A. Christensen.png | Disagreement between ACT and Commons on circa.
+55967 | Catching Quails by C.C.A. Christensen.png | ACT precision: 9, Commons precision: 7
+
+55975 | Latouille la calchera tandem ecologique.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+55975 | Low similarity ratio: 30 between ACT name: La Calchera and Commons name: Thierry46
+
+55976 | Low similarity ratio: 17 between ACT name: Dr. Geebers and Commons name: Hywel Williams
+
+55985 | Hortus Deliciarum, Der Tanz um das goldene Kalb.JPG | ACT inception: 1176, Commons inception: 1180
+55985 | Hortus Deliciarum, Der Tanz um das goldene Kalb.JPG | Disagreement between ACT and Commons on circa.
+55985 | Check ACT artist name (more than 4 parts)
+
+55986 | Could not identify type (instance of)
+
+55988 | Weyden, Rogier van der - Descent from the Cross - Detail women (left).jpg | ACT inception: 1435, Commons inception: 1450
+55988 | Weyden, Rogier van der - Descent from the Cross - Detail women (left).jpg | ACT precision: 9, Commons precision: 7
+
+55989 | Low similarity ratio: 29 between ACT name: Tom Otterness and Commons name: Gerardus
+
+55992 | Cecil Beaton Photographs- General IB4152C.jpg | ACT inception: 1944, Commons inception: 1950
+55992 | Cecil Beaton Photographs- General IB4152C.jpg | ACT precision: 9, Commons precision: 7
+
+55993 | Low similarity ratio: 78 between ACT name: Thomas John Thomson and Commons name: Tom Thomson
+
+55998 | Tissot Deborah Beneath the Palm Tree.jpg | ACT inception: 1899, Commons inception: 1500
+55998 | Tissot Deborah Beneath the Palm Tree.jpg | Disagreement between ACT and Commons on circa.
+55998 | Tissot Deborah Beneath the Palm Tree.jpg | ACT precision: 9, Commons precision: 6
+
+55999 | Low similarity ratio: 20 between ACT name: Lee Lawrie and Commons name: Ammodramus
+
+56000 | Could not identify type (instance of)
+
+56001 | Cathedral Basilica of Saint Clement, Tenancingo, Mexico State, Mexico04.jpg | no dates retrieved. Commons data: ["\n16 January 2012"]
+56001 | Could not identify type (instance of)
+56001 | ACT says author unidentified, but Commons gives name: Enrique López-Tamayo Biosca
+56003 | Low similarity ratio: 20 between ACT name: Barthélémy-François Chardigny and Commons name: Georges Seguin (
+
+56004 | Parable of the Talents.jpg | ACT inception: 1450, Commons inception: 1500
+56004 | Parable of the Talents.jpg | ACT precision: 7, Commons precision: 6
+56004 | ACT says author unidentified, but Commons gives name: anonimus
+56007 | Could not identify type (instance of)
+56007 | Low similarity ratio: 38 between ACT name: Janet Echelman and Commons name: Michael Ruiz
+
+56011 | Could not identify type (instance of)
+
+56016 | Low similarity ratio: 30 between ACT name: Constantino Architect of the Capitol; Brumidi and Commons name: USCapitol
+
+56017 | George Caleb Bingham - Daniel Boone escorting settlers through the Cumberland Gap.jpg | ACT precision: 9, Commons precision: 8
+
+56027 | Eglise de Samoens (Sundial).jpg | no dates retrieved. Commons data: ["\n29 August 2013"]
+56027 | Could not identify type (instance of)
+56027 | ACT says author unidentified, but Commons gives name: Tangopaso
+56029 | Could not identify type (instance of)
+
+56030 | Low similarity ratio: 63 between ACT name: Pieter Bruegel and Commons name: Pieter Breughel the Younger
+
+56036 | Allen Choir boys singing.jpg | Disagreement between ACT and Commons on circa.
+56036 | Allen Choir boys singing.jpg | ACT precision: 9, Commons precision: 7
+
+56037 | Angel ivory Louvre OA5839213922.jpg | ACT inception: 1287, Commons inception: 1500
+56037 | Angel ivory Louvre OA5839213922.jpg | ACT precision: 9, Commons precision: 6
+56037 | Commons says name unknown, but ACT gives name: Unknown
+56038 | Could not identify type (instance of)
+56038 | ACT says author unidentified, but Commons gives name: H. Zell
+56051 | Commons says name unknown, but ACT gives name: Ivan Alekseevich Ermenev
+56055 | Could not identify type (instance of)
+56055 | ACT says author unidentified, but Commons gives name: Nevit Dilmen
+56056 | Commons says name unknown, but ACT gives name: Unknown
+56058 | Low similarity ratio: 93 between ACT name: Boris Grigorʹev and Commons name: Boris Grigoriev
+
+56065 | Commons says name unknown, but ACT gives name: Unknown illuminator
+56069 | Commons says name unknown, but ACT gives name: Unknown
+56070 | Commons says name unknown, but ACT gives name: Unknown
+56071 | Low similarity ratio: 22 between ACT name: Giovanni and Francesco Cagnola and Commons name: Laurom
+
+56074 | Master Of The Catholic Kings - The Marriage at Cana (detail) - WGA14520.jpg | ACT inception: 1496, Commons inception: 1495
+56074 | Master Of The Catholic Kings - The Marriage at Cana (detail) - WGA14520.jpg | ACT precision: 9, Commons precision: 8
+56074 | Low similarity ratio: 71 between ACT name: Master of the Catholic Kings and Commons name: Master of the Retablo of the Reyes Catolicos
+
+56076 | Low similarity ratio: 21 between ACT name: Father George Saget and Commons name: Jonas Roux
+
+56082 | ACT says author unidentified, but Commons gives name: Galabova
+56083 | Could not identify type (instance of)
+
+56089 | Low similarity ratio: 94 between ACT name: Carl von Haeberlin and Commons name: Carl von Häberlin
+
+56096 | Low similarity ratio: 58 between ACT name: Guillaume Vrelant and Commons name: Willem Vrelant (Flemish, died 1481, active 1454 - 1481) 1481 – illuminator (Flemish)
+
+56098 | Could not identify type (instance of)
+56098 | Low similarity ratio: 30 between ACT name: Soley and Friends Organization and Commons name: Alda Lóa Leifsdótir
+
+56100 | Low similarity ratio: 25 between ACT name: Daniele Crespi and Commons name: Giovanni Dall'Orto
+
+56103 | Commons says name unknown, but ACT gives name: Unknown illuminator
+56106 | Low similarity ratio: 18 between ACT name: Fernando López Hernández and Commons name: Joxemai
+
+56108 | SZ Tour 深圳園博園 Shenzhen International Garden and Flower Expo Park sculptures children visitors Aug-2010.JPG | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+56108 | ACT says author unidentified, but Commons gives name: Veipaofms
+56109 | San Francisco, California. The father of these children is being held as a dangerous enemy alien. . . . - NARA - 536456.tif | ACT inception: 1945, Commons inception: 1942
+56109 | San Francisco, California. The father of these children is being held as a dangerous enemy alien. . . . - NARA - 536456.tif | Disagreement between ACT and Commons on circa.
+56109 | San Francisco, California. The father of these children is being held as a dangerous enemy alien. . . . - NARA - 536456.tif | ACT precision: 9, Commons precision: 11
+
+56110 | Ludovico Mazzolino - Mozes en de tafelen der Wet.jpg | ACT inception: 1527, Commons inception: 1550
+56110 | Ludovico Mazzolino - Mozes en de tafelen der Wet.jpg | ACT precision: 9, Commons precision: 7
+
+56116 | Low similarity ratio: 36 between ACT name: Ernst Barlach and Commons name: Wolfgang Sauber
+
+56117 | Low similarity ratio: 0 between ACT name: Unknown and Commons name: GFreihalter
+
+56120 | Low similarity ratio: 65 between ACT name: Béla Iványi-Grünwald and Commons name: Béla Iványi-Grünwald
+
+56123 | ACT says author unidentified, but Commons gives name: Ramon FVelasquez
+56124 | Low similarity ratio: 25 between ACT name: Frans Gast and Commons name: Japiot
+
+56127 | Adam de Coster - The Denial of Saint Peter.jpg | ACT inception: 1625, Commons inception: 1650
+56127 | Adam de Coster - The Denial of Saint Peter.jpg | Disagreement between ACT and Commons on circa.
+56127 | Adam de Coster - The Denial of Saint Peter.jpg | ACT precision: 9, Commons precision: 7
+
+56128 | Flemish Denial of Saint Peter.jpg | Disagreement between ACT and Commons on circa.
+56128 | Flemish Denial of Saint Peter.jpg | ACT precision: 9, Commons precision: 7
+
+56132 | Carl Bloch 001.jpg | ACT inception: 1873, Commons inception: 1850
+56132 | Carl Bloch 001.jpg | ACT precision: 9, Commons precision: 7
+
+56134 | Low similarity ratio: 35 between ACT name: Laurentius Ulrich Englisch and Commons name: Rabanus Flavus
+
+56135 | Could not identify type (instance of)
+
+56136 | Commons says name unknown, but ACT gives name: 16th century) Anonymous (German school
+56142 | Jf3049Christ Light Nations Church Porac Pampangafvf 35.JPG | no dates retrieved. Commons data: ["\n5 March 2015, 14:50:31"]
+56142 | Could not identify type (instance of)
+56142 | ACT says author unidentified, but Commons gives name: Judgefloro
+56144 | Low similarity ratio: 11 between ACT name: Hsieh Ying-chun and Roan Ching-yueh Marco Casagrande and Commons name: Movez
+
+56145 | Filioque.JPG | Disagreement between ACT and Commons on circa.
+56145 | Filioque.JPG | ACT precision: 9, Commons precision: 7
+
+56146 | ACT says author unidentified, but Commons gives name: Noel Feans
+56147 | Low similarity ratio: 17 between ACT name: Louis Joseph Strater and Commons name: Marikevanroon20
+
+56148 | Der-Sterbende-1518.jpg | Disagreement between ACT and Commons on circa.
+
+56149 | ACT says author unidentified, but Commons gives name: Sibeaster
+56150 | ACT says author unidentified, but Commons gives name: Bischöfliche Pressestelle Hildesheim (bph)
+56152 | Aufweckung-Jüngling-Nain-15.jpg | ACT inception: 1569, Commons inception: 1565
+56152 | Aufweckung-Jüngling-Nain-15.jpg | ACT precision: 9, Commons precision: 7
+56152 | Low similarity ratio: 15 between ACT name: Lucas Cranach and Commons name: Attributed to
+
+56155 | Could not identify type (instance of)
+56155 | Low similarity ratio: 24 between ACT name: Jules Pierre Maumejean and Commons name: GFreihalter
+
+56156 | Low similarity ratio: 19 between ACT name: Augustin Alois Probst and Commons name: Buchhändler
+
+56158 | Christ in the House of Simon 1470s.jpg | ACT inception: 1475, Commons inception: 1450
+56158 | Christ in the House of Simon 1470s.jpg | Disagreement between ACT and Commons on circa.
+56158 | Christ in the House of Simon 1470s.jpg | ACT precision: 9, Commons precision: 7
+56158 | ACT says author unidentified, but Commons gives name: School of the Allgäu (Southern Germany), circa 1470-1480
+56159 | Low similarity ratio: 91 between ACT name: Lukas Moser and Commons name: Lucas Moser
+
+56160 | Could not identify type (instance of)
+56160 | ACT says author unidentified, but Commons gives name: GFreihalter
+56161 | Zhuravlev r 02.jpg | Disagreement between ACT and Commons on circa.
+56161 | Zhuravlev r 02.jpg | ACT precision: 9, Commons precision: 7
+
+56163 | Moretto da Brescia - Supper in the House of Simon Pharisee - WGA16229.jpg | ACT inception: 1552, Commons inception: 1550
+56163 | Moretto da Brescia - Supper in the House of Simon Pharisee - WGA16229.jpg | Disagreement between ACT and Commons on circa.
+56163 | Moretto da Brescia - Supper in the House of Simon Pharisee - WGA16229.jpg | ACT precision: 9, Commons precision: 8
+
+56174 | Commons says name unknown, but ACT gives name: Unknown
+56175 | Commons says name unknown, but ACT gives name: Unknown
+56181 | Low similarity ratio: 0 between ACT name: Timothy Schmalz and Commons name: Kjp993
+
+56193 | ACT says author unidentified, but Commons gives name: Wolfgang Sauber
+56194 | Low similarity ratio: 17 between ACT name: Felix Lieftuchter and Commons name: Nheyob
+
+56196 | Could not identify type (instance of)
+56196 | Low similarity ratio: 76 between ACT name: Dirk and Wouter Crabeth Crabeth and Commons name: Wouter Crabeth (Gouda), 1562, from his own design
+
+56197 | ACT says author unidentified, but Commons gives name: anonimus
+56199 | Turtle Peace Labyrinth.jpg | no dates retrieved. Commons data: ["\n8 June 2011"]
+56199 | Could not identify type (instance of)
+56199 | Low similarity ratio: 48 between ACT name: Ariane Burgess and Commons name: Various
+
+56200 | ACT says author unidentified, but Commons gives name: Richard Schofield
+56203 | Dirc van Delft - The Fall of Satan - Walters W17181V - Full Page.jpg | ACT inception: 1402, Commons inception: 1400
+56203 | Dirc van Delft - The Fall of Satan - Walters W17181V - Full Page.jpg | Disagreement between ACT and Commons on circa.
+56203 | Dirc van Delft - The Fall of Satan - Walters W17181V - Full Page.jpg | ACT precision: 9, Commons precision: 8
+
+56208 | ACT says author unidentified, but Commons gives name: Brianboru100
+56209 | Vincent Adriaenssen - Christ in the House of Mary and Martha.jpg | ACT inception: 1616, Commons inception: 1650
+56209 | Vincent Adriaenssen - Christ in the House of Mary and Martha.jpg | Disagreement between ACT and Commons on circa.
+56209 | Vincent Adriaenssen - Christ in the House of Mary and Martha.jpg | ACT precision: 9, Commons precision: 7
+
+56214 | Could not identify type (instance of)
+
+56217 | Low similarity ratio: 37 between ACT name: Josep Maria Subirachs and Commons name: Sagrada Família (oficial)
+
+56218 | Low similarity ratio: 36 between ACT name: Josep Maria Subirachs and Commons name: Philip Serracino Inglott
+
+56220 | ACT says author unidentified, but Commons gives name: ArtofCulturalEvolution
+56226 | Ethiopian painting of Ethiopian Orthodox choir.png | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+56226 | ACT says author unidentified, but Commons gives name: User:Jahsensie
+56231 | Low similarity ratio: 30 between ACT name: Barbara Pearson and Commons name: Alan Godfree
+
+56232 | ACT says author unidentified, but Commons gives name: Sustiputo
+56235 | Low similarity ratio: 36 between ACT name: Andrea della Robbia and Commons name: Gunnar Bach Pedersen
+
+56266 | Low similarity ratio: 0 between ACT name: Aleksandr Andreevich Ivanov and Commons name: Русский:
+
+56267 | Rembrandt 221.jpg | ACT inception: 1645, Commons inception: 1650
+56267 | Rembrandt 221.jpg | Disagreement between ACT and Commons on circa.
+56267 | Rembrandt 221.jpg | ACT precision: 9, Commons precision: 7
+
+56273 | Low similarity ratio: 54 between ACT name: active 15th century Meister der Karlsruher Passion and Commons name: Meister der Kahriye-Cami-Kirche in Istanbul
+
+56274 | Could not identify type (instance of)
+
+56276 | Folio 109v - The Baptism of Christ.jpg | ACT precision: 9, Commons precision: 8
+
+56287 | Commons says name unknown, but ACT gives name: active 15th century Boucicaut Master
+56296 | Low similarity ratio: 93 between ACT name: Károly Ferenczy and Commons name: Károly Ferenczy
+
+56301 | Low similarity ratio: 35 between ACT name: Jozef Markowski and Commons name: Klearchos Kapoutsis
+
+56305 | Low similarity ratio: 48 between ACT name: László Péterfy and Commons name: own photo; sculptor:László Péterfy
+
+56307 | Star of Bethlehem Quilt MET DT1820.jpg | Disagreement between ACT and Commons on circa.
+56307 | Could not identify type (instance of)
+
+56310 | Indian - The Christ Child as Good Shepherd - Walters 71324.jpg | ACT inception: 1625, Commons inception: 1650
+56310 | Indian - The Christ Child as Good Shepherd - Walters 71324.jpg | ACT precision: 9, Commons precision: 7
+
+56314 | Could not identify type (instance of)
+56314 | Low similarity ratio: 31 between ACT name: Patrick Pollen and Commons name: Andreas F. Borchert
+
+56317 | Else Berg A potter.jpg | ACT precision: 9, Commons precision: 7
+
+56319 | Could not identify type (instance of)
+56319 | Low similarity ratio: 18 between ACT name: George Millereau and Commons name: Vassil
+
+56321 | Low similarity ratio: 26 between ACT name: Helen McLean and Commons name: Karemin1094
+
+56333 | Carl Massmann Gartenarbeit.jpg | ACT inception: 1904, Commons inception: 1929
+56333 | Carl Massmann Gartenarbeit.jpg | ACT precision: 9, Commons precision: 7
+56333 | Carl Massmann Gartenarbeit.jpg | ACT date range: 1880-1929, Commons date range: 0-1929
+
+56340 | Nativity scenes 01.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+56340 | Could not identify type (instance of)
+
+56341 | Could not identify type (instance of)
+
+56350 | Hugo van der Goes - Triptyque Portinari, détail 4.jpg | no dates retrieved. Commons data: ["Fran\u00e7ais\u00a0:", "1475"]
+
+56352 | Could not identify type (instance of)
+
+56370 | Clara Barton, founder American Red Cross (89684515).jpg | no dates retrieved. Commons data: ["\n21 January 2006, 12:26"]
+56370 | Could not identify type (instance of)
+
+56385 | Low similarity ratio: 88 between ACT name: Dave Zelenka and Commons name: David Zelenka
+
+56391 | Could not identify type (instance of)
+
+56393 | Could not identify type (instance of)
+56393 | Low similarity ratio: 33 between ACT name: George Walsh and Commons name: Andreas F. Borchert
+
+56401 | Check ACT artist name (more than 4 parts)
+
+56402 | Could not identify type (instance of)
+
+56403 | Giovanni di paolo, Creation and the Expulsion from the Paradise.jpg | ACT inception: 1450, Commons inception: 1445
+56403 | Giovanni di paolo, Creation and the Expulsion from the Paradise.jpg | Disagreement between ACT and Commons on circa.
+56403 | Giovanni di paolo, Creation and the Expulsion from the Paradise.jpg | ACT precision: 7, Commons precision: 9
+
+56409 | Could not identify type (instance of)
+
+56411 | Christ Speaking to the Disciples, from The Story of Christ MET DP855491.jpg | no dates retrieved. Commons data: ["\n1534\u201335"]
+56411 | Could not identify type (instance of)
+
+56414 | Waubay NWR Sunset (9737733990).jpg | no dates retrieved. Commons data: ["\n13 September 2013, 11:27"]
+56414 | Could not identify type (instance of)
+56414 | Low similarity ratio: 26 between ACT name: Spencer Neuharth and Commons name: USFWS Mountain-Prairie
+
+56416 | Could not identify type (instance of)
+
+56460 | StJohnsAshfield StainedGlass Nathanael.jpg | no dates retrieved. Commons data: ["\n12 November 2009"]
+56460 | Could not identify type (instance of)
+
+56468 | Cañas - Monasterio 11 (Sepulcro de la Beata Urraca Díaz de Haro).jpg | no dates retrieved. Commons data: ["\n25 September 2011"]
+
+56469 | Low similarity ratio: 32 between ACT name: Eero Jarnefelt and Commons name: Finnish National Gallery
+
+56470 | Could not identify type (instance of)
+
+56471 | Saint Mary of the Presentation Catholic Church (Geneva, Indiana) - stained glass, Christ forgive a penitent.jpg | no dates retrieved. Commons data: ["\n14 August 2016, 17:48:33"]
+56471 | Could not identify type (instance of)
+
+56472 | Living Cross by Sarah Hall.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+56472 | Could not identify type (instance of)
+
+56474 | Tissot The Pharisee and the publican Brooklyn.jpg | ACT inception: 1890, Commons inception: 1850
+56474 | Tissot The Pharisee and the publican Brooklyn.jpg | ACT precision: 9, Commons precision: 7
+
+56476 | Children sculpture by Mikhail Reva.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+56476 | Low similarity ratio: 10 between ACT name: Mikhail Reva and Commons name: HOBOPOCC
+
+56499 | Waldmüller - Palmsonntag.jpeg | ACT inception: 1852, Commons inception: 1952
+56499 | Low similarity ratio: 81 between ACT name: Ferdinand Georg Waldmüller and Commons name: Ferdinand Georg Waldmüller
+
+56505 | Could not identify type (instance of)
+
+56506 | Could not identify type (instance of)
+
+56511 | Maria Martental Wallfahrtskirche110106 with perspective correction.JPG | no dates retrieved. Commons data: ["\n10 April 2013"]
+56511 | Could not identify type (instance of)
+
+56516 | Could not identify type (instance of)
+
+56519 | Could not identify type (instance of)
+56519 | Low similarity ratio: 33 between ACT name: Anish Kapoor and Commons name: Jean-Pierre Dalbéra
+
+56527 | Could not identify type (instance of)
+
+56576 | Paul Klee - The Lamb - Google Art Project.jpg | ACT inception: 1950, Commons inception: 1920
+56576 | Paul Klee - The Lamb - Google Art Project.jpg | ACT precision: 7, Commons precision: 9
+56576 | Could not identify type (instance of)
+
+56590 | Duccio di Buoninsegna - Christ Accused by the Pharisees (detail) - WGA06802.jpg | ACT inception: 1309, Commons inception: 1350
+56590 | Duccio di Buoninsegna - Christ Accused by the Pharisees (detail) - WGA06802.jpg | Disagreement between ACT and Commons on circa.
+56590 | Duccio di Buoninsegna - Christ Accused by the Pharisees (detail) - WGA06802.jpg | ACT precision: 9, Commons precision: 7
+
+56592 | Chinese Orthodox communion bread seal.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+56592 | Could not identify type (instance of)
+
+56598 | AFM Word And Life.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+
+56599 | Low similarity ratio: 93 between ACT name: Cláudio Pastro and Commons name: Cláudio Pastro
+
+56600 | Low similarity ratio: 71 between ACT name: Monk Thomas and Commons name: Mönch Thomas (Kloster Eberbach)
+
+56604 | Low similarity ratio: 37 between ACT name: Mihály Munkácsy and Commons name: Міхай Мункачі/Mihály Munkácsy (1844-1900)
+
+56608 | Low similarity ratio: 44 between ACT name: Eugene Laermans and Commons name: Paul Hermans
+
+56617 | Low similarity ratio: 26 between ACT name: Walker Hancock and Commons name: Difference engine
+
+56618 | Low similarity ratio: 47 between ACT name: Martin Ruiz Anglada and Commons name: RuizAnglada
+
+56624 | Low similarity ratio: 73 between ACT name: Hans Schäufelein and Commons name: Hans Leonhard Schäufelein
+
+56633 | "Maistre Robert" healing by laying-on of hands. Oil painting Wellcome V0018251.jpg | no dates retrieved. Commons data: []
+56633 | Could not identify type (instance of)
+
+56640 | Lucas Cranach d.J. - Christus segnet die Kinder (ca.1540).jpg | ACT inception: 1547, Commons inception: 1550
+56640 | Lucas Cranach d.J. - Christus segnet die Kinder (ca.1540).jpg | ACT precision: 9, Commons precision: 7
+56640 | Lucas Cranach d.J. - Christus segnet die Kinder (ca.1540).jpg | ACT date range: 1545-1550, Commons date range: 1537-1550
+
+56644 | Creation of Eve by Giusto de Menabuoi (Padua baptistery).jpg | ACT inception: 1378, Commons inception: 1376
+56644 | Creation of Eve by Giusto de Menabuoi (Padua baptistery).jpg | Disagreement between ACT and Commons on circa.
+56644 | Creation of Eve by Giusto de Menabuoi (Padua baptistery).jpg | ACT precision: 9, Commons precision: 8
+
+56645 | Low similarity ratio: 31 between ACT name: Benno Elkan and Commons name: Tamar HaYardeni
+
+56651 | Low similarity ratio: 43 between ACT name: Louis Buchetto and Commons name: brewbooks
+
+56657 | Could not identify type (instance of)
+
+56661 | MCC-41326 Genezing van de blinde te Jericho (1).tif | ACT inception: 1474, Commons inception: 1470
+56661 | MCC-41326 Genezing van de blinde te Jericho (1).tif | ACT precision: 9, Commons precision: 8
+
+56664 | Low similarity ratio: 93 between ACT name: Maarten de Vos and Commons name: Maerten de Vos
+
+56669 | Victors Elijah and the widow of Zarephath.JPG | ACT inception: 1644, Commons inception: 1640
+56669 | Victors Elijah and the widow of Zarephath.JPG | ACT precision: 9, Commons precision: 8
+
+56671 | Elkanah and his two wives.jpg | Disagreement between ACT and Commons on circa.
+
+56677 | MEMBER OF A WRECKING CREW RESTS DURING DEMOLITION OF HOUSING IN THE MULKEY SQUARE AREA. MANY OF THE LOW INCOME... - NARA - 557351.jpg | ACT precision: 9, Commons precision: 10
+
+56679 | Jesus Before Pilate, First Interview.jpg | ACT inception: 1890, Commons inception: 1850
+56679 | Jesus Before Pilate, First Interview.jpg | ACT precision: 9, Commons precision: 7
+
+56682 | Duccio di Buoninsegna - Christ Before Pilate Again (detail) - WGA06806.jpg | ACT inception: 1309, Commons inception: 1350
+56682 | Duccio di Buoninsegna - Christ Before Pilate Again (detail) - WGA06806.jpg | ACT precision: 9, Commons precision: 7
+
+56684 | The Ancient of Days - etching with pen & ink wc Whitworth Art Gallery The University of Manchester UK The Bridgeman Art Library.jpg | ACT inception: 1827, Commons inception: 1750
+56684 | The Ancient of Days - etching with pen & ink wc Whitworth Art Gallery The University of Manchester UK The Bridgeman Art Library.jpg | ACT precision: 9, Commons precision: 7
+
+56690 | Could not identify type (instance of)
+56690 | Low similarity ratio: 38 between ACT name: Martin Creed and Commons name: Vincerama
+
+56708 | Jan van Eyck - The Ghent Altarpiece - St John the Baptist (detail) - WGA07634.jpg | ACT inception: 1427, Commons inception: 1425
+56708 | Jan van Eyck - The Ghent Altarpiece - St John the Baptist (detail) - WGA07634.jpg | Disagreement between ACT and Commons on circa.
+56708 | Jan van Eyck - The Ghent Altarpiece - St John the Baptist (detail) - WGA07634.jpg | ACT precision: 9, Commons precision: 8
+
+56713 | Domenico Ghirlandaio -  Preaching of St John the Baptist (detail) - WGA8865.jpg | ACT inception: 1488, Commons inception: 1450
+56713 | Domenico Ghirlandaio -  Preaching of St John the Baptist (detail) - WGA8865.jpg | Disagreement between ACT and Commons on circa.
+56713 | Domenico Ghirlandaio -  Preaching of St John the Baptist (detail) - WGA8865.jpg | ACT precision: 9, Commons precision: 7
+
+56724 | Biberach Spital Relief img04.jpg | no dates retrieved. Commons data: ["\n20 June 2014"]
+
+56749 | Could not identify type (instance of)
+
+56761 | Baptism of Christ MET DP144433.jpg | ACT inception: 1485, Commons inception: 1480
+56761 | Baptism of Christ MET DP144433.jpg | Disagreement between ACT and Commons on circa.
+
+56770 | Could not identify type (instance of)
+56770 | Low similarity ratio: 21 between ACT name: Conrad Schmitt Studios and Commons name: Nheyob
+
+56772 | Check ACT artist name (more than 4 parts)
+
+56773 | Could not identify type (instance of)
+
+56776 | Pascal Dagnan-Bouveret - Blessing of the Young Couple Before Marriage.JPG | ACT precision: 9, Commons precision: 8
+
+56785 | Could not identify type (instance of)
+
+56786 | Paolo Veronese - Marriage at Cana (detail) - WGA24874.jpg | ACT precision: 9, Commons precision: 8
+56786 | Low similarity ratio: 73 between ACT name: 1528-1588 Veronese and Commons name: Paolo Veronese
+
+56797 | Low similarity ratio: 29 between ACT name: Frans Francken and Commons name: Daderot
+
+56812 | Mourning Figures- possibly a copy after a fresco by Cimabue MET DP804917.jpg | ACT inception: 1774, Commons inception: 1773
+56812 | Mourning Figures- possibly a copy after a fresco by Cimabue MET DP804917.jpg | Disagreement between ACT and Commons on circa.
+
+56815 | Post War Planning and Reconstruction in Britain- Repairing Bomb Damaged Housing D24218.jpg | ACT inception: 1945, Commons inception: 1950
+56815 | Post War Planning and Reconstruction in Britain- Repairing Bomb Damaged Housing D24218.jpg | ACT precision: 9, Commons precision: 7
+
+56818 | Could not identify type (instance of)
+
+56819 | The temptation of Christ, by Jacob Cornelisz van Oostsanen.jpg | ACT inception: 1527, Commons inception: 1526
+56819 | The temptation of Christ, by Jacob Cornelisz van Oostsanen.jpg | Disagreement between ACT and Commons on circa.
+56819 | The temptation of Christ, by Jacob Cornelisz van Oostsanen.jpg | ACT precision: 9, Commons precision: 8
+56819 | The temptation of Christ, by Jacob Cornelisz van Oostsanen.jpg | ACT date range: 1525-1530, Commons date range: 1526-1528
+
+56821 | Low similarity ratio: 86 between ACT name: Briton Rivière and Commons name: Briton Rivière
+
+56824 | Low similarity ratio: 30 between ACT name: Anuradha Patel and Commons name: Elliott Brown
+
+56828 | TheKingSaul.jpg | no dates retrieved. Commons data: ["\n7 September 2009"]
+
+56831 | Low similarity ratio: 73 between ACT name: Hans Schäufelein and Commons name: Hans Leonhard Schäufelein
+
+56833 | Could not identify type (instance of)
+
+56834 | Low similarity ratio: 29 between ACT name: di Fredi Bartolo and Commons name: Livioandronico2013
+
+56839 | Could not identify type (instance of)
+
+56841 | Albrecht Dürer - The Prodigal Son - WGA7275.jpg | Disagreement between ACT and Commons on circa.
+56841 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
+
+56866 | Low similarity ratio: 38 between ACT name: Tilman Riemenschneider and Commons name: Wolfgang Sauber
+
+56869 | Low similarity ratio: 18 between ACT name: Unknown sculptor and Commons name: Nheyob
+
+56870 | Could not identify type (instance of)
+
+56872 | Fra Angelico - Resurrection of Christ and Women at the Tomb (Cell 8) - WGA00542.jpg | ACT inception: 1441, Commons inception: 1440
+56872 | Fra Angelico - Resurrection of Christ and Women at the Tomb (Cell 8) - WGA00542.jpg | ACT precision: 9, Commons precision: 8
+56872 | Fra Angelico - Resurrection of Christ and Women at the Tomb (Cell 8) - WGA00542.jpg | ACT date range: 1439-1444, Commons date range: 1440-1442
+
+56874 | Benozzo Gozzoli - Women at the Tomb (detail) - WGA10210.jpg | Disagreement between ACT and Commons on circa.
+56874 | Benozzo Gozzoli - Women at the Tomb (detail) - WGA10210.jpg | ACT precision: 9, Commons precision: 8
+56874 | Low similarity ratio: 64 between ACT name: di Lese Benozzo and Commons name: Benozzo Gozzoli
+
+56881 | Low similarity ratio: 29 between ACT name: Lars Gallemius and Commons name: Daderot
+
+56887 | Could not identify type (instance of)
+
+56889 | Could not identify type (instance of)
+
+56890 | Could not identify type (instance of)
+56890 | Low similarity ratio: 36 between ACT name: Edouard Didron and Commons name: Père Igor
+
+56893 | Could not identify type (instance of)
+56893 | Low similarity ratio: 24 between ACT name: William Wailes and Commons name: Jules & Jenny
+
+56898 | Sacred Heart church, Peace. - Szent László Street, Komárom, Hungary.jpg | no dates retrieved. Commons data: ["\n2015"]
+56898 | Could not identify type (instance of)
+
+56902 | Low similarity ratio: 94 between ACT name: Joost Cornelisz Droogsloot and Commons name: Joost Cornelisz Droochsloot
+
+56935 | William Turner - Snowstorm.JPG | Disagreement between ACT and Commons on circa.
+
+56943 | Low similarity ratio: 58 between ACT name: Guillaume Vrelant and Commons name: Willem Vrelant (Flemish, died 1481, active 1454 - 1481) 1481 – illuminator (Flemish)
+
+56950 | Could not identify type (instance of)
+56950 | Low similarity ratio: 27 between ACT name: Ronald Kraut and Commons name: Judgefloro
+
+56951 | Low similarity ratio: 24 between ACT name: 1475-1564 Michelangelo Buonarroti and Commons name: Jörg Bittner Unna
+
+56952 | Could not identify type (instance of)
+
+56953 | Othea's Epistle (Queen's Manuscript) 02.jpg | ACT inception: 1414, Commons inception: 1450
+56953 | Othea's Epistle (Queen's Manuscript) 02.jpg | ACT precision: 9, Commons precision: 7
+56953 | Commons says name unknown, but ACT gives name: active 1400-1415 Master of the Cité des Dames
+56956 | Low similarity ratio: 42 between ACT name: Richard Tipping and Commons name: Mattinbgn
+
+56959 | Low similarity ratio: 61 between ACT name: James D. Sutter and Commons name: Staff Sgt. Jamal Sutter
+
+56961 | Low similarity ratio: 21 between ACT name: John Quincy Adams Ward and Commons name: Wmpearl
+
+56969 | Low similarity ratio: 29 between ACT name: Timothy Schmalz and Commons name: Mariordo (Mario Roberto Durán Ortiz)
+
+56976 | Could not identify type (instance of)
+
+56977 | Low similarity ratio: 57 between ACT name: Cyprián Majerník and Commons name: Cyprián Majerník (1909-1945)
+
+56980 | Low similarity ratio: 40 between ACT name: Charles Eyck and Commons name: Hjvannes
+
+56992 | Low similarity ratio: 76 between ACT name: active 1488-1530 Master of James IV of Scotland and Commons name: Master of James IV of Scotland (Flemish, before 1465 - about 1541) (1465 - 1541) – illuminator (Flemish)
+
+56994 | Could not identify type (instance of)
+
+56995 | Low similarity ratio: 29 between ACT name: Cunradus Schlapperitzi and Commons name: Scan by NYPL
+
+56996 | Low similarity ratio: 27 between ACT name: Ursula Malbin and Commons name: Guillaume Paumier
+
+56999 | Praying Hands - Albrecht Durer.png | ACT inception: 1510, Commons inception: 1508
+56999 | Low similarity ratio: 93 between ACT name: Albrecht Dürer and Commons name: Albrecht Dürer
+
+57000 | Low similarity ratio: 32 between ACT name: Stephen Broadbent and Commons name: Laura A. Macaluso, Ph.D.
+
+57007 | Low similarity ratio: 24 between ACT name: Henry Varnum Poor and Commons name: Carol M. Highsmith
+
+57009 | Shaw Butte School Mosaic, 2012 - panoramio.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+
+57010 | Lucas Cranach, Heart shaped altar, Nuremberg.jpg | ACT inception: 1584, Commons inception: 1550
+57010 | Lucas Cranach, Heart shaped altar, Nuremberg.jpg | Disagreement between ACT and Commons on circa.
+
+57015 | Low similarity ratio: 24 between ACT name: Adolf Hölzel and Commons name: Yelkrokoyade
+
+57016 | Could not identify type (instance of)
+57016 | Low similarity ratio: 37 between ACT name: Rowan and Irene LeCompte LeCompte and Commons name: Caroline Léna Becker
+
+57017 | Could not identify type (instance of)
+57017 | Low similarity ratio: 27 between ACT name: Robert and Dieter Goldruhle Pinart and Commons name: Tim Evanson
+
+57021 | Could not identify type (instance of)
+57021 | Low similarity ratio: 30 between ACT name: J. & R. Lamb Studios and Commons name: Carol M. Highsmith
+
+57023 | Could not identify type (instance of)
+57023 | Low similarity ratio: 33 between ACT name: Frederick Richard Pickersgill and Commons name: Creator:Camden Press
+
+57031 | HealWomanSabbath.jpg | ACT inception: 1890, Commons inception: 1850
+57031 | HealWomanSabbath.jpg | ACT precision: 9, Commons precision: 7
+57031 | HealWomanSabbath.jpg | ACT date range: 1886-1894, Commons date range: 1886-1896
+
+57050 | Could not identify type (instance of)
+57050 | Low similarity ratio: 44 between ACT name: Andrea Pisano and Commons name: Kandi
+
+57052 | Low similarity ratio: 13 between ACT name: Giovanni Battista Gaulli and Commons name: Daderot
+
+57059 | Could not identify type (instance of)
+
+57064 | Check ACT artist name (more than 4 parts)
+57064 | Low similarity ratio: 28 between ACT name: Daniela Vicente de Almeida and Commons name: יהודית גרעין-כל Yehudit Garinkol
+
+57068 | Low similarity ratio: 32 between ACT name: Maurice Sterne and Commons name: Carol M. Highsmith
+
+57072 | Low similarity ratio: 9 between ACT name: Elmelunde Master and Commons name: Ipigott
+
+57073 | Low similarity ratio: 73 between ACT name: Hans Schäufelein and Commons name: Hans Leonhard Schäufelein
+
+57161 | By the Waters of Babylon (1882-1883).jpg | ACT precision: 9, Commons precision: 8
+
+57163 | Could not identify type (instance of)
+
+57165 | Gebhard Fugel Christus und die Aussätzigen c1920.jpg | ACT inception: 1950, Commons inception: 1920
+57165 | Gebhard Fugel Christus und die Aussätzigen c1920.jpg | ACT precision: 7, Commons precision: 9
+
+57166 | Could not identify type (instance of)
+
+57176 | Low similarity ratio: 36 between ACT name: John Everett Millais and Commons name: Creator:Dalziel Brothers
+
+57177 | Parable of the Unjust Judge (Granovitaya palata, 1881-2) 4.jpg | ACT precision: 9, Commons precision: 8
+
+57182 | Duccio di Buoninsegna - Entry into Jerusalem (detail) - WGA06784.jpg | ACT inception: 1309, Commons inception: 1350
+57182 | Duccio di Buoninsegna - Entry into Jerusalem (detail) - WGA06784.jpg | ACT precision: 9, Commons precision: 7
+
+57186 | Low similarity ratio: 31 between ACT name: Aristakes and Commons name: Walters Art Museum Illuminated Manuscripts
+
+57188 | War memorial mural - Nuevo Gualcho, El Salvador.JPG | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+
+57196 | 072 MS 65 F34 V.jpg | ACT inception: 1414, Commons inception: 1411
+57196 | 072 MS 65 F34 V.jpg | ACT precision: 9, Commons precision: 8
+57196 | 072 MS 65 F34 V.jpg | ACT date range: 1412-1416, Commons date range: 1411-1416
+57196 | Check ACT artist name (more than 4 parts)
+57196 | Low similarity ratio: 69 between ACT name: Herman de Limbourg and Commons name: Limbourg brothers
+
+57197 | Commons says name unknown, but ACT gives name: Tim Ashkar
+57221 | A Walk along a Path at Sunset by Hermann Herzog.jpg | no dates retrieved. Commons data: []
+57221 | Low similarity ratio: 74 between ACT name: Herman Herzog and Commons name: Hermann Ottomar Herzog
+
+57225 | Could not identify type (instance of)
+
+57227 | Ju IMG 1335.JPG | no dates retrieved. Commons data: ["\n23 March 2012, 11:55:13"]
+57227 | Could not identify type (instance of)
+
+57234 | Could not identify type (instance of)
+57234 | Low similarity ratio: 17 between ACT name: McMow Art Glass Incorporated and Commons name: Deisenbe
+
+57241 | Could not identify type (instance of)
+
+57245 | Kalvarienberg, Jerzens 08.JPG | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+57245 | Could not identify type (instance of)
+
+57246 | Could not identify type (instance of)
+57246 | Low similarity ratio: 26 between ACT name: McCully and Miles of Chicago and Commons name: Tetragrammaton.jpg
+
+57248 | Low similarity ratio: 34 between ACT name: Tom Otterness and Commons name: Alexandre Moreau
+
+57250 | Could not identify type (instance of)
+
+57253 | Could not identify type (instance of)
+57253 | Low similarity ratio: 25 between ACT name: Josef Krautwald and Commons name: J.-H. Janßen
+
+57255 | Low similarity ratio: 72 between ACT name: Johannes van Bronckhorst and Commons name: Johannes Bronkhorst (1648 - 1727)
+
+57264 | Jael killing Sisera-Exterior of the Duomo-Milan.jpg | no dates retrieved. Commons data: ["\n4 April 2015"]
+
+57272 | Low similarity ratio: 31 between ACT name: Corrado Giaquinto and Commons name: Centro Superior de Estudios de la Defensa Nacional - CESEDEN -
+
+57275 | Could not identify type (instance of)
+
+57276 | Could not identify type (instance of)
+
+57277 | Sheba demin.jpg | ACT inception: 1846, Commons inception: 1850
+57277 | Sheba demin.jpg | ACT precision: 9, Commons precision: 7
+
+57283 | Low similarity ratio: 18 between ACT name: Nicolas Cordier and Commons name: Jastrow
+
+57287 | Low similarity ratio: 93 between ACT name: Louis-Jean-François Lagrenée and Commons name: Louis-Jean-François Lagrenée
+
+57304 | Low similarity ratio: 29 between ACT name: David McFall and Commons name: Nilfanion
+
+57309 | Low similarity ratio: 67 between ACT name: Andreĭ (Andreĭ Nikolaevich) Mironov and Commons name: Andrey Mironov
+
+57310 | Could not identify type (instance of)
+
+57313 | Low similarity ratio: 70 between ACT name: Lucas Cranach and Commons name: Werkstatt Lucas Cranachs (
+
+57316 | Could not identify type (instance of)
+57316 | Low similarity ratio: 19 between ACT name: JoKarl Huber and Commons name: Adrix3000
+
+57317 | Hercules Brabazon - Mountain Landscape - Google Art Project.jpg | no dates retrieved. Commons data: ["\nundated"]
+
+57335 | Could not identify type (instance of)
+
+57337 | Low similarity ratio: 93 between ACT name: Károly Kernstok and Commons name: Károly Kernstok
+
+57340 | Low similarity ratio: 12 between ACT name: Amos Supuni and Commons name: Ellywa
+
+57341 | Christus im garten Giovanni di Paolo.Vatican.jpg | ACT inception: 1432, Commons inception: 1445
+
+57349 | Albrecht Altdorfer - The Arrest of Christ - WGA00224.jpg | ACT inception: 1512, Commons inception: 1550
+57349 | Albrecht Altdorfer - The Arrest of Christ - WGA00224.jpg | ACT precision: 9, Commons precision: 7
+
+57351 | Low similarity ratio: 45 between ACT name: David Paynter and Commons name: Dan arndt
+
+57352 | Pieter Aertsen Christ cleansing the Temple.png | ACT inception: 1650, Commons inception: 1550
+
+57353 | Could not identify type (instance of)
+57353 | Low similarity ratio: 33 between ACT name: George Walsh and Commons name: Andreas F. Borchert
+
+57365 | Low similarity ratio: 93 between ACT name: Quentin Metsys and Commons name: Quentin Metsis
+
+57375 | Edward Calvert - The Sheep of His Pasture - Google Art Project.jpg | ACT inception: 1925, Commons inception: 1828
+57375 | Edward Calvert - The Sheep of His Pasture - Google Art Project.jpg | Disagreement between ACT and Commons on circa.
+
+57377 | Could not identify type (instance of)
+57377 | Low similarity ratio: 92 between ACT name: Wilhelm Kotarbiński and Commons name: Wilhelm Kotarbiński
+
+57379 | Low similarity ratio: 37 between ACT name: Shigeru Ban and Commons name: Jocelyn Kinghorn
+
+57380 | Hans Memling - St Andrew (left wing of a diptych, reverse) - WGA15004.jpg | Disagreement between ACT and Commons on circa.
+57380 | Hans Memling - St Andrew (left wing of a diptych, reverse) - WGA15004.jpg | ACT precision: 9, Commons precision: 8
+
+57384 | Sun and Moon, Nagy Imre Community Centre, 2016 Csepel-Csillagtelep.jpg | no dates retrieved. Commons data: ["\n2016"]
+57384 | Could not identify type (instance of)
+
+57389 | Could not identify type (instance of)
+
+57390 | Low similarity ratio: 43 between ACT name: Raymond Mason and Commons name: Jeangagnon
+
+57392 | Preacher by Eddie Dixon at the Juneteenth Memorial Monument in Austin Texas.jpg | no dates retrieved. Commons data: ["\nTaken on\u00a020 September 2016, 09:18:57"]
+57392 | Could not identify type (instance of)
+57392 | Low similarity ratio: 20 between ACT name: Eddie Dixon and Commons name: Jennifer Rangubphai
+
+57393 | Tissot Hagar and the Angel in the Desert.jpg | ACT inception: 1899, Commons inception: 1500
+57393 | Tissot Hagar and the Angel in the Desert.jpg | ACT precision: 9, Commons precision: 6
+
+57394 | Low similarity ratio: 15 between ACT name: van Leyden Lucas and Commons name: Rijksmuseum
+
+57404 | Low similarity ratio: 57 between ACT name: Hebrew Publishing Company and Commons name: Heb. Pub. Co.
+
+57416 | Three Friends, by William H. Johnson.jpg | ACT precision: 9, Commons precision: 8
+
+57418 | Could not identify type (instance of)
+57418 | Low similarity ratio: 43 between ACT name: Brian Whelan and Commons name: The original uploader was
+
+57426 | Low similarity ratio: 22 between ACT name: Ezra Orion and Commons name: zeevveez
+
+57434 | Low similarity ratio: 81 between ACT name: Ferdinand Georg Waldmüller and Commons name: Ferdinand Georg Waldmüller
+
+57435 | Low similarity ratio: 40 between ACT name: William H. Johnson and Commons name: Smithsonian Institution
+
+57444 | KotaKinabalu Sabah Sacred-Heart-Cathedral-06.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+
+57448 | Low similarity ratio: 15 between ACT name: Herbert Boeckl and Commons name: Johann Jaritz
+
+57476 | Low similarity ratio: 33 between ACT name: Simon Haider and Commons name: Uoaei1
+
+57481 | Could not identify type (instance of)
+
+57500 | Low similarity ratio: 55 between ACT name: Lady of Hats and Commons name: LadyofHats
+
+57510 | Low similarity ratio: 15 between ACT name: Jan Gierveld and Commons name: Willem Nabuurs
+
+57532 | Could not identify type (instance of)
+
+57544 | Could not identify type (instance of)
+57544 | Low similarity ratio: 57 between ACT name: John Piper and Commons name: John Salmon
+
+57563 | Could not identify type (instance of)
+
+57579 | Low similarity ratio: 24 between ACT name: Carry Hauser and Commons name: VIEX - Ernest Niedermann
+
+57581 | Dante Gabriel Rossetti - The Passover in the Holy Family.jpg | ACT inception: 1856, Commons inception: 1855
+57581 | Dante Gabriel Rossetti - The Passover in the Holy Family.jpg | ACT precision: 9, Commons precision: 8
+
+57585 | Hortus Deliciarum, Moses führt das Volk Israel durch das Rote Meer.JPG | ACT inception: 1176, Commons inception: 1180
+57585 | Hortus Deliciarum, Moses führt das Volk Israel durch das Rote Meer.JPG | Disagreement between ACT and Commons on circa.
+57585 | Check ACT artist name (more than 4 parts)
+
+57586 | Check ACT artist name (more than 4 parts)
+57586 | Low similarity ratio: 28 between ACT name: Carl Milles and Commons name: CEphoto, Uwe Aranas
+
+57587 | Could not identify type (instance of)
+
+57593 | Dietrich Workers in the vineyard.jpg | ACT inception: 1752, Commons inception: 1750
+57593 | Dietrich Workers in the vineyard.jpg | Disagreement between ACT and Commons on circa.
+57593 | Dietrich Workers in the vineyard.jpg | ACT precision: 9, Commons precision: 8
+
+57595 | W. Hoogstraaten & Co. Fijne groenten, Huishoudgroenten Soepen en Sausen.jpg | Disagreement between ACT and Commons on circa.
+
+57596 | Low similarity ratio: 26 between ACT name: John Philip Newman and Commons name: Internet Archive Book Images
+
+57598 | Could not identify type (instance of)
+57598 | Low similarity ratio: 34 between ACT name: Emil Wachter and Commons name: Michael Kauffmann
+
+57600 | Low similarity ratio: 84 between ACT name: Leopold Layer workshop and Commons name: Workshop of
+
+57606 | Ethiopian Church Painting (2261217481).jpg | no dates retrieved. Commons data: ["\n27 October 2007, 10:09"]
+
+57625 | Could not identify type (instance of)
+
+57629 | Low similarity ratio: 22 between ACT name: Ivan Meštrović and Commons name: DASonnenfeld
+
+57633 | Job Blagoveshenskiy sobor.jpg | ACT inception: 1500, Commons inception: 1550
+57633 | Job Blagoveshenskiy sobor.jpg | Disagreement between ACT and Commons on circa.
+57633 | Job Blagoveshenskiy sobor.jpg | ACT precision: 9, Commons precision: 7
+
+57634 | JOB ON THE ASH HEAP.png | ACT inception: 1632, Commons inception: 1600
+57634 | JOB ON THE ASH HEAP.png | Disagreement between ACT and Commons on circa.
+57634 | JOB ON THE ASH HEAP.png | ACT precision: 9, Commons precision: 8
+
+57636 | Could not identify type (instance of)
+
+57643 | Commons says name unknown, but ACT gives name: Manuel Tzykandyles
+57645 | Hortus deliciarum Jesse tree.jpg | ACT inception: 1176, Commons inception: 1150
+57645 | Hortus deliciarum Jesse tree.jpg | ACT precision: 9, Commons precision: 7
+57645 | Check ACT artist name (more than 4 parts)
+
+57718 | Blake Job 7.jpg | ACT inception: 1825, Commons inception: 1826
+
+57719 | Blake Job 8.jpg | ACT inception: 1825, Commons inception: 1826
+
+57722 | Blake Job A11.jpg | ACT inception: 1825, Commons inception: 1826
+
+57729 | Blake Job 18.jpg | ACT inception: 1825, Commons inception: 1826
+
+57730 | Blake Job 19.jpg | ACT inception: 1825, Commons inception: 1826
+
+57733 | Could not identify type (instance of)
+57733 | Check ACT artist name (more than 4 parts)
+57733 | Low similarity ratio: 12 between ACT name: C J Fleury and Commons name: English:
+
+57741 | Could not identify type (instance of)
+57741 | Low similarity ratio: 22 between ACT name: Zenón Martínez García and Commons name: Thelmadatter
+
+57745 | Low similarity ratio: 18 between ACT name: Charles-Albert Wulffleff and Commons name: Photowalk
+
+57754 | Rudolf Schiestl Dorfklatsch nach der Kirche.jpg | ACT precision: 9, Commons precision: 7
+
+57757 | Could not identify type (instance of)
+
+57758 | Ethiopian - Folding Processional Icon in the Shape of a Fan - Walters 369 - Open.jpg | ACT inception: 1475, Commons inception: 1450
+57758 | Ethiopian - Folding Processional Icon in the Shape of a Fan - Walters 369 - Open.jpg | Disagreement between ACT and Commons on circa.
+57758 | Ethiopian - Folding Processional Icon in the Shape of a Fan - Walters 369 - Open.jpg | ACT precision: 9, Commons precision: 7
+
+57766 | Could not identify type (instance of)
+57766 | Low similarity ratio: 9 between ACT name: Judy Sutcliffe and Commons name: brewbooks
+
+57767 | Speculum Ark of the Covenant.jpg | ACT inception: 1450, Commons inception: 1500
+57767 | Speculum Ark of the Covenant.jpg | ACT precision: 9, Commons precision: 6
+
+57776 | Could not identify type (instance of)
+
+57777 | Low similarity ratio: 94 between ACT name: Antônio Parreiras and Commons name: Antônio Parreiras
+
+57779 | Willem de Poorter's The Parable of The Talents or Minas.png | ACT inception: 1634, Commons inception: 1650
+57779 | Willem de Poorter's The Parable of The Talents or Minas.png | Disagreement between ACT and Commons on circa.
+57779 | Willem de Poorter's The Parable of The Talents or Minas.png | ACT precision: 9, Commons precision: 7
+
+57780 | Low similarity ratio: 10 between ACT name: Paulamaria Walter and Commons name: Geak
+
+57786 | Brueghel-Umkreis Werke der Barmherzigkeit.jpg | ACT inception: 1627, Commons inception: 1650
+57786 | Brueghel-Umkreis Werke der Barmherzigkeit.jpg | Disagreement between ACT and Commons on circa.
+57786 | Brueghel-Umkreis Werke der Barmherzigkeit.jpg | ACT precision: 9, Commons precision: 7
+57786 | Low similarity ratio: 19 between ACT name: Pieter Bruegel and Commons name: Deutsch:
+
+57789 | Fritz von Uhde Bergpredigt.jpg | ACT inception: 1887, Commons inception: 1877
+57789 | Low similarity ratio: 73 between ACT name: Friedrich Karl Hermann von Uhde and Commons name: Fritz von Uhde
+
+57790 | Persian depiction of Jesus - Sermon on the Mount.jpg | no dates retrieved. Commons data: ["Unknown date", "Unknown date"]
+57790 | Could not identify type (instance of)
+
+57791 | ACT says author unidentified, but Commons gives name: Jwh
+57793 | Low similarity ratio: 33 between ACT name: Isadore Posoff and Commons name: Work Projects Administration Poster Collection
+
+57794 | Low similarity ratio: 38 between ACT name: Heinrich Pniok and Commons name: Alchemist-hp
+
+57795 | Could not identify type (instance of)
+57795 | Low similarity ratio: 32 between ACT name: Linda Walton and Commons name: Charlesdrakew
+
+57807 | Low similarity ratio: 14 between ACT name: Richard Norris Brooke and Commons name: Daderot
+
+57827 | Could not identify type (instance of)
+
+57829 | ACT says author unidentified, but Commons gives name: Ezarate
+57834 | Low similarity ratio: 14 between ACT name: Andrea Michnay and Commons name: Globetrotter19
+
+57840 | Low similarity ratio: 22 between ACT name: Guido Dettoni della Grazia and Commons name: Chris Light
+
+57852 | ACT says author unidentified, but Commons gives name: A. Davey
+57855 | Could not identify type (instance of)
+
+57856 | Could not identify type (instance of)
+
+57857 | Pangil,LagunaChurchjf7614 01.JPG | no dates retrieved. Commons data: ["\n10 September 2013, 17:28:12"]
+
+57872 | Low similarity ratio: 33 between ACT name: Keith Haring and Commons name: Eriksw
+
+57876 | Could not identify type (instance of)
+57876 | Check ACT artist name (more than 4 parts)
+57876 | Low similarity ratio: 18 between ACT name: Richard Chávez and Commons name: Jl FilpoC
+
+57879 | Hitetlen Tamás.jpg | no dates retrieved. Commons data: ["\n3 December 2018"]
+
+57880 | Low similarity ratio: 24 between ACT name: Thomas Nast and Commons name: Library Company of Philadelphia
+
+57884 | Low similarity ratio: 27 between ACT name: Zoltán Joó and Commons name: Globetrotter19
+
+57889 | Hugo van der goes portinari triptych left St Anthony.jpg | ACT inception: 1477, Commons inception: 1476
+57889 | Hugo van der goes portinari triptych left St Anthony.jpg | ACT precision: 9, Commons precision: 8
+
+57900 | Could not identify type (instance of)
+57900 | Low similarity ratio: 39 between ACT name: Leonard French and Commons name: Leonard_French_La_Trobe_03-2.jpg
+
+57909 | Low similarity ratio: 33 between ACT name: Sŏn Chŏng and Commons name: English:
+
+57914 | 09900jfDancing Rings Rizal Park Manilafvf 11.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+57914 | Low similarity ratio: 19 between ACT name: Jose Datuin and Commons name: Judgefloro
+
+57915 | Could not identify type (instance of)
+
+57931 | Sano di Pietro. Madonna of Mercy.1440s Private coll..jpg | Disagreement between ACT and Commons on circa.
+57931 | Sano di Pietro. Madonna of Mercy.1440s Private coll..jpg | ACT precision: 9, Commons precision: 8
+
+57940 | King Saul MET DP802069.jpg | Disagreement between ACT and Commons on circa.
+57940 | King Saul MET DP802069.jpg | ACT precision: 9, Commons precision: 7
+
+57946 | Low similarity ratio: 47 between ACT name: Erich Brauer and Commons name: Dr. Avishai  Teicher
+
+57950 | Could not identify type (instance of)
+57950 | ACT says author unidentified, but Commons gives name: Billy Hathorn
+57957 | Commons says name unknown, but ACT gives name: Master of the Registrum Gregorii
+57959 | Could not identify type (instance of)
+57959 | Low similarity ratio: 29 between ACT name: Annemiek Punt and Commons name: Beckstet
+
+57976 | Low similarity ratio: 36 between ACT name: Joshua L. Demotts and Commons name: U.S. Department of Agriculture
+
+57979 | Could not identify type (instance of)
+57979 | Low similarity ratio: 18 between ACT name: George Nakashima and Commons name: IM3847
+
+57983 | Weltchronik Fulda Aa88 274r detail.jpg | ACT inception: 1362, Commons inception: 1350
+57983 | Weltchronik Fulda Aa88 274r detail.jpg | ACT precision: 9, Commons precision: 7
+
+58009 | Low similarity ratio: 5 between ACT name: Natalii︠a︡ Sergeevna Goncharova and Commons name: Н. Гончарова
+
+58014 | Could not identify type (instance of)
+
+58016 | Could not identify type (instance of)
+
+58017 | Low similarity ratio: 5 between ACT name: Natalii︠a︡ Sergeevna Goncharova and Commons name: Н. Гончарова
+
+58019 | Low similarity ratio: 5 between ACT name: Natalii︠a︡ Sergeevna Goncharova and Commons name: Н. Гончарова
+
+58020 | Adolf-hoelzel-begegnung.jpg | ACT inception: 1907, Commons inception: 1905
+58020 | Adolf-hoelzel-begegnung.jpg | Disagreement between ACT and Commons on circa.
+
+58029 | Could not identify type (instance of)
+
+58030 | Could not identify type (instance of)
+
+58031 | Could not identify type (instance of)
+
+58035 | Ezekiel Saw the Wheel.jpg | Disagreement between ACT and Commons on circa.
+58035 | Ezekiel Saw the Wheel.jpg | ACT precision: 9, Commons precision: 8
+
+58036 | Going to Church, by William H. Johnson.jpg | Disagreement between ACT and Commons on circa.
+58036 | Going to Church, by William H. Johnson.jpg | ACT precision: 9, Commons precision: 8
+
+58037 | Sowing, by William H. Johnson.jpg | ACT inception: 1940, Commons inception: 1950
+58037 | Sowing, by William H. Johnson.jpg | Disagreement between ACT and Commons on circa.
+58037 | Sowing, by William H. Johnson.jpg | ACT precision: 9, Commons precision: 7
+
+58045 | Christ the King Catholic Church (Ann Arbor, Michigan) - interior, Gospel mural, Saint Matthew.jpg | no dates retrieved. Commons data: ["\n5 August 2013, 08:27:53"]
+
+58047 | Pyx with the Women at Christ's Tomb MET sf17-190-57s3.jpg | ACT precision: 9, Commons precision: 8
+58047 | Could not identify type (instance of)
+
+58051 | 13th Station of the Cross by Adam Kossowski.jpg | no dates retrieved. Commons data: ["\n22 May 2019, 11:32:14"]
+58051 | Could not identify type (instance of)
+58051 | Low similarity ratio: 18 between ACT name: Adam Kossowski and Commons name: NewsletterTheFriars
+
+58065 | Stations of the Cross by Adam Kossowski.jpg | no dates retrieved. Commons data: ["\n22 May 2019, 11:34:38"]
+58065 | Could not identify type (instance of)
+58065 | Low similarity ratio: 18 between ACT name: Adam Kossowski and Commons name: NewsletterTheFriars
+
+58069 | Could not identify type (instance of)
+
+58072 | Could not identify type (instance of)
+58072 | Low similarity ratio: 75 between ACT name: Natalii︠a︡ Sergeevna Goncharova and Commons name: Natalia Goncharova
+
+58079 | Could not identify type (instance of)
+58079 | Low similarity ratio: 86 between ACT name: Edward Coley Burne-Jones and Commons name: Window: Edward Burne-Jones 1886; Photo: Wojciech Dittwald
+
+58082 | Heavenly Wisdom - Thorvaldsens Museum - DSC08623.JPG | no dates retrieved. Commons data: ["\n11 May 2012, 08:53:29"]
+58082 | Low similarity ratio: 24 between ACT name: Bertel Thorvaldsen and Commons name: Daderot
+
+58083 | Low similarity ratio: 31 between ACT name: Alessandro Magnasco and Commons name: English:
+
+58089 | DredScott.jpg | ACT inception: 1887, Commons inception: 1888
+
+58090 | Could not identify type (instance of)
+
+58091 | Could not identify type (instance of)
+
+58094 | Could not identify type (instance of)
+
+58100 | Low similarity ratio: 19 between ACT name: Oscar Niemeyer and Commons name: Cayambe
+
+58101 | Kefermarkt Kirche Flügelaltar Geburt 01.jpg | no dates retrieved. Commons data: ["\n24 September 2016, 09:29:04"]
+
+58103 | Federigo Rossano - Grain Harvest.jpg | ACT precision: 9, Commons precision: 7
+
+58115 | Memorial Church of the Holy Sepulchre interior 16.jpg | no dates retrieved. Commons data: ["\nTaken on\u00a031 August 2019 12:16:39"]
+
+58145 | Brooklyn Museum - Jesus Teaches the People by the Sea (Jésus enseigne le peuple près de la mer) - James Tissot - overall.jpg | ACT inception: 1890, Commons inception: 1850
+58145 | Brooklyn Museum - Jesus Teaches the People by the Sea (Jésus enseigne le peuple près de la mer) - James Tissot - overall.jpg | ACT precision: 9, Commons precision: 7
+
+58157 | Fritz von Uhde Heilige Nacht.jpg | no dates retrieved. Commons data: []
+
+58161 | Fritz von Uhde - Weib, warum weinest du (1892-94).jpg | ACT inception: 1893, Commons inception: 1892
+58161 | Fritz von Uhde - Weib, warum weinest du (1892-94).jpg | ACT precision: 9, Commons precision: 8
+
+58162 | Low similarity ratio: 86 between ACT name: Anton Ažbe and Commons name: Anton Ažbe
+
+58301 | Low similarity ratio: 91 between ACT name: Natalii︠a︡ Sergeevna Goncharova and Commons name: N.Goncharova
+
+58305 | Low similarity ratio: 28 between ACT name: Matías Bervejillo and Commons name: Association for Progressive Communications (APC)
+
+58306 | Could not identify type (instance of)
+
+58314 | Thomas the Doubter by Eduard von Gebhardt.jpg | no dates retrieved. Commons data: []
+58314 | Low similarity ratio: 77 between ACT name: Thomas von Gebhardt and Commons name: Eduard von Gebhardt
+
+58328 | Low similarity ratio: 27 between ACT name: Nathan Coley and Commons name: dave souza
+
+58329 | Low similarity ratio: 37 between ACT name: active 13th century T'oros Roslin and Commons name: Walters Art Museum Illuminated Manuscripts
+
+58331 | Low similarity ratio: 22 between ACT name: Erhart Küng and Commons name: Photo by
+
+58332 | Madonna misericordia bigallo.jpg | ACT inception: 1347, Commons inception: 1350
+58332 | Madonna misericordia bigallo.jpg | ACT precision: 9, Commons precision: 7
+
+58371 | ACT says author unidentified, but Commons gives name: Uoaei1
+58383 | BLRoyal2BXVFol010vTrinity.jpg | ACT inception: 1505, Commons inception: 1500
+58383 | BLRoyal2BXVFol010vTrinity.jpg | Disagreement between ACT and Commons on circa.
+
+58388 | Low similarity ratio: 80 between ACT name: 1477?-1549 Sodoma and Commons name: Il Sodoma
+
+58389 | Christ Taking Leave of the Apostles.jpg | ACT inception: 1309, Commons inception: 1350
+58389 | Christ Taking Leave of the Apostles.jpg | ACT precision: 9, Commons precision: 7
+
+58401 | The Magic Apple Tree.jpg | Disagreement between ACT and Commons on circa.
+
+58402 | ACT says author unidentified, but Commons gives name: Photo: Andreas Praefcke
+58406 | Could not identify type (instance of)
+
+58425 | Slave pen, Alexandria, Va LCCN2013651888.jpg | ACT inception: 1863, Commons inception: 1861
+58425 | Slave pen, Alexandria, Va LCCN2013651888.jpg | ACT precision: 9, Commons precision: 8
+
+58426 | Low similarity ratio: 20 between ACT name: Lucio Fontana and Commons name: Wmpearl
+
+58428 | Low similarity ratio: 0 between ACT name: Banksy and Commons name: The i-i
+
+58430 | Low similarity ratio: 28 between ACT name: Vincent van Gogh and Commons name: Dennis Jarvis
+
+58446 | Exit from Noah's Ark - British Library Add MS 18850 f16v (detail).jpg | ACT inception: 1420, Commons inception: 1450
+58446 | Exit from Noah's Ark - British Library Add MS 18850 f16v (detail).jpg | ACT precision: 9, Commons precision: 7
+
+58447 | Low similarity ratio: 30 between ACT name: Vincenzo Foppa and Commons name: Sailko
+
+58450 | Low similarity ratio: 21 between ACT name: George Segal and Commons name: Carol M. Highsmith
+
+58452 | Low similarity ratio: 15 between ACT name: John James Audubon and Commons name: Rawpixel
+
+58453 | Wilhelm Wachtel - Hannah at prayer.jpg | ACT inception: 1926, Commons inception: 1942
+58453 | Wilhelm Wachtel - Hannah at prayer.jpg | Disagreement between ACT and Commons on circa.
+58453 | Wilhelm Wachtel - Hannah at prayer.jpg | ACT precision: 9, Commons precision: 7
+58453 | Wilhelm Wachtel - Hannah at prayer.jpg | ACT date range: 1910-1942, Commons date range: 0-1942
+
+58456 | Low similarity ratio: 7 between ACT name: Victor Navarro Guedes and Commons name: H. Zell
+
+58460 | Photograph of African-American Family, Spartanburg County, South Carolina - NARA - 512798.tif | ACT precision: 9, Commons precision: 11
+
+58465 | Check ACT artist name (more than 4 parts)
+
+58473 | Could not identify type (instance of)
+
+58479 | Jacob Symonsz Pynas Ruth beschliesst mit Naomi nach Bethlehem zu ziehen.jpg | ACT inception: 0, Commons inception: 1650
+58479 | Jacob Symonsz Pynas Ruth beschliesst mit Naomi nach Bethlehem zu ziehen.jpg | ACT precision: 9, Commons precision: 7
+
+58573 | Low similarity ratio: 7 between ACT name: Eliezer Weishof and Commons name: אליעזר ויסהוף
+
+58584 | ACT says author unidentified, but Commons gives name: Nheyob
+58586 | Houten beeld verrezen Christus, Sint-Josephkerk Leiden.JPG | no dates retrieved. Commons data: ["\n26 January 2014, 18:56:44"]
+
+58588 | Christa Prema Seva ashram, Pune 23 (Friar's Balsam).jpg | no dates retrieved. Commons data: ["\n21 April 2011, 16:54"]
+58588 | Could not identify type (instance of)
+
+58589 | Santorin (GR), Kallistis, Kloster Profítis Ilías -- 2017 -- 2896.jpg | no dates retrieved. Commons data: ["\nTaken on\u00a028 September 2017, 11:24"]
+
+58592 | Ceres Bethel African Methodist Church, cornerstone (21604465715).jpg | no dates retrieved. Commons data: ["\n20 May 2014, 14:49"]
+58592 | Could not identify type (instance of)
+
+58593 | Gravestone symbol of a vine with grapes, St Quivox, South Ayrshire, Scotland.jpg | no dates retrieved. Commons data: ["\n24 November 2016, 15:24:26"]
+58593 | Could not identify type (instance of)
+
+58594 | Low similarity ratio: 20 between ACT name: Herbert Boeckl and Commons name: Uoaei1
+
+58597 | Low similarity ratio: 33 between ACT name: Andrew Kay and Commons name: Moondyne
+
+58598 | Could not identify type (instance of)
+58598 | Low similarity ratio: 21 between ACT name: Eugene Francis Savage and Commons name: Carol M. Highsmith
+
+58599 | US Navy 090416-N-7478G-112 Participants in the amphibious command ship USS Blue Ridge (LCC 19) women's Bible study group pray during a weekly Bible study while the ship is underway.jpg | Inception date occurs in the future. Date: 2050-01-01T00:00:00Z
+
+58613 | Could not identify type (instance of)
+
+58614 | Dieric Bouts - Prophet Elijah in the Desert - WGA03015.jpg | ACT inception: 1466, Commons inception: 1464
+58614 | Dieric Bouts - Prophet Elijah in the Desert - WGA03015.jpg | ACT precision: 9, Commons precision: 8
+
+58619 | Low similarity ratio: 72 between ACT name: Julius Schnorr von Carolsfeld and Commons name: Юлиус Шнор (Julius Schnorr)
+
+58625 | Commons says name unknown, but ACT gives name: Anonymous (Ethiopia)
+58627 | 0150 Mummy Portrait of a young officer Altes Museum Berlin anagoria.jpg | no dates retrieved. Commons data: ["\n150 n. Chr."]
+58627 | Could not identify type (instance of)
+58627 | ACT says author unidentified, but Commons gives name: Anagoria
+58635 | Low similarity ratio: 21 between ACT name: Joop Sjollema and Commons name: ArjanH
+
+58636 | Mathis Gothart Grünewald 011.jpg | ACT inception: 1522, Commons inception: 1520
+58636 | Mathis Gothart Grünewald 011.jpg | ACT precision: 9, Commons precision: 8
+58636 | Low similarity ratio: 94 between ACT name: Matthias Grünewald and Commons name: Matthias Grünewald
+
+58638 | ACT says author unidentified, but Commons gives name: English:
+58639 | Kautzen Pfarrkirche - Beichtstuhl 1.jpg | no dates retrieved. Commons data: ["\n13 September 2019, 09:52:16"]
+58639 | Could not identify type (instance of)
+58639 | ACT says author unidentified, but Commons gives name: Wolfgang Sauber
+58640 | Could not identify type (instance of)
+58640 | Low similarity ratio: 21 between ACT name: Eva Kun and Commons name: Thaler Tamas
+
+58644 | The Resurrected Christ Appearing to Mary Magdelene in the Garden MET sf56-47d2.jpg | ACT inception: 1510, Commons inception: 1500
+
+58655 | Virgin's Monastery (benedictine nuns), Petrópolis, Rio de Janeiro State, Brazil05.JPG | no dates retrieved. Commons data: []
+58655 | Could not identify type (instance of)
+58655 | ACT says author unidentified, but Commons gives name: Cláudio Pastro
+58656 | Capela Santo Inácio, Planalto, Belo Horizonte, Brasil 2.JPG | no dates retrieved. Commons data: ["\n14 November 2014, 22:11:50"]
+58656 | Could not identify type (instance of)
+58656 | ACT says author unidentified, but Commons gives name: Eugenio Hansen, OFS
+58657 | Statue of Wisdom.jpg | no dates retrieved. Commons data: ["\n24 July 2017, 04:34:47"]
+58657 | Could not identify type (instance of)
+58657 | ACT says author unidentified, but Commons gives name: Fitrat69
+58667 | Holy Spirit mosaic - Palatine Chapel - Aachen - Germany 2017.jpg | no dates retrieved. Commons data: ["\n10 July 2017, 10:14:53"]
+58667 | ACT says author unidentified, but Commons gives name: José Luiz
+58668 | ACT says author unidentified, but Commons gives name: Abu Said Ubaud Allah Ibn Bakhitshu.
+58669 | Christus en de rijke jongeman, RP-P-1961-729.jpg | ACT inception: 1488, Commons inception: 1450
+58669 | Christus en de rijke jongeman, RP-P-1961-729.jpg | ACT precision: 9, Commons precision: 7
+58669 | Low similarity ratio: 29 between ACT name: Master of Antwerp and Commons name: Rijksmuseum
+
+58672 | Weltchronik Fulda Aa88 280r detail.jpg | ACT inception: 1362, Commons inception: 1350
+58672 | Weltchronik Fulda Aa88 280r detail.jpg | ACT precision: 9, Commons precision: 7
+
+58673 | Ferdinand Bol - Elijah Fed by an Angel - WGA2360.jpg | ACT inception: 1661, Commons inception: 1660
+58673 | Ferdinand Bol - Elijah Fed by an Angel - WGA2360.jpg | ACT precision: 9, Commons precision: 8
+
+58688 | Weyden, Rogier van der - Descent from the Cross - Detail Mary Magdalene.jpg | ACT inception: 1435, Commons inception: 1450
+58688 | Weyden, Rogier van der - Descent from the Cross - Detail Mary Magdalene.jpg | ACT precision: 9, Commons precision: 7
+
+58690 | Paolo Veronese - Christ Washing the Feet of the Disciples - WGA24846.jpg | ACT inception: 1584, Commons inception: 1580
+58690 | Paolo Veronese - Christ Washing the Feet of the Disciples - WGA24846.jpg | ACT precision: 9, Commons precision: 8
+58690 | Low similarity ratio: 73 between ACT name: 1528-1588 Veronese and Commons name: Paolo Veronese
+
+58694 | Could not identify type (instance of)
+58694 | Low similarity ratio: 33 between ACT name: George Walsh and Commons name: Andreas F. Borchert
+
+58695 | Could not identify type (instance of)
+58695 | Low similarity ratio: 33 between ACT name: George Walsh and Commons name: Andreas F. Borchert
+
+58696 | Could not identify type (instance of)
+58696 | Low similarity ratio: 33 between ACT name: George Walsh and Commons name: Andreas F. Borchert
+
+58702 | Low similarity ratio: 82 between ACT name: active approximately 1525-approximately 1546 Master of François de Rohan and Commons name: Master of François de Rohan
+
+58716 | Low similarity ratio: 81 between ACT name: Theodōros Poulakis and Commons name: Theodoros Poulakis
+
+58717 | Jan Griffier - Noah's Ark.jpg | Disagreement between ACT and Commons on circa.
+
+58719 | Check ACT artist name (more than 4 parts)
+
+58720 | Virgin's Monastery (benedictine nuns), Petrópolis, Rio de Janeiro State, Brazil09.JPG | no dates retrieved. Commons data: ["Unknown date", "Unknown date"]
+58720 | Low similarity ratio: 93 between ACT name: Cláudio Pastro and Commons name: Cláudio Pastro
+
+58721 | Virgin's Monastery (benedictine nuns), Petrópolis, Rio de Janeiro State, Brazil01.JPG | no dates retrieved. Commons data: []
+58721 | Could not identify type (instance of)
+58721 | ACT says author unidentified, but Commons gives name: Cláudio Pastro
+58722 | Hildesheim, Dom, die Bernwardstür, Vertreibung aus dem Paradies.JPG | no dates retrieved. Commons data: ["\n11 June 2019"]
+58722 | Could not identify type (instance of)
+58722 | ACT says author unidentified, but Commons gives name: Dguendel
+58723 | Watercolor-baobab-tree-with-people-group-painting-by-frits-ahlefeldt.jpg | no dates retrieved. Commons data: ["\n14 June 2018, 17:49:50"]
+
+58728 | ACT says author unidentified, but Commons gives name: Deutsch:
+58730 | Mosteiro Beneditino do Encontro 2.jpg | no dates retrieved. Commons data: ["\nMay 2007"]
+58730 | Could not identify type (instance of)
+58730 | Low similarity ratio: 57 between ACT name: Cláudio Pastro and Commons name: Vitral: Cláudio Pastro ; fotografia: Eugenio Hansen, OFS
+
+58733 | ACT says author unidentified, but Commons gives name: Following Hadrian
+58746 | Low similarity ratio: 93 between ACT name: Sigrid Hjertén and Commons name: Sigrid Hjertén
+
+58761 | Duccio di Buoninsegna - Crevole Madonna (detail) - WGA06711.jpg | ACT precision: 9, Commons precision: 8
+
+58762 | Duccio di Buoninsegna - Disputation with the Doctors - WGA06768.jpg | ACT inception: 1309, Commons inception: 1350
+58762 | Duccio di Buoninsegna - Disputation with the Doctors - WGA06768.jpg | ACT precision: 9, Commons precision: 7
+
+58768 | Could not identify type (instance of)
+
+58770 | Could not identify type (instance of)
+
+58771 | Dieric Bouts - The Meeting of Abraham and Melchizedek - WGA03010.jpg | ACT inception: 1465, Commons inception: 1464
+58771 | Dieric Bouts - The Meeting of Abraham and Melchizedek - WGA03010.jpg | ACT precision: 9, Commons precision: 8
+
+58772 | Could not identify type (instance of)
+
+58776 | ACT says author unidentified, but Commons gives name: A. Davey
+58779 | Could not identify type (instance of)
+58779 | ACT says author unidentified, but Commons gives name: Bjoertvedt
+58780 | Could not identify type (instance of)
+58780 | ACT says author unidentified, but Commons gives name: Bjoertvedt
+58781 | ACT says author unidentified, but Commons gives name: Bibliothèque nationale de France
+58784 | Could not identify type (instance of)
+58784 | ACT says author unidentified, but Commons gives name: Bjoertvedt
+58785 | ACT says author unidentified, but Commons gives name: Bjoertvedt
+58786 | ACT says author unidentified, but Commons gives name: Bjoertvedt
+58787 | Transluscence (2846120100).jpg | no dates retrieved. Commons data: ["\n30 October 2007, 15:35"]
+58787 | ACT says author unidentified, but Commons gives name: A. Davey
+58788 | Could not identify type (instance of)
+58788 | ACT says author unidentified, but Commons gives name: Hiart
+58789 | Could not identify type (instance of)
+58789 | ACT says author unidentified, but Commons gives name: Hiart
+58790 | Could not identify type (instance of)
+58790 | ACT says author unidentified, but Commons gives name: Hiart
+58791 | Could not identify type (instance of)
+58791 | ACT says author unidentified, but Commons gives name: Hiart
+58792 | Could not identify type (instance of)
+58792 | ACT says author unidentified, but Commons gives name: Hiart
+58793 | Could not identify type (instance of)
+58793 | ACT says author unidentified, but Commons gives name: Hiart
+58813 | ACT says author unidentified, but Commons gives name: Michail Polychronis
+58815 | ACT says author unidentified, but Commons gives name: Ethan Doyle White
+58816 | Religiøs kunst i Cómpeta 1.JPG | no dates retrieved. Commons data: ["\n14 April 2010"]
+58816 | Could not identify type (instance of)
+58816 | ACT says author unidentified, but Commons gives name: Sten Porse
+58823 | Tintoretto - The Visit of the Queen of Sheba to Solomon.gif | ACT inception: 1545, Commons inception: 1550
+58823 | Tintoretto - The Visit of the Queen of Sheba to Solomon.gif | Disagreement between ACT and Commons on circa.
+58823 | Tintoretto - The Visit of the Queen of Sheba to Solomon.gif | ACT precision: 9, Commons precision: 7
+
+58827 | Low similarity ratio: 36 between ACT name: Michael Arad and Commons name: QuarterbackSneak
+
+58834 | Regensburg, Goliathhaus, 2017-06 CN-01.jpg | no dates retrieved. Commons data: ["\n15 June 2017"]
+58834 | ACT says author unidentified, but Commons gives name: Steffen Schmitz
+58840 | Mural en Zacatlán, Puebla.jpg | no dates retrieved. Commons data: ["\n8 November 2020, 13:50:44"]
+58840 | ACT says author unidentified, but Commons gives name: Isaacvp
+58845 | Low similarity ratio: 74 between ACT name: Hugh Mesibov and Commons name: Deborah Mesibov
+
+58846 | Mural en Seminario de Tlaxcala 02.jpg | no dates retrieved. Commons data: ["\n17 August 2019"]
+58846 | Low similarity ratio: 14 between ACT name: Don Desiderio Hernández Xochitiotzin and Commons name: Isaacvp
+
+58847 | Psalm 136 Initial S.jpg | ACT inception: 1132, Commons inception: 1150
+58847 | Psalm 136 Initial S.jpg | Disagreement between ACT and Commons on circa.
+58847 | Psalm 136 Initial S.jpg | ACT precision: 9, Commons precision: 7
+
+
