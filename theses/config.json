@@ -1,0 +1,225 @@
+{
+  "data_path": "",
+  "item_source_csv": "",
+  "item_pattern_file": "graph_pattern.txt",
+  "outfiles": [
+    {
+      "manage_descriptions": true,
+      "label_description_language_list": [
+        "en"
+      ],
+      "output_file_name": "articles.csv",
+      "prop_list": [
+        {
+          "pid": "P31",
+          "variable": "instance_of",
+          "value_type": "item",
+          "qual": [],
+          "ref": []
+        },
+        {
+          "pid": "P1184",
+          "variable": "handle",
+          "value_type": "string",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P953",
+          "variable": "full_text_available",
+          "value_type": "uri",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P577",
+          "variable": "published",
+          "value_type": "date",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P1476",
+          "variable": "title_en",
+          "value_type": "monolingualtext",
+          "language": "en",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P407",
+          "variable": "language",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        },
+        {
+          "pid": "P4101",
+          "variable": "dissert_submit_to",
+          "value_type": "item",
+          "qual": [],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [],
+      "output_file_name": "authors.csv",
+      "prop_list": [
+        {
+          "pid": "P50",
+          "variable": "author",
+          "value_type": "item",
+          "qual": [
+            {
+              "pid": "P1545",
+              "variable": "series_ordinal",
+              "value_type": "string"
+            },
+            {
+              "pid": "P1932",
+              "variable": "stated_as",
+              "value_type": "string"
+            }
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [],
+      "output_file_name": "editors.csv",
+      "prop_list": [
+        {
+          "pid": "P9161",
+          "variable": "editor",
+          "value_type": "item",
+          "qual": [
+            {
+              "pid": "P1545",
+              "variable": "series_ordinal",
+              "value_type": "string"
+            },
+            {
+              "pid": "P1932",
+              "variable": "stated_as",
+              "value_type": "string"
+            }
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [],
+      "output_file_name": "author_strings.csv",
+      "prop_list": [
+        {
+          "pid": "P2093",
+          "variable": "author_string",
+          "value_type": "string",
+          "qual": [
+            {
+              "pid": "P1545",
+              "variable": "series_ordinal",
+              "value_type": "string"
+            }
+          ],
+          "ref": [
+            {
+              "pid": "P854",
+              "variable": "referenceUrl",
+              "value_type": "uri"
+            },
+            {
+              "pid": "P813",
+              "variable": "retrieved",
+              "value_type": "date"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
