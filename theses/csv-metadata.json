@@ -481,13 +481,6 @@
             "valueUrl": "http://www.wikidata.org/entity/{editor}"
           },
           {
-            "titles": "editor_series_ordinal",
-            "name": "editor_series_ordinal",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{editor_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/qualifier/P1545"
-          },
-          {
             "titles": "editor_stated_as",
             "name": "editor_stated_as",
             "datatype": "string",

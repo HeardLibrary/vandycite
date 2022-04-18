@@ -160,11 +160,6 @@
           "value_type": "item",
           "qual": [
             {
-              "pid": "P1545",
-              "variable": "series_ordinal",
-              "value_type": "string"
-            },
-            {
               "pid": "P1932",
               "variable": "stated_as",
               "value_type": "string"
