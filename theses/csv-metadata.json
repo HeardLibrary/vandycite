@@ -401,13 +401,6 @@
             "valueUrl": "http://www.wikidata.org/entity/{author}"
           },
           {
-            "titles": "author_series_ordinal",
-            "name": "author_series_ordinal",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{author_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/qualifier/P1545"
-          },
-          {
             "titles": "author_stated_as",
             "name": "author_stated_as",
             "datatype": "string",
@@ -572,13 +565,6 @@
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{author_string_uuid}",
             "propertyUrl": "http://www.wikidata.org/prop/statement/P2093"
-          },
-          {
-            "titles": "author_string_series_ordinal",
-            "name": "author_string_series_ordinal",
-            "datatype": "string",
-            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{author_string_uuid}",
-            "propertyUrl": "http://www.wikidata.org/prop/qualifier/P1545"
           },
           {
             "titles": "author_string_ref1_hash",

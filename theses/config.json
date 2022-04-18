@@ -129,11 +129,6 @@
           "value_type": "item",
           "qual": [
             {
-              "pid": "P1545",
-              "variable": "series_ordinal",
-              "value_type": "string"
-            },
-            {
               "pid": "P1932",
               "variable": "stated_as",
               "value_type": "string"
@@ -199,13 +194,7 @@
           "pid": "P2093",
           "variable": "author_string",
           "value_type": "string",
-          "qual": [
-            {
-              "pid": "P1545",
-              "variable": "series_ordinal",
-              "value_type": "string"
-            }
-          ],
+          "qual": [],
           "ref": [
             {
               "pid": "P854",
