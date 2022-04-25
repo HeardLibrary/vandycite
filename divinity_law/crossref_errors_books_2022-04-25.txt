@@ -1,0 +1,24 @@
+10.7312/armo17248 article already in Wikidata
+
+10.1057/9780230615823 article already in Wikidata
+
+10.1093/acprof:oso/9780195339468.001.0001 article already in Wikidata
+
+10.1163/9789047405214 article already in Wikidata
+
+10.18574/nyu/9781479835966.001.0001 article already in Wikidata
+
+10.1093/acprof:oso/9780198722960.001.0001 article already in Wikidata
+
+10.1007/978-1-137-56844-1 article already in Wikidata
+
+10.1093/019516119X.001.0001 article already in Wikidata
+
+10.1057/9781137339249 article already in Wikidata
+
+10.2307/j.ctt9qh241 article already in Wikidata
+
+10.2307/j.ctt32c046 article already in Wikidata
+
+http://doi.org/10.2307/J.CTV1HQDJ3M.3 isn't actually the DOI of a book. It's apparently the DOI of the "Contributors" section of a book. So it's metadata are coming in as an academic book chapter. I did not upload it because I think its metadata aren't going to be right for the book.
+
