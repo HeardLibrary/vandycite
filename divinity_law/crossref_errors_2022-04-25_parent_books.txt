@@ -1,0 +1,24 @@
+article: Encyclopedia of Psychology and Religion w_ratio: 91 Warning: poor match of: "Springer VS" Q2313945 to CrossRef publisher: "Springer US"
+
+10.2307/J.CTVCKQ4GQ label too long
+
+article: Die Verwaltung im Achämenidenreich - Imperiale Muster und Strukturen. Administration in the Achaemenid Empire - Tracing the Imperial Signature Akten des 6. Internationalen Kolloquiums zum Thema »Vorderasien im Spannungsfeld klassischer und altorientalischer Überlieferungen« aus Anlass der 80-Jahr-Feier der Entdeckung des Festungsarchivs von Persepolis Landgut Castelen bei Basel, 14.-17. Mai 2013 w_ratio: 87 Warning: poor match of: "Harrassowitz Verlag" Q2904802 to CrossRef publisher: "Harrassowitz, O"
+
+article: The Black Church Studies Reader w_ratio: 95 Warning: poor match of: "Palgrave Macmillan" Q1076074 to CrossRef publisher: "Palgrave Macmillan US"
+
+article: African American Religious Life and the Story of Nimrod w_ratio: 95 Warning: poor match of: "Palgrave Macmillan" Q1076074 to CrossRef publisher: "Palgrave Macmillan US"
+
+10.4135/9781608712427 article already in Wikidata
+
+10.4324/9781315243191 article already in Wikidata
+
+article: Philoxenos of Mabbug: A Cappadocian Theologian on the Banks of the Euphrates? w_ratio: 90 Warning: poor match of: "Brepols" Q981917 to CrossRef publisher: "Brepols Publishers"
+
+article: Theological Perspectives for Life, Liberty, and the Pursuit of Happiness Public Intellectuals for the Twenty-First Century w_ratio: 95 Warning: poor match of: "Palgrave Macmillan" Q1076074 to CrossRef publisher: "Palgrave Macmillan US"
+
+article: Encyclopedia of Activism and Social Justice w_ratio: 95 Warning: poor match of: "SAGE Publications" Q251266 to CrossRef publisher: "SAGE Publications, Inc."
+
+article: Reading Other Peoples’ Texts Social Identity and the Reception of Authoritative Traditions w_ratio: 95 Warning: poor match of: "Bloomsbury Publishing" Q568642 to CrossRef publisher: "Bloomsbury Publishing Plc"
+
+article: The Reemergence of Liberation Theologies Models for the Twenty-First Century w_ratio: 95 Warning: poor match of: "Palgrave Macmillan" Q1076074 to CrossRef publisher: "Palgrave Macmillan US"
+
