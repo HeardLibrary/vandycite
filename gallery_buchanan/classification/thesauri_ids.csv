@@ -1,6 +1,6 @@
 noun,freq,nomenclature,n_pref,wikidata,w_pref,getty,g_pref
 figurine,176,12978,Figurine,Q1066288,figurine,300047455,figurines
-sculpture,161,12956,Sculpture,Q860861,sculpture,300047090,sculpture (visual works)
+sculpture,162,12956,Sculpture,Q860861,sculpture,300047090,sculpture (visual works)
 bowl,140,11792,Bowl,Q153988,bowl,300203596,bowls (vessels)
 soba-choko,121,,,Q20983127,Soba Choko,,
 vase,82,1508,Vase,Q191851,vase,300132254,vases
@@ -14,7 +14,7 @@ mirror,35,1403,Mirror,Q35197,mirror,300037682,mirrors
 seal,34,13997,Seal,Q162919,seal,300028877,seals (artifacts)
 pot,29,4088,Crockpot,Q3399907,crock,300199857,crockpot
 plate,24,4867,Food Plate,Q57216,plate,300042973,dishes (vessels for food)
-unclassified,24,,,,,,
+unclassified,25,,,,,,
 container,23,11743,Containers,Q987767,container,300197197,containers (receptacles)
 hair ornament,23,1977,Hair Ornament,Q21369154,hairstyle accessory,300209287,hair ornaments
 pitcher,22,5246,Pitcher,Q132397,pitcher,300194765,pitchers (vessels)
@@ -52,20 +52,20 @@ votive object,6,,,Q2601788,votive offering,300178244,votive offerings
 tray,6,11781,Tray,Q613972,tray,300043071,trays
 urn,6,1463,Decorative Urn,Q11083119,urn,300424373,decorative urn
 flask,6,11791,Flask,Q107197324,bottle,300045671,flasks (bottles)
-furoshiki,6,,,,,,
+furoshiki,7,13092,Gift Wrap,Q369376,furoshiki,,
 ewer,6,5247,Ewer,Q404785,ewer,300045666,ewers (vessels)
 pouch,6,11778,Pouch,Q29480005,pouch,300194553,pouches
 tile,5,446,Tile,Q468402,tile,300010676,tile (material)
-brush washer,5,6708,Brush Washer,,,300233203,brush washers
+brush washer,5,6708,Brush Washer,Q111744084,brush-washer,300233203,brush washers
 censer,5,13131,Censer,Q1264081,censer,300198814,censers
-charger,5,5164,Charger,,,300043054,chargers (platters)
+charger,5,5164,Charger,Q198976,charger,300043054,chargers (platters)
 bust,5,12957,Bust,Q17489160,bust,300047457,"busts (general, figures)"
 bell,4,11189,Bell,Q101401,bell,300041872,bells (idiophones)
 arrowhead,4,8191,Arrowhead,Q1643900,arrowhead,300024861,arrowheads
 beaker,4,8577,Beaker,Q833823,beaker,300043198,beakers (drinking vessels)
 tool,4,,,Q39546,tool,300024841,tools
 whistle,4,11209,Whistle,Q204917,whistle,300042706,whistles
-heddle pulleys,4,,,,,300256329,heddle pulleys
+heddle pulleys,4,7083,Heddle Pulley,Q111744113,heddle pulley,300256329,heddle pulleys
 cloth,12,,,Q5849500,cloth,300162391,cloth
 churn,4,4526,Churn,Q1018079,butter churn,300043094,churns
 bead,4,6831,Bead,Q1053956,bead,300234006,beads (pierced objects)
@@ -154,36 +154,33 @@ ashtray,1,1420,Ashtray,Q214488,ashtray,300198897,ashtrays
 chopsticks,1,4888,Chopstick,Q81980,chopsticks,300200657,chopsticks
 clasp,1,6563,Clasp,Q2239762,clasp,300239507,clasps (fasteners)
 yarn,1,7141,Yarn,Q49007,yarn,300014252,yarn
-furashiki,1,,,,,,
 clothing,1,1999,Clothing,Q11460,clothing,300266639,clothing
 sarcophagus,1,12999,Sarcophagus,Q48634,sarcophagus,300005947,sarcophagi (coffins)
-perfumer,1,,,,,300443956,perfumers
 belt,1,2002,Belt,Q134560,belt,300210002,belts (costume accessories)
 ink stone,1,11093,Inkstone,Q600794,inkstone,300022517,inkstones
 lace,1,6856,Lace,Q231250,lace,300132861,lace (needlework)
-coasters ,1,,,,,,
-tub,1,11782,Tub,,,300195311,tubs (containers)
+coasters ,1,4975,Coaster,Q14973,beverage coaster,300196479,coasters (containers)
+tub,1,11782,Tub,Q38942,tub,300195311,tubs (containers)
 collar,1,2027,Collar,Q497903,collar,300210058,collars (neckwear)
 trivet,1,4036,Trivet,Q2569925,trivet,300216958,trivets
 kite,1,11724,Kite,Q42861,kite,300218777,kites (equipment)
 quilt,1,12924,Art Quilt ,Q1064538,quilt,300197990,quilts
 spindle,1,7095,Spindle,Q213761,spindle,300265738,spindles (textile working equipment)
-hook adjustor,1,,,,,,
 scroll,1,13790,Scroll,Q720106,scroll,300028629,scrolls (information artifacts)
-handwarmer,1,,,,,,
+handwarmer,1,2819,Hand Warmer,Q345179,hand warmer,300426965,hand warmer
 menorah,1,13108,Menorah,Q170476,menorah,300391227,menorahs (temple lamps)
 brazier,1,5885,Brazier,Q1409660,brazier,300198452,"braziers (cooking, heating equipment)"
-ladle,1,,,Q193358,ladle,300200095,ladles
-headdress,1,14089,Headdress,,,300262903,hairstyles
-cong,1,,,,,,
-scales,1,,,,,,
+ladle,1,4336,Kitchen Ladle,Q193358,ladle,300200095,ladles
+headdress,1,14089,Headdress,Q28972621,headdress,300046023,headdresses
+cong,1,,,Q1125665,cong,300265725,cong (ceremonial vessel)
+scales,1,10357,Scale,Q134566,weighing scale,300196293,scales (weighing devices)
 planter,1,1502,Planter,Q869381,flowerpot,300237566,planters (containers)
 toy,1,14815,Toy,Q11422,toy,300211037,toys (recreational artifacts)
 coat,1,2361,Coat,Q152574,coat,300046143,coats (garments)
 mallet,1,7449,Mallet,Q3202271,mallet,300024825,mallets (striking tools)
 club,1,8338,Club,Q392326,club,300037206,clubs (weapons)
-flute,1,10838,Flute,Q569289,fluyt,300232708,flutes (watercraft)
-underclothing,1,,,Q198763,undergarment,300209267,underwear
+flute,1,10838,Flute,Q11405,flute,300042513,flutes (aerophones)
+underclothing,1,2626,Underwear,Q198763,undergarment,300209267,underwear
 table,1,1349,Table,Q14748,table,300039548,tables (support furniture)
 steamer,1,4004,Steamer,Q1158805,food steamer,300198949,steamers (cookware)
 stool,1,1158,Stool,Q33163,stool,300038418,stools (seating furniture)
