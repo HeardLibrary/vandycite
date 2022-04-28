@@ -1,12 +1,12 @@
 noun,freq,nomenclature,n_pref,wikidata,w_pref,getty,g_pref
-figurine,176,12978,Figurine,Q1066288,figurine,300047455,figurines
-sculpture,162,12956,Sculpture,Q860861,sculpture,300047090,sculpture (visual works)
+figurine,177,12978,Figurine,Q1066288,figurine,300047455,figurines
+sculpture,163,12956,Sculpture,Q860861,sculpture,300047090,sculpture (visual works)
 bowl,140,11792,Bowl,Q153988,bowl,300203596,bowls (vessels)
 soba-choko,121,,,Q20983127,Soba Choko,,
 vase,82,1508,Vase,Q191851,vase,300132254,vases
 cup,73,4771,Cup,Q81727,cup,300043202,cups (drinking vessels)
-dish,60,4849,Eating Dish,Q99513137,dish,300423925,eating dish
 bottle,60,11787,Bottle,Q80228,bottle,300045627,bottles
+dish,60,4849,Eating Dish,Q99513137,dish,300423925,eating dish
 jar,54,11795,Jar,Q1207302,jar,300195347,jars
 menuki,40,,,Q111739028,menuki,,
 netsuke,38,2936,Netsuke,Q543901,netsuke,300184865,netsukes
@@ -14,178 +14,181 @@ mirror,35,1403,Mirror,Q35197,mirror,300037682,mirrors
 seal,34,13997,Seal,Q162919,seal,300028877,seals (artifacts)
 pot,29,4088,Crockpot,Q3399907,crock,300199857,crockpot
 plate,24,4867,Food Plate,Q57216,plate,300042973,dishes (vessels for food)
-unclassified,25,,,,,,
 container,23,11743,Containers,Q987767,container,300197197,containers (receptacles)
 hair ornament,23,1977,Hair Ornament,Q21369154,hairstyle accessory,300209287,hair ornaments
 pitcher,22,5246,Pitcher,Q132397,pitcher,300194765,pitchers (vessels)
 kogo,20,1520,Incense Box,Q11667200,Kōgō,300426439,incense boxes
+unclassified,20,14923,Unidentified Object,Q18563147,unidentified object,300431978,unidentified works
 mask,19,13203,Ritual Mask,Q21550451,ceremonial mask,300263916,ceremonial masks
-tsuba,19,,,Q1758043,tsuba,300312096,tsuba
 mold,19,5402,Mold,Q1941820,mold,300024814,molds (shaping equipment)
+tsuba,19,,,Q1758043,tsuba,300312096,tsuba
 box,18,11754,Box,Q188075,box,300045643,boxes (containers)
-textile,18,15103,Textile Art,Q10988986,textile art,300386843,textile art (visual works)
 teapot,18,5256,Teapot,Q245005,teapot,300043022,teapots
+textile,18,15103,Textile Art,Q10988986,textile art,300386843,textile art (visual works)
+carving,17,12958,Carving,Q97570030,carving,300047203,carvings (visual works)
 vessel,17,11785,Vessel,Q16896124,bin,300193015,vessels (containers)
 coin,16,13826,Coin,Q41207,coin,300037222,coins (money)
 case,13,11762,Case,Q987767,container,300045659,cases (containers)
 suiteki,13,,,Q2153373,water-dropper,,
 armrest,12,,,Q2822867,armrest,300299135,armrests (object genre)
+cloth,12,,,Q5849500,cloth,300162391,cloth
 yatate,12,11591,Scribe Set,Q1894855,yatate,300431552,scribe sets
-carving,17,12958,Carving,Q97570030,carving,300047203,carvings (visual works)
-plaque,11,12953,Decorative Plaque,Q4364339,plaque,300424370,decorative plaque
 ferrule,11,6581,Ferrule,Q3761748,ferrule,300233319,ferrules
-incense burner,10,1626,Incense Burner,Q1264081,censer,300198817,incense burners
-kimono,10,2431,Kimono,Q483444,kimono,300046171,kimonos
-fan,10,2772,Hand Fan,Q193220,hand fan,300426942,hand fans
-jug,10,11796,Jug,Q2413314,jug,300045685,jugs (vessels)
-inro,10,2940,Inro,Q557164,inro,300311058,inrō
+plaque,11,12953,Decorative Plaque,Q4364339,plaque,300424370,decorative plaque
 doll,10,14747,Doll,Q168658,doll,300211087,dolls (figurines)
+fan,10,2772,Hand Fan,Q193220,hand fan,300426942,hand fans
+incense burner,10,1626,Incense Burner,Q1264081,censer,300198817,incense burners
+inro,10,2940,Inro,Q557164,inro,300311058,inrō
+jug,10,11796,Jug,Q2413314,jug,300045685,jugs (vessels)
+kimono,10,2431,Kimono,Q483444,kimono,300046171,kimonos
 weight,9,10332,Balance Weight,Q1320546,weight,300197555,weights (scale components)
-printing block,2,11064,Printing Block,Q20820214,printing block,300161798,printing blocks (printing surfaces)
-scroll weight,8,,,,,,
 candlestick,8,1740,Candlestick,Q151771,candlestick,300037588,candlesticks
 pendant,8,1959,Pendant,Q2111434,pendant,300046002,pendants (jewelry)
 shield,8,8139,Shield,Q131559,shield,300036869,shields (armor)
-basket,6,11749,Basket,Q201097,basket,300194498,baskets (containers)
-obi,6,2097,Obi,Q825501,obi,300216871,obis
-votive object,6,,,Q2601788,votive offering,300178244,votive offerings
-tray,6,11781,Tray,Q613972,tray,300043071,trays
-urn,6,1463,Decorative Urn,Q11083119,urn,300424373,decorative urn
-flask,6,11791,Flask,Q107197324,bottle,300045671,flasks (bottles)
 furoshiki,7,13092,Gift Wrap,Q369376,furoshiki,,
+tray,7,11781,Tray,Q613972,tray,300043071,trays
+basket,6,11749,Basket,Q201097,basket,300194498,baskets (containers)
 ewer,6,5247,Ewer,Q404785,ewer,300045666,ewers (vessels)
+flask,6,11791,Flask,Q107197324,bottle,300045671,flasks (bottles)
+obi,6,2097,Obi,Q825501,obi,300216871,obis
 pouch,6,11778,Pouch,Q29480005,pouch,300194553,pouches
-tile,5,446,Tile,Q468402,tile,300010676,tile (material)
+scroll weight,6,,,Q65088317,weight,300343371,weights (object genres)
+urn,6,1463,Decorative Urn,Q11083119,urn,300424373,decorative urn
+votive object,6,,,Q2601788,votive offering,300178244,votive offerings
+bi disc,5,13002,Pi Disk,Q573870,bi,300265726,bi (ceremonial disk)
 brush washer,5,6708,Brush Washer,Q111744084,brush-washer,300233203,brush washers
+bust,5,12957,Bust,Q17489160,bust,300047457,"busts (general, figures)"
 censer,5,13131,Censer,Q1264081,censer,300198814,censers
 charger,5,5164,Charger,Q198976,charger,300043054,chargers (platters)
-bust,5,12957,Bust,Q17489160,bust,300047457,"busts (general, figures)"
-bell,4,11189,Bell,Q101401,bell,300041872,bells (idiophones)
+tile,5,446,Tile,Q468402,tile,300010676,tile (material)
 arrowhead,4,8191,Arrowhead,Q1643900,arrowhead,300024861,arrowheads
-beaker,4,8577,Beaker,Q833823,beaker,300043198,beakers (drinking vessels)
-tool,4,,,Q39546,tool,300024841,tools
-whistle,4,11209,Whistle,Q204917,whistle,300042706,whistles
-heddle pulleys,4,7083,Heddle Pulley,Q111744113,heddle pulley,300256329,heddle pulleys
-cloth,12,,,Q5849500,cloth,300162391,cloth
-churn,4,4526,Churn,Q1018079,butter churn,300043094,churns
 bead,4,6831,Bead,Q1053956,bead,300234006,beads (pierced objects)
+beaker,4,8577,Beaker,Q833823,beaker,300043198,beakers (drinking vessels)
+bell,4,11189,Bell,Q101401,bell,300041872,bells (idiophones)
+churn,4,4526,Churn,Q1018079,butter churn,300043094,churns
+heddle pulleys,4,7083,Heddle Pulley,Q111744113,heddle pulley,300256329,heddle pulleys
 pipe,4,2973,Smoking Pipe,Q104526,pipe,300433079,smoking pipes
 tea caddy,4,4698,Tea Caddy,Q2923121,tea caddy,300135329,tea caddies (containers)
+tea scoop,4,,,Q3006804,chashaku,,
+tool,4,,,Q39546,tool,300024841,tools
+whistle,4,11209,Whistle,Q204917,whistle,300042706,whistles
+axe,3,7176,Ax,Q57207481,axe,300024664,axes (tools)
+bag,3,11745,Bag,Q1323314,bag,300194509,bags (generic containers)
 brush holder,3,6646,Brush Holder,Q95965965,brush holder,300421169,brush holder
+embroidery,3,12916,Embroidery,Q28966302,embroidery,300264024,embroidery (visual works)
 lamp,3,1672,Lamp,Q1138737,lamp,300037592,lamps (lighting devices)
 mug,3,4829,Mug,Q386215,mug,300043248,mugs (cups)
 necklace,3,1946,Necklace,Q189299,necklace,300046001,necklaces
-embroidery,3,12916,Embroidery,Q28966302,embroidery,300264024,embroidery (visual works)
 plumb line,3,,,Q12826066,plumbline,300163338,plumb lines
-bag,3,11745,Bag,Q1323314,bag,300194509,bags (generic containers)
-bi disc,5,13002,Pi Disk,Q573870,bi,300265726,bi (ceremonial disk)
-wine server,3,5221,Drink Serving Vessel,Q93306772,beverage urn,300423786,drink serving vessel
-tea scoop,4,,,Q3006804,chashaku,,
-axe,3,7176,Ax,Q57207481,axe,300024664,axes (tools)
-sashi,3,,,Q111743391,sashi,,
-stamp,3,11593,Marking Stamp,Q96093273,stamp,300428582,marking stamps
 relief,3,12972,Relief,Q245117,relief sculpture,300047230,reliefs (sculptures)
+sashi,3,,,Q111743391,sashi,,
 shoes,3,2188,Shoe,Q22676,shoe,300046065,shoes (footwear)
+stamp,3,11593,Marking Stamp,Q96093273,stamp,300428582,marking stamps
 towel,3,3167,Towel,Q131696,towel,300216632,towels
 weapon,3,7734,Armaments,Q728,weapon,300036926,weapons
-chair,2,1090,Chair,Q15026,chair,300037772,chairs (furniture forms)
-medal,2,13940,Medal,Q131647,medal,300046025,medals
-dagger,2,8165,Dagger,Q182780,dagger,300037058,daggers (weapons)
-amulet,2,13970,Amulet,Q131557,amulet,300266585,amulets
-hatchet,2,7186,Hatchet,Q672890,hatchet,300023767,hatchets
-game,2,14210,Game,Q11410,game,300424740,game
+wine server,3,5221,Drink Serving Vessel,Q93306772,beverage urn,300423786,drink serving vessel
 amphora,2,15090,Amphora,Q178401,amphora,300148696,amphorae (storage vessels)
-chawan,2,,,Q798625,chawan,300266745,chawan
-kettle,2,3982,Kettle,Q107444,kettle,300195349,kettles (vessels)
-chest,2,1248,Chest,Q366134,chest,300038992,chests (case furniture)
-compass,2,10113,Compass,Q34735,compass,300196707,compasses (direction indicators)
-sword handle,2,,,Q1593696,hilt,300037119,hilts
-boomerang,2,8351,Boomerang,Q131536,boomerang,300037220,boomerangs
-teacup,2,4796,Teacup,Q81707,teacup,300043226,teacups
-krater,2,,,Q476968,krater,300198855,kraters
-kashari,2,,,Q3087145,pommel,300037126,pommels (handles)
-holder,2,1540,Holder,Q82171231,Holder,300197294,holders (containers)
-comb,2,1982,Ornamental Comb,Q50316288,comb,300046265,combs (hair ornaments)
-food extracting tool,2,4300,Food Extracting Tool,Q111743673,food extracting tool,300425829,food extracting tools
-bird feeder,2,512,Bird Feeder,Q1441616,bird feeder,300060056,bird feeders
+amulet,2,13970,Amulet,Q131557,amulet,300266585,amulets
 apron,2,2593,Apron,Q273831,apron,300258453,aprons (main garments)
-sword,2,8217,Sword,Q12791,sword,300037048,swords
-ruler,2,10351,Ruler,Q104555,ruler,300266529,rulers (measuring devices)
-pillow,2,1021,Pillow,Q99895,pillow,300236074,pillows
-picture frame,2,1535,Picture Frame,Q860792,picture frame,300404391,picture frames
-hairpin,2,1987,Hairpin,Q1566584,hairpin,300046042,hairpins
-cassone,2,1249,Cassone,Q945313,cassone,300039007,cassoni
-coverlet,2,975,Coverlet,Q8037437,woven coverlet,300197954,coverlets
-halberd,2,8197,Halberd,Q185623,halberd,300037010,halberds
-knife,2,6594,Knife,Q32489,knife,300024668,knives
-ink stick,2,,,Q11240146,inkstick,,
-model,2,13734,Model,Q11784425,physical model,300047753,models (representations)
+bird feeder,2,512,Bird Feeder,Q1441616,bird feeder,300060056,bird feeders
+boomerang,2,8351,Boomerang,Q131536,boomerang,300037220,boomerangs
 cage,2,3531,Insect Cage,Q11625371,insect cage,300426502,insect cages
+cassone,2,1249,Cassone,Q945313,cassone,300039007,cassoni
+chair,2,1090,Chair,Q15026,chair,300037772,chairs (furniture forms)
+chawan,2,,,Q798625,chawan,300266745,chawan
+chest,2,1248,Chest,Q366134,chest,300038992,chests (case furniture)
+comb,2,1982,Ornamental Comb,Q50316288,comb,300046265,combs (hair ornaments)
+compass,2,10113,Compass,Q34735,compass,300196707,compasses (direction indicators)
+coverlet,2,975,Coverlet,Q8037437,woven coverlet,300197954,coverlets
+dagger,2,8165,Dagger,Q182780,dagger,300037058,daggers (weapons)
 drum,2,10740,Drum,Q11404,drum,300041729,drums (membranophones)
-pietà,2,,,Q223689,Pietà,300400908,pietàs
+food extracting tool,2,4300,Food Extracting Tool,Q111743673,food extracting tool,300425829,food extracting tools
+fuchin,2,,,Q111746816,fuchin,,
+game,2,14210,Game,Q11410,game,300424740,game
+hairpin,2,1987,Hairpin,Q1566584,hairpin,300046042,hairpins
+halberd,2,8197,Halberd,Q185623,halberd,300037010,halberds
+hatchet,2,7186,Hatchet,Q672890,hatchet,300023767,hatchets
+holder,2,1540,Holder,Q82171231,Holder,300197294,holders (containers)
 hook,2,2015,Clothing Clasp,Q111525943,clothing fastener,300423334,clothing clasp
-musical instrument,1,10655,Musical Instruments,Q34379,musical instrument,300041620,musical instruments
-kylix,1,,,Q668349,kylix,300198842,kylikes
-earring,1,1953,earring,Q168456,earring,300045998,earrings (jewelry)
-mandolin,1,10809,Mandolin,Q302497,mandolin,300042135,mandolins
-icon,1,13226,Icon,Q132137,icon,300033945,icons (devotional images)
-headband,1,2311,Headband,Q934849,headband,300046115,headbands (headgear)
-purse,1,2856,Purse,Q467505,handbag,300046230,purse
-pen holder,1,11499,Pen Holder,Q107197368,pencil/pen holder,300411361,pen holders
-tablecloth,1,5011,Tablecloth,Q536168,tablecloth,300204969,tablecloths
-buckle,1,6562,Buckle,Q1135567,buckle,300239260,buckles (strap accessories)
-sword ornament,1,,,Q107471838,edged weapon component,300037110,edged weapon components
-pin,1,2081,Clothing Pin,Q29405120,pin,300423336,clothing pin
-throne,1,,,Q189233,throne,300038141,thrones
-placemat,1,5010,Placemat,Q1757989,placemat,300204964,placemats
-mosaic,1,432,Mosaic,Q133067,mosaic,300015342,mosaics (visual works)
-credenza,1,1304,Credenza,Q16676881,credenza,300121482,credenzas (sideboards)
-bracelet,1,1940,Bracelet,Q201664,bracelet,300045991,bracelets (jewelry)
-powder horn,1,7870,Powder Horn,Q7236012,powder horn,300225671,powder horns
-finial,1,326,Finial,Q1406758,finial,300002280,finials
-robe,1,2459,Robe,Q345127,robe,300209852,robes (main garments)
-candleholder,1,1735,Candleholder,Q151771,candlestick,300037583,candleholders
-dress,1,2373,Dress,Q200539,dress,300046159,dresses (garments)
-door knocker,1,255,Knocker,Q12180,door knocker,300080114,door knockers
-ear cups,1,1952,Ear Ornament,Q29544254,ear ornament,300211279,ear ornaments
-creamer,1,5249,Cream Pitcher,Q5183377,creamer,300220996,creamers
-stained glass,1,15116,Stained Glass,Q1473346,stained glass,300263722,stained glass (visual works)
+ink stick,2,,,Q11240146,inkstick,,
+kashari,2,,,Q3087145,pommel,300037126,pommels (handles)
+kettle,2,3982,Kettle,Q107444,kettle,300195349,kettles (vessels)
+knife,2,6594,Knife,Q32489,knife,300024668,knives
+krater,2,,,Q476968,krater,300198855,kraters
+medal,2,13940,Medal,Q131647,medal,300046025,medals
+model,2,13734,Model,Q11784425,physical model,300047753,models (representations)
+picture frame,2,1535,Picture Frame,Q860792,picture frame,300404391,picture frames
+pietà,2,,,Q223689,Pietà,300400908,pietàs
+pillow,2,1021,Pillow,Q99895,pillow,300236074,pillows
+printing block,2,11064,Printing Block,Q20820214,printing block,300161798,printing blocks (printing surfaces)
+ruler,2,10351,Ruler,Q104555,ruler,300266529,rulers (measuring devices)
+sword,2,8217,Sword,Q12791,sword,300037048,swords
+sword handle,2,,,Q1593696,hilt,300037119,hilts
+teacup,2,4796,Teacup,Q81707,teacup,300043226,teacups
 ashtray,1,1420,Ashtray,Q214488,ashtray,300198897,ashtrays
+belt,1,2002,Belt,Q134560,belt,300210002,belts (costume accessories)
+bracelet,1,1940,Bracelet,Q201664,bracelet,300045991,bracelets (jewelry)
+brazier,1,5885,Brazier,Q1409660,brazier,300198452,"braziers (cooking, heating equipment)"
+buckle,1,6562,Buckle,Q1135567,buckle,300239260,buckles (strap accessories)
+candleholder,1,1735,Candleholder,Q151771,candlestick,300037583,candleholders
 chopsticks,1,4888,Chopstick,Q81980,chopsticks,300200657,chopsticks
 clasp,1,6563,Clasp,Q2239762,clasp,300239507,clasps (fasteners)
-yarn,1,7141,Yarn,Q49007,yarn,300014252,yarn
-clothing,1,1999,Clothing,Q11460,clothing,300266639,clothing
-sarcophagus,1,12999,Sarcophagus,Q48634,sarcophagus,300005947,sarcophagi (coffins)
-belt,1,2002,Belt,Q134560,belt,300210002,belts (costume accessories)
-ink stone,1,11093,Inkstone,Q600794,inkstone,300022517,inkstones
-lace,1,6856,Lace,Q231250,lace,300132861,lace (needlework)
-coasters ,1,4975,Coaster,Q14973,beverage coaster,300196479,coasters (containers)
-tub,1,11782,Tub,Q38942,tub,300195311,tubs (containers)
-collar,1,2027,Collar,Q497903,collar,300210058,collars (neckwear)
-trivet,1,4036,Trivet,Q2569925,trivet,300216958,trivets
-kite,1,11724,Kite,Q42861,kite,300218777,kites (equipment)
-quilt,1,12924,Art Quilt ,Q1064538,quilt,300197990,quilts
-spindle,1,7095,Spindle,Q213761,spindle,300265738,spindles (textile working equipment)
-scroll,1,13790,Scroll,Q720106,scroll,300028629,scrolls (information artifacts)
-handwarmer,1,2819,Hand Warmer,Q345179,hand warmer,300426965,hand warmer
-menorah,1,13108,Menorah,Q170476,menorah,300391227,menorahs (temple lamps)
-brazier,1,5885,Brazier,Q1409660,brazier,300198452,"braziers (cooking, heating equipment)"
-ladle,1,4336,Kitchen Ladle,Q193358,ladle,300200095,ladles
-headdress,1,14089,Headdress,Q28972621,headdress,300046023,headdresses
-cong,1,,,Q1125665,cong,300265725,cong (ceremonial vessel)
-scales,1,10357,Scale,Q134566,weighing scale,300196293,scales (weighing devices)
-planter,1,1502,Planter,Q869381,flowerpot,300237566,planters (containers)
-toy,1,14815,Toy,Q11422,toy,300211037,toys (recreational artifacts)
-coat,1,2361,Coat,Q152574,coat,300046143,coats (garments)
-mallet,1,7449,Mallet,Q3202271,mallet,300024825,mallets (striking tools)
-club,1,8338,Club,Q392326,club,300037206,clubs (weapons)
-flute,1,10838,Flute,Q11405,flute,300042513,flutes (aerophones)
-underclothing,1,2626,Underwear,Q198763,undergarment,300209267,underwear
-table,1,1349,Table,Q14748,table,300039548,tables (support furniture)
-steamer,1,4004,Steamer,Q1158805,food steamer,300198949,steamers (cookware)
-stool,1,1158,Stool,Q33163,stool,300038418,stools (seating furniture)
-stirrup,1,11980,Stirrup,Q191657,stirrup,300255573,stirrups
-wall hanging,1,1448,Wall Hanging,Q44740228,wall hanging,300204886,wall hangings
-gong,1,11213,Gong,Q208320,gong,300041905,gongs
 clock,1,10265,Clock,Q376,clock,300041575,clocks
+clothing,1,1999,Clothing,Q11460,clothing,300266639,clothing
+club,1,8338,Club,Q392326,club,300037206,clubs (weapons)
+coasters ,1,4975,Coaster,Q14973,beverage coaster,300196479,coasters (containers)
+coat,1,2361,Coat,Q152574,coat,300046143,coats (garments)
+collar,1,2027,Collar,Q497903,collar,300210058,collars (neckwear)
+cong,1,,,Q1125665,cong,300265725,cong (ceremonial vessel)
+creamer,1,5249,Cream Pitcher,Q5183377,creamer,300220996,creamers
+credenza,1,1304,Credenza,Q16676881,credenza,300121482,credenzas (sideboards)
+divination object,1,13204,Divination Object,Q111435487,divination equipment,300263039,divination objects
+door knocker,1,255,Knocker,Q12180,door knocker,300080114,door knockers
+dress,1,2373,Dress,Q200539,dress,300046159,dresses (garments)
+ear cups,1,1952,Ear Ornament,Q29544254,ear ornament,300211279,ear ornaments
+earring,1,1953,earring,Q168456,earring,300045998,earrings (jewelry)
+finial,1,326,Finial,Q1406758,finial,300002280,finials
+flute,1,10838,Flute,Q11405,flute,300042513,flutes (aerophones)
+gong,1,11213,Gong,Q208320,gong,300041905,gongs
+handwarmer,1,2819,Hand Warmer,Q345179,hand warmer,300426965,hand warmer
+headband,1,2311,Headband,Q934849,headband,300046115,headbands (headgear)
+headdress,1,14089,Headdress,Q28972621,headdress,300046023,headdresses
 headrest,1,1011,Headrest,Q6105860,headrest,300248658,headrests
+icon,1,13226,Icon,Q132137,icon,300033945,icons (devotional images)
+ink stone,1,11093,Inkstone,Q600794,inkstone,300022517,inkstones
+kite,1,11724,Kite,Q42861,kite,300218777,kites (equipment)
+kylix,1,,,Q668349,kylix,300198842,kylikes
+lace,1,6856,Lace,Q231250,lace,300132861,lace (needlework)
+ladle,1,4336,Kitchen Ladle,Q193358,ladle,300200095,ladles
+mallet,1,7449,Mallet,Q3202271,mallet,300024825,mallets (striking tools)
+mandolin,1,10809,Mandolin,Q302497,mandolin,300042135,mandolins
+menorah,1,13108,Menorah,Q170476,menorah,300391227,menorahs (temple lamps)
+mosaic,1,432,Mosaic,Q133067,mosaic,300015342,mosaics (visual works)
+musical instrument,1,10655,Musical Instruments,Q34379,musical instrument,300041620,musical instruments
+pen holder,1,11499,Pen Holder,Q107197368,pencil/pen holder,300411361,pen holders
+pin,1,2081,Clothing Pin,Q29405120,pin,300423336,clothing pin
+placemat,1,5010,Placemat,Q1757989,placemat,300204964,placemats
+planter,1,1502,Planter,Q869381,flowerpot,300237566,planters (containers)
+powder horn,1,7870,Powder Horn,Q7236012,powder horn,300225671,powder horns
+purse,1,2856,Purse,Q467505,handbag,300046230,purse
+quilt,1,12924,Art Quilt ,Q1064538,quilt,300197990,quilts
+robe,1,2459,Robe,Q345127,robe,300209852,robes (main garments)
+sarcophagus,1,12999,Sarcophagus,Q48634,sarcophagus,300005947,sarcophagi (coffins)
+scales,1,10357,Scale,Q134566,weighing scale,300196293,scales (weighing devices)
+scroll,1,13790,Scroll,Q720106,scroll,300028629,scrolls (information artifacts)
+spindle,1,7095,Spindle,Q213761,spindle,300265738,spindles (textile working equipment)
+stained glass,1,15116,Stained Glass,Q1473346,stained glass,300263722,stained glass (visual works)
+steamer,1,4004,Steamer,Q1158805,food steamer,300198949,steamers (cookware)
+stirrup,1,11980,Stirrup,Q191657,stirrup,300255573,stirrups
+stool,1,1158,Stool,Q33163,stool,300038418,stools (seating furniture)
+sword ornament,1,,,Q107471838,edged weapon component,300037110,edged weapon components
+table,1,1349,Table,Q14748,table,300039548,tables (support furniture)
+tablecloth,1,5011,Tablecloth,Q536168,tablecloth,300204969,tablecloths
+throne,1,,,Q189233,throne,300038141,thrones
+toy,1,14815,Toy,Q11422,toy,300211037,toys (recreational artifacts)
+trivet,1,4036,Trivet,Q2569925,trivet,300216958,trivets
+tub,1,11782,Tub,Q38942,tub,300195311,tubs (containers)
+underclothing,1,2626,Underwear,Q198763,undergarment,300209267,underwear
+walking stick,1,2805,Walking Stick,Q1347864,walking stick,300221268,walking sticks
+wall hanging,1,1448,Wall Hanging,Q44740228,wall hanging,300204886,wall hangings
+yarn,1,7141,Yarn,Q49007,yarn,300014252,yarn
