@@ -1,52 +1,60 @@
 graph [
-  directed 1
-  node [
+      directed 1
+      node [
     id 0
-    label "14135"
+    label "Category 09: Recreational Objects"
     nom_label "Category 09: Recreational Objects"
-    freq "0"
+    freq 0
+    nom_id "14135"
   ]
   node [
     id 1
-    label "14709"
+    label "Toys"
     nom_label "Toys"
-    freq "0"
+    freq 0
+    nom_id "14709"
   ]
   node [
     id 2
-    label "14136"
+    label "Game Equipment"
     nom_label "Game Equipment"
-    freq "0"
+    freq 0
+    nom_id "14136"
   ]
   node [
     id 3
-    label "14137"
+    label "Game Equipment (blank sub-class)"
     nom_label "Game Equipment (blank sub-class)"
-    freq "0"
+    freq 0
+    nom_id "14137"
   ]
   node [
     id 4
-    label "14210"
+    label "Game"
     nom_label "Game"
-    freq "2"
+    freq 14210
+    nom_id "Game"
   ]
   node [
     id 5
-    label "14710"
+    label "Toys (blank sub-class)"
     nom_label "Toys (blank sub-class)"
-    freq "0"
+    freq 0
+    nom_id "14710"
   ]
   node [
     id 6
-    label "14815"
+    label "Toy"
     nom_label "Toy"
-    freq "1"
+    freq 1
+    nom_id "14815"
   ]
   node [
     id 7
-    label "14747"
+    label "Doll"
     nom_label "Doll"
-    freq "10"
+    freq 10
+    nom_id "14747"
   ]
   edge [
     source 0

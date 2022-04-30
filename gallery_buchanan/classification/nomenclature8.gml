@@ -1,322 +1,375 @@
 graph [
-  directed 1
-  node [
+      directed 1
+      node [
     id 0
-    label "13938"
+    label "Decoration of Honor"
     nom_label "Decoration of Honor"
-    freq "0"
+    freq 0
+    nom_id "13938"
   ]
   node [
     id 1
-    label "13940"
+    label "Medal"
     nom_label "Medal"
-    freq "2"
+    freq 2
+    nom_id "13940"
   ]
   node [
     id 2
-    label "13969"
+    label "Charm"
     nom_label "Charm"
-    freq "0"
+    freq 0
+    nom_id "13969"
   ]
   node [
     id 3
-    label "12838"
+    label "Category 08: Communication Objects"
     nom_label "Category 08: Communication Objects"
-    freq "0"
+    freq 0
+    nom_id "12838"
   ]
   node [
     id 4
-    label "13265"
+    label "Documentary Objects"
     nom_label "Documentary Objects"
-    freq "0"
+    freq 0
+    nom_id "13265"
   ]
   node [
     id 5
-    label "13807"
+    label "Exchange Media"
     nom_label "Exchange Media"
-    freq "0"
+    freq 0
+    nom_id "13807"
   ]
   node [
     id 6
-    label "12894"
+    label "Arts"
     nom_label "Arts"
-    freq "0"
+    freq 0
+    nom_id "12894"
   ]
   node [
     id 7
-    label "12986"
+    label "Ceremonial Objects"
     nom_label "Ceremonial Objects"
-    freq "0"
+    freq 0
+    nom_id "12986"
   ]
   node [
     id 8
-    label "13931"
+    label "Personal Symbols"
     nom_label "Personal Symbols"
-    freq "0"
+    freq 0
+    nom_id "13931"
   ]
   node [
     id 9
-    label "12895"
+    label "Visual Arts"
     nom_label "Visual Arts"
-    freq "0"
+    freq 0
+    nom_id "12895"
   ]
   node [
     id 10
-    label "12987"
+    label "Funerary Objects"
     nom_label "Funerary Objects"
-    freq "0"
+    freq 0
+    nom_id "12987"
   ]
   node [
     id 11
-    label "13093"
+    label "Religious Objects"
     nom_label "Religious Objects"
-    freq "0"
+    freq 0
+    nom_id "13093"
   ]
   node [
     id 12
-    label "13076"
+    label "Party Accessories"
     nom_label "Party Accessories"
-    freq "0"
+    freq 0
+    nom_id "13076"
   ]
   node [
     id 13
-    label "13599"
+    label "Other Documents"
     nom_label "Other Documents"
-    freq "0"
+    freq 0
+    nom_id "13599"
   ]
   node [
     id 14
-    label "13808"
+    label "Exchange Media (blank sub-class)"
     nom_label "Exchange Media (blank sub-class)"
-    freq "0"
+    freq 0
+    nom_id "13808"
   ]
   node [
     id 15
-    label "13984"
+    label "Personal Identification"
     nom_label "Personal Identification"
-    freq "0"
+    freq 0
+    nom_id "13984"
   ]
   node [
     id 16
-    label "13932"
+    label "Achievement Symbols"
     nom_label "Achievement Symbols"
-    freq "0"
+    freq 0
+    nom_id "13932"
   ]
   node [
     id 17
-    label "13954"
+    label "Belief Symbols"
     nom_label "Belief Symbols"
-    freq "0"
+    freq 0
+    nom_id "13954"
   ]
   node [
     id 18
-    label "14000"
+    label "Status Symbols"
     nom_label "Status Symbols"
-    freq "0"
+    freq 0
+    nom_id "14000"
   ]
   node [
     id 19
-    label "12910"
+    label "Needlework"
     nom_label "Needlework"
-    freq "0"
+    freq 0
+    nom_id "12910"
   ]
   node [
     id 20
-    label "12956"
+    label "Sculpture"
     nom_label "Sculpture"
-    freq "163"
+    freq 163
+    nom_id "12956"
   ]
   node [
     id 21
-    label "15115"
+    label "Decorative Glass"
     nom_label "Decorative Glass"
-    freq "0"
+    freq 0
+    nom_id "15115"
   ]
   node [
     id 22
-    label "15103"
+    label "Textile Art"
     nom_label "Textile Art"
-    freq "18"
+    freq 18
+    nom_id "15103"
   ]
   node [
     id 23
-    label "12924"
+    label "Quilt"
     nom_label "Quilt"
-    freq "1"
+    freq 1
+    nom_id "12924"
   ]
   node [
     id 24
-    label "12916"
+    label "Embroidery"
     nom_label "Embroidery"
-    freq "3"
+    freq 3
+    nom_id "12916"
   ]
   node [
     id 25
-    label "12958"
+    label "Carving"
     nom_label "Carving"
-    freq "17"
+    freq 17
+    nom_id "12958"
   ]
   node [
     id 26
-    label "12972"
+    label "Relief"
     nom_label "Relief"
-    freq "3"
+    freq 3
+    nom_id "12972"
   ]
   node [
     id 27
-    label "12977"
+    label "Statue"
     nom_label "Statue"
-    freq "0"
+    freq 0
+    nom_id "12977"
   ]
   node [
     id 28
-    label "12957"
+    label "Bust"
     nom_label "Bust"
-    freq "5"
+    freq 5
+    nom_id "12957"
   ]
   node [
     id 29
-    label "12978"
+    label "Figurine"
     nom_label "Figurine"
-    freq "177"
+    freq 177
+    nom_id "12978"
   ]
   node [
     id 30
-    label "12993"
+    label "Funerary Container"
     nom_label "Funerary Container"
-    freq "0"
+    freq 0
+    nom_id "12993"
   ]
   node [
     id 31
-    label "13002"
+    label "Pi Disk"
     nom_label "Pi Disk"
-    freq "5"
+    freq 5
+    nom_id "13002"
   ]
   node [
     id 32
-    label "15116"
+    label "Stained Glass"
     nom_label "Stained Glass"
-    freq "1"
+    freq 1
+    nom_id "15116"
   ]
   node [
     id 33
-    label "13204"
+    label "Divination Object"
     nom_label "Divination Object"
-    freq "1"
+    freq 1
+    nom_id "13204"
   ]
   node [
     id 34
-    label "13217"
+    label "Religious Symbol"
     nom_label "Religious Symbol"
-    freq "0"
+    freq 0
+    nom_id "13217"
   ]
   node [
     id 35
-    label "13120"
+    label "Ritual Container"
     nom_label "Ritual Container"
-    freq "0"
+    freq 0
+    nom_id "13120"
   ]
   node [
     id 36
-    label "13203"
+    label "Ritual Mask"
     nom_label "Ritual Mask"
-    freq "19"
+    freq 19
+    nom_id "13203"
   ]
   node [
     id 37
-    label "13105"
+    label "Religious Candlestick"
     nom_label "Religious Candlestick"
-    freq "0"
+    freq 0
+    nom_id "13105"
   ]
   node [
     id 38
-    label "13092"
+    label "Gift Wrap"
     nom_label "Gift Wrap"
-    freq "7"
+    freq 7
+    nom_id "13092"
   ]
   node [
     id 39
-    label "12999"
+    label "Sarcophagus"
     nom_label "Sarcophagus"
-    freq "1"
+    freq 1
+    nom_id "12999"
   ]
   node [
     id 40
-    label "13226"
+    label "Icon"
     nom_label "Icon"
-    freq "1"
+    freq 1
+    nom_id "13226"
   ]
   node [
     id 41
-    label "13131"
+    label "Censer"
     nom_label "Censer"
-    freq "5"
+    freq 5
+    nom_id "13131"
   ]
   node [
     id 42
-    label "13108"
+    label "Menorah"
     nom_label "Menorah"
-    freq "1"
+    freq 1
+    nom_id "13108"
   ]
   node [
     id 43
-    label "13790"
+    label "Scroll"
     nom_label "Scroll"
-    freq "1"
+    freq 1
+    nom_id "13790"
   ]
   node [
     id 44
-    label "13734"
+    label "Model"
     nom_label "Model"
-    freq "2"
+    freq 2
+    nom_id "13734"
   ]
   node [
     id 45
-    label "13823"
+    label "Money"
     nom_label "Money"
-    freq "0"
+    freq 0
+    nom_id "13823"
   ]
   node [
     id 46
-    label "13826"
+    label "Coin"
     nom_label "Coin"
-    freq "16"
+    freq 16
+    nom_id "13826"
   ]
   node [
     id 47
-    label "13933"
+    label "Award"
     nom_label "Award"
-    freq "0"
+    freq 0
+    nom_id "13933"
   ]
   node [
     id 48
-    label "13997"
+    label "Seal"
     nom_label "Seal"
-    freq "34"
+    freq 34
+    nom_id "13997"
   ]
   node [
     id 49
-    label "13967"
+    label "Spiritual Symbol"
     nom_label "Spiritual Symbol"
-    freq "0"
+    freq 0
+    nom_id "13967"
   ]
   node [
     id 50
-    label "14061"
+    label "Regalia"
     nom_label "Regalia"
-    freq "0"
+    freq 0
+    nom_id "14061"
   ]
   node [
     id 51
-    label "13970"
+    label "Amulet"
     nom_label "Amulet"
-    freq "2"
+    freq 2
+    nom_id "13970"
   ]
   node [
     id 52
-    label "14089"
+    label "Headdress"
     nom_label "Headdress"
-    freq "1"
+    freq 1
+    nom_id "14089"
   ]
   edge [
     source 0

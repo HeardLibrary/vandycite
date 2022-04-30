@@ -1,88 +1,102 @@
 graph [
-  directed 1
-  node [
+      directed 1
+      node [
     id 0
-    label "2"
+    label "Category 01: Built Environment Objects"
     nom_label "Category 01: Built Environment Objects"
-    freq "0"
+    freq 0
+    nom_id "2"
   ]
   node [
     id 1
-    label "3"
+    label "Building Components"
     nom_label "Building Components"
-    freq "0"
+    freq 0
+    nom_id "3"
   ]
   node [
     id 2
-    label "460"
+    label "Site Features"
     nom_label "Site Features"
-    freq "0"
+    freq 0
+    nom_id "460"
   ]
   node [
     id 3
-    label "219"
+    label "Finish Hardware"
     nom_label "Finish Hardware"
-    freq "0"
+    freq 0
+    nom_id "219"
   ]
   node [
     id 4
-    label "318"
+    label "Roof Elements"
     nom_label "Roof Elements"
-    freq "0"
+    freq 0
+    nom_id "318"
   ]
   node [
     id 5
-    label "398"
+    label "Surface Elements"
     nom_label "Surface Elements"
-    freq "0"
+    freq 0
+    nom_id "398"
   ]
   node [
     id 6
-    label "461"
+    label "Site Features (blank sub-class)"
     nom_label "Site Features (blank sub-class)"
-    freq "0"
+    freq 0
+    nom_id "461"
   ]
   node [
     id 7
-    label "243"
+    label "Door Hardware"
     nom_label "Door Hardware"
-    freq "0"
+    freq 0
+    nom_id "243"
   ]
   node [
     id 8
-    label "255"
+    label "Knocker"
     nom_label "Knocker"
-    freq "1"
+    freq 1
+    nom_id "255"
   ]
   node [
     id 9
-    label "326"
+    label "Finial"
     nom_label "Finial"
-    freq "1"
+    freq 1
+    nom_id "326"
   ]
   node [
     id 10
-    label "446"
+    label "Tile"
     nom_label "Tile"
-    freq "5"
+    freq 5
+    nom_id "446"
   ]
   node [
     id 11
-    label "432"
+    label "Mosaic"
     nom_label "Mosaic"
-    freq "1"
+    freq 1
+    nom_id "432"
   ]
   node [
     id 12
-    label "511"
+    label "Wildlife Feeder"
     nom_label "Wildlife Feeder"
-    freq "0"
+    freq 0
+    nom_id "511"
   ]
   node [
     id 13
-    label "512"
+    label "Bird Feeder"
     nom_label "Bird Feeder"
-    freq "2"
+    freq 2
+    nom_id "512"
   ]
   edge [
     source 0

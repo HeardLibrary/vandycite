@@ -1,214 +1,249 @@
 graph [
-  directed 1
-  node [
+      directed 1
+      node [
     id 0
-    label "7685"
+    label "Category 05: Tools &#38; Equipment for Science &#38; Technology"
     nom_label "Category 05: Tools &#38; Equipment for Science &#38; Technology"
-    freq "0"
+    freq 0
+    nom_id "7685"
   ]
   node [
     id 1
-    label "10098"
+    label "Surveying &#38; Navigational T&#38;E"
     nom_label "Surveying &#38; Navigational T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "10098"
   ]
   node [
     id 2
-    label "10258"
+    label "Timekeeping T&#38;E"
     nom_label "Timekeeping T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "10258"
   ]
   node [
     id 3
-    label "10318"
+    label "Weights &#38; Measures T&#38;E"
     nom_label "Weights &#38; Measures T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "10318"
   ]
   node [
     id 4
-    label "10099"
+    label "Navigational Equipment"
     nom_label "Navigational Equipment"
-    freq "0"
+    freq 0
+    nom_id "10099"
   ]
   node [
     id 5
-    label "10113"
+    label "Compass"
     nom_label "Compass"
-    freq "2"
+    freq 2
+    nom_id "10113"
   ]
   node [
     id 6
-    label "10259"
+    label "Timekeeping T&#38;E (blank sub-class)"
     nom_label "Timekeeping T&#38;E (blank sub-class)"
-    freq "0"
+    freq 0
+    nom_id "10259"
   ]
   node [
     id 7
-    label "10265"
+    label "Clock"
     nom_label "Clock"
-    freq "1"
+    freq 1
+    nom_id "10265"
   ]
   node [
     id 8
-    label "10319"
+    label "Weights &#38; Measures T&#38;E (blank sub-class)"
     nom_label "Weights &#38; Measures T&#38;E (blank sub-class)"
-    freq "0"
+    freq 0
+    nom_id "10319"
   ]
   node [
     id 9
-    label "10357"
+    label "Scale"
     nom_label "Scale"
-    freq "1"
+    freq 1
+    nom_id "10357"
   ]
   node [
     id 10
-    label "10351"
+    label "Ruler"
     nom_label "Ruler"
-    freq "2"
+    freq 2
+    nom_id "10351"
   ]
   node [
     id 11
-    label "10330"
+    label "Scale Component"
     nom_label "Scale Component"
-    freq "0"
+    freq 0
+    nom_id "10330"
   ]
   node [
     id 12
-    label "10332"
+    label "Balance Weight"
     nom_label "Balance Weight"
-    freq "9"
+    freq 9
+    nom_id "10332"
   ]
   node [
     id 13
-    label "7734"
+    label "Armaments"
     nom_label "Armaments"
-    freq "3"
+    freq 3
+    nom_id "7734"
   ]
   node [
     id 14
-    label "8474"
+    label "Chemical T&#38;E"
     nom_label "Chemical T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "8474"
   ]
   node [
     id 15
-    label "8150"
+    label "Edged Weapons"
     nom_label "Edged Weapons"
-    freq "0"
+    freq 0
+    nom_id "8150"
   ]
   node [
     id 16
-    label "8193"
+    label "Pole-Arm"
     nom_label "Pole-Arm"
-    freq "0"
+    freq 0
+    nom_id "8193"
   ]
   node [
     id 17
-    label "7807"
+    label "Armament Accessories"
     nom_label "Armament Accessories"
-    freq "0"
+    freq 0
+    nom_id "7807"
   ]
   node [
     id 18
-    label "8165"
+    label "Dagger"
     nom_label "Dagger"
-    freq "2"
+    freq 2
+    nom_id "8165"
   ]
   node [
     id 19
-    label "8217"
+    label "Sword"
     nom_label "Sword"
-    freq "2"
+    freq 2
+    nom_id "8217"
   ]
   node [
     id 20
-    label "8190"
+    label "Projectile Point"
     nom_label "Projectile Point"
-    freq "0"
+    freq 0
+    nom_id "8190"
   ]
   node [
     id 21
-    label "8331"
+    label "Percussive Weapons"
     nom_label "Percussive Weapons"
-    freq "0"
+    freq 0
+    nom_id "8331"
   ]
   node [
     id 22
-    label "8103"
+    label "Body Armor"
     nom_label "Body Armor"
-    freq "0"
+    freq 0
+    nom_id "8103"
   ]
   node [
     id 23
-    label "8556"
+    label "Labware"
     nom_label "Labware"
-    freq "0"
+    freq 0
+    nom_id "8556"
   ]
   node [
     id 24
-    label "7844"
+    label "Armament Container"
     nom_label "Armament Container"
-    freq "0"
+    freq 0
+    nom_id "7844"
   ]
   node [
     id 25
-    label "8139"
+    label "Shield"
     nom_label "Shield"
-    freq "8"
+    freq 8
+    nom_id "8139"
   ]
   node [
     id 26
-    label "8350"
+    label "Throwing Stick"
     nom_label "Throwing Stick"
-    freq "0"
+    freq 0
+    nom_id "8350"
   ]
   node [
     id 27
-    label "8338"
+    label "Club"
     nom_label "Club"
-    freq "1"
+    freq 1
+    nom_id "8338"
   ]
   node [
     id 28
-    label "7866"
+    label "Ammunition Flask"
     nom_label "Ammunition Flask"
-    freq "0"
+    freq 0
+    nom_id "7866"
   ]
   node [
     id 29
-    label "7870"
+    label "Powder Horn"
     nom_label "Powder Horn"
-    freq "1"
+    freq 1
+    nom_id "7870"
   ]
   node [
     id 30
-    label "8197"
+    label "Halberd"
     nom_label "Halberd"
-    freq "2"
+    freq 2
+    nom_id "8197"
   ]
   node [
     id 31
-    label "8191"
+    label "Arrowhead"
     nom_label "Arrowhead"
-    freq "4"
+    freq 4
+    nom_id "8191"
   ]
   node [
     id 32
-    label "8351"
+    label "Boomerang"
     nom_label "Boomerang"
-    freq "2"
+    freq 2
+    nom_id "8351"
   ]
   node [
     id 33
-    label "8573"
+    label "Laboratory Container"
     nom_label "Laboratory Container"
-    freq "0"
+    freq 0
+    nom_id "8573"
   ]
   node [
     id 34
-    label "8577"
+    label "Beaker"
     nom_label "Beaker"
-    freq "4"
+    freq 4
+    nom_id "8577"
   ]
   edge [
     source 0

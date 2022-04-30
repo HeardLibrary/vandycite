@@ -1,178 +1,207 @@
 graph [
-  directed 1
-  node [
+      directed 1
+      node [
     id 0
-    label "10378"
+    label "Category 06: Tools &#38; Equipment for Communication"
     nom_label "Category 06: Tools &#38; Equipment for Communication"
-    freq "0"
+    freq 0
+    nom_id "10378"
   ]
   node [
     id 1
-    label "11446"
+    label "Written Communication T&#38;E"
     nom_label "Written Communication T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "11446"
   ]
   node [
     id 2
-    label "11153"
+    label "Sound Communication T&#38;E"
     nom_label "Sound Communication T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "11153"
   ]
   node [
     id 3
-    label "10997"
+    label "Printing T&#38;E"
     nom_label "Printing T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "10997"
   ]
   node [
     id 4
-    label "10607"
+    label "Musical T&#38;E"
     nom_label "Musical T&#38;E"
-    freq "0"
+    freq 0
+    nom_id "10607"
   ]
   node [
     id 5
-    label "10655"
+    label "Musical Instruments"
     nom_label "Musical Instruments"
-    freq "1"
+    freq 1
+    nom_id "10655"
   ]
   node [
     id 6
-    label "11040"
+    label "Graphic Equipment"
     nom_label "Graphic Equipment"
-    freq "0"
+    freq 0
+    nom_id "11040"
   ]
   node [
     id 7
-    label "11084"
+    label "Printing Accessories"
     nom_label "Printing Accessories"
-    freq "0"
+    freq 0
+    nom_id "11084"
   ]
   node [
     id 8
-    label "11184"
+    label "Sound Communication Devices"
     nom_label "Sound Communication Devices"
-    freq "0"
+    freq 0
+    nom_id "11184"
   ]
   node [
     id 9
-    label "11557"
+    label "Writing Devices"
     nom_label "Writing Devices"
-    freq "0"
+    freq 0
+    nom_id "11557"
   ]
   node [
     id 10
-    label "11447"
+    label "Writing Accessories"
     nom_label "Writing Accessories"
-    freq "0"
+    freq 0
+    nom_id "11447"
   ]
   node [
     id 11
-    label "10771"
+    label "Stringed Instrument"
     nom_label "Stringed Instrument"
-    freq "0"
+    freq 0
+    nom_id "10771"
   ]
   node [
     id 12
-    label "10822"
+    label "Woodwind Instrument"
     nom_label "Woodwind Instrument"
-    freq "0"
+    freq 0
+    nom_id "10822"
   ]
   node [
     id 13
-    label "10729"
+    label "Percussion Instrument"
     nom_label "Percussion Instrument"
-    freq "0"
+    freq 0
+    nom_id "10729"
   ]
   node [
     id 14
-    label "10809"
+    label "Mandolin"
     nom_label "Mandolin"
-    freq "1"
+    freq 1
+    nom_id "10809"
   ]
   node [
     id 15
-    label "10838"
+    label "Flute"
     nom_label "Flute"
-    freq "1"
+    freq 1
+    nom_id "10838"
   ]
   node [
     id 16
-    label "10740"
+    label "Drum"
     nom_label "Drum"
-    freq "2"
+    freq 2
+    nom_id "10740"
   ]
   node [
     id 17
-    label "11063"
+    label "Printing Surface"
     nom_label "Printing Surface"
-    freq "0"
+    freq 0
+    nom_id "11063"
   ]
   node [
     id 18
-    label "11093"
+    label "Inkstone"
     nom_label "Inkstone"
-    freq "1"
+    freq 1
+    nom_id "11093"
   ]
   node [
     id 19
-    label "11064"
+    label "Printing Block"
     nom_label "Printing Block"
-    freq "2"
+    freq 2
+    nom_id "11064"
   ]
   node [
     id 20
-    label "11213"
+    label "Gong"
     nom_label "Gong"
-    freq "1"
+    freq 1
+    nom_id "11213"
   ]
   node [
     id 21
-    label "11188"
+    label "Sound Signaling Device"
     nom_label "Sound Signaling Device"
-    freq "0"
+    freq 0
+    nom_id "11188"
   ]
   node [
     id 22
-    label "11189"
+    label "Bell"
     nom_label "Bell"
-    freq "4"
+    freq 4
+    nom_id "11189"
   ]
   node [
     id 23
-    label "11209"
+    label "Whistle"
     nom_label "Whistle"
-    freq "4"
+    freq 4
+    nom_id "11209"
   ]
   node [
     id 24
-    label "11591"
+    label "Scribe Set"
     nom_label "Scribe Set"
-    freq "12"
+    freq 12
+    nom_id "11591"
   ]
   node [
     id 25
-    label "11593"
+    label "Marking Stamp"
     nom_label "Marking Stamp"
-    freq "3"
+    freq 3
+    nom_id "11593"
   ]
   node [
     id 26
-    label "11486"
+    label "Writing Equipment Container"
     nom_label "Writing Equipment Container"
-    freq "0"
+    freq 0
+    nom_id "11486"
   ]
   node [
     id 27
-    label "11495"
+    label "Writing Equipment Holder"
     nom_label "Writing Equipment Holder"
-    freq "0"
+    freq 0
+    nom_id "11495"
   ]
   node [
     id 28
-    label "11499"
+    label "Pen Holder"
     nom_label "Pen Holder"
-    freq "1"
+    freq 1
+    nom_id "11499"
   ]
   edge [
     source 0
