@@ -1,0 +1,35 @@
+{
+        "@type": "TableGroup",
+        "@context": "http://www.w3.org/ns/csvw",
+        "tables": [
+            {
+                "url": "test_upload.csv",
+                "tableSchema": {
+                    "columns": [ 
+                        {
+                            "titles": "qid",
+                            "name": "qid",
+                            "datatype": "string",
+                            "suppressOutput": true
+                        },
+                        {
+                            "titles": "instance_of_uuid",
+                            "name": "instance_of_uuid",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+                            "propertyUrl": "http://www.wikidata.org/prop/P31",
+                            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{instance_of_uuid}"
+                        },
+                        {
+                            "titles": "instance_of",
+                            "name": "instance_of",
+                            "datatype": "string",
+                            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{instance_of_uuid}",
+                            "propertyUrl": "http://www.wikidata.org/prop/statement/P31",
+                            "valueUrl": "http://www.wikidata.org/entity/{instance_of}"
+                        }
+                    ]
+                }
+            }
+        ]
+}
