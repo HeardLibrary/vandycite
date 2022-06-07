@@ -1,0 +1,2201 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dwc: <http://rs.tdwg.org/dwc/terms/>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix tdwgutility: <http://rs.tdwg.org/dwc/terms/attributes/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dcmitype: <http://purl.org/dc/dcmitype/>.
+
+<http://rs.tdwg.org/index>
+     dc:publisher "Biodiversity Information Standards (TDWG)"@en;
+     dcterms:publisher <https://www.grid.ac/institutes/grid.480498.9>;
+     dcterms:license <http://creativecommons.org/licenses/by/4.0/>;
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG dataset catalog"@en;
+     dcterms:title "TDWG dataset catalog"@en;
+     rdfs:comment "This dataset contains the data that underlies TDWG standards and standards documents"@en;
+     dcterms:description "This dataset contains the data that underlies TDWG standards and standards documents"@en;
+     a dcat:Catalog.
+
+<http://rs.tdwg.org/index/audubon>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "Audubon Core-defined terms"@en;
+     skos:prefLabel "Audubon Core-defined terms"@en;
+     dcat:distribution _:6bd8b209-dc33-4731-82f6-4032bff8f6d5;
+     dcat:distribution _:fd369744-840e-49ea-a1c9-e571585ab9d6;
+     dcat:distribution _:43222699-89b0-4bd5-bcb5-bfca3bc554a7;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:6bd8b209-dc33-4731-82f6-4032bff8f6d5
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/audubon.rdf>;
+     a dcat:Distribution.
+
+_:fd369744-840e-49ea-a1c9-e571585ab9d6
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/audubon.json>;
+     a dcat:Distribution.
+
+_:43222699-89b0-4bd5-bcb5-bfca3bc554a7
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/audubon.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/audubon>.
+
+<http://rs.tdwg.org/index/audubon-versions>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "Audubon Core-defined term versions"@en;
+     skos:prefLabel "Audubon Core-defined term versions"@en;
+     dcat:distribution _:cd2ba069-0e27-44a2-956a-d28fecd05a64;
+     dcat:distribution _:f161ef59-900d-4a3d-b57b-96ae56d55c5c;
+     dcat:distribution _:f623a7c4-d45b-4a8e-a17d-940714b4b483;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:cd2ba069-0e27-44a2-956a-d28fecd05a64
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/audubon-versions.rdf>;
+     a dcat:Distribution.
+
+_:f161ef59-900d-4a3d-b57b-96ae56d55c5c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/audubon-versions.json>;
+     a dcat:Distribution.
+
+_:f623a7c4-d45b-4a8e-a17d-940714b4b483
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/audubon-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/audubon-versions>.
+
+<http://rs.tdwg.org/index/curatorial>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core curatorial terms (deprecated)"@en;
+     skos:prefLabel "Darwin Core curatorial terms (deprecated)"@en;
+     dcat:distribution _:a170b41f-c85b-406d-b528-0c26f754629a;
+     dcat:distribution _:089f3cd4-0e6a-4562-85ca-07639a6b6421;
+     dcat:distribution _:875849ee-4c12-420d-8ea4-43806b5a05d3;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:a170b41f-c85b-406d-b528-0c26f754629a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/curatorial.rdf>;
+     a dcat:Distribution.
+
+_:089f3cd4-0e6a-4562-85ca-07639a6b6421
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/curatorial.json>;
+     a dcat:Distribution.
+
+_:875849ee-4c12-420d-8ea4-43806b5a05d3
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/curatorial.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/curatorial>.
+
+<http://rs.tdwg.org/index/curatorial-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core curatorial term versions (deprecated)"@en;
+     skos:prefLabel "Darwin Core curatorial term versions (deprecated)"@en;
+     dcat:distribution _:2812ddc2-f98c-4c5b-b626-ca0e01b1d3c4;
+     dcat:distribution _:64892ac7-0fa4-45d9-b142-ff2ecd424c58;
+     dcat:distribution _:25d9aeaf-cdd4-4596-b7d6-fb376589d7ea;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:2812ddc2-f98c-4c5b-b626-ca0e01b1d3c4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/curatorial-versions.rdf>;
+     a dcat:Distribution.
+
+_:64892ac7-0fa4-45d9-b142-ff2ecd424c58
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/curatorial-versions.json>;
+     a dcat:Distribution.
+
+_:25d9aeaf-cdd4-4596-b7d6-fb376589d7ea
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/curatorial-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/curatorial-versions>.
+
+<http://rs.tdwg.org/index/dc-for-ac>
+     dcterms:modified "2021-02-01"^^xsd:date;
+     rdfs:label "Dublin Core legacy terms adopted by Audubon Core"@en;
+     skos:prefLabel "Dublin Core legacy terms adopted by Audubon Core"@en;
+     dcat:distribution _:17875ada-ab2d-4303-a904-94942c35f03d;
+     dcat:distribution _:02a9cff2-f058-42e8-a0c3-67b0ef34f7e9;
+     dcat:distribution _:ff9c23ad-916c-400b-9107-0aa20dd0167c;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:17875ada-ab2d-4303-a904-94942c35f03d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:02a9cff2-f058-42e8-a0c3-67b0ef34f7e9
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-ac.json>;
+     a dcat:Distribution.
+
+_:ff9c23ad-916c-400b-9107-0aa20dd0167c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dc-for-ac>.
+
+<http://rs.tdwg.org/index/dc-for-ac-versions>
+     dcterms:modified "2021-02-01"^^xsd:date;
+     rdfs:label "Dublin Core legacy term verions adopted by Audubon Core"@en;
+     skos:prefLabel "Dublin Core legacy term verions adopted by Audubon Core"@en;
+     dcat:distribution _:fc791952-b2f4-4867-888b-4f5cb18cbc38;
+     dcat:distribution _:9c146f7e-b77c-41bf-822f-49f814dee64c;
+     dcat:distribution _:60df4ded-d8bc-4027-bd91-b38f6814f4ae;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:fc791952-b2f4-4867-888b-4f5cb18cbc38
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:9c146f7e-b77c-41bf-822f-49f814dee64c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:60df4ded-d8bc-4027-bd91-b38f6814f4ae
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dc-for-ac-versions>.
+
+<http://rs.tdwg.org/index/dc-for-dwc>
+     dcterms:modified "2020-10-28"^^xsd:date;
+     rdfs:label "Dublin Core legacy terms adopted by Darwin Core"@en;
+     skos:prefLabel "Dublin Core legacy terms adopted by Darwin Core"@en;
+     dcat:distribution _:87900eae-47be-4f7f-a6f9-727988039edd;
+     dcat:distribution _:064026c5-55ad-454b-bb4b-c3b9b342733d;
+     dcat:distribution _:46c7a4c4-7c50-44a6-9964-c9703fbdc98b;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:87900eae-47be-4f7f-a6f9-727988039edd
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-dwc.rdf>;
+     a dcat:Distribution.
+
+_:064026c5-55ad-454b-bb4b-c3b9b342733d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-dwc.json>;
+     a dcat:Distribution.
+
+_:46c7a4c4-7c50-44a6-9964-c9703fbdc98b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-dwc.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dc-for-dwc>.
+
+<http://rs.tdwg.org/index/dc-for-dwc-versions>
+     dcterms:modified "2020-10-28"^^xsd:date;
+     rdfs:label "Dublin Core legacy term versions adopted by Darwin Core"@en;
+     skos:prefLabel "Dublin Core legacy term versions adopted by Darwin Core"@en;
+     dcat:distribution _:db9c023c-27a0-4bd0-9f06-fdd4b429bb2a;
+     dcat:distribution _:4c799b74-19d6-4e32-906e-b6f1cf356eee;
+     dcat:distribution _:a99fb244-9b87-4c6c-9351-6c50636c6c16;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:db9c023c-27a0-4bd0-9f06-fdd4b429bb2a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-dwc-versions.rdf>;
+     a dcat:Distribution.
+
+_:4c799b74-19d6-4e32-906e-b6f1cf356eee
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-dwc-versions.json>;
+     a dcat:Distribution.
+
+_:a99fb244-9b87-4c6c-9351-6c50636c6c16
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dc-for-dwc-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dc-for-dwc-versions>.
+
+<http://rs.tdwg.org/index/dcterms-for-ac>
+     dcterms:modified "2021-10-05"^^xsd:date;
+     rdfs:label "Dublin Core dcterms terms adopted by Audubon Core"@en;
+     skos:prefLabel "Dublin Core dcterms terms adopted by Audubon Core"@en;
+     dcat:distribution _:5140efd7-7f07-4ded-b676-87f88da73e57;
+     dcat:distribution _:ed517026-3d38-4297-a851-0842e1209cf5;
+     dcat:distribution _:ad844d6c-4e68-490d-8db2-d9520740c220;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:5140efd7-7f07-4ded-b676-87f88da73e57
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:ed517026-3d38-4297-a851-0842e1209cf5
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-ac.json>;
+     a dcat:Distribution.
+
+_:ad844d6c-4e68-490d-8db2-d9520740c220
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dcterms-for-ac>.
+
+<http://rs.tdwg.org/index/dcterms-for-ac-versions>
+     dcterms:modified "2021-10-05"^^xsd:date;
+     rdfs:label "Dublin Core dcterms term verions adopted by Audubon Core"@en;
+     skos:prefLabel "Dublin Core dcterms term verions adopted by Audubon Core"@en;
+     dcat:distribution _:68399327-edc5-4fbd-a816-6bfea106ca69;
+     dcat:distribution _:2d396677-e81c-44d5-9424-f64dd2bd97c3;
+     dcat:distribution _:f4696dd8-3292-4e3c-a81d-ccc9b41797f0;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:68399327-edc5-4fbd-a816-6bfea106ca69
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:2d396677-e81c-44d5-9424-f64dd2bd97c3
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:f4696dd8-3292-4e3c-a81d-ccc9b41797f0
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dcterms-for-ac-versions>.
+
+<http://rs.tdwg.org/index/dcterms-for-dwc>
+     dcterms:modified "2021-07-15"^^xsd:date;
+     rdfs:label "Dublin Core dcterms terms adopted by Darwin Core"@en;
+     skos:prefLabel "Dublin Core dcterms terms adopted by Darwin Core"@en;
+     dcat:distribution _:97fc66eb-242f-4b5a-a6e8-4d051a1a4005;
+     dcat:distribution _:a3befad5-a223-444f-9e63-48a658054f57;
+     dcat:distribution _:e7533f21-550f-4ff8-9057-20f9d8cc43c8;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:97fc66eb-242f-4b5a-a6e8-4d051a1a4005
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-dwc.rdf>;
+     a dcat:Distribution.
+
+_:a3befad5-a223-444f-9e63-48a658054f57
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-dwc.json>;
+     a dcat:Distribution.
+
+_:e7533f21-550f-4ff8-9057-20f9d8cc43c8
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-dwc.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dcterms-for-dwc>.
+
+<http://rs.tdwg.org/index/dcterms-for-dwc-versions>
+     dcterms:modified "2021-07-15"^^xsd:date;
+     rdfs:label "Dublin Core dcterms term versions adopted by Darwin Core"@en;
+     skos:prefLabel "Dublin Core dcterms term versions adopted by Darwin Core"@en;
+     dcat:distribution _:7ed93905-1056-4932-96a2-91f068b4140a;
+     dcat:distribution _:71fc2d20-bd6e-44c1-8dc9-a909ceadc752;
+     dcat:distribution _:0ff7290e-9797-47ca-adc9-7d84c1757732;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:7ed93905-1056-4932-96a2-91f068b4140a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-dwc-versions.rdf>;
+     a dcat:Distribution.
+
+_:71fc2d20-bd6e-44c1-8dc9-a909ceadc752
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-dwc-versions.json>;
+     a dcat:Distribution.
+
+_:0ff7290e-9797-47ca-adc9-7d84c1757732
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dcterms-for-dwc-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dcterms-for-dwc-versions>.
+
+<http://rs.tdwg.org/index/decisions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG Executive Committee decisions"@en;
+     skos:prefLabel "TDWG Executive Committee decisions"@en;
+     dcat:distribution _:27330a64-5f5d-4c28-b9c2-0ca9e105c066;
+     dcat:distribution _:446ec118-2f94-43d5-b664-0c0a1ae95e87;
+     dcat:distribution _:e161377a-0c2f-42db-99aa-cfa622f5d6a3;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:27330a64-5f5d-4c28-b9c2-0ca9e105c066
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/decisions.rdf>;
+     a dcat:Distribution.
+
+_:446ec118-2f94-43d5-b664-0c0a1ae95e87
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/decisions.json>;
+     a dcat:Distribution.
+
+_:e161377a-0c2f-42db-99aa-cfa622f5d6a3
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/decisions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/decisions>.
+
+<http://rs.tdwg.org/index/dwc-for-ac>
+     dcterms:modified "2020-10-28"^^xsd:date;
+     rdfs:label "Darwin Core terms adpoted by Audubon Core"@en;
+     skos:prefLabel "Darwin Core terms adpoted by Audubon Core"@en;
+     dcat:distribution _:7fc368a5-b3eb-4c40-b3e0-2f6ec8fdb868;
+     dcat:distribution _:944346dd-f90b-43a3-af97-cab4326d0fed;
+     dcat:distribution _:9141f4bf-f4cb-44a2-8049-5aa16dd8d3b1;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:7fc368a5-b3eb-4c40-b3e0-2f6ec8fdb868
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:944346dd-f90b-43a3-af97-cab4326d0fed
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-for-ac.json>;
+     a dcat:Distribution.
+
+_:9141f4bf-f4cb-44a2-8049-5aa16dd8d3b1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwc-for-ac>.
+
+<http://rs.tdwg.org/index/dwc-for-ac-versions>
+     dcterms:modified "2020-10-28"^^xsd:date;
+     rdfs:label "Darwin Core term versions adpoted by Audubon Core"@en;
+     skos:prefLabel "Darwin Core term versions adpoted by Audubon Core"@en;
+     dcat:distribution _:24403f25-a994-4cf6-96bf-d2743660b767;
+     dcat:distribution _:4e8bf332-a064-4c8c-b81c-4bf36904d631;
+     dcat:distribution _:894c6690-3784-4997-bdc5-71f1a98c382d;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:24403f25-a994-4cf6-96bf-d2743660b767
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:4e8bf332-a064-4c8c-b81c-4bf36904d631
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:894c6690-3784-4997-bdc5-71f1a98c382d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwc-for-ac-versions>.
+
+<http://rs.tdwg.org/index/dwc-obsolete>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Deprecated Darwin Core terms"@en;
+     skos:prefLabel "Deprecated Darwin Core terms"@en;
+     dcat:distribution _:2ff7a007-9cd4-4b4b-87cc-d85aac8ebd1c;
+     dcat:distribution _:30d572dd-a62a-4a8f-9c85-df0d6173ea8a;
+     dcat:distribution _:1aa20d65-a990-4a25-a7fa-6b4939c8e0f4;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:2ff7a007-9cd4-4b4b-87cc-d85aac8ebd1c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-obsolete.rdf>;
+     a dcat:Distribution.
+
+_:30d572dd-a62a-4a8f-9c85-df0d6173ea8a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-obsolete.json>;
+     a dcat:Distribution.
+
+_:1aa20d65-a990-4a25-a7fa-6b4939c8e0f4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-obsolete.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwc-obsolete>.
+
+<http://rs.tdwg.org/index/dwc-obsolete-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Deprecated Darwin Core term versions"@en;
+     skos:prefLabel "Deprecated Darwin Core term versions"@en;
+     dcat:distribution _:67744821-5b62-4650-a569-ee6335c8c4a4;
+     dcat:distribution _:cf6b5961-d264-41ad-8297-d6121c16b80d;
+     dcat:distribution _:79f25a0c-4665-4b74-a300-6d7f2df5e4c2;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:67744821-5b62-4650-a569-ee6335c8c4a4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-obsolete-versions.rdf>;
+     a dcat:Distribution.
+
+_:cf6b5961-d264-41ad-8297-d6121c16b80d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-obsolete-versions.json>;
+     a dcat:Distribution.
+
+_:79f25a0c-4665-4b74-a300-6d7f2df5e4c2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-obsolete-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwc-obsolete-versions>.
+
+<http://rs.tdwg.org/index/dwcore>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core core terms (deprecated)"@en;
+     skos:prefLabel "Darwin Core core terms (deprecated)"@en;
+     dcat:distribution _:0c8788fd-55e8-4138-a31d-50056794d37e;
+     dcat:distribution _:45f42a74-eb5e-4692-80eb-d19e10029af4;
+     dcat:distribution _:7b449f10-0f1f-47e6-8192-0c7604a2ddeb;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:0c8788fd-55e8-4138-a31d-50056794d37e
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwcore.rdf>;
+     a dcat:Distribution.
+
+_:45f42a74-eb5e-4692-80eb-d19e10029af4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwcore.json>;
+     a dcat:Distribution.
+
+_:7b449f10-0f1f-47e6-8192-0c7604a2ddeb
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwcore.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwcore>.
+
+<http://rs.tdwg.org/index/dwcore-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core core term versions (deprecated)"@en;
+     skos:prefLabel "Darwin Core core term versions (deprecated)"@en;
+     dcat:distribution _:4191db85-bab3-46f8-a3a2-15ebe9fd6f15;
+     dcat:distribution _:a8732a44-cad7-42c3-8f9e-4b1962e3c91b;
+     dcat:distribution _:07da9913-58ed-4846-a636-c255e04896b4;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:4191db85-bab3-46f8-a3a2-15ebe9fd6f15
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwcore-versions.rdf>;
+     a dcat:Distribution.
+
+_:a8732a44-cad7-42c3-8f9e-4b1962e3c91b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwcore-versions.json>;
+     a dcat:Distribution.
+
+_:07da9913-58ed-4846-a636-c255e04896b4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwcore-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwcore-versions>.
+
+<http://rs.tdwg.org/index/dwctype>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core type vocabulary terms (deprecated)"@en;
+     skos:prefLabel "Darwin Core type vocabulary terms (deprecated)"@en;
+     dcat:distribution _:f125e0ad-e788-4787-b962-1da97731f293;
+     dcat:distribution _:d9fe2683-7aea-41d1-8e1d-7bc60ddcf573;
+     dcat:distribution _:f55146b2-f6f2-44da-82a3-2189d05b7bfd;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:f125e0ad-e788-4787-b962-1da97731f293
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwctype.rdf>;
+     a dcat:Distribution.
+
+_:d9fe2683-7aea-41d1-8e1d-7bc60ddcf573
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwctype.json>;
+     a dcat:Distribution.
+
+_:f55146b2-f6f2-44da-82a3-2189d05b7bfd
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwctype.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwctype>.
+
+<http://rs.tdwg.org/index/dwctype-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core type vocabulary term versions (deprecated)"@en;
+     skos:prefLabel "Darwin Core type vocabulary term versions (deprecated)"@en;
+     dcat:distribution _:952d76b2-9649-4b66-a116-d619f5cf56b6;
+     dcat:distribution _:d3aafd7b-acbb-447d-af34-baf10477236e;
+     dcat:distribution _:81faca22-2a4c-4c09-8261-34f87e205e6d;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:952d76b2-9649-4b66-a116-d619f5cf56b6
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwctype-versions.rdf>;
+     a dcat:Distribution.
+
+_:d3aafd7b-acbb-447d-af34-baf10477236e
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwctype-versions.json>;
+     a dcat:Distribution.
+
+_:81faca22-2a4c-4c09-8261-34f87e205e6d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwctype-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwctype-versions>.
+
+<http://rs.tdwg.org/index/exif-for-ac>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "EXIF terms adopted by Audubon Core"@en;
+     skos:prefLabel "EXIF terms adopted by Audubon Core"@en;
+     dcat:distribution _:b12b55c3-f0f0-401c-a39d-1e2384e51c63;
+     dcat:distribution _:2a2a9869-94ea-42f5-b4e6-db2ca8e81907;
+     dcat:distribution _:648ee943-7022-4265-9c05-14b22f934e4f;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:b12b55c3-f0f0-401c-a39d-1e2384e51c63
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/exif-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:2a2a9869-94ea-42f5-b4e6-db2ca8e81907
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/exif-for-ac.json>;
+     a dcat:Distribution.
+
+_:648ee943-7022-4265-9c05-14b22f934e4f
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/exif-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/exif-for-ac>.
+
+<http://rs.tdwg.org/index/exif-for-ac-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "EXIF term versions adopted by Audubon Core"@en;
+     skos:prefLabel "EXIF term versions adopted by Audubon Core"@en;
+     dcat:distribution _:7c9e19a7-1aff-4682-b639-1804a18ee5a1;
+     dcat:distribution _:d47fe856-5b1d-4cbc-8d94-81416bde6db4;
+     dcat:distribution _:3bff40dc-41c5-4f0c-ae60-9b7bce060268;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:7c9e19a7-1aff-4682-b639-1804a18ee5a1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/exif-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:d47fe856-5b1d-4cbc-8d94-81416bde6db4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/exif-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:3bff40dc-41c5-4f0c-ae60-9b7bce060268
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/exif-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/exif-for-ac-versions>.
+
+<http://rs.tdwg.org/index/geospatial>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core geospatial terms (deprecated)"@en;
+     skos:prefLabel "Darwin Core geospatial terms (deprecated)"@en;
+     dcat:distribution _:c43bafa8-1d19-4b55-b5fd-585421583ddc;
+     dcat:distribution _:31ffdd83-a69c-42ec-a1ee-af7a2619fbf7;
+     dcat:distribution _:d2adf293-dbf7-4766-a1f5-f95ed6ce3ec2;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:c43bafa8-1d19-4b55-b5fd-585421583ddc
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/geospatial.rdf>;
+     a dcat:Distribution.
+
+_:31ffdd83-a69c-42ec-a1ee-af7a2619fbf7
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/geospatial.json>;
+     a dcat:Distribution.
+
+_:d2adf293-dbf7-4766-a1f5-f95ed6ce3ec2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/geospatial.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/geospatial>.
+
+<http://rs.tdwg.org/index/geospatial-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core geospatial term versions (deprecated)"@en;
+     skos:prefLabel "Darwin Core geospatial term versions (deprecated)"@en;
+     dcat:distribution _:99fddf0d-b232-48b8-ba22-559316100824;
+     dcat:distribution _:12527afe-8dfd-42a0-90ca-fd1f7af83d23;
+     dcat:distribution _:75527998-35e9-4a05-a836-ef668aefd324;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:99fddf0d-b232-48b8-ba22-559316100824
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/geospatial-versions.rdf>;
+     a dcat:Distribution.
+
+_:12527afe-8dfd-42a0-90ca-fd1f7af83d23
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/geospatial-versions.json>;
+     a dcat:Distribution.
+
+_:75527998-35e9-4a05-a836-ef668aefd324
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/geospatial-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/geospatial-versions>.
+
+<http://rs.tdwg.org/index/Iptc4xmpExt-for-ac>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "IPTC terms adpoted by Audubon Core"@en;
+     skos:prefLabel "IPTC terms adpoted by Audubon Core"@en;
+     dcat:distribution _:faf35f09-64e2-408b-a99f-45e48093da6a;
+     dcat:distribution _:82c78830-54e8-4981-a33f-05a45eba9c45;
+     dcat:distribution _:8870e8b1-ce91-4041-a528-42750b389304;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:faf35f09-64e2-408b-a99f-45e48093da6a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/Iptc4xmpExt-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:82c78830-54e8-4981-a33f-05a45eba9c45
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/Iptc4xmpExt-for-ac.json>;
+     a dcat:Distribution.
+
+_:8870e8b1-ce91-4041-a528-42750b389304
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/Iptc4xmpExt-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/Iptc4xmpExt-for-ac>.
+
+<http://rs.tdwg.org/index/Iptc4xmpExt-for-ac-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "IPTC term versions adpoted by Audubon Core"@en;
+     skos:prefLabel "IPTC term versions adpoted by Audubon Core"@en;
+     dcat:distribution _:a5fa8ebb-abad-4812-acb4-2c1b430254f8;
+     dcat:distribution _:e8d8a4d6-8026-4934-8ace-24c23a372766;
+     dcat:distribution _:57a109e5-729e-4bab-b18e-08d5c7d9596f;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:a5fa8ebb-abad-4812-acb4-2c1b430254f8
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/Iptc4xmpExt-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:e8d8a4d6-8026-4934-8ace-24c23a372766
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/Iptc4xmpExt-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:57a109e5-729e-4bab-b18e-08d5c7d9596f
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/Iptc4xmpExt-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/Iptc4xmpExt-for-ac-versions>.
+
+<http://rs.tdwg.org/index/iri>
+     dcterms:modified "2021-07-15"^^xsd:date;
+     rdfs:label "Darwin Core IRI-object terms"@en;
+     skos:prefLabel "Darwin Core IRI-object terms"@en;
+     dcat:distribution _:5fbde90b-a1b4-46c3-ac87-39c85b511190;
+     dcat:distribution _:bee126fc-a63e-4c80-b677-41f5e0e570ef;
+     dcat:distribution _:82917c08-1eb0-4460-9b67-b902e81e9317;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:5fbde90b-a1b4-46c3-ac87-39c85b511190
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/iri.rdf>;
+     a dcat:Distribution.
+
+_:bee126fc-a63e-4c80-b677-41f5e0e570ef
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/iri.json>;
+     a dcat:Distribution.
+
+_:82917c08-1eb0-4460-9b67-b902e81e9317
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/iri.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/iri>.
+
+<http://rs.tdwg.org/index/iri-versions>
+     dcterms:modified "2021-07-15"^^xsd:date;
+     rdfs:label "Darwin Core IRI-object term versions"@en;
+     skos:prefLabel "Darwin Core IRI-object term versions"@en;
+     dcat:distribution _:507b912e-14b5-426a-a228-5b5db6abbbe0;
+     dcat:distribution _:878dcfef-f32b-4b2e-acb8-f5ce96c4e489;
+     dcat:distribution _:5bf82255-c9ed-4044-8a45-dc0fecc72621;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:507b912e-14b5-426a-a228-5b5db6abbbe0
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/iri-versions.rdf>;
+     a dcat:Distribution.
+
+_:878dcfef-f32b-4b2e-acb8-f5ce96c4e489
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/iri-versions.json>;
+     a dcat:Distribution.
+
+_:5bf82255-c9ed-4044-8a45-dc0fecc72621
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/iri-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/iri-versions>.
+
+<http://rs.tdwg.org/index/photoshop-for-ac>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Photoshop terms adopted by Audubon Core"@en;
+     skos:prefLabel "Photoshop terms adopted by Audubon Core"@en;
+     dcat:distribution _:78a5357d-4e24-459a-860d-2fbf0cd1695d;
+     dcat:distribution _:84c95187-f339-43c1-948d-bde91f135121;
+     dcat:distribution _:41028c1b-3ce5-4b04-8bec-decc6c81eedf;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:78a5357d-4e24-459a-860d-2fbf0cd1695d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/photoshop-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:84c95187-f339-43c1-948d-bde91f135121
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/photoshop-for-ac.json>;
+     a dcat:Distribution.
+
+_:41028c1b-3ce5-4b04-8bec-decc6c81eedf
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/photoshop-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/photoshop-for-ac>.
+
+<http://rs.tdwg.org/index/photoshop-for-ac-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Photoshop term versions adopted by Audubon Core"@en;
+     skos:prefLabel "Photoshop term versions adopted by Audubon Core"@en;
+     dcat:distribution _:859479b1-5929-43c6-9ea4-65ad300f82be;
+     dcat:distribution _:49dd70f2-76e2-4c76-ab17-0a42d48b6ea1;
+     dcat:distribution _:e01f2072-f483-4f19-a270-2c6fe04aabdb;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:859479b1-5929-43c6-9ea4-65ad300f82be
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/photoshop-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:49dd70f2-76e2-4c76-ab17-0a42d48b6ea1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/photoshop-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:e01f2072-f483-4f19-a270-2c6fe04aabdb
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/photoshop-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/photoshop-for-ac-versions>.
+
+<http://rs.tdwg.org/index/terms>
+     dcterms:modified "2021-07-15"^^xsd:date;
+     rdfs:label "Darwin Core-defined general terms"@en;
+     skos:prefLabel "Darwin Core-defined general terms"@en;
+     dcat:distribution _:9707ba2f-9749-44f0-9174-f297da2271b3;
+     dcat:distribution _:55953d80-4a89-4c69-8582-7719f5884070;
+     dcat:distribution _:0914c58e-64f1-4448-a89d-98f9377eba09;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:9707ba2f-9749-44f0-9174-f297da2271b3
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/terms.rdf>;
+     a dcat:Distribution.
+
+_:55953d80-4a89-4c69-8582-7719f5884070
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/terms.json>;
+     a dcat:Distribution.
+
+_:0914c58e-64f1-4448-a89d-98f9377eba09
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/terms.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/terms>.
+
+<http://rs.tdwg.org/index/terms-versions>
+     dcterms:modified "2021-07-15"^^xsd:date;
+     rdfs:label "Darwin Core-defined general term versions"@en;
+     skos:prefLabel "Darwin Core-defined general term versions"@en;
+     dcat:distribution _:7e06e395-3428-42c0-9731-8b3b186a2cf4;
+     dcat:distribution _:7d1f4084-4d6a-4731-b246-aa7615e0c16d;
+     dcat:distribution _:003c658c-4ad6-4e90-85ce-021fb25f23a2;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:7e06e395-3428-42c0-9731-8b3b186a2cf4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/terms-versions.rdf>;
+     a dcat:Distribution.
+
+_:7d1f4084-4d6a-4731-b246-aa7615e0c16d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/terms-versions.json>;
+     a dcat:Distribution.
+
+_:003c658c-4ad6-4e90-85ce-021fb25f23a2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/terms-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/terms-versions>.
+
+<http://rs.tdwg.org/index/utility>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG utility terms"@en;
+     skos:prefLabel "TDWG utility terms"@en;
+     dcat:distribution _:a949b30c-32cb-4f09-9ccc-73cd127d4b43;
+     dcat:distribution _:37b84ae0-415a-42b4-9bd6-3aaccc3f0cc1;
+     dcat:distribution _:32939b20-3c0a-4f37-961d-9fe431d1a056;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:a949b30c-32cb-4f09-9ccc-73cd127d4b43
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/utility.rdf>;
+     a dcat:Distribution.
+
+_:37b84ae0-415a-42b4-9bd6-3aaccc3f0cc1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/utility.json>;
+     a dcat:Distribution.
+
+_:32939b20-3c0a-4f37-961d-9fe431d1a056
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/utility.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/utility>.
+
+<http://rs.tdwg.org/index/utility-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG utility term versions"@en;
+     skos:prefLabel "TDWG utility term versions"@en;
+     dcat:distribution _:9186526b-6c92-4043-aef3-9b1cb271523d;
+     dcat:distribution _:5238f1ed-0d38-4b45-b395-1666a1fad047;
+     dcat:distribution _:1939d908-9002-4b4c-8d1c-20af02b66981;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:9186526b-6c92-4043-aef3-9b1cb271523d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/utility-versions.rdf>;
+     a dcat:Distribution.
+
+_:5238f1ed-0d38-4b45-b395-1666a1fad047
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/utility-versions.json>;
+     a dcat:Distribution.
+
+_:1939d908-9002-4b4c-8d1c-20af02b66981
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/utility-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/utility-versions>.
+
+<http://rs.tdwg.org/index/xmp-for-ac>
+     dcterms:modified "2021-10-05"^^xsd:date;
+     rdfs:label "XMP terms adopted by Audubon Core"@en;
+     skos:prefLabel "XMP terms adopted by Audubon Core"@en;
+     dcat:distribution _:cfd79801-d66b-4ccc-ba05-5098bcdd1abe;
+     dcat:distribution _:37496ad5-aa2b-4077-8029-30c3ec4467cd;
+     dcat:distribution _:16adcf6b-d19e-42eb-a051-65ba7c2bdad1;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:cfd79801-d66b-4ccc-ba05-5098bcdd1abe
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmp-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:37496ad5-aa2b-4077-8029-30c3ec4467cd
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmp-for-ac.json>;
+     a dcat:Distribution.
+
+_:16adcf6b-d19e-42eb-a051-65ba7c2bdad1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmp-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/xmp-for-ac>.
+
+<http://rs.tdwg.org/index/xmp-for-ac-versions>
+     dcterms:modified "2021-10-05"^^xsd:date;
+     rdfs:label "XMP term versions adopted by Audubon Core"@en;
+     skos:prefLabel "XMP term versions adopted by Audubon Core"@en;
+     dcat:distribution _:37926fd4-0163-4422-ae74-325700b72301;
+     dcat:distribution _:fe5639c6-a240-4139-8a5d-734bf2781e5b;
+     dcat:distribution _:4c4e5bdf-2fa4-407c-87e4-ab2bbc80098d;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:37926fd4-0163-4422-ae74-325700b72301
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmp-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:fe5639c6-a240-4139-8a5d-734bf2781e5b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmp-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:4c4e5bdf-2fa4-407c-87e4-ab2bbc80098d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmp-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/xmp-for-ac-versions>.
+
+<http://rs.tdwg.org/index/xmpRights-for-ac>
+     dcterms:modified "2021-10-05"^^xsd:date;
+     rdfs:label "XMP Rights terms adopted by Audubon Core"@en;
+     skos:prefLabel "XMP Rights terms adopted by Audubon Core"@en;
+     dcat:distribution _:cc647d31-fcf9-4b6b-b2af-0fd4708283cb;
+     dcat:distribution _:c14591b9-5d4d-4de4-9cf3-a05b047fd072;
+     dcat:distribution _:2e59c89b-82f1-4240-825f-816091235a64;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:cc647d31-fcf9-4b6b-b2af-0fd4708283cb
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmpRights-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:c14591b9-5d4d-4de4-9cf3-a05b047fd072
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmpRights-for-ac.json>;
+     a dcat:Distribution.
+
+_:2e59c89b-82f1-4240-825f-816091235a64
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmpRights-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/xmpRights-for-ac>.
+
+<http://rs.tdwg.org/index/xmpRights-for-ac-versions>
+     dcterms:modified "2021-10-05"^^xsd:date;
+     rdfs:label "XMP Rights term versions adopted by Audubon Core"@en;
+     skos:prefLabel "XMP Rights term versions adopted by Audubon Core"@en;
+     dcat:distribution _:124e2f66-44c5-4b31-8d20-d2325cf7cb1b;
+     dcat:distribution _:141701e7-6705-4770-828b-7730e88463c0;
+     dcat:distribution _:9e3869ea-840d-459b-9f38-d079f5c7a562;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:124e2f66-44c5-4b31-8d20-d2325cf7cb1b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmpRights-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:141701e7-6705-4770-828b-7730e88463c0
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmpRights-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:9e3869ea-840d-459b-9f38-d079f5c7a562
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/xmpRights-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/xmpRights-for-ac-versions>.
+
+<http://rs.tdwg.org/index/docs>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG standards documents"@en;
+     skos:prefLabel "TDWG standards documents"@en;
+     dcat:distribution _:d909d27c-07a6-4bb0-9236-22f506b21763;
+     dcat:distribution _:7a5cff8a-b573-4705-b0f0-e5bf2fd8a804;
+     dcat:distribution _:df403932-c5db-4ef8-a2d6-c098db528cb3;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:d909d27c-07a6-4bb0-9236-22f506b21763
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs.rdf>;
+     a dcat:Distribution.
+
+_:7a5cff8a-b573-4705-b0f0-e5bf2fd8a804
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs.json>;
+     a dcat:Distribution.
+
+_:df403932-c5db-4ef8-a2d6-c098db528cb3
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/docs>.
+
+<http://rs.tdwg.org/index/docs-roles>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG standards documents author roles"@en;
+     skos:prefLabel "TDWG standards documents author roles"@en;
+     dcat:distribution _:c904a445-1393-41ad-a574-4dbb127ac515;
+     dcat:distribution _:acad96ca-9b17-4d04-acc5-4f01d0e9009d;
+     dcat:distribution _:506057ae-e8e8-49b7-8d9f-e7a52ce68eb1;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:c904a445-1393-41ad-a574-4dbb127ac515
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs-roles.rdf>;
+     a dcat:Distribution.
+
+_:acad96ca-9b17-4d04-acc5-4f01d0e9009d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs-roles.json>;
+     a dcat:Distribution.
+
+_:506057ae-e8e8-49b7-8d9f-e7a52ce68eb1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs-roles.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/docs-roles>.
+
+<http://rs.tdwg.org/index/docs-versions>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG standards document versions"@en;
+     skos:prefLabel "TDWG standards document versions"@en;
+     dcat:distribution _:8c19ed71-be3c-406c-8655-31963194e243;
+     dcat:distribution _:632020da-3ea6-434a-9a01-083ea2eba7b2;
+     dcat:distribution _:27092e80-9d4e-4c43-8049-6d82059ca518;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:8c19ed71-be3c-406c-8655-31963194e243
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs-versions.rdf>;
+     a dcat:Distribution.
+
+_:632020da-3ea6-434a-9a01-083ea2eba7b2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs-versions.json>;
+     a dcat:Distribution.
+
+_:27092e80-9d4e-4c43-8049-6d82059ca518
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/docs-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/docs-versions>.
+
+<http://rs.tdwg.org/index/dwc-translations>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "Darwin Core translations"@en;
+     skos:prefLabel "Darwin Core translations"@en;
+     dcat:distribution _:6870bfa4-b08c-4d6a-aeed-35d553f7e01d;
+     dcat:distribution _:05300878-7bc0-482b-b565-b9c289ee29b4;
+     dcat:distribution _:ede7c6ec-37c3-4c85-8f14-10e378a262ed;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:6870bfa4-b08c-4d6a-aeed-35d553f7e01d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-translations.rdf>;
+     a dcat:Distribution.
+
+_:05300878-7bc0-482b-b565-b9c289ee29b4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-translations.json>;
+     a dcat:Distribution.
+
+_:ede7c6ec-37c3-4c85-8f14-10e378a262ed
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/dwc-translations.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/dwc-translations>.
+
+<http://rs.tdwg.org/index/standards>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "TDWG standards"@en;
+     skos:prefLabel "TDWG standards"@en;
+     dcat:distribution _:8b4b27e4-8dca-4c9c-866c-2d4e10025d13;
+     dcat:distribution _:62e090fc-9efb-4a50-a844-a2e8143f6b19;
+     dcat:distribution _:68b8bedc-6408-497f-a860-5ccb40bacef4;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:8b4b27e4-8dca-4c9c-866c-2d4e10025d13
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/standards.rdf>;
+     a dcat:Distribution.
+
+_:62e090fc-9efb-4a50-a844-a2e8143f6b19
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/standards.json>;
+     a dcat:Distribution.
+
+_:68b8bedc-6408-497f-a860-5ccb40bacef4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/standards.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/standards>.
+
+<http://rs.tdwg.org/index/standards-versions>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "TDWG standard versions"@en;
+     skos:prefLabel "TDWG standard versions"@en;
+     dcat:distribution _:36497e2f-aada-4c58-aea6-10dd313e5f20;
+     dcat:distribution _:572c128e-433e-4633-a7b5-f3ca59200f6f;
+     dcat:distribution _:d0fa64f3-7c93-43b1-a657-64713dd2b299;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:36497e2f-aada-4c58-aea6-10dd313e5f20
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/standards-versions.rdf>;
+     a dcat:Distribution.
+
+_:572c128e-433e-4633-a7b5-f3ca59200f6f
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/standards-versions.json>;
+     a dcat:Distribution.
+
+_:d0fa64f3-7c93-43b1-a657-64713dd2b299
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/standards-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/standards-versions>.
+
+<http://rs.tdwg.org/index/term-lists>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "TDWG vocabulary term lists"@en;
+     skos:prefLabel "TDWG vocabulary term lists"@en;
+     dcat:distribution _:8b9b1921-7176-4b60-87e3-d06c9f10193e;
+     dcat:distribution _:7e184d42-774b-474d-9180-6a1655f8340a;
+     dcat:distribution _:254b63ac-5de4-489e-8097-5357f338e9e1;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:8b9b1921-7176-4b60-87e3-d06c9f10193e
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/term-lists.rdf>;
+     a dcat:Distribution.
+
+_:7e184d42-774b-474d-9180-6a1655f8340a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/term-lists.json>;
+     a dcat:Distribution.
+
+_:254b63ac-5de4-489e-8097-5357f338e9e1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/term-lists.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/term-lists>.
+
+<http://rs.tdwg.org/index/term-lists-versions>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "TDWG vocabulary term list versions"@en;
+     skos:prefLabel "TDWG vocabulary term list versions"@en;
+     dcat:distribution _:444a4a30-d226-4407-a8f0-fde9ea5ae9d0;
+     dcat:distribution _:9b6a4700-f8f9-40e9-b9a8-ca6d3862eacc;
+     dcat:distribution _:da99e458-af45-456d-8a07-4cb878d2469c;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:444a4a30-d226-4407-a8f0-fde9ea5ae9d0
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/term-lists-versions.rdf>;
+     a dcat:Distribution.
+
+_:9b6a4700-f8f9-40e9-b9a8-ca6d3862eacc
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/term-lists-versions.json>;
+     a dcat:Distribution.
+
+_:da99e458-af45-456d-8a07-4cb878d2469c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/term-lists-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/term-lists-versions>.
+
+<http://rs.tdwg.org/index/vocabularies>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "TDWG vocabularies"@en;
+     skos:prefLabel "TDWG vocabularies"@en;
+     dcat:distribution _:83899579-691c-4fa8-89cc-6b0ff372950e;
+     dcat:distribution _:9e5c098b-5847-4fd9-9ff7-cf9c743e4a4f;
+     dcat:distribution _:f3ccd939-839f-4f2b-9947-d1e26d3f6b26;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:83899579-691c-4fa8-89cc-6b0ff372950e
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/vocabularies.rdf>;
+     a dcat:Distribution.
+
+_:9e5c098b-5847-4fd9-9ff7-cf9c743e4a4f
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/vocabularies.json>;
+     a dcat:Distribution.
+
+_:f3ccd939-839f-4f2b-9947-d1e26d3f6b26
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/vocabularies.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/vocabularies>.
+
+<http://rs.tdwg.org/index/vocabularies-versions>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "TDWG vocabulary versions"@en;
+     skos:prefLabel "TDWG vocabulary versions"@en;
+     dcat:distribution _:b3ab71a0-0c4b-4480-950c-ebe3348feab2;
+     dcat:distribution _:f9ed4a8f-3dc2-4e3d-9822-20243de893b2;
+     dcat:distribution _:00e0826f-d7d2-474e-a470-5e39ef51f74f;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:b3ab71a0-0c4b-4480-950c-ebe3348feab2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/vocabularies-versions.rdf>;
+     a dcat:Distribution.
+
+_:f9ed4a8f-3dc2-4e3d-9822-20243de893b2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/vocabularies-versions.json>;
+     a dcat:Distribution.
+
+_:00e0826f-d7d2-474e-a470-5e39ef51f74f
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/vocabularies-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/vocabularies-versions>.
+
+<http://rs.tdwg.org/index/index>
+     dcterms:modified "2018-10-09"^^xsd:date;
+     rdfs:label "TDWG metadata database index"@en;
+     skos:prefLabel "TDWG metadata database index"@en;
+     dcat:distribution _:417acfc7-784a-47f7-96ea-bd028cc02997;
+     dcat:distribution _:de50a0de-8646-4735-ae45-43e95a6b0037;
+     dcat:distribution _:54c9e989-f61b-4505-b39e-484baa113f05;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:417acfc7-784a-47f7-96ea-bd028cc02997
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/index.rdf>;
+     a dcat:Distribution.
+
+_:de50a0de-8646-4735-ae45-43e95a6b0037
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/index.json>;
+     a dcat:Distribution.
+
+_:54c9e989-f61b-4505-b39e-484baa113f05
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/index.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/index>.
+
+<http://rs.tdwg.org/index/chrono-zooarchnet>
+     dcterms:modified "2020-09-14"^^xsd:date;
+     rdfs:label "ZooArchNet Chronometric Age Vocabulary"@en;
+     skos:prefLabel "ZooArchNet Chronometric Age Vocabulary"@en;
+     dcat:distribution _:e4e1f908-e8af-48f7-a079-614dbbe30591;
+     dcat:distribution _:519b047f-5042-4ffb-8c67-23db715414cb;
+     dcat:distribution _:9399a118-95e0-4295-b313-36e5ee1df4eb;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:e4e1f908-e8af-48f7-a079-614dbbe30591
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chrono-zooarchnet.rdf>;
+     a dcat:Distribution.
+
+_:519b047f-5042-4ffb-8c67-23db715414cb
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chrono-zooarchnet.json>;
+     a dcat:Distribution.
+
+_:9399a118-95e0-4295-b313-36e5ee1df4eb
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chrono-zooarchnet.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/chrono-zooarchnet>.
+
+<http://rs.tdwg.org/index/chrono-zooarchnet-versions>
+     dcterms:modified "2020-09-14"^^xsd:date;
+     rdfs:label "ZooArchNet Chronometric Age Vocabulary versions"@en;
+     skos:prefLabel "ZooArchNet Chronometric Age Vocabulary versions"@en;
+     dcat:distribution _:484e0c43-694b-4179-9802-02e0978d59f6;
+     dcat:distribution _:fd5044f6-3259-4a6d-a266-9f837cb252c0;
+     dcat:distribution _:b841870f-7030-4bfa-89e8-9320d32678a2;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:484e0c43-694b-4179-9802-02e0978d59f6
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chrono-zooarchnet-versions.rdf>;
+     a dcat:Distribution.
+
+_:fd5044f6-3259-4a6d-a266-9f837cb252c0
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chrono-zooarchnet-versions.json>;
+     a dcat:Distribution.
+
+_:b841870f-7030-4bfa-89e8-9320d32678a2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chrono-zooarchnet-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/chrono-zooarchnet-versions>.
+
+<http://rs.tdwg.org/index/establishmentMeans>
+     dcterms:modified "2021-09-01"^^xsd:date;
+     rdfs:label "Darwin Core controlled vocabulary for establishmentMeans"@en;
+     skos:prefLabel "Darwin Core controlled vocabulary for establishmentMeans"@en;
+     dcat:distribution _:1c04f7c5-f588-47be-bea1-d7f66c4f7e23;
+     dcat:distribution _:a7b2167b-68e7-4850-9e84-d4e359b038cc;
+     dcat:distribution _:a29ee60d-a759-4ef6-abb9-ba73cf661f1c;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:1c04f7c5-f588-47be-bea1-d7f66c4f7e23
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/establishmentMeans.rdf>;
+     a dcat:Distribution.
+
+_:a7b2167b-68e7-4850-9e84-d4e359b038cc
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/establishmentMeans.json>;
+     a dcat:Distribution.
+
+_:a29ee60d-a759-4ef6-abb9-ba73cf661f1c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/establishmentMeans.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/establishmentMeans>.
+
+<http://rs.tdwg.org/index/establishmentMeans-versions>
+     dcterms:modified "2021-09-01"^^xsd:date;
+     rdfs:label "Darwin Core controlled vocabulary for establishmentMeans versions"@en;
+     skos:prefLabel "Darwin Core controlled vocabulary for establishmentMeans versions"@en;
+     dcat:distribution _:7deb6491-5891-4507-a372-c84a972fb94b;
+     dcat:distribution _:edccf612-91f0-4136-b4c8-ac946bf8b166;
+     dcat:distribution _:bf7d6481-3865-4880-a13e-6cd03d6c2fba;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:7deb6491-5891-4507-a372-c84a972fb94b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/establishmentMeans-versions.rdf>;
+     a dcat:Distribution.
+
+_:edccf612-91f0-4136-b4c8-ac946bf8b166
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/establishmentMeans-versions.json>;
+     a dcat:Distribution.
+
+_:bf7d6481-3865-4880-a13e-6cd03d6c2fba
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/establishmentMeans-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/establishmentMeans-versions>.
+
+<http://rs.tdwg.org/index/degreeOfEstablishment>
+     dcterms:modified "2021-09-01"^^xsd:date;
+     rdfs:label "Controlled values list for the Darwin Core term degreeOfEstablishment"@en;
+     skos:prefLabel "Controlled values list for the Darwin Core term degreeOfEstablishment"@en;
+     dcat:distribution _:d3f3a057-6cac-4f21-bb57-6b01b99e8584;
+     dcat:distribution _:f91ef2a4-b79e-4ea7-9a9a-0824d6ee432f;
+     dcat:distribution _:1ed2ab44-3f58-4abe-a836-8555e6a27c78;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:d3f3a057-6cac-4f21-bb57-6b01b99e8584
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/degreeOfEstablishment.rdf>;
+     a dcat:Distribution.
+
+_:f91ef2a4-b79e-4ea7-9a9a-0824d6ee432f
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/degreeOfEstablishment.json>;
+     a dcat:Distribution.
+
+_:1ed2ab44-3f58-4abe-a836-8555e6a27c78
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/degreeOfEstablishment.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/degreeOfEstablishment>.
+
+<http://rs.tdwg.org/index/degreeOfEstablishment-versions>
+     dcterms:modified "2021-09-01"^^xsd:date;
+     rdfs:label "Controlled values list for the Darwin Core term degreeOfEstablishment versions"@en;
+     skos:prefLabel "Controlled values list for the Darwin Core term degreeOfEstablishment versions"@en;
+     dcat:distribution _:6522d3f9-2eda-4f44-8203-02abd58c9cd7;
+     dcat:distribution _:89107a0a-d137-40da-aa8a-aee58f21f5a6;
+     dcat:distribution _:d4316f6c-f86e-4d2d-bf96-d76d549faa0a;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:6522d3f9-2eda-4f44-8203-02abd58c9cd7
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/degreeOfEstablishment-versions.rdf>;
+     a dcat:Distribution.
+
+_:89107a0a-d137-40da-aa8a-aee58f21f5a6
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/degreeOfEstablishment-versions.json>;
+     a dcat:Distribution.
+
+_:d4316f6c-f86e-4d2d-bf96-d76d549faa0a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/degreeOfEstablishment-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/degreeOfEstablishment-versions>.
+
+<http://rs.tdwg.org/index/pathway>
+     dcterms:modified "2021-09-01"^^xsd:date;
+     rdfs:label "Controlled values list for the Darwin Core term pathway"@en;
+     skos:prefLabel "Controlled values list for the Darwin Core term pathway"@en;
+     dcat:distribution _:3eb0b289-af9a-4b71-a2db-0aded1825b4d;
+     dcat:distribution _:2e01f91a-309c-40de-84e9-dbe5937a7c92;
+     dcat:distribution _:d7630c94-3dc4-44be-9b9c-bc415cf53f2c;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:3eb0b289-af9a-4b71-a2db-0aded1825b4d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/pathway.rdf>;
+     a dcat:Distribution.
+
+_:2e01f91a-309c-40de-84e9-dbe5937a7c92
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/pathway.json>;
+     a dcat:Distribution.
+
+_:d7630c94-3dc4-44be-9b9c-bc415cf53f2c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/pathway.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/pathway>.
+
+<http://rs.tdwg.org/index/pathway-versions>
+     dcterms:modified "2021-09-01"^^xsd:date;
+     rdfs:label "Controlled values list for the Darwin Core term pathway versions"@en;
+     skos:prefLabel "Controlled values list for the Darwin Core term pathway versions"@en;
+     dcat:distribution _:1457e46d-b94c-476b-b702-24c76c1f4a36;
+     dcat:distribution _:7195616c-3979-4c32-9b57-34d4e7f57c07;
+     dcat:distribution _:5efff958-0ca9-4ed4-a08a-ce8987e7798c;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:1457e46d-b94c-476b-b702-24c76c1f4a36
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/pathway-versions.rdf>;
+     a dcat:Distribution.
+
+_:7195616c-3979-4c32-9b57-34d4e7f57c07
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/pathway-versions.json>;
+     a dcat:Distribution.
+
+_:5efff958-0ca9-4ed4-a08a-ce8987e7798c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/pathway-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/pathway-versions>.
+
+<http://rs.tdwg.org/index/mo-for-ac>
+     dcterms:modified "2020-10-13"^^xsd:date;
+     rdfs:label "This list includes terms borrowed by Audubon Core from the Music Ontology"@en;
+     skos:prefLabel "This list includes terms borrowed by Audubon Core from the Music Ontology"@en;
+     dcat:distribution _:15665781-03cd-4b8b-9d2b-79c71607815d;
+     dcat:distribution _:6e48df12-f5bd-447f-8f52-dcd9f7a07ee8;
+     dcat:distribution _:14c705a9-67f3-4945-8885-edc4c841238e;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:15665781-03cd-4b8b-9d2b-79c71607815d
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/mo-for-ac.rdf>;
+     a dcat:Distribution.
+
+_:6e48df12-f5bd-447f-8f52-dcd9f7a07ee8
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/mo-for-ac.json>;
+     a dcat:Distribution.
+
+_:14c705a9-67f3-4945-8885-edc4c841238e
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/mo-for-ac.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/mo-for-ac>.
+
+<http://rs.tdwg.org/index/mo-for-ac-versions>
+     dcterms:modified "2020-10-13"^^xsd:date;
+     rdfs:label "This list includes terms borrowed by Audubon Core from the Music Ontology versions"@en;
+     skos:prefLabel "This list includes terms borrowed by Audubon Core from the Music Ontology versions"@en;
+     dcat:distribution _:68f7ee29-00d7-4284-ac62-3face58464b8;
+     dcat:distribution _:fcf33b09-71e1-4d48-ae5c-ecafa4884bbd;
+     dcat:distribution _:9aa87874-70ac-46e0-9ad5-655c3801b950;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:68f7ee29-00d7-4284-ac62-3face58464b8
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/mo-for-ac-versions.rdf>;
+     a dcat:Distribution.
+
+_:fcf33b09-71e1-4d48-ae5c-ecafa4884bbd
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/mo-for-ac-versions.json>;
+     a dcat:Distribution.
+
+_:9aa87874-70ac-46e0-9ad5-655c3801b950
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/mo-for-ac-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/mo-for-ac-versions>.
+
+<http://rs.tdwg.org/index/acvariant>
+     dcterms:modified "2020-10-13"^^xsd:date;
+     rdfs:label "Controlled values list for the Audubon Core term variant"@en;
+     skos:prefLabel "Controlled values list for the Audubon Core term variant"@en;
+     dcat:distribution _:671e3548-a0ce-4775-adc5-9033f1e7bde4;
+     dcat:distribution _:9242c7a6-46b1-4028-bd4b-d413032c8726;
+     dcat:distribution _:42a68ff2-8420-49b1-995f-a3e000193ea6;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:671e3548-a0ce-4775-adc5-9033f1e7bde4
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acvariant.rdf>;
+     a dcat:Distribution.
+
+_:9242c7a6-46b1-4028-bd4b-d413032c8726
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acvariant.json>;
+     a dcat:Distribution.
+
+_:42a68ff2-8420-49b1-995f-a3e000193ea6
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acvariant.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/acvariant>.
+
+<http://rs.tdwg.org/index/acvariant-versions>
+     dcterms:modified "2020-10-13"^^xsd:date;
+     rdfs:label "Controlled values list for the Audubon Core term variant versions"@en;
+     skos:prefLabel "Controlled values list for the Audubon Core term variant versions"@en;
+     dcat:distribution _:f18c5fee-fda7-4c8d-bd1e-4c7137d4827b;
+     dcat:distribution _:d6d497a2-4840-4114-89f7-12117c37460c;
+     dcat:distribution _:bf0e9f4a-86ad-49e7-b5f5-8fef59c9171c;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:f18c5fee-fda7-4c8d-bd1e-4c7137d4827b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acvariant-versions.rdf>;
+     a dcat:Distribution.
+
+_:d6d497a2-4840-4114-89f7-12117c37460c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acvariant-versions.json>;
+     a dcat:Distribution.
+
+_:bf0e9f4a-86ad-49e7-b5f5-8fef59c9171c
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acvariant-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/acvariant-versions>.
+
+<http://rs.tdwg.org/index/format>
+     dcterms:modified "2020-10-13"^^xsd:date;
+     rdfs:label "Controlled values list for Dublin Core format"@en;
+     skos:prefLabel "Controlled values list for Dublin Core format"@en;
+     dcat:distribution _:e091eb30-4326-4ebe-bed7-3c10cb416e1b;
+     dcat:distribution _:9dfd74c7-1fcb-4aa1-99a5-5415d6e2b2c2;
+     dcat:distribution _:67ff9833-837a-4839-8e71-f7c94268996f;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:e091eb30-4326-4ebe-bed7-3c10cb416e1b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/format.rdf>;
+     a dcat:Distribution.
+
+_:9dfd74c7-1fcb-4aa1-99a5-5415d6e2b2c2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/format.json>;
+     a dcat:Distribution.
+
+_:67ff9833-837a-4839-8e71-f7c94268996f
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/format.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/format>.
+
+<http://rs.tdwg.org/index/format-versions>
+     dcterms:modified "2020-10-13"^^xsd:date;
+     rdfs:label "Controlled values list for Dublin Core format versions"@en;
+     skos:prefLabel "Controlled values list for Dublin Core format versions"@en;
+     dcat:distribution _:4cfbe89d-be90-43c0-b29f-85738fd81a9a;
+     dcat:distribution _:914e2c63-b189-4cf0-874a-b6e9503b9317;
+     dcat:distribution _:ba1649d6-2fe6-4bb8-8208-83a6cbb8ccbf;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:4cfbe89d-be90-43c0-b29f-85738fd81a9a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/format-versions.rdf>;
+     a dcat:Distribution.
+
+_:914e2c63-b189-4cf0-874a-b6e9503b9317
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/format-versions.json>;
+     a dcat:Distribution.
+
+_:ba1649d6-2fe6-4bb8-8208-83a6cbb8ccbf
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/format-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/format-versions>.
+
+<http://rs.tdwg.org/index/acsubtype>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "Controlled values list for the Audubon Core term subtype"@en;
+     skos:prefLabel "Controlled values list for the Audubon Core term subtype"@en;
+     dcat:distribution _:2523dd8a-dc03-4424-b4b9-c2d7e60acc5b;
+     dcat:distribution _:109bf2dc-c31e-40e4-b659-64fdab8f18e2;
+     dcat:distribution _:fd8ed24a-d091-4acb-b3a7-8f9a7f66e487;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:2523dd8a-dc03-4424-b4b9-c2d7e60acc5b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acsubtype.rdf>;
+     a dcat:Distribution.
+
+_:109bf2dc-c31e-40e4-b659-64fdab8f18e2
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acsubtype.json>;
+     a dcat:Distribution.
+
+_:fd8ed24a-d091-4acb-b3a7-8f9a7f66e487
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acsubtype.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/acsubtype>.
+
+<http://rs.tdwg.org/index/acsubtype-versions>
+     dcterms:modified "2022-02-23"^^xsd:date;
+     rdfs:label "Controlled values list for the Audubon Core term subtype versions"@en;
+     skos:prefLabel "Controlled values list for the Audubon Core term subtype versions"@en;
+     dcat:distribution _:5a376c60-277f-4949-bbb7-361c7845ef1a;
+     dcat:distribution _:bc0db3ac-6118-4b46-b279-b85caec87f06;
+     dcat:distribution _:3f21d85d-7d6f-4457-a84b-0ef2e91ebf16;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:5a376c60-277f-4949-bbb7-361c7845ef1a
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acsubtype-versions.rdf>;
+     a dcat:Distribution.
+
+_:bc0db3ac-6118-4b46-b279-b85caec87f06
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acsubtype-versions.json>;
+     a dcat:Distribution.
+
+_:3f21d85d-7d6f-4457-a84b-0ef2e91ebf16
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/acsubtype-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/acsubtype-versions>.
+
+<http://rs.tdwg.org/index/chronometricage>
+     dcterms:modified "2021-02-21"^^xsd:date;
+     rdfs:label "This list includes terms defined by the Chronometric Age Vocabulary"@en;
+     skos:prefLabel "This list includes terms defined by the Chronometric Age Vocabulary"@en;
+     dcat:distribution _:7d21d0cc-1630-4028-b79a-2725e4b54439;
+     dcat:distribution _:f0c80a79-49e0-4e29-a39f-a3ab033b2c4e;
+     dcat:distribution _:74bca17c-da65-4122-908a-6b52360ebb14;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:7d21d0cc-1630-4028-b79a-2725e4b54439
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronometricage.rdf>;
+     a dcat:Distribution.
+
+_:f0c80a79-49e0-4e29-a39f-a3ab033b2c4e
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronometricage.json>;
+     a dcat:Distribution.
+
+_:74bca17c-da65-4122-908a-6b52360ebb14
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronometricage.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/chronometricage>.
+
+<http://rs.tdwg.org/index/chronometricage-versions>
+     dcterms:modified "2021-02-21"^^xsd:date;
+     rdfs:label "This list includes terms defined by the Chronometric Age Vocabulary versions"@en;
+     skos:prefLabel "This list includes terms defined by the Chronometric Age Vocabulary versions"@en;
+     dcat:distribution _:0ef3bb4e-d282-4a4f-bbc9-caf871b650f1;
+     dcat:distribution _:00d87869-49fa-44e6-b24c-c4075da0a138;
+     dcat:distribution _:4aaa6c0a-3c12-4f41-9b51-57dcfb2ecb51;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:0ef3bb4e-d282-4a4f-bbc9-caf871b650f1
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronometricage-versions.rdf>;
+     a dcat:Distribution.
+
+_:00d87869-49fa-44e6-b24c-c4075da0a138
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronometricage-versions.json>;
+     a dcat:Distribution.
+
+_:4aaa6c0a-3c12-4f41-9b51-57dcfb2ecb51
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronometricage-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/chronometricage-versions>.
+
+<http://rs.tdwg.org/index/chronoiri>
+     dcterms:modified "2021-02-02"^^xsd:date;
+     rdfs:label "Chronometric age extension (IRI values) for Darwin Core"@en;
+     skos:prefLabel "Chronometric age extension (IRI values) for Darwin Core"@en;
+     dcat:distribution _:cef1527f-437b-4806-aae1-34ce05038418;
+     dcat:distribution _:9613cd02-8a56-407f-a04c-5915d5e77735;
+     dcat:distribution _:0c7a172d-56fc-4586-b15e-0760535b27c7;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:cef1527f-437b-4806-aae1-34ce05038418
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronoiri.rdf>;
+     a dcat:Distribution.
+
+_:9613cd02-8a56-407f-a04c-5915d5e77735
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronoiri.json>;
+     a dcat:Distribution.
+
+_:0c7a172d-56fc-4586-b15e-0760535b27c7
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronoiri.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/chronoiri>.
+
+<http://rs.tdwg.org/index/chronoiri-versions>
+     dcterms:modified "2021-02-02"^^xsd:date;
+     rdfs:label "Chronometric age extension (IRI values) for Darwin Core versions"@en;
+     skos:prefLabel "Chronometric age extension (IRI values) for Darwin Core versions"@en;
+     dcat:distribution _:dbf8fc3b-7d84-4322-8523-5d6fdcb68e3b;
+     dcat:distribution _:b7a851b3-6f57-4755-ba87-061ceed700ab;
+     dcat:distribution _:618dcd73-0aa4-42a8-8096-3a7e5fc83339;
+     dcterms:isPartOf <http://rs.tdwg.org/index>;
+     a dcmitype:Dataset.
+
+_:dbf8fc3b-7d84-4322-8523-5d6fdcb68e3b
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/rdf+xml>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronoiri-versions.rdf>;
+     a dcat:Distribution.
+
+_:b7a851b3-6f57-4755-ba87-061ceed700ab
+     dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronoiri-versions.json>;
+     a dcat:Distribution.
+
+_:618dcd73-0aa4-42a8-8096-3a7e5fc83339
+     dcat:mediaType <https://www.iana.org/assignments/media-types/text/turtle>;
+     dcterms:license <https://creativecommons.org/publicdomain/zero/1.0/>;
+     dcat:downloadURL <http://rs.tdwg.org/dump/chronoiri-versions.ttl>;
+     a dcat:Distribution.
+
+<http://rs.tdwg.org/index>
+     dcat:dataset <http://rs.tdwg.org/index/chronoiri-versions>.
+
+<http://rs.tdwg.org/index.ttl>
+     dc:format "text/turtle";
+     dc:creator "Biodiversity Information Standards (TDWG)";
+     dcterms:references <http://rs.tdwg.org/index>;
+     dcterms:modified "2018-10-09T11:00:00-05:00"^^xsd:dateTime;
+     a foaf:document.
+
