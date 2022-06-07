@@ -1,0 +1,3 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
+http://lod.vanderbilt.edu/vase,2017-04-10,Vanderbilt Heard Libraries,sd:NamedGraph,https://github.com/HeardLibrary/semantic-web/tree/master/vase,testing,
+http://lod.vanderbilt.edu/apulian/scene,2017-04-10,Vanderbilt Heard Libraries,sd:NamedGraph,https://github.com/HeardLibrary/semantic-web/tree/master/vase,testing,

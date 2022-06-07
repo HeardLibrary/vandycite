@@ -1,0 +1,3 @@
+sd:name,sd:graph,filename,s3_upload_status,graph_load_status
+http://lod.vanderbilt.edu/vase,http://lod.vanderbilt.edu/vase#dataset,vase.ttl,,
+http://lod.vanderbilt.edu/apulian/scene,http://lod.vanderbilt.edu/apulian/scene#dataset,scene_cv.ttl,,
