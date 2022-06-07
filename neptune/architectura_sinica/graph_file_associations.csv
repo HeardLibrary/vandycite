@@ -1,5 +1,5 @@
 sd:name,sd:graph,filename,s3_upload_status,graph_load_status
-http://architecturasinica.org/place/building,http://architecturasinica.org/place/building#dataset,building.ttl,,
-http://architecturasinica.org/place/site,http://architecturasinica.org/place/site#dataset,site.ttl,,
-http://architecturasinica.org/place/image,http://architecturasinica.org/place/image#dataset,image.ttl,,
-http://tcadrt.org/timeline,http://tcadrt.org/timeline#dataset,timeline.ttl,,
+http://architecturasinica.org/place/building,http://architecturasinica.org/place/building#dataset,building.ttl,upload complete in 1.56448s,load complete in 1.325522s
+http://architecturasinica.org/place/site,http://architecturasinica.org/place/site#dataset,site.ttl,upload complete in 0.361948s,load complete in 0.908765s
+http://architecturasinica.org/place/image,http://architecturasinica.org/place/image#dataset,image.ttl,upload complete in 3.215695s,load complete in 5.30034s
+http://tcadrt.org/timeline,http://tcadrt.org/timeline#dataset,timeline.ttl,upload complete in 0.712943s,load complete in 0.712248s
