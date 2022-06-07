@@ -1,7 +1,5 @@
 - column_header: sd:name
   object_type: iri
-- column_header: sd:graph
-  object_type: iri
 - column_header: dcterms:issued
   object_type: literal
   datatype: xsd:date
