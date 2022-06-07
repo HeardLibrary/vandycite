@@ -1,2 +1,2 @@
-sd:name,filename
-http://syriaca.org/bibl#graph,bibl-pelagios.rdf
+sd:name,filename,s3_upload_status,graph_load_status
+http://syriaca.org/bibl#graph,bibl-pelagios.rdf,,
