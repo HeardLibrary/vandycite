@@ -1,0 +1,8 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
+http://bioimages.vanderbilt.edu/rdf/stdview,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,
+http://bioimages.vanderbilt.edu/people,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,
+http://bioimages.vanderbilt.edu/specimens,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,
+http://bioimages.vanderbilt.edu/places,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,
+http://bioimages.vanderbilt.edu/vocabs,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,
+http://bioimages.vanderbilt.edu/organisms,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,
+http://bioimages.vanderbilt.edu/images,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,

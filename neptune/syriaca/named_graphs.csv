@@ -1,0 +1,6 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
+http://syriaca.org/bibl#graph,2018-03-06,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
+http://syriaca.org/persons#graph,2018-03-06,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
+http://syriaca.org/geo#graph,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
+http://syriaca.org/taxonomy#graph,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
+http://syriaca.org/works#graph,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
