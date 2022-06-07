@@ -1,2 +1,6 @@
 sd:name,filename,s3_upload_status,graph_load_status
-http://syriaca.org/bibl#graph,bibl-pelagios.rdf,,
+http://syriaca.org/bibl#graph,works-pelagios.rdf,,
+http://syriaca.org/persons#graph,persons-pelagios.rdf,,
+http://syriaca.org/geo#graph,places-pelagios.rdf,,
+http://syriaca.org/taxonomy#graph,subjects-pelagios.rdf,,
+http://syriaca.org/works#graph,works-pelagios.rdf,,
