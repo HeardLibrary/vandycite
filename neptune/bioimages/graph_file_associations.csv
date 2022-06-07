@@ -1,14 +1,14 @@
 sd:name,sd:graph,filename,s3_upload_status,graph_load_status
-http://bioimages.vanderbilt.edu/images,http://bioimages.vanderbilt.edu/images#dataset,images.rdf,,
-http://bioimages.vanderbilt.edu/organisms,http://bioimages.vanderbilt.edu/organisms#dataset,organisms.rdf,,
-http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#baskauf,baskauf.rdf,,
-http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#kirchoff,kirchoff.rdf,,
-http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#streamteam,streamteam.rdf,,
-http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#thomas,thomas.rdf,,
-http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#uri,uri.rdf,,
-http://bioimages.vanderbilt.edu/places,http://bioimages.vanderbilt.edu/places#dataset,geonames.rdf,,
-http://bioimages.vanderbilt.edu/rdf/stdview,http://bioimages.vanderbilt.edu/rdf/stdview#dataset,stdview.rdf,,
-http://bioimages.vanderbilt.edu/specimens,http://bioimages.vanderbilt.edu/specimens#dataset,ncu-all.rdf,,
-http://bioimages.vanderbilt.edu/vocabs,http://bioimages.vanderbilt.edu/vocabs#local,local.rdf,,
-http://bioimages.vanderbilt.edu/vocabs,http://bioimages.vanderbilt.edu/vocabs#stdview,stdview.rdf,,
-http://bioimages.vanderbilt.edu/vocabs,http://bioimages.vanderbilt.edu/vocabs#dsw,dsw.owl,,
+http://bioimages.vanderbilt.edu/images,http://bioimages.vanderbilt.edu/images#dataset,images.rdf,upload complete in 89.022848s,load complete in 103.186937s
+http://bioimages.vanderbilt.edu/organisms,http://bioimages.vanderbilt.edu/organisms#dataset,organisms.rdf,upload complete in 20.148123s,load complete in 24.596833s
+http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#baskauf,baskauf.rdf,upload complete in 0.121093s,load complete in 0.308917s
+http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#kirchoff,kirchoff.rdf,upload complete in 0.122379s,load complete in 0.29037s
+http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#streamteam,streamteam.rdf,upload complete in 0.123979s,load complete in 0.276286s
+http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#thomas,thomas.rdf,upload complete in 0.121301s,load complete in 0.290987s
+http://bioimages.vanderbilt.edu/people,http://bioimages.vanderbilt.edu/people#uri,uri.rdf,upload complete in 0.134258s,load complete in 0.380205s
+http://bioimages.vanderbilt.edu/places,http://bioimages.vanderbilt.edu/places#dataset,geonames.rdf,upload complete in 0.85996s,load complete in 1.841396s
+http://bioimages.vanderbilt.edu/rdf/stdview,http://bioimages.vanderbilt.edu/rdf/stdview#dataset,stdview.rdf,upload complete in 0.764522s,load complete in 0.702575s
+http://bioimages.vanderbilt.edu/specimens,http://bioimages.vanderbilt.edu/specimens#dataset,ncu-all.rdf,upload complete in 0.23081s,load complete in 0.466651s
+http://bioimages.vanderbilt.edu/vocabs,http://bioimages.vanderbilt.edu/vocabs#local,local.rdf,upload complete in 0.184893s,load complete in 0.291144s
+http://bioimages.vanderbilt.edu/vocabs,http://bioimages.vanderbilt.edu/vocabs#stdview,stdview.rdf,upload complete in 0.595909s,load complete in 0.388323s
+http://bioimages.vanderbilt.edu/vocabs,http://bioimages.vanderbilt.edu/vocabs#dsw,dsw.owl,upload complete in 0.233073s,load complete in 0.353623s
