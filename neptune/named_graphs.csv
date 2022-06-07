@@ -1,0 +1,2 @@
+sd:name,sd:graph,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status
+http://syriaca.org/bibl#graph,http://syriaca.org/bibl,2018-03-06,syriaca.org,sd:NamedGraph,http://syriaca.org/,production
