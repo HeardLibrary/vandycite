@@ -1,0 +1,1181 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix hint: <http://www.bigdata.com/queryHints#> .
+@prefix bd: <http://www.bigdata.com/rdf#> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+
+<http://n2t.net/ark:/99152/p0fp7wv9s3f> <http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "汉"@cmn-hans , "漢"@cmn-hant , "Han Dynasties"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Han Dynasties" .
+
+<http://n2t.net/ark:/99152/p0fp7wvbf5n> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417016 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416958 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "北周"@cmn-hans , "北周"@cmn-hant , "Beizhou"@cmn-latn , "Northern Zhou Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 长安 (陕西西安), latitude: 34.3, longitude: 109.02" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Zhou Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvbngv> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417039 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417009 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "东周 "@cmn-hans , "東周 "@cmn-hant , "Dongzhou"@cmn-latn , "Eastern Zhou Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Zhou, 周" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 咸阳 (陕西咸阳), latitude: 34.33, longitude: 108.71" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Zhou Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wvc6r4> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416987 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417029 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "夏"@cmn-hans , "夏"@cmn-hant , "Xia"@cmn-latn , "Xia Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 安邑 (山西夏县) - 阳翟 (河南禹县), latitude: 35.06, longitude: 111.04" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Xia Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvcpdr> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417010 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416968 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "后唐"@cmn-hans , "後唐"@cmn-hant , "Houtang"@cmn-latn , "Later Tang Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Wudai Shiguo, 五代十国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 洛阳 (河南洛阳), latitude: 34.68, longitude: 112.45" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Later Tang Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvdf54> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417138 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416981 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "蜀"@cmn-hans , "蜀"@cmn-hant , "Shu"@cmn-latn , "Shu Kingdom"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Three Kingdoms Period, 三国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 成都 (四川成都), latitude: 30.66, longitude: 104.06" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Shu Kingdom" .
+
+<http://n2t.net/ark:/99152/p0fp7wvghct> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416989 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417072 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "后周"@cmn-hans , "後周"@cmn-hant , "Houzhou"@cmn-latn , "Later Zhou Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Wudai Shiguo, 五代十国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 汴京 (开封), latitude: 34.78, longitude: 114.34" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Later Zhou Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvh6pd> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417111 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416947 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "十六国"@cmn-hans , "十六國"@cmn-hant , "Shiliuguo"@cmn-latn , "Sixteen Kingdoms Period"@eng-latn .
+
+<http://n2t.net/ark:/99152/p0fp7wv8j8v> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417042 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416944 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "十国闽"@cmn-hans , "十國閩"@cmn-hant , "Shiguo Min"@cmn-latn , "Min Kingdom"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Shiguo Min, 十国闽" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 北京, latitude: 39.92, longitude: 116.38" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Min Kingdom" .
+
+<http://n2t.net/ark:/99152/p0fp7wv8kjh> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417105 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416993 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "北齐"@cmn-hans , "北齊"@cmn-hant , "Beiqi"@cmn-latn , "Northern Qi Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 鄴 (河北省临漳县), latitude: 36.34, longitude: 114.6" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Qi Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv8qv7> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417139 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417117 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "十国荆南"@cmn-hans , "十國荊南"@cmn-hant , "Shiguo Jingnan"@cmn-latn , "Southern Jing Kingdom"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Shiguo Jingnan, 十国荆南" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 南京, latitude: 32.05, longitude: 118.76" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Jing Kingdom" .
+
+<http://n2t.net/ark:/99152/p0fp7wv8vm6> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417120 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417097 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "后梁"@cmn-hans , "後梁"@cmn-hant , "Houliang"@cmn-latn , "Later Liang Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Wudai Shiguo, 五代十国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 西都 (河南洛阳), latitude: 34.68, longitude: 112.45" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Later Liang Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv99g3> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416964 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416985 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "东魏"@cmn-hans , "東魏"@cmn-hant , "Dongwei"@cmn-latn , "Eastern Wei Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 鄴 (河北省临漳县), latitude: 36.34, longitude: 114.6" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Wei Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv9h4n> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417031 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416939 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "隋"@cmn-hans , "隋"@cmn-hant , "Sui Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 大兴 (陕西西安), latitude: 34.3, longitude: 109.02" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Sui Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv9m9w> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417114 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416940 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "十国吴越"@cmn-hans , "十國吳越"@cmn-hant , "Shiguo Wuyue"@cmn-latn , "Wu Yue Kingdom"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Shiguo Wuyue, 十国吴越" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 錢塘 (杭州), latitude: 30.29, longitude: 120.16" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Wu Yue Kingdom" .
+
+<http://n2t.net/ark:/99152/p0fp7wv9s3f> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417100 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417024 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" .
+
+<http://n2t.net/ark:/99152/p0fp7wv2s8c> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416983 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417083 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://www.w3.org/2006/time#intervalMetBy> <http://n2t.net/ark:/99152/p0fp7wvvrz5> ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "明"@cmn-hans , "明"@cmn-hant , "Ming Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 應天府  (江苏南京), latitude: 32.05, longitude: 118.76" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Ming Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv5h26> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417148 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417082 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://www.w3.org/2006/time#intervalMetBy> <http://n2t.net/ark:/99152/p0fp7wvrjpj> ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "五代十国"@cmn-hans , "五代十國"@cmn-hant , "Wudai Shiguo"@cmn-latn , "Five Dynasties and Ten Kingdoms Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Five Dynasties and Ten Kingdoms Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wv699w> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417134 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416963 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "西夏"@cmn-hans , "西夏"@cmn-hant , "Xixia Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 興慶府 (宁夏银川), latitude: 38.5, longitude: 106.2" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Xixia Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvbdm8> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417110 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417096 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "宋"@cmn-hans , "宋"@cmn-hant , "Song"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Song" .
+
+<http://n2t.net/ark:/99152/p0fp7wvjvn8> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417049 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417045 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://www.w3.org/2006/time#intervalMetBy> <http://n2t.net/ark:/99152/p0fp7wv5h26> ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "北宋"@cmn-hans , "北宋"@cmn-hant , "Beisong"@cmn-latn , "Northern Song"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Song, 宋" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 汴梁 (开封), latitude: 34.78, longitude: 114.34" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Song" .
+
+<http://n2t.net/ark:/99152/p0fp7wvmghn> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417130 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417027 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://www.w3.org/2006/time#intervalMetBy> <http://n2t.net/ark:/99152/p0fp7wvjvn8> , <http://n2t.net/ark:/99152/p0fp7wvw8zq> ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "金"@cmn-hans , "金"@cmn-hant , "Jin Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 上京会宁府 (黑龙江哈尔滨市阿城区南白城), latitude: 45.52, longitude: 126.97" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Jin Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvrjpj> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417145 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417065 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "唐"@cmn-hans , "唐"@cmn-hant , "Tang Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 长安 (陕西西安), latitude: 34.3, longitude: 109.02" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Tang Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvtqp9> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417061 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417069 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://www.w3.org/2006/time#intervalMetBy> <http://n2t.net/ark:/99152/p0fp7wv2s8c> ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "清"@cmn-hans , "清"@cmn-hant , "Qing Dynasty"@eng-latn .
+
+<http://n2t.net/ark:/99152/p0fp7wvh6pd> <http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Sixteen Kingdoms Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wvh6rz> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417012 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417067 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "南北朝"@cmn-hans , "南北朝"@cmn-hant , "Nanbeichao"@cmn-latn , "Northern and Southern Dynasties Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Northern and Southern Dynasties Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wvhzb5> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417081 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417022 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "刘宋"@cmn-hans , "劉宋"@cmn-hant , "Liusong"@cmn-latn , "Liu Song Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 建康 (江苏南京), latitude: 32.06, longitude: 118.77" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Liu Song Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvjnjs> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417092 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417095 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "西魏"@cmn-hans , "西魏"@cmn-hant , "Xiwei"@cmn-latn , "Western Wei Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 长安 (陕西西安), latitude: 34.3, longitude: 109.02" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Western Wei Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvk97r> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416991 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417011 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "晋"@cmn-hans , "晉"@cmn-hant , "Jin Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Jin Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvkr75> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417015 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417053 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "西晋"@cmn-hans , "西晉"@cmn-hant , "Xijin"@cmn-latn , "Western Jin Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Jin, 晋" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 洛阳 (河南洛阳), latitude: 34.68, longitude: 112.45" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Western Jin Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvm7qm> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416986 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417075 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "南朝梁"@cmn-hans , "南朝梁"@cmn-hant , "Nanchao Liang"@cmn-latn , "Southern Liang Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 建康 (江苏南京), latitude: 32.06, longitude: 118.77" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Liang Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvmvjs> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417054 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417116 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "陈"@cmn-hans , "陳"@cmn-hant , "Chen Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 建康 (江苏南京), latitude: 32.06, longitude: 118.77" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Chen Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvqcws> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417046 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417104 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> .
+
+_:t417128 <http://www.w3.org/2006/time#year> "0265"^^xsd:gYear .
+
+_:t417129 <http://www.w3.org/2006/time#year> "0577"^^xsd:gYear .
+
+_:t417130 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416997 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1234" .
+
+_:t417131 <http://www.w3.org/2006/time#year> "-1600"^^xsd:gYear .
+
+_:t417132 <http://www.w3.org/2006/time#year> "0963"^^xsd:gYear .
+
+_:t417133 <http://www.w3.org/2006/time#year> "0439"^^xsd:gYear .
+
+_:t417134 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416938 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1227" .
+
+_:t417135 <http://www.w3.org/2006/time#year> "0923"^^xsd:gYear .
+
+_:t417136 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416948 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "280" .
+
+_:t417137 <http://www.w3.org/2006/time#year> "-0476"^^xsd:gYear .
+
+_:t417138 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416956 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "263" .
+
+_:t417139 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417132 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "963" .
+
+_:t417140 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416976 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-256" .
+
+_:t417141 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417144 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "907" .
+
+_:t417142 <http://www.w3.org/2006/time#year> "-0221"^^xsd:gYear .
+
+_:t417143 <http://www.w3.org/2006/time#year> "0304"^^xsd:gYear .
+
+_:t417144 <http://www.w3.org/2006/time#year> "0907"^^xsd:gYear .
+
+_:t417145 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417059 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "907" .
+
+_:t417146 <http://www.w3.org/2006/time#year> "-0256"^^xsd:gYear .
+
+_:t417147 <http://www.w3.org/2006/time#year> "0960"^^xsd:gYear .
+
+_:t417148 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417070 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1279" .
+
+<http://n2t.net/ark:/99152/p0fp7wv2mgt> <http://www.w3.org/2004/02/skos/core#altLabel> "Qin Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 咸阳 (陕西咸阳), latitude: 34.33, longitude: 108.71" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Qin Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv4q5d> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417123 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417106 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "西周"@cmn-hans , "西周"@cmn-hant , "Xizhou"@cmn-latn , "Western Zhou Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Zhou, 周" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 洛邑 (河南洛阳), latitude: 34.68, longitude: 112.45" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Western Zhou Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wv5c3f> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416970 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416995 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "东晋 "@cmn-hans , "東晉 "@cmn-hant , "Dongjin"@cmn-latn , "Eastern Jin Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Jin, 晋" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 建康 (江苏南京), latitude: 32.06, longitude: 118.77" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Jin Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv6f2v> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417040 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417064 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "中华民国"@cmn-hans , "中華民國"@cmn-hant , "Zhonghua Minguo"@cmn-latn , "Republic of China"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Zhonghua Minguo, 中华民国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 北京, latitude: 39.92, longitude: 116.38" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Republic of China" .
+
+<http://n2t.net/ark:/99152/p0fp7wv6h4z> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416953 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417037 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "北魏"@cmn-hans , "北魏"@cmn-hant , "Beiwei"@cmn-latn , "Northern Wei Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 盛樂 (呼和浩特), latitude: 40.81, longitude: 111.65" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Northern Wei Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv72wc> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417085 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417118 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "三国"@cmn-hans , "三國"@cmn-hant , "Sanguo"@cmn-latn , "Three Kingdoms Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Three Kingdoms Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wv847g> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416980 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416959 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "魏"@cmn-hans , "魏"@cmn-hant , "Wei"@cmn-latn , "Wei Kingdom"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Three Kingdoms Period, 三国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 洛阳 (河南洛阳), latitude: 34.68, longitude: 112.45" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Wei Kingdom" .
+
+<http://n2t.net/ark:/99152/p0fp7wv8644> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416943 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417004 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "东汉"@cmn-hans , "東漢"@cmn-hant , "Donghan"@cmn-latn , "Eastern Han Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Han, 汉" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 洛阳 (河南洛阳), latitude: 34.68, longitude: 112.45" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Eastern Han Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvqcws> <http://www.w3.org/2004/02/skos/core#altLabel> "商"@cmn-hans , "商"@cmn-hant , "Shang Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 亳 (河南商丘) - 殷 (河南安阳), latitude: 34.44, longitude: 115.65" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Shang Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvrd4r> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417136 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417073 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "吴"@cmn-hans , "吳"@cmn-hant , "Wu"@cmn-latn , "Wu Kingdom"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Three Kingdoms Period, 三国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 建业 (江苏南京), latitude: 32.06, longitude: 118.77" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Wu Kingdom" .
+
+<http://n2t.net/ark:/99152/p0fp7wvsqwt> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417140 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417126 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "周"@cmn-hans , "周"@cmn-hant , "Zhou Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 镐京 (陕西西安), latitude: 34.3, longitude: 109.02" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Zhou Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wvsz6q> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417002 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417003 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "中华人民共和国"@cmn-hans , "中華人民共和國"@cmn-hant , "Zhonghua Renmin Gongheguo"@cmn-latn , "People’s Republic of China"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Zhonghua Renmin Gongheguo, 中华人民共和国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 北京, latitude: 39.92, longitude: 116.38" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "People’s Republic of China" .
+
+<http://n2t.net/ark:/99152/p0fp7wvvdvn> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416990 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416977 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "南齐"@cmn-hans , "南齊"@cmn-hant , "Nanqi"@cmn-latn , "Southern Qi Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Nanbeichao, 南北朝" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 建康 (江苏南京), latitude: 32.06, longitude: 118.77" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Qi Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvxmqg> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416951 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417038 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "战国时代"@cmn-hans , "Zhanguo Shidai"@cmn-hant , "戰國時代"@cmn-hant , "Warring States Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Warring States Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wvxnn5> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416972 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416950 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "春秋时代"@cmn-hans , "春秋時代"@cmn-hant , "Chunqiu Shidai"@cmn-latn , "Spring and Autumn Period"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Spring and Autumn Period" .
+
+<http://n2t.net/ark:/99152/p0fp7wvzgmr> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417017 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417107 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "后晋"@cmn-hans , "後晉"@cmn-hant , "Houjin"@cmn-latn , "Later Jin Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Wudai Shiguo, 五代十国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 开封, latitude: 34.78, longitude: 114.34" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Later Jin Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvzjdh> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416979 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416982 .
+
+_:t416995 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417102 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "317" .
+
+_:t416996 <http://www.w3.org/2006/time#year> "0960"^^xsd:gYear .
+
+_:t416997 <http://www.w3.org/2006/time#year> "1234"^^xsd:gYear .
+
+_:t416998 <http://www.w3.org/2006/time#year> "0618"^^xsd:gYear .
+
+_:t416999 <http://www.w3.org/2006/time#year> "-0221"^^xsd:gYear .
+
+_:t417000 <http://www.w3.org/2006/time#year> "0925"^^xsd:gYear .
+
+_:t417001 <http://www.w3.org/2006/time#year> "1911"^^xsd:gYear .
+
+_:t417002 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416960 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "2016" .
+
+_:t417003 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417122 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1949" .
+
+_:t417004 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416961 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "25" .
+
+_:t417005 <http://www.w3.org/2006/time#year> "0550"^^xsd:gYear .
+
+_:t417006 <http://www.w3.org/2006/time#year> "0618"^^xsd:gYear .
+
+_:t417007 <http://www.w3.org/2006/time#year> "1214"^^xsd:gYear .
+
+_:t417008 <http://www.w3.org/2006/time#year> "0923"^^xsd:gYear .
+
+_:t417009 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417115 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-770" .
+
+_:t417010 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417094 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "936" .
+
+_:t417011 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416988 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "265" .
+
+_:t417012 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417129 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "577" .
+
+_:t417013 <http://www.w3.org/2006/time#year> "-2070"^^xsd:gYear .
+
+_:t417014 <http://www.w3.org/2006/time#year> "0420"^^xsd:gYear .
+
+_:t417015 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417079 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "316" .
+
+_:t417016 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416978 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "581" .
+
+_:t417017 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417033 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "946" .
+
+_:t417018 <http://www.w3.org/2006/time#year> "1127"^^xsd:gYear .
+
+_:t417019 <http://www.w3.org/2006/time#year> "0023"^^xsd:gYear .
+
+_:t417020 <http://www.w3.org/2006/time#year> "0909"^^xsd:gYear .
+
+_:t417021 <http://www.w3.org/2006/time#year> "1644"^^xsd:gYear .
+
+_:t417022 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417014 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "420" .
+
+_:t417023 <http://www.w3.org/2006/time#year> "0502"^^xsd:gYear .
+
+_:t417024 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417090 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-206" .
+
+_:t417025 <http://www.w3.org/2006/time#year> "0535"^^xsd:gYear .
+
+_:t417026 <http://www.w3.org/2006/time#year> "-1046"^^xsd:gYear .
+
+_:t417027 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417055 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1115" .
+
+_:t417028 <http://www.w3.org/2006/time#year> "0420"^^xsd:gYear .
+
+_:t417029 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417013 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-2070" .
+
+_:t417030 <http://www.w3.org/2006/time#year> "0534"^^xsd:gYear .
+
+_:t417031 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417006 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "618" .
+
+_:t417032 <http://www.w3.org/2006/time#year> "0420"^^xsd:gYear .
+
+_:t417033 <http://www.w3.org/2006/time#year> "0946"^^xsd:gYear .
+
+_:t417034 <http://www.w3.org/2006/time#year> "0589"^^xsd:gYear .
+
+_:t417035 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417101 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "947" .
+
+_:t417036 <http://www.w3.org/2006/time#year> "0557"^^xsd:gYear .
+
+_:t417037 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417071 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "386" .
+
+_:t417038 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416967 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-475" .
+
+_:t417039 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417146 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-256" .
+
+_:t417040 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417048 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1949" .
+
+_:t417041 <http://www.w3.org/2006/time#year> "0556"^^xsd:gYear .
+
+_:t417042 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417121 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "945" .
+
+_:t417043 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417007 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1214" .
+
+_:t417044 <http://www.w3.org/2006/time#year> "-1046"^^xsd:gYear .
+
+_:t417045 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417099 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "960" .
+
+_:t417046 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417109 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-1046" .
+
+_:t417047 <http://www.w3.org/2006/time#year> "0420"^^xsd:gYear .
+
+_:t417048 <http://www.w3.org/2006/time#year> "1949"^^xsd:gYear .
+
+_:t417049 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417076 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1127" .
+
+_:t417050 <http://www.w3.org/2006/time#year> "0581"^^xsd:gYear .
+
+_:t417051 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416971 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1279" .
+
+_:t417052 <http://www.w3.org/2006/time#year> "1368"^^xsd:gYear .
+
+_:t417053 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417084 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "265" .
+
+_:t417054 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417034 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "589" .
+
+_:t417055 <http://www.w3.org/2006/time#year> "1115"^^xsd:gYear .
+
+_:t417056 <http://www.w3.org/2006/time#year> "-0206"^^xsd:gYear .
+
+_:t417057 <http://www.w3.org/2006/time#year> "0907"^^xsd:gYear .
+
+_:t417058 foaf:name "Merrick Lex Berman" .
+
+_:t417059 <http://www.w3.org/2006/time#year> "0907"^^xsd:gYear .
+
+_:t417060 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417019 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "23" .
+
+_:t417061 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417001 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1911" .
+
+_:t417062 <http://www.w3.org/2006/time#year> "0479"^^xsd:gYear .
+
+_:t417063 <http://www.w3.org/2006/time#year> "0936"^^xsd:gYear .
+
+<http://n2t.net/ark:/99152/p0fp7wvtqp9> <http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 京师顺天府 (北京), latitude: 39.92, longitude: 116.38" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Qing Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvvrz5> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417066 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417068 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://www.w3.org/2006/time#intervalMetBy> <http://n2t.net/ark:/99152/p0fp7wvmghn> , <http://n2t.net/ark:/99152/p0fp7wv9x7n> ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "元"@cmn-hans , "元"@cmn-hant , "Yuan Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 大都  (北京), latitude: 39.92, longitude: 116.38" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Yuan Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wvw8zq> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417043 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417141 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "辽"@cmn-hans , "遼"@cmn-hant , "Liao Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Liao, 辽" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 上京 (内蒙赤峰市巴林左旗), latitude: 44.2, longitude: 119.25" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Liao Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv9x7n> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417051 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416954 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://www.w3.org/2006/time#intervalMetBy> <http://n2t.net/ark:/99152/p0fp7wvjvn8> ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "南宋"@cmn-hans , "南宋"@cmn-hant , "Nansong"@cmn-latn , "Southern Song"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Song, 宋" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 临安 (杭州), latitude: 30.29, longitude: 120.16" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Southern Song" .
+
+<http://lod.vanderbilt.edu/historyart/site/dynasty-timeline.ttl> <http://purl.org/dc/terms/references> <http://n2t.net/ark:/99152/p0fp7wv2s8c> , <http://n2t.net/ark:/99152/p0fp7wv5h26> , <http://n2t.net/ark:/99152/p0fp7wvjvn8> , <http://n2t.net/ark:/99152/p0fp7wvmghn> , <http://n2t.net/ark:/99152/p0fp7wvrjpj> , <http://n2t.net/ark:/99152/p0fp7wvtqp9> , <http://n2t.net/ark:/99152/p0fp7wvvrz5> , <http://n2t.net/ark:/99152/p0fp7wvw8zq> , <http://n2t.net/ark:/99152/p0fp7wv9x7n> ;
+	a foaf:Document ;
+	<http://purl.org/dc/terms/modified> "2016-11-13T02:30:00.000Z"^^xsd:dateTime ;
+	dc:creator "Steve Baskauf" ;
+	dc:format "text/turtle" .
+
+<http://dbpedia.org/resource/China> <http://www.w3.org/2004/02/skos/core#prefLabel> "China" .
+
+<http://n2t.net/ark:/99152/p0fp7wv> <http://purl.org/dc/terms/source> _:t417119 ;
+	a <http://www.w3.org/2004/02/skos/core#ConceptScheme> ;
+	foaf:isPrimaryTopicOf <http://n2t.net/ark:/99152/p0fp7wv.json> ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> """[notes provided by source editor Berman]
+
+sources:
+
+1.http://www.baike.com/wiki/%E4%B8%AD%E5%9B%BD%E5%8E%86%E4%BB%A3%E5%85%AC%E5%85%83%E5%AF%B9%E7%85%A7%E7%AE%80%E8%A1%A8
+
+2.http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%9C%8B%E6%AD%B7%E5%8F%B2%E4%BA%8B%E4%BB%B6%E5%88%97%E8%A1%A8
+
+3.http://ljzlcl.blog.163.com/blog/static/9666123620090433033441/
+
+NOTES:
+
+This table of major Chinese States and Dynasties provides a basic time frame, and includes both the overall periods, as well as specific sub-periods, or in most cases, specific states.
+
+For example, the Northern and Southern Dynasties is listed (420 CE - 577 CE), along with the various states, such as Liu Song, Eastern Wei, and so on that existed during that period.    Note that the overall period is not itself a \"state\" and has no capital, nor any administration or political history.  It is merely a superset of many states.
+
+By contrast there are Periods, with Sub-periods, such as the Song Dynasty, which was one continuous political entity, but is divided into two very distinct periods, the Northern Song and Southern Song, reflecting the incursion of the Mongols who seized the greater part of the northern area of the Song, and forced the capital to be relocated from Kaifeng to Hangzhou.
+""" .
+
+<http://n2t.net/ark:/99152/p0fp7wv.json> <http://rdfs.org/ns/void#inDataset> <http://n2t.net/ark:/99152/p0d> .
+
+<http://n2t.net/ark:/99152/p0fp7wv23z4> <http://www.w3.org/2006/time#intervalFinishedBy> _:t416984 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417035 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "后汉"@cmn-hans , "後漢"@cmn-hant , "Houhan"@cmn-latn , "Later Han Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Wudai Shiguo, 五代十国" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 开封, latitude: 34.78, longitude: 114.34" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Later Han Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv2jt9> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417112 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t417060 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "新"@cmn-hans , "新"@cmn-hant , "Xin"@cmn-latn , "Xin Wang Mang Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Han, 汉" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 长安 (陕西西安), latitude: 34.3, longitude: 109.02" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Xin Wang Mang Dynasty" .
+
+<http://n2t.net/ark:/99152/p0fp7wv2mgt> <http://www.w3.org/2006/time#intervalFinishedBy> _:t417125 ;
+	<http://www.w3.org/2006/time#intervalStartedBy> _:t416992 ;
+	<http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "秦"@cmn-hans , "Qin"@cmn-latn .
+
+_:t417064 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417078 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1912" .
+
+_:t417065 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416998 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "618" .
+
+_:t417066 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416966 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1388" .
+
+_:t417067 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417032 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "420" .
+
+_:t417068 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416962 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1206" .
+
+_:t417069 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417021 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1644" .
+
+_:t417070 <http://www.w3.org/2006/time#year> "1279"^^xsd:gYear .
+
+_:t417071 <http://www.w3.org/2006/time#year> "0386"^^xsd:gYear .
+
+_:t417072 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417074 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "951" .
+
+_:t417073 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416941 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "222" .
+
+_:t417074 <http://www.w3.org/2006/time#year> "0951"^^xsd:gYear .
+
+_:t417075 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417023 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "502" .
+
+_:t417076 <http://www.w3.org/2006/time#year> "1127"^^xsd:gYear .
+
+_:t417077 <http://www.w3.org/2006/time#year> "0220"^^xsd:gYear .
+
+_:t417078 <http://www.w3.org/2006/time#year> "1912"^^xsd:gYear .
+
+_:t417079 <http://www.w3.org/2006/time#year> "0316"^^xsd:gYear .
+
+_:t417080 <http://www.w3.org/2006/time#year> "0907"^^xsd:gYear .
+
+_:t417081 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417062 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "479" .
+
+_:t417082 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417087 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "907" .
+
+_:t417083 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417052 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1368" .
+
+_:t417084 <http://www.w3.org/2006/time#year> "0265"^^xsd:gYear .
+
+_:t417085 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416974 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "280" .
+
+_:t417086 <http://www.w3.org/2006/time#year> "0023"^^xsd:gYear .
+
+_:t417087 <http://www.w3.org/2006/time#year> "0907"^^xsd:gYear .
+
+_:t417088 <http://www.w3.org/2006/time#year> "0479"^^xsd:gYear .
+
+_:t417089 <http://www.w3.org/2006/time#year> "0950"^^xsd:gYear .
+
+_:t417090 <http://www.w3.org/2006/time#year> "-0206"^^xsd:gYear .
+
+_:t417091 <http://www.w3.org/2006/time#year> "-0206"^^xsd:gYear .
+
+_:t417092 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417041 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "556" .
+
+_:t417093 <http://www.w3.org/2006/time#year> "0534"^^xsd:gYear .
+
+_:t417094 <http://www.w3.org/2006/time#year> "0936"^^xsd:gYear .
+
+_:t417095 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417025 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "535" .
+
+_:t417096 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416996 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "960" .
+
+_:t417097 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417080 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "907" .
+
+_:t417098 <http://www.w3.org/2006/time#year> "0557"^^xsd:gYear .
+
+_:t417099 <http://www.w3.org/2006/time#year> "0960"^^xsd:gYear .
+
+_:t417100 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417077 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "220" .
+
+_:t417101 <http://www.w3.org/2006/time#year> "0947"^^xsd:gYear .
+
+_:t417102 <http://www.w3.org/2006/time#year> "0317"^^xsd:gYear .
+
+_:t417103 <http://www.w3.org/2006/time#year> "0220"^^xsd:gYear .
+
+_:t417104 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417131 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-1600" .
+
+_:t417105 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416949 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "577" .
+
+_:t417106 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417044 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-1046" .
+
+_:t417107 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417063 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "936" .
+
+_:t417108 <http://www.w3.org/2006/time#year> "0550"^^xsd:gYear .
+
+_:t417109 <http://www.w3.org/2006/time#year> "-1046"^^xsd:gYear .
+
+_:t417110 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416994 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1279" .
+
+_:t417111 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417133 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "439" .
+
+_:t417112 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416946 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "25" .
+
+_:t417113 <http://www.w3.org/2006/time#year> "-0771"^^xsd:gYear .
+
+_:t417114 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416957 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "978" .
+
+_:t417115 <http://www.w3.org/2006/time#year> "-0770"^^xsd:gYear .
+
+_:t417116 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416942 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "557" .
+
+_:t417117 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417000 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "925" .
+
+_:t417118 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417103 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "220" .
+
+_:t417119 <http://purl.org/dc/terms/creator> _:t417058 ;
+	<http://purl.org/dc/terms/contributor> _:t416955 ;
+	<http://purl.org/dc/terms/issued> "2015"^^xsd:gYear ;
+	<http://purl.org/dc/terms/title> "CHGIS: Major Chinese Periods Chronology" .
+
+_:t417120 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417008 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "923" .
+
+_:t417121 <http://www.w3.org/2006/time#year> "0945"^^xsd:gYear .
+
+_:t417122 <http://www.w3.org/2006/time#year> "1949"^^xsd:gYear .
+
+_:t417123 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417113 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-771" .
+
+_:t417124 <http://www.w3.org/2006/time#year> "-0770"^^xsd:gYear .
+
+_:t417125 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417056 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-206" .
+
+_:t417126 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417026 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-1046" .
+
+_:t417127 <http://www.w3.org/2006/time#year> "1032"^^xsd:gYear .
+
+<http://n2t.net/ark:/99152/p0fp7wvzjdh> <http://purl.org/dc/terms/language> "eng-latn" ;
+	<http://n2t.net/ark:/99152/p0v#spatialCoverageDescription> "China" ;
+	<http://purl.org/dc/terms/spatial> <http://dbpedia.org/resource/China> ;
+	a <http://www.w3.org/2004/02/skos/core#Concept> ;
+	<http://www.w3.org/2004/02/skos/core#altLabel> "西汉"@cmn-hans , "西漢"@cmn-hant , "Xihan"@cmn-latn , "Western Han Dynasty"@eng-latn ;
+	<http://www.w3.org/2004/02/skos/core#editorialNote> "Parent period: Han, 汉" ;
+	<http://www.w3.org/2004/02/skos/core#inScheme> <http://n2t.net/ark:/99152/p0fp7wv> ;
+	<http://www.w3.org/2004/02/skos/core#note> "First capital: 长安 (陕西西安), latitude: 34.3, longitude: 109.02" ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "Western Han Dynasty" .
+
+_:t416938 <http://www.w3.org/2006/time#year> "1227"^^xsd:gYear .
+
+_:t416939 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417050 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "581" .
+
+_:t416940 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417057 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "907" .
+
+_:t416941 <http://www.w3.org/2006/time#year> "0222"^^xsd:gYear .
+
+_:t416942 <http://www.w3.org/2006/time#year> "0557"^^xsd:gYear .
+
+_:t416943 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416952 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "220" .
+
+_:t416944 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417020 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "909" .
+
+_:t416945 <http://www.w3.org/2006/time#year> "0502"^^xsd:gYear .
+
+_:t416946 <http://www.w3.org/2006/time#year> "0025"^^xsd:gYear .
+
+_:t416947 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417143 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "304" .
+
+_:t416948 <http://www.w3.org/2006/time#year> "0280"^^xsd:gYear .
+
+_:t416949 <http://www.w3.org/2006/time#year> "0577"^^xsd:gYear .
+
+_:t416950 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417124 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-770" .
+
+_:t416951 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416999 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-221" .
+
+_:t416952 <http://www.w3.org/2006/time#year> "0220"^^xsd:gYear .
+
+_:t416953 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417030 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "534" .
+
+_:t416954 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417018 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1127" .
+
+_:t416955 foaf:name "" .
+
+_:t416956 <http://www.w3.org/2006/time#year> "0263"^^xsd:gYear .
+
+_:t416957 <http://www.w3.org/2006/time#year> "0978"^^xsd:gYear .
+
+_:t416958 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417098 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "557" .
+
+_:t416959 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416973 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "220" .
+
+_:t416960 <http://www.w3.org/2006/time#year> "2016"^^xsd:gYear .
+
+_:t416961 <http://www.w3.org/2006/time#year> "0025"^^xsd:gYear .
+
+_:t416962 <http://www.w3.org/2006/time#year> "1206"^^xsd:gYear .
+
+_:t416963 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417127 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1032" .
+
+_:t416964 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417108 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "550" .
+
+_:t416965 <http://www.w3.org/2006/time#year> "-1600"^^xsd:gYear .
+
+_:t416966 <http://www.w3.org/2006/time#year> "1388"^^xsd:gYear .
+
+_:t416967 <http://www.w3.org/2006/time#year> "-0475"^^xsd:gYear .
+
+_:t416968 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417135 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "923" .
+
+_:t416969 <http://www.w3.org/2006/time#year> "0221"^^xsd:gYear .
+
+_:t416970 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417047 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "420" .
+
+_:t416971 <http://www.w3.org/2006/time#year> "1279"^^xsd:gYear .
+
+_:t416972 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417137 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-476" .
+
+_:t416973 <http://www.w3.org/2006/time#year> "0220"^^xsd:gYear .
+
+_:t416974 <http://www.w3.org/2006/time#year> "0280"^^xsd:gYear .
+
+_:t416975 <http://www.w3.org/2006/time#year> "1644"^^xsd:gYear .
+
+_:t416976 <http://www.w3.org/2006/time#year> "-0256"^^xsd:gYear .
+
+_:t416977 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417088 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "479" .
+
+_:t416978 <http://www.w3.org/2006/time#year> "0581"^^xsd:gYear .
+
+_:t416979 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417086 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "23" .
+
+_:t416980 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417128 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "265" .
+
+_:t416981 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416969 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "221" .
+
+_:t416982 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417091 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-206" .
+
+_:t416983 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416975 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "1644" .
+
+_:t416984 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417089 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "950" .
+
+_:t416985 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417093 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "534" .
+
+_:t416986 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417036 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "557" .
+
+_:t416987 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416965 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-1600" .
+
+_:t416988 <http://www.w3.org/2006/time#year> "0265"^^xsd:gYear .
+
+_:t416989 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417147 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "960" .
+
+_:t416990 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t416945 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "502" .
+
+_:t416991 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417028 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "420" .
+
+_:t416992 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417142 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "-221" .
+
+_:t416993 <http://www.w3.org/2006/time#hasDateTimeDescription> _:t417005 ;
+	<http://www.w3.org/2004/02/skos/core#prefLabel> "550" .
+
+_:t416994 <http://www.w3.org/2006/time#year> "1279"^^xsd:gYear .

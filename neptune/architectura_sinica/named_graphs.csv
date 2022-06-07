@@ -1,0 +1,5 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
+http://architecturasinica.org/place/building,2019-11-13,Vanderbilt Heard Libraries,sd:NamedGraph,https://architecturasinica.org/,testing,
+http://architecturasinica.org/place/site,2019-11-13,Vanderbilt Heard Libraries,sd:NamedGraph,https://architecturasinica.org/,testing,
+http://architecturasinica.org/place/image,2019-11-13,Vanderbilt Heard Libraries,sd:NamedGraph,https://architecturasinica.org/,testing,
+http://tcadrt.org/timeline,2019-11-13,Vanderbilt Heard Libraries,sd:NamedGraph,https://architecturasinica.org/,testing,

@@ -1,0 +1,5 @@
+sd:name,sd:graph,filename,s3_upload_status,graph_load_status
+http://architecturasinica.org/place/building,http://architecturasinica.org/place/building#dataset,building.ttl,,
+http://architecturasinica.org/place/site,http://architecturasinica.org/place/site#dataset,site.ttl,,
+http://architecturasinica.org/place/image,http://architecturasinica.org/place/image#dataset,image.ttl,,
+http://tcadrt.org/timeline,http://tcadrt.org/timeline#dataset,timeline.ttl,,
