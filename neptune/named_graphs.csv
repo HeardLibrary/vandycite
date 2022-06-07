@@ -1,6 +1,6 @@
 sd:name,sd:graph,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
-http://syriaca.org/bibl#graph,http://syriaca.org/bibl,2018-03-06,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
-http://syriaca.org/persons#graph,http://syriaca.org/persons,2018-03-06,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
-http://syriaca.org/geo#graph,http://syriaca.org/geo,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
-http://syriaca.org/taxonomy#graph,http://syriaca.org/taxonomy,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
-http://syriaca.org/works#graph,http://syriaca.org/works,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,
+http://syriaca.org/bibl#graph,http://syriaca.org/bibl,2018-03-06,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,update complete
+http://syriaca.org/persons#graph,http://syriaca.org/persons,2018-03-06,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,update complete
+http://syriaca.org/geo#graph,http://syriaca.org/geo,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,update complete
+http://syriaca.org/taxonomy#graph,http://syriaca.org/taxonomy,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,update complete
+http://syriaca.org/works#graph,http://syriaca.org/works,2018-03-19,syriaca.org,sd:NamedGraph,http://syriaca.org/,production,update complete
