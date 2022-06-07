@@ -1,6 +1,6 @@
-sd:name,filename,s3_upload_status,graph_load_status
-http://syriaca.org/bibl#graph,works-pelagios.rdf,upload complete in 17.663815s,load complete in 13.572636s
-http://syriaca.org/persons#graph,persons-pelagios.rdf,upload complete in 13.092735s,load complete in 13.118643s
-http://syriaca.org/geo#graph,places-pelagios.rdf,upload complete in 9.535836s,load complete in 14.616923s
-http://syriaca.org/taxonomy#graph,subjects-pelagios.rdf,upload complete in 4.387971s,load complete in 4.335528s
-http://syriaca.org/works#graph,works-pelagios.rdf,upload complete in 15.403148s,load complete in 14.88581s
+sd:name,sd:graph,filename,s3_upload_status,graph_load_status
+http://syriaca.org/bibl#graph,http://syriaca.org/bibl,bibl-pelagios.rdf,,
+http://syriaca.org/persons#graph,http://syriaca.org/persons,persons-pelagios.rdf,,
+http://syriaca.org/geo#graph,http://syriaca.org/geo,places-pelagios.rdf,,
+http://syriaca.org/taxonomy#graph,http://syriaca.org/taxonomy,subjects-pelagios.rdf,,
+http://syriaca.org/works#graph,http://syriaca.org/works,works-pelagios.rdf,,
