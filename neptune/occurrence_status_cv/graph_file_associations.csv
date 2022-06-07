@@ -1,0 +1,2 @@
+sd:name,sd:graph,filename,s3_upload_status,graph_load_status
+http://rs.tdwg.org/cv/status,http://rs.tdwg.org/cv/status#dataset,status_cv.ttl,upload complete in 0.589095s,load complete in 0.575315s

@@ -1,0 +1,2 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
+http://rs.tdwg.org/cv/status,2017-05-02,Vanderbilt Heard Libraries,sd:NamedGraph,https://github.com/HeardLibrary/semantic-web/tree/master/vase,testing,
