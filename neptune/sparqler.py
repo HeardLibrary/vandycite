@@ -1,7 +1,7 @@
 # (c) 2022 Steven J. Baskauf
 # This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
 # Author: Steve Baskauf
-# Date: 2022-06-04
+# Date: 2022-06-07
 
 import requests
 import json
@@ -73,6 +73,8 @@ class Sparqler:
             The response media type (MIME type) of the query results.
             Some possible values for "select" and "ask" are: "application/sparql-results+json" (default) and "application/sparql-results+xml".
             Some possible values for "construct" and "describe" are: "text/turtle" (default) and "application/rdf+xml".
+            See https://docs.aws.amazon.com/neptune/latest/userguide/sparql-media-type-support.html#sparql-serialization-formats-neptune-output
+            for response serializations supported by Neptune.
         verbose: bool
             Prints status when True. Defaults to False.
         default: list of str
