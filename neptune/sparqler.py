@@ -28,40 +28,28 @@ class Sparqler:
     Required modules:
     -------------
     import requests
+    
     from time import sleep
     """
-    def __init__(self, **kwargs):
+    def __init__(self, method='post', endpoint='https://query.wikidata.org/sparql', useragent=None, sleep=0.1):
         # attributes for all methods
-        try:
-            self.http_method = kwargs['method']
-        except:
-            self.http_method = 'post' # default to POST
-        try:
-            self.endpoint = kwargs['endpoint']
-        except:
-            self.endpoint = 'https://query.wikidata.org/sparql' # default to Wikidata endpoint
-        try:
-            self.useragent = kwargs['useragent']
-        except:
+        self.http_method = method
+        self.endpoint = endpoint
+        if useragent is None:
             if self.endpoint == 'https://query.wikidata.org/sparql':
                 print('You must provide a value for the useragent argument when using the Wikidata Query Service.')
                 print()
                 raise KeyboardInterrupt # Use keyboard interrupt instead of sys.exit() because it works in Jupyter notebooks
-            else:
-                self.useragent = ''
-        try:
-            self.sleep = kwargs['sleep']
-        except:
-            self.sleep = 0.1 # default throtting of 0.1 seconds
+        self.sleep = sleep
 
         self.requestheader = {}
-        if self.useragent:
-            self.requestheader['User-Agent'] = self.useragent
+        if useragent:
+            self.requestheader['User-Agent'] = useragent
         
         if self.http_method == 'post':
             self.requestheader['Content-Type'] = 'application/x-www-form-urlencoded'
 
-    def query(self, query_string, **kwargs):
+    def query(self, query_string, form='select', verbose=False, **kwargs):
         """Sends a SPARQL query to the endpoint.
         
         Parameters
@@ -101,35 +89,24 @@ class Sparqler:
         data are sent as a dict with the urlencoded header. 
         See SPARQL 1.1 protocol notes at https://www.w3.org/TR/sparql11-protocol/#query-operation        
         """
-        try:
-            query_form = kwargs['form']
-        except:
-            query_form = 'select' # default to SELECT query form
-        try:
+        query_form = form
+        if 'mediatype' in kwargs:
             media_type = kwargs['mediatype']
-        except:
-            #if query_form == 'construct' or query_form == 'describe':
-            if query_form == 'construct':
+        else:
+            if query_form == 'construct' or query_form == 'describe':
+            #if query_form == 'construct':
                 media_type = 'text/turtle'
             else:
                 media_type = 'application/sparql-results+json' # default for SELECT and ASK query forms
         self.requestheader['Accept'] = media_type
-        try:
-            verbose = kwargs['verbose']
-        except:
-            verbose = False # default to no printouts
             
         # Build the payload dictionary (query and graph data) to be sent to the endpoint
         payload = {'query' : query_string}
-        try:
+        if 'default' in kwargs:
             payload['default-graph-uri'] = kwargs['default']
-        except:
-            pass
         
-        try:
+        if 'named' in kwargs:
             payload['named-graph-uri'] = kwargs['named']
-        except:
-            pass
 
         if verbose:
             print('querying SPARQL endpoint')
@@ -164,7 +141,7 @@ class Sparqler:
                     results = data['boolean'] # True or False result from ASK query 
                 return results           
 
-    def update(self, request_string, **kwargs):
+    def update(self, request_string, mediatype='application/json', verbose=False, **kwargs):
         """Sends a SPARQL update to the endpoint.
         
         Parameters
@@ -184,27 +161,16 @@ class Sparqler:
             Graphs that may be specified by IRI in the graph pattern. List items must be URIs in string form.
             If omitted, named graphs will be specified by USING NAMED clauses in the query itself.
         """
-        try:
-            media_type = kwargs['mediatype']
-        except:
-            media_type = 'application/json' # default response type after update
+        media_type = mediatype
         self.requestheader['Accept'] = media_type
-        try:
-            verbose = kwargs['verbose']
-        except:
-            verbose = False # default to no printouts
         
         # Build the payload dictionary (update request and graph data) to be sent to the endpoint
         payload = {'update' : request_string}
-        try:
+        if 'default' in kwargs:
             payload['using-graph-uri'] = kwargs['default']
-        except:
-            pass
         
-        try:
+        if 'named' in kwargs:
             payload['using-named-graph-uri'] = kwargs['named']
-        except:
-            pass
 
         if verbose:
             print('beginning update')
@@ -227,7 +193,7 @@ class Sparqler:
                 return None # Returns no value if an error converting to JSON (e.g. plain text) 
             return data           
 
-    def load(self, file_location, graph_uri, **kwargs):
+    def load(self, file_location, graph_uri, s3='', verbose=False, **kwargs):
         """Loads an RDF document into a specified graph.
         
         Parameters
@@ -243,15 +209,6 @@ class Sparqler:
         determine the type of serialization. Blazegraph requires it, AWS Neptune does not and apparently
         interprets serialization based on the file extension.
         """
-        try:
-            s3 = kwargs['s3']
-        except:
-            s3 = ''
-        try:
-            verbose = kwargs['verbose']
-        except:
-            verbose = False # default to no printouts
-
         if s3:
             request_string = 'LOAD <https://' + s3 + '.s3.amazonaws.com/' + file_location + '> INTO GRAPH <' + graph_uri + '>'
         else:
@@ -262,7 +219,7 @@ class Sparqler:
         data = self.update(request_string, verbose=verbose)
         return data
 
-    def drop(self, graph_uri, **kwargs):
+    def drop(self, graph_uri, verbose=False, **kwargs):
         """Drop a specified graph.
         
         Parameters
@@ -270,18 +227,13 @@ class Sparqler:
         verbose: bool
             Prints status when True. Defaults to False.
         """
-        try:
-            verbose = kwargs['verbose']
-        except:
-            verbose = False # default to no printouts
-
         request_string = 'DROP GRAPH <' + graph_uri + '>'
 
         if verbose:
             print('Deleting graph:', graph_uri)
         data = self.update(request_string, verbose=verbose)
         return data
-        
+
 # -----------------
 # Body of script
 # -----------------
