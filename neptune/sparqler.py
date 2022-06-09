@@ -4,9 +4,9 @@
 # Date: 2022-06-07
 
 import requests
-import json
-from time import sleep
 import datetime
+import time
+import json
 
 class Sparqler:
     """Build SPARQL queries of various sorts
@@ -27,9 +27,7 @@ class Sparqler:
         
     Required modules:
     -------------
-    import requests
-    
-    from time import sleep
+    requests, datetime, time
     """
     def __init__(self, method='post', endpoint='https://query.wikidata.org/sparql', useragent=None, sleep=0.1):
         # attributes for all methods
@@ -118,7 +116,7 @@ class Sparqler:
             response = requests.get(self.endpoint, params=payload, headers=self.requestheader)
         elapsed_time = (datetime.datetime.now() - start_time).total_seconds()
         self.response = response.text
-        sleep(self.sleep) # Throttle as a courtesy to avoid hitting the endpoint too fast.
+        time.sleep(self.sleep) # Throttle as a courtesy to avoid hitting the endpoint too fast.
 
         if verbose:
             print('done retrieving data in', int(elapsed_time), 's')
@@ -179,7 +177,7 @@ class Sparqler:
         response = requests.post(self.endpoint, data=payload, headers=self.requestheader)
         elapsed_time = (datetime.datetime.now() - start_time).total_seconds()
         self.response = response.text
-        sleep(self.sleep) # Throttle as a courtesy to avoid hitting the endpoint too fast.
+        time.sleep(self.sleep) # Throttle as a courtesy to avoid hitting the endpoint too fast.
 
         if verbose:
             print('done updating data in', int(elapsed_time), 's')
