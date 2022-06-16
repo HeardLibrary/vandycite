@@ -193,8 +193,8 @@ def get_xtools_page_creation_counts(username, project_url, api_sleep=0.1):
 # -----------------
 
 def get_vandycite_contribution_counts():
-    """# Retrieves the total contributions for all participants in the VandyCite project and writes to CSV file.
-    If it fails due to timeout or some other error, the input table remains unchanged.
+    """Retrieves the total contributions for all participants in the VandyCite project and writes to CSV file.
+    If it fails due to timeout or some other error, the input file remains unchanged.
     """
     
     # Get existing table of edit data
@@ -203,7 +203,6 @@ def get_vandycite_contribution_counts():
     
     # Get username list
     vandycite_user_list = []
-    
     text_string = load_file('vandycite_users.csv', bucket='disc-dashboard-data', path='vandycite/')
     user_dicts = read_string_to_dicts(text_string)
     for dict in user_dicts:
@@ -234,6 +233,49 @@ def get_vandycite_contribution_counts():
         table.append(row_dict)
         file_text_string = write_dicts_to_string(table, fieldnames)
         save_string_to_file_in_bucket(file_text_string, 'vandycite_edit_data.csv', path='vandycite/')
+        return True
+    else:
+        return False
+
+def get_vandycite_page_creation_counts():
+    """Retrieves the total number of new pages created for all VandyCite participants and writes to a VSV.
+    If it fails, the input file remains unchanged.
+    """
+    # Get existing table of new pages data
+    text_string = load_file('vandycite_page_creation_data.csv', bucket='disc-dashboard-data', path='vandycite/')
+    table = read_string_to_dicts(text_string)
+    
+    # Get username list
+    vandycite_user_list = []
+    text_string = load_file('vandycite_users.csv', bucket='disc-dashboard-data', path='vandycite/')
+    user_dicts = read_string_to_dicts(text_string)
+    for dict in user_dicts:
+        vandycite_user_list.append(dict['username'])
+
+    # Retrieve data from XTools User Pages API
+    project_url = 'www.wikidata.org'
+
+    fieldnames = ['date'] + vandycite_user_list + ['total']
+    today = generate_utc_date()
+    row_dict = {'date': today}
+
+    total = 0
+    success = True
+    for username in vandycite_user_list:
+        #print(username)
+        count = get_xtools_page_creation_counts(username, project_url)
+        if count is None: # If not HTTP 200 or response not JSON abort this update
+            success = False
+            break # Get out of the loop with a failure state
+        else:
+            row_dict[username] = count
+            total += int(count)
+    row_dict['total'] = str(total)
+    
+    if success: # Only add the row if all data were collected successfully. Otherwise, the table is unchanged.
+        table.append(row_dict)
+        file_text_string = write_dicts_to_string(table, fieldnames)
+        save_string_to_file_in_bucket(file_text_string, 'vandycite_page_creation_data.csv', path='vandycite/')
         return True
     else:
         return False
