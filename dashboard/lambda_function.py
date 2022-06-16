@@ -280,46 +280,107 @@ def get_vandycite_page_creation_counts():
     else:
         return False
 
+def get_vu_counts():
+    """Runs all of the WDQS SPARQL queries that retrieve a single value for the whole university.
+    If it fails due to timeout or some other error, the file remains unchanged.
+    """
+    all_vu_query_list = [
+        {'name': 'vu_total',
+        'query': '''
+        select (count(distinct ?person) as ?single_value)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?person wdt:P1416 ?unit.
+          }
+        '''},
+        {'name': 'vu_men',
+        'query': '''
+        select (count(distinct ?man) as ?single_value)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?man wdt:P1416 ?unit.
+          ?man wdt:P21 wd:Q6581097.
+          }
+        '''},
+        {'name': 'vu_women',
+        'query': '''
+        select (count(distinct ?woman) as ?single_value)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?woman wdt:P1416 ?unit.
+          ?woman wdt:P21 wd:Q6581072.
+          }
+        '''},
+        {'name': 'vu_orcid',
+        'query': '''
+        select (count(distinct ?person) as ?single_value)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?person wdt:P1416 ?unit.
+          ?person wdt:P496 ?orcid.
+          }
+        '''},
+        {'name': 'vu_works',
+        'query': '''
+        select (count(distinct ?work) as ?single_value)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?person wdt:P1416 ?unit.
+          ?work wdt:P50 ?person.
+          }
+        '''},
+        {'name': 'vu_men_works',
+        'query': '''
+        select (count(distinct ?work) as ?single_value)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?man wdt:P1416 ?unit.
+          ?man wdt:P21 wd:Q6581097.
+          ?work wdt:P50 ?man.
+          }
+        '''},
+        {'name': 'vu_women_works',
+        'query': '''
+        select (count(distinct ?work) as ?single_value)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?woman wdt:P1416 ?unit.
+          ?woman wdt:P21 wd:Q6581072.
+          ?work wdt:P50 ?woman.
+          }
+        '''},
+    ]
+    #print(json.dumps(all_vu_query_list, indent=2))
+    
+    # Load existing data
+    text_string = load_file('vandycite_item_data.csv', bucket='disc-dashboard-data', path='vandycite/')
+    table = read_string_to_dicts(text_string)
+
+    fieldnames = ['date']
+    today = generate_utc_date()
+    row_dict = {'date': today}
+
+    # Retrieve data from Wikidata Query Service
+    success = True
+    for query_dict in all_vu_query_list:
+        query_name = query_dict['name']
+        print(query_name)
+        fieldnames.append(query_name)
+        count = get_single_value(query_dict['query'])
+        if count is None: # If not HTTP 200 or response not JSON abort this update
+            success = False
+            break # Get out of the loop with a failure state
+        else:
+            row_dict[query_name] = count
+
+    if success: # Only add the row if all data were collected successfully. Otherwise, the table is unchanged.
+        table.append(row_dict)
+        file_text_string = write_dicts_to_string(table, fieldnames)
+        save_string_to_file_in_bucket(file_text_string, 'vandycite_item_data.csv', path='vandycite/')
+        return True
+    else:
+        return False
+
 # -----------------
 # main script
 # -----------------
 
 def lambda_handler(event, context):
-    '''
-    request_header_dict = generate_header_dictionary()
-    # Extract the data about the file triggering the S3 event
-    #in_file_name = event['Records'][0]['s3']['object']['key']
-    in_file_name = 'url.txt'
-    #in_bucket_name = event['Records'][0]['s3']['bucket']['name']
-    in_bucket_name = 'baskauf-lambda-input'
-    
-    file_string = load_file('url.txt')
-
-    print(file_string)
-    
-    json_string = get_request(file_string, headers=request_header_dict)
-    data = json.loads(json_string)
-    '''
-    
-    username = 'Clifford_Anderson'
-    project = 'wikidata'
-    namespace = '0'
-    project_url = 'www.wikidata.org'
-    #result = get_xtools_edit_counts(username, project, namespace)
-    #data = get_xtools_page_creation_counts(username, project_url)
     #data = get_single_value(query)
     #data = get_unit_counts(query)
-    #data = write_dicts_to_string(table, ['username'])
-    #data = write_lists_to_string(table)
-    #github_cred_filename = '010e0da8-8793-439d-845c-66d937b040a1.'
-    #data = load_credential(github_cred_filename)
-    #bucket_name = 'disc-dashboard-data'
-    #path_string = 'vandycite/'
-    #file_name = 'vandycite_edit_data.csv'
-    #text_string = load_file(file_name, bucket=bucket_name, path=path_string)
-    #array = read_string_to_lists(text_string)
-    #out_string = write_lists_to_string(array)
-    #save_string_to_file_in_bucket(out_string, 'test.csv')
     result = get_vandycite_contribution_counts()
     
     print(result)
