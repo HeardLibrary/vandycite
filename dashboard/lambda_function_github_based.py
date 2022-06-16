@@ -1,3 +1,18 @@
+# Note: to use the GitHub API, you need to deploy PyGitHub: https://github.com/PyGithub/PyGithub
+# Follow the instructions at https://docs.aws.amazon.com/lambda/latest/dg/python-package.html#python-package-create-package-with-dependency
+# It is necessary to create the package on an EC2 instance that's running the same version of Linux as the Lambda.
+# Check https://docs.aws.amazon.com/lambda/latest/dg/lambda-runtimes.html to find the Linux version for the Python3 used in the lambda (Amazon Linux 2 for x86_64)
+# Created baskauf_python_lambda_package_builder2 EC2 t2micro instance. Used PEM baskauf_python_lambda_package_builder.pem
+# Allow access to key by issuing command: chmod 400 /Users/baskausj/baskauf_python_lambda_package_builder.pem
+# Connection notes at https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
+# Connect using: ssh -i baskauf_python_lambda_package_builder.pem ec2-user@ec2-3-83-117-207.compute-1.amazonaws.com
+# Python3 (and pip3) is already installed along with the OS.
+# Used command pip3 install --target ./package PyGithub
+# After finishing creating the .zip, use SCP to get it from the EC2 to local drive (in a terminal window that's not SSH'ed to the EC2):
+# scp -i baskauf_python_lambda_package_builder.pem ec2-user@ec2-3-83-117-207.compute-1.amazonaws.com:my-sourcecode-function/my-deployment-package.zip /Users/baskausj/my-deployment-package.zip
+# Then add the lambda_function.py to the zip file using: zip -g my-deployment-package.zip lambda_function.py
+
+
 import boto3
 import json
 import csv
@@ -6,6 +21,7 @@ import urllib3
 from time import sleep
 import datetime
 import pickle
+from github import Github
 
 # -----------------
 # utility functions
@@ -59,6 +75,40 @@ def get_request(url, headers=None, params=None):
     else:
         response_body = None
     return response_body
+
+def read_string_from_github_file(path_to_directory, filename, organization_name='heardlibrary', repo_name='dashboard'):
+    """Read a raw string from a file in GitHub."""
+    path = path_to_directory + filename
+    url = 'https://raw.githubusercontent.com/' + organization_name + '/' + repo_name + '/master/' + path
+    response = get_request(url)
+    return response
+
+def read_dicts_from_github_csv(path_to_directory, filename, organization_name='heardlibrary', repo_name='dashboard'):
+    """Read from a CSV file in GitHub into a list of dictionaries (representing a table)."""
+    path = path_to_directory + filename
+    url = 'https://raw.githubusercontent.com/' + organization_name + '/' + repo_name + '/master/' + path
+    response = get_request(url)
+    file_text = response.split('\n')
+    file_rows = csv.DictReader(file_text)
+    table = []
+    for row in file_rows:
+        table.append(row)
+    return table
+
+def read_lists_from_github_csv(path_to_directory, filename, organization_name='heardlibrary', repo_name='dashboard'):
+    """Read from a CSV file in GitHub into a list of lists (representing a table)."""
+    path = path_to_directory + filename
+    url = 'https://raw.githubusercontent.com/' + organization_name + '/' + repo_name + '/master/' + path
+    response = get_request(url)
+    file_text = response.split('\n')
+    # remove any trailing newlines
+    if file_text[len(file_text)-1] == '':
+        file_text = file_text[0:len(file_text)-1]
+    file_rows = csv.reader(file_text)
+    table = []
+    for row in file_rows:
+        table.append(row)
+    return table
 
 def write_dicts_to_string(table, fieldnames):
     """Write a list of dictionaries to a single string representing a CSV file"""
@@ -156,11 +206,43 @@ def get_xtools_page_creation_counts(username, project_url, api_sleep=0.1):
     sleep(api_sleep)
     return value
 
+# -----------------
+# functions for interacting with GitHub
+# -----------------
+
 def load_credential(filename):
     """Loads the GitHub token from a pickle (binary) file and converts it to text."""
     bytes_like_object = load_file(filename, format='bytes') # format kwarg prevents the loader from converting to UTF-8
     cred = pickle.loads(bytes_like_object) # This is the pickle method to un-pickle a bytes-like object.
     return cred
+    
+def login_get_repo(cred_filename, repo_name, github_username='', organization_name=''):
+    """Log in and return a repo object.
+    
+    Set a value for the github_username keyword to do a username login instead of using an access token. Note:
+    username logins are not possible when 2FA is enabled.
+    
+    Set a value for the organization_name to use an organizational account rather than an individual account. 
+    The token creator must have push access to the organization's repo.
+    """
+    if github_username:
+        pwd = load_credential(cred_filename)
+        g = Github(github_username, pwd)
+    else:
+        token = load_credential(cred_filename)
+        g = Github(login_or_token = token)
+    
+    if organization_name:
+        # this option creates an instance of a repo in an organization
+        # to which the token creator has push access
+        organization = g.get_organization(organization_name)
+        repo = organization.get_repo(repo_name)
+    else:
+        # this option accesses a user's repo instead of an organizational one
+        # In this case, the value of organization_name is not used.
+        user = g.get_user()
+        repo = user.get_repo(repo_name)
+    return repo
 
 # -----------------
 # main script
@@ -191,11 +273,19 @@ def lambda_handler(event, context):
     #data = get_xtools_page_creation_counts(username, project_url)
     #data = get_single_value(query)
     #data = get_unit_counts(query)
+    path_to_directory = 'vandycite/'
+    filename = 'vandycite_users.csv'
+    #data = read_string_from_github_file(path_to_directory, filename)
+    #table = read_dicts_from_github_csv(path_to_directory, filename)
+    #table = read_lists_from_github_csv(path_to_directory, filename)
     #data = write_dicts_to_string(table, ['username'])
     #data = write_lists_to_string(table)
     github_cred_filename = '010e0da8-8793-439d-845c-66d937b040a1.'
     #data = load_file(github_cred_filename)
-    data = load_credential(github_cred_filename)
+    #data = load_credential(github_cred_filename)
+    github_organization = 'heardlibrary'
+    repo_name = 'dashboard'
+    data = login_get_repo(github_cred_filename, repo_name, organization_name=github_organization)
     
     print(data)
     return {}
