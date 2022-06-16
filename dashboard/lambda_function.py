@@ -44,6 +44,17 @@ def load_file(filename, path='', bucket='baskauf-lambda-input', format='string')
     else:
         return file_bytes
 
+def load_credential(filename):
+    """Loads the GitHub token from a pickle (binary) file and converts it to text."""
+    bytes_like_object = load_file(filename, format='bytes') # format kwarg prevents the loader from converting to UTF-8
+    cred = pickle.loads(bytes_like_object) # This is the pickle method to un-pickle a bytes-like object.
+    return cred
+    
+def save_string_to_file_in_bucket(text_string, filename, content_type='text/csv', path='', bucket='disc-dashboard-data'):
+    s3_path = path + filename
+    s3_resource = boto3.resource('s3')
+    s3_resource.Object(bucket, s3_path).put(Body=text_string, ContentType=content_type)
+
 def get_request(url, headers=None, params=None):
     """Performs an HTTP GET from a URL and returns the response body as UTF-8 text, or None if not status 200."""
     if headers is None:
@@ -59,6 +70,27 @@ def get_request(url, headers=None, params=None):
     else:
         response_body = None
     return response_body
+    
+def read_string_to_dicts(text_string):
+    """Converts a single CSV text string into a list of dicts"""
+    file_text = text_string.split('\n')
+    file_rows = csv.DictReader(file_text)
+    table = []
+    for row in file_rows:
+        table.append(row)
+    return table
+
+def read_string_to_lists(text_string):
+    """Converts a single CSV text string into a list of lists"""
+    file_text = text_string.split('\n')
+    # remove any trailing newlines
+    if file_text[len(file_text)-1] == '':
+        file_text = file_text[0:len(file_text)-1]
+    file_rows = csv.reader(file_text)
+    table = []
+    for row in file_rows:
+        table.append(row)
+    return table
 
 def write_dicts_to_string(table, fieldnames):
     """Write a list of dictionaries to a single string representing a CSV file"""
@@ -156,12 +188,6 @@ def get_xtools_page_creation_counts(username, project_url, api_sleep=0.1):
     sleep(api_sleep)
     return value
 
-def load_credential(filename):
-    """Loads the GitHub token from a pickle (binary) file and converts it to text."""
-    bytes_like_object = load_file(filename, format='bytes') # format kwarg prevents the loader from converting to UTF-8
-    cred = pickle.loads(bytes_like_object) # This is the pickle method to un-pickle a bytes-like object.
-    return cred
-
 # -----------------
 # main script
 # -----------------
@@ -193,9 +219,15 @@ def lambda_handler(event, context):
     #data = get_unit_counts(query)
     #data = write_dicts_to_string(table, ['username'])
     #data = write_lists_to_string(table)
-    github_cred_filename = '010e0da8-8793-439d-845c-66d937b040a1.'
-    #data = load_file(github_cred_filename)
-    data = load_credential(github_cred_filename)
+    #github_cred_filename = '010e0da8-8793-439d-845c-66d937b040a1.'
+    #data = load_credential(github_cred_filename)
+    bucket_name = 'disc-dashboard-data'
+    path_string = 'vandycite/'
+    file_name = 'vandycite_edit_data.csv'
+    text_string = load_file(file_name, bucket=bucket_name, path=path_string)
+    array = read_string_to_lists(text_string)
+    out_string = write_lists_to_string(array)
+    save_string_to_file_in_bucket(out_string, 'test.csv')
     
-    print(data)
+    #print(data)
     return {}
