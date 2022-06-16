@@ -189,6 +189,56 @@ def get_xtools_page_creation_counts(username, project_url, api_sleep=0.1):
     return value
 
 # -----------------
+# top-level functions for acquiring the main datasets
+# -----------------
+
+def get_vandycite_contribution_counts():
+    """# Retrieves the total contributions for all participants in the VandyCite project and writes to CSV file.
+    If it fails due to timeout or some other error, the input table remains unchanged.
+    """
+    
+    # Get existing table of edit data
+    text_string = load_file('vandycite_edit_data.csv', bucket='disc-dashboard-data', path='vandycite/')
+    table = read_string_to_dicts(text_string)
+    
+    # Get username list
+    vandycite_user_list = []
+    
+    text_string = load_file('vandycite_users.csv', bucket='disc-dashboard-data', path='vandycite/')
+    user_dicts = read_string_to_dicts(text_string)
+    for dict in user_dicts:
+        vandycite_user_list.append(dict['username'])
+
+    # Retrieve data from XTools Edit Counter API
+    project = 'wikidata'
+    namespace = '0' # 0 is the main namespace
+
+    fieldnames = ['date'] + vandycite_user_list + ['total']
+    today = generate_utc_date()
+    row_dict = {'date': today}
+
+    total = 0
+    success = True
+    for username in vandycite_user_list:
+        #print(username)
+        count = get_xtools_edit_counts(username, project, namespace)
+        if count is None: # If not HTTP 200 or response not JSON abort this update
+            success = False
+            break # Get out of the loop with a failure state
+        else:
+            row_dict[username] = count
+            total += int(count)
+    row_dict['total'] = str(total)
+    
+    if success: # Only add the row if all data were collected successfully. Otherwise, the table is unchanged.
+        table.append(row_dict)
+        file_text_string = write_dicts_to_string(table, fieldnames)
+        save_string_to_file_in_bucket(file_text_string, 'vandycite_edit_data.csv', path='vandycite/')
+        return True
+    else:
+        return False
+
+# -----------------
 # main script
 # -----------------
 
@@ -209,11 +259,11 @@ def lambda_handler(event, context):
     data = json.loads(json_string)
     '''
     
-    username = 'Baskaufs'
+    username = 'Clifford_Anderson'
     project = 'wikidata'
     namespace = '0'
     project_url = 'www.wikidata.org'
-    #data = get_xtools_edit_counts(username, project, namespace)
+    #result = get_xtools_edit_counts(username, project, namespace)
     #data = get_xtools_page_creation_counts(username, project_url)
     #data = get_single_value(query)
     #data = get_unit_counts(query)
@@ -221,13 +271,14 @@ def lambda_handler(event, context):
     #data = write_lists_to_string(table)
     #github_cred_filename = '010e0da8-8793-439d-845c-66d937b040a1.'
     #data = load_credential(github_cred_filename)
-    bucket_name = 'disc-dashboard-data'
-    path_string = 'vandycite/'
-    file_name = 'vandycite_edit_data.csv'
-    text_string = load_file(file_name, bucket=bucket_name, path=path_string)
-    array = read_string_to_lists(text_string)
-    out_string = write_lists_to_string(array)
-    save_string_to_file_in_bucket(out_string, 'test.csv')
+    #bucket_name = 'disc-dashboard-data'
+    #path_string = 'vandycite/'
+    #file_name = 'vandycite_edit_data.csv'
+    #text_string = load_file(file_name, bucket=bucket_name, path=path_string)
+    #array = read_string_to_lists(text_string)
+    #out_string = write_lists_to_string(array)
+    #save_string_to_file_in_bucket(out_string, 'test.csv')
+    result = get_vandycite_contribution_counts()
     
-    #print(data)
+    print(result)
     return {}
