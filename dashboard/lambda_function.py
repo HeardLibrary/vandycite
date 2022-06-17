@@ -374,6 +374,75 @@ def get_vu_counts():
     else:
         return False
 
+def get_unit_affiliation_queries():
+    units_query_list = [
+        {'name': 'units_total',
+        'query': '''
+        select ?unit (count(distinct ?person) as ?count)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?person wdt:P1416 ?unit.
+          }
+        group by ?unit
+        '''},
+        {'name': 'units_women',
+        'query': '''
+        select ?unit (count(distinct ?woman) as ?count)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?woman wdt:P1416 ?unit.
+          ?woman wdt:P21 wd:Q6581072.
+          }
+        group by ?unit
+        '''},
+        {'name': 'units_men',
+        'query': '''
+        select ?unit (count(distinct ?man) as ?count)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?man wdt:P1416 ?unit.
+          ?man wdt:P21 wd:Q6581097.
+          }
+        group by ?unit
+        '''},
+        {'name': 'units_orcid',
+        'query': '''
+        select ?unit (count(distinct ?person) as ?count)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?person wdt:P1416 ?unit.
+          ?person wdt:P496 ?orcid.
+          }
+        group by ?unit
+        '''},
+        {'name': 'units_works',
+        'query': '''
+        select ?unit (count(distinct ?work) as ?count)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?person wdt:P1416 ?unit.
+          ?work wdt:P50 ?person.
+          }
+        group by ?unit
+        '''},
+        {'name': 'units_works_men',
+        'query': '''
+        select ?unit (count(distinct ?work) as ?count)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?man wdt:P1416 ?unit.
+          ?man wdt:P21 wd:Q6581097.
+          ?work wdt:P50 ?man.
+          }
+        group by ?unit
+        '''},
+        {'name': 'units_works_women',
+        'query': '''
+        select ?unit (count(distinct ?work) as ?count)  where {
+          ?unit wdt:P749+ wd:Q29052.
+          ?woman wdt:P1416 ?unit.
+          ?woman wdt:P21 wd:Q6581072.
+          ?work wdt:P50 ?woman.
+          }
+        group by ?unit
+        '''}
+    ]
+    return units_query_list
+
 # -----------------
 # main script
 # -----------------
