@@ -375,6 +375,7 @@ def get_vu_counts():
         return False
 
 def get_unit_affiliation_queries():
+    """Creates a list of dictionaries containing SPARQL queries to retrieve Wikidata data by academic unit"""
     units_query_list = [
         {'name': 'units_total',
         'query': '''
@@ -442,6 +443,39 @@ def get_unit_affiliation_queries():
         '''}
     ]
     return units_query_list
+
+def get_vu_counts_by_unit():
+    """Loops through a series of queries that retrieves counts data from Wikidata about Vanderbilt academic units"""
+    units_query_list = get_unit_affiliation_queries()
+    for query_dict in units_query_list:
+        print(query_dict['name'])
+        filename = query_dict['name'] + '.csv'
+        text_string = load_file(filename, bucket='disc-dashboard-data', path='vandycite/')
+        # NOTE: This differs from other functions in that it creates a list of lists rather than a list of dicts.
+        table = read_string_to_lists(text_string)
+        
+        date = generate_utc_date()
+
+        # Retrieve data from Wikidata Query Service
+        dictionary = get_unit_counts(query_dict['query'])
+        if dictionary is None:
+            success = False
+        else:
+            row_list = [date]
+            # Go through each column header and try to match it to the SPARQL query results
+            for header in table[0][1:len(table[0])]: # skip the first item (date)
+                found = False
+                for count in dictionary:
+                    if count['unit'] == header:
+                        found = True
+                        row_list.append(count['count'])
+                if not found:
+                    row_list.append('0')
+            table.append(row_list) # Add the new data row to the end of the table.
+            file_text_string = write_lists_to_string(table)
+            save_string_to_file_in_bucket(file_text_string, filename, path='vandycite/')
+            success = True
+        print(success)
 
 # -----------------
 # main script
