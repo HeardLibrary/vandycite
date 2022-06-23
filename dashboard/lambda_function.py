@@ -32,7 +32,7 @@ def generate_header_dictionary():
     }
     return request_header_dictionary
 
-def load_file(filename, path='', bucket='baskauf-lambda-input', format='string'):
+def load_file(filename, path='', bucket='disc-dashboard-data', format='string'):
     """Loads text from a file in an S3 bucket and returns a UTF-8 string that is the file contents."""
     s3in = boto3.resource('s3') # s3 object
     in_bucket = s3in.Bucket(bucket) # bucket object
@@ -198,12 +198,12 @@ def get_vandycite_contribution_counts():
     """
     
     # Get existing table of edit data
-    text_string = load_file('vandycite_edit_data.csv', bucket='disc-dashboard-data', path='vandycite/')
+    text_string = load_file('vandycite_edit_data.csv', path='vandycite/')
     table = read_string_to_dicts(text_string)
     
     # Get username list
     vandycite_user_list = []
-    text_string = load_file('vandycite_users.csv', bucket='disc-dashboard-data', path='vandycite/')
+    text_string = load_file('vandycite_users.csv', path='vandycite/')
     user_dicts = read_string_to_dicts(text_string)
     for dict in user_dicts:
         vandycite_user_list.append(dict['username'])
@@ -211,7 +211,6 @@ def get_vandycite_contribution_counts():
     # Retrieve data from XTools Edit Counter API
     project = 'wikidata'
     namespace = '0' # 0 is the main namespace
-
     fieldnames = ['date'] + vandycite_user_list + ['total']
     today = generate_utc_date()
     row_dict = {'date': today}
@@ -229,7 +228,7 @@ def get_vandycite_contribution_counts():
             total += int(count)
     row_dict['total'] = str(total)
     
-    if success: # Only add the row if all data were collected successfully. Otherwise, the table is unchanged.
+    if success: # Only add the row and write if all data were collected successfully. Otherwise, the table is unchanged.
         table.append(row_dict)
         file_text_string = write_dicts_to_string(table, fieldnames)
         save_string_to_file_in_bucket(file_text_string, 'vandycite_edit_data.csv', path='vandycite/')
@@ -242,12 +241,12 @@ def get_vandycite_page_creation_counts():
     If it fails, the input file remains unchanged.
     """
     # Get existing table of new pages data
-    text_string = load_file('vandycite_page_creation_data.csv', bucket='disc-dashboard-data', path='vandycite/')
+    text_string = load_file('vandycite_page_creation_data.csv', path='vandycite/')
     table = read_string_to_dicts(text_string)
     
     # Get username list
     vandycite_user_list = []
-    text_string = load_file('vandycite_users.csv', bucket='disc-dashboard-data', path='vandycite/')
+    text_string = load_file('vandycite_users.csv', path='vandycite/')
     user_dicts = read_string_to_dicts(text_string)
     for dict in user_dicts:
         vandycite_user_list.append(dict['username'])
@@ -346,7 +345,7 @@ def get_vu_counts():
     #print(json.dumps(all_vu_query_list, indent=2))
     
     # Load existing data
-    text_string = load_file('vandycite_item_data.csv', bucket='disc-dashboard-data', path='vandycite/')
+    text_string = load_file('vandycite_item_data.csv', path='vandycite/')
     table = read_string_to_dicts(text_string)
 
     fieldnames = ['date']
@@ -357,7 +356,7 @@ def get_vu_counts():
     success = True
     for query_dict in all_vu_query_list:
         query_name = query_dict['name']
-        print(query_name)
+        #print(query_name)
         fieldnames.append(query_name)
         count = get_single_value(query_dict['query'])
         if count is None: # If not HTTP 200 or response not JSON abort this update
@@ -444,47 +443,100 @@ def get_unit_affiliation_queries():
     ]
     return units_query_list
 
-def get_vu_counts_by_unit():
+def get_vu_counts_by_unit(last_run, last_script_run):
     """Loops through a series of queries that retrieves counts data from Wikidata about Vanderbilt academic units"""
     units_query_list = get_unit_affiliation_queries()
     for query_dict in units_query_list:
-        print(query_dict['name'])
+        #print(query_dict['name'])
         filename = query_dict['name'] + '.csv'
-        text_string = load_file(filename, bucket='disc-dashboard-data', path='vandycite/')
-        # NOTE: This differs from other functions in that it creates a list of lists rather than a list of dicts.
-        table = read_string_to_lists(text_string)
         
-        date = generate_utc_date()
-
-        # Retrieve data from Wikidata Query Service
-        dictionary = get_unit_counts(query_dict['query'])
-        if dictionary is None:
-            success = False
-        else:
-            row_list = [date]
-            # Go through each column header and try to match it to the SPARQL query results
-            for header in table[0][1:len(table[0])]: # skip the first item (date)
-                found = False
-                for count in dictionary:
-                    if count['unit'] == header:
-                        found = True
-                        row_list.append(count['count'])
-                if not found:
-                    row_list.append('0')
-            table.append(row_list) # Add the new data row to the end of the table.
-            file_text_string = write_lists_to_string(table)
-            save_string_to_file_in_bucket(file_text_string, filename, path='vandycite/')
-            success = True
-        print(success)
+        if generate_utc_date() > last_run[filename].split('T')[0]:
+            text_string = load_file(filename, path='vandycite/')
+            # NOTE: This differs from other functions in that it creates a list of lists rather than a list of dicts.
+            table = read_string_to_lists(text_string)
+            
+            date = generate_utc_date()
+    
+            # Retrieve data from Wikidata Query Service
+            dictionary = get_unit_counts(query_dict['query'])
+            if dictionary is None:
+                success = False
+            else:
+                row_list = [date]
+                # Go through each column header and try to match it to the SPARQL query results
+                for header in table[0][1:len(table[0])]: # skip the first item (date)
+                    found = False
+                    for count in dictionary:
+                        if count['unit'] == header:
+                            found = True
+                            row_list.append(count['count'])
+                    if not found:
+                        row_list.append('0')
+                table.append(row_list) # Add the new data row to the end of the table.
+                file_text_string = write_lists_to_string(table)
+                save_string_to_file_in_bucket(file_text_string, filename, path='vandycite/')
+                success = True
+            if success:
+                last_run[filename] = datetime.datetime.utcnow().isoformat()
+                file_text_string = json.dumps(last_run)
+                save_string_to_file_in_bucket(file_text_string, 'last_run.json')
+                print(filename, datetime.datetime.utcnow().isoformat())
+            else: # If the file update was unsuccessful, do nothing on the first try of the day.
+                if last_script_run == generate_utc_date(): # If fail and the script was already run today...
+                    print('Send email about', filename)
+    return last_run
 
 # -----------------
 # main script
 # -----------------
 
 def lambda_handler(event, context):
-    #data = get_single_value(query)
-    #data = get_unit_counts(query)
-    result = get_vandycite_contribution_counts()
+    print('start update:', datetime.datetime.utcnow().isoformat())
     
-    print(result)
-    return {}
+    # Load the date of the last time the lambda ran
+    last_script_run = load_file('last_run.txt')
+    
+    # Load the data about the last time each datafile was successfully updated.
+    text_string = load_file('last_run.json')
+    last_run = json.loads(text_string)
+    
+    # Collect the data if the current date is later than the date the last time the file was updated.
+    if generate_utc_date() > last_run['vandycite_edit_data.csv'].split('T')[0]:
+        result = get_vandycite_contribution_counts()
+        if result: # Save the file update time if successful
+            last_run['vandycite_edit_data.csv'] = datetime.datetime.utcnow().isoformat()
+            file_text_string = json.dumps(last_run)
+            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
+            print('vandycite_edit_data.csv', datetime.datetime.utcnow().isoformat())
+        else: # If the file update was unsuccessful, do nothing on the first try of the day.
+            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
+                print('Send email about vandycite_edit_data.csv')
+    
+    if generate_utc_date() > last_run['vandycite_page_creation_data.csv'].split('T')[0]:
+        result = get_vandycite_page_creation_counts()
+        if result:
+            last_run['vandycite_page_creation_data.csv'] = datetime.datetime.utcnow().isoformat()
+            file_text_string = json.dumps(last_run)
+            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
+            print('vandycite_page_creation_data.csv', datetime.datetime.utcnow().isoformat())
+        else: # If the file update was unsuccessful, do nothing on the first try of the day.
+            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
+                print('Send email about vandycite_page_creation_data.csv')
+        
+    if generate_utc_date() > last_run['vandycite_item_data.csv'].split('T')[0]:
+        result = get_vu_counts()
+        if result:
+            last_run['vandycite_item_data.csv'] = datetime.datetime.utcnow().isoformat()
+            file_text_string = json.dumps(last_run)
+            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
+            print('vandycite_item_data.csv', datetime.datetime.utcnow().isoformat())
+        else: # If the file update was unsuccessful, do nothing on the first try of the day.
+            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
+                print('Send email about vandycite_item_data.csv')
+    
+    last_run = get_vu_counts_by_unit(last_run, last_script_run)
+    
+    # Save the current date as the last time the lambda ran.
+    save_string_to_file_in_bucket(generate_utc_date(), 'last_run.txt')
+    
+    return last_run
