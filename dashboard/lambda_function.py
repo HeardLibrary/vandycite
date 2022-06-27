@@ -2,6 +2,7 @@ import boto3
 import json
 import csv
 import io
+import os
 import urllib3
 from time import sleep
 import datetime
@@ -108,6 +109,21 @@ def write_lists_to_string(table):
     for row in table:
         writer.writerow(row)
     return output.getvalue()
+    
+def send_email(message_string):
+    """Sends message_string as an email to subscribers of the sns api-update-fail topic.
+    To set up, create the topic, set the arn as the snsArn environmental variable,
+    and make sure that the SNS permissions have been added to the lambda's role.
+    """
+    sns = boto3.client('sns')
+    snsArn = os.environ['sns_arn']
+    response = sns.publish(
+        TargetArn=snsArn,
+        Message=json.dumps({
+            'default': json.dumps(message_string)
+        }),
+        MessageStructure='json'
+    )
 
 # -----------------
 # functions for interacting with APIs
@@ -483,7 +499,7 @@ def get_vu_counts_by_unit(last_run, last_script_run):
                 print(filename, datetime.datetime.utcnow().isoformat())
             else: # If the file update was unsuccessful, do nothing on the first try of the day.
                 if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                    print('Send email about', filename)
+                    send_email(filename + ' failed')
     return last_run
 
 # -----------------
@@ -510,7 +526,7 @@ def lambda_handler(event, context):
             print('vandycite_edit_data.csv', datetime.datetime.utcnow().isoformat())
         else: # If the file update was unsuccessful, do nothing on the first try of the day.
             if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                print('Send email about vandycite_edit_data.csv')
+                send_email('vandycite_edit_data.csv failed')
     
     if generate_utc_date() > last_run['vandycite_page_creation_data.csv'].split('T')[0]:
         result = get_vandycite_page_creation_counts()
@@ -521,7 +537,7 @@ def lambda_handler(event, context):
             print('vandycite_page_creation_data.csv', datetime.datetime.utcnow().isoformat())
         else: # If the file update was unsuccessful, do nothing on the first try of the day.
             if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                print('Send email about vandycite_page_creation_data.csv')
+                send_email('vandycite_page_creation_data.csv failed')
         
     if generate_utc_date() > last_run['vandycite_item_data.csv'].split('T')[0]:
         result = get_vu_counts()
@@ -532,7 +548,7 @@ def lambda_handler(event, context):
             print('vandycite_item_data.csv', datetime.datetime.utcnow().isoformat())
         else: # If the file update was unsuccessful, do nothing on the first try of the day.
             if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                print('Send email about vandycite_item_data.csv')
+                send_email('vandycite_item_data.csv failed')
     
     last_run = get_vu_counts_by_unit(last_run, last_script_run)
     
