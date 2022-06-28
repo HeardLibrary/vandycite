@@ -652,52 +652,35 @@ def lambda_handler(event, context):
     # Load the data about the last time each datafile was successfully updated.
     text_string = load_file('last_run.json')
     last_run = json.loads(text_string)
+
+    files_to_update = [
+        'commons_pageview_data.csv',
+        'vandycite_edit_data.csv',
+        'vandycite_page_creation_data.csv',
+        'vandycite_item_data.csv'
+    ]
     
+    for filename in files_to_update:
     # Collect the data if the current date is later than the date the last time the file was updated.
-    if generate_utc_date() > last_run['commons_pageview_data.csv'].split('T')[0]:
-        result = get_commons_pageview_counts()
-        if result: # Save the file update time if successful
-            last_run['commons_pageview_data.csv'] = datetime.datetime.utcnow().isoformat()
-            file_text_string = json.dumps(last_run)
-            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
-            print('commons_pageview_data.csv', datetime.datetime.utcnow().isoformat())
-        else: # If the file update was unsuccessful, do nothing on the first try of the day.
-            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                send_email('commons_pageview_data.csv failed')
-    
-    if generate_utc_date() > last_run['vandycite_edit_data.csv'].split('T')[0]:
-        result = get_vandycite_contribution_counts()
-        if result: # Save the file update time if successful
-            last_run['vandycite_edit_data.csv'] = datetime.datetime.utcnow().isoformat()
-            file_text_string = json.dumps(last_run)
-            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
-            print('vandycite_edit_data.csv', datetime.datetime.utcnow().isoformat())
-        else: # If the file update was unsuccessful, do nothing on the first try of the day.
-            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                send_email('vandycite_edit_data.csv failed')
-    
-    if generate_utc_date() > last_run['vandycite_page_creation_data.csv'].split('T')[0]:
-        result = get_vandycite_page_creation_counts()
-        if result:
-            last_run['vandycite_page_creation_data.csv'] = datetime.datetime.utcnow().isoformat()
-            file_text_string = json.dumps(last_run)
-            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
-            print('vandycite_page_creation_data.csv', datetime.datetime.utcnow().isoformat())
-        else: # If the file update was unsuccessful, do nothing on the first try of the day.
-            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                send_email('vandycite_page_creation_data.csv failed')
+        if generate_utc_date() > last_run[filename].split('T')[0]:
+            if filename == 'commons_pageview_data.csv':
+                result = get_commons_pageview_counts()
+            elif filename == 'vandycite_edit_data.csv':
+                result = get_vandycite_contribution_counts()
+            elif filename == 'vandycite_page_creation_data.csv':
+                result = get_vandycite_page_creation_counts()
+            elif filename == 'vandycite_item_data.csv':
+                result = get_vu_counts()
+
+            if result: # Save the file update time if successful
+                last_run[filename] = datetime.datetime.utcnow().isoformat()
+                file_text_string = json.dumps(last_run)
+                save_string_to_file_in_bucket(file_text_string, 'last_run.json')
+                print(filename, datetime.datetime.utcnow().isoformat())
+            else: # If the file update was unsuccessful, do nothing on the first try of the day.
+                if last_script_run == generate_utc_date(): # If fail and the script was already run today...
+                    send_email(filename, 'failed')
         
-    if generate_utc_date() > last_run['vandycite_item_data.csv'].split('T')[0]:
-        result = get_vu_counts()
-        if result:
-            last_run['vandycite_item_data.csv'] = datetime.datetime.utcnow().isoformat()
-            file_text_string = json.dumps(last_run)
-            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
-            print('vandycite_item_data.csv', datetime.datetime.utcnow().isoformat())
-        else: # If the file update was unsuccessful, do nothing on the first try of the day.
-            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
-                send_email('vandycite_item_data.csv failed')
-    
     last_run = get_vu_counts_by_unit(last_run, last_script_run)
     
     # Save the current date as the last time the lambda ran.
