@@ -1,9 +1,20 @@
+# StatsRetrieverLambda, a Python script for collecting Wikimedia data
+version = '0.1'
+created = '2022-06-28'
+
+# (c) 2022 Vanderbilt University. This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
+# Author: Steve Baskauf
+
+# IMPORTANT NOTE: If you hack this script to download your own data, you MUST change the user_agent_header
+# to your own email address.
+
 import boto3
 import json
 import csv
 import io
 import os
 import urllib3
+import urllib.parse
 from time import sleep
 import datetime
 import pickle
@@ -18,15 +29,30 @@ def generate_utc_date():
     date_z = whole_time_string_z.split('T')[0] # form 2019-12-05
     return date_z
 
+def yesterday_utc():
+    today = datetime.datetime.utcnow().toordinal() # get today as number of days from Jan 1, 1 CE
+    yesterday = datetime.datetime.fromordinal(today - 1) # turn ordinal day back into dateTime object
+    yesterday_iso = yesterday.strftime('%Y-%m-%d')
+    yesterday_wikimedia = yesterday.strftime('%Y%m%d')
+    return yesterday_iso, yesterday_wikimedia
+    
 def extract_localname(iri):
     """Parse the local name from an IRI"""
     pieces = iri.split('/')
     return pieces[len(pieces)-1] # return the last piece
 
+def filename_to_commons_page_article(filename):
+    """Performs encoding and character substitutions to convert a filename to the file string in a Commons URL"""
+    filename = filename.replace(' ', '_')
+    encoded_filename = urllib.parse.quote(filename)
+    url = 'File:' + encoded_filename
+    url = url.replace('%28', '(').replace('%29', ')').replace('%2C', ',')
+    return url
+
 def generate_header_dictionary():
     """Generate HTTP request header dictionary for Accept=JSON and a custom User-Agent string"""
     accept_media_type = 'application/json'
-    user_agent_header = 'StatsRetrieverLambda/0.1 (mailto:steve.baskauf@vanderbilt.edu)'
+    user_agent_header = 'StatsRetrieverLambda/' + version + ' (mailto:steve.baskauf@vanderbilt.edu)'
     request_header_dictionary = {
         'Accept' : accept_media_type,
         'User-Agent': user_agent_header
@@ -71,7 +97,20 @@ def get_request(url, headers=None, params=None):
     else:
         response_body = None
     return response_body
-    
+
+def get_request_status(url, headers=None, params=None):
+    """Performs an HTTP GET from a URL and returns the response body as UTF-8 text, or None if not status 200."""
+    if headers is None:
+        http = urllib3.PoolManager()
+    else:
+        http = urllib3.PoolManager(headers=headers)
+    if params is None:
+        response = http.request('GET', url)
+    else:
+        response = http.request('GET', url, fields=params)
+    response_body = response.data.decode('utf-8')
+    return response_body, response.status
+ 
 def read_string_to_dicts(text_string):
     """Converts a single CSV text string into a list of dicts"""
     file_text = text_string.split('\n')
@@ -204,6 +243,55 @@ def get_xtools_page_creation_counts(username, project_url, api_sleep=0.1):
     sleep(api_sleep)
     return value
 
+def get_pageview_counts(article, date, project='commons.wikimedia.org', api_sleep=0.015):
+    """Send a request to the Wikimedia REST API to get pageviews for an article.
+    article is the page name after 'wiki/' in the URL (e.g. "File:imagex.jpg", or "Q2")
+    date is in the format yyyymmdd
+    The rate limit is 100 calls/s, so api_sleep should not be decreased below 0.015
+    
+    NOTES:
+    Pageviews API information https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
+    Wikimedia REST API information https://wikimedia.org/api/rest_v1/
+    """
+    query_url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/' + project + '/all-access/user/' + article + '/daily/' + date + '/' + date
+    print(query_url)
+    response, code = get_request_status(query_url, headers=generate_header_dictionary())
+    if code == 200:
+        try:
+            data = json.loads(response)
+            if 'items' in data:
+                #print('Found record successfully.')
+                value = str(data['items'][0]['views'])
+        except:
+            # Error messages not in JSON format
+            print('API response not JSON')
+            value = None
+    elif code == 404:
+        try:
+            data = json.loads(response)
+            if 'detail' in data:
+                # Handle case where there were no views on that day or article didn't exist
+                message = 'The date(s) you used are valid, but we either do not have data for those date(s), or the project you asked for is not loaded yet.'
+                if message in data['detail']:
+                    value = str(0)
+                else:
+                    print('404 response "detail" did not have the valid date/no data response')
+                    value = None
+            else:
+                print('404 response did not include a "detail" field')
+                value = None
+        except:
+            print('404 response was not JSON')
+            value = None
+    else:
+        print('response neither 200 nor 404')
+        value = None
+            
+
+    # delay to avoid hitting the API to rapidly
+    sleep(api_sleep)
+    return value
+
 # -----------------
 # top-level functions for acquiring the main datasets
 # -----------------
@@ -292,6 +380,7 @@ def get_vandycite_page_creation_counts():
         file_text_string = write_dicts_to_string(table, fieldnames)
         save_string_to_file_in_bucket(file_text_string, 'vandycite_page_creation_data.csv', path='vandycite/')
         return True
+    
     else:
         return False
 
@@ -502,6 +591,54 @@ def get_vu_counts_by_unit(last_run, last_script_run):
                     send_email(filename + ' failed')
     return last_run
 
+def get_commons_pageview_counts():
+    """Retrieve the Commons page views for all Gallery works in the source file
+    If it fails due to timeout or some other error, the table remains unchanged
+    Returns a raw CSV string
+    """
+    # Load previous pageview data
+    text_string = load_file('commons_pageview_data.csv', path='gallery/')
+    table = read_string_to_dicts(text_string)
+
+    # Get Commons image data
+    text_string = load_file('commons_images.csv', path='gallery/')
+    user_dicts = read_string_to_dicts(text_string)
+
+    # Create column headers list
+    mid_list = [] # M IDs are the Commons equivalents of Q IDs used by the Structured data Wikibase
+    for dict_record in user_dicts:
+        mid_list.append(dict_record['commons_id'])
+        
+    # Retrieve data from the Wikimedia REST API
+    yesterday_iso, yesterday_wikimedia = yesterday_utc()
+    #yesterday_iso = '2021-12-11' # uncomment to override date to be checked
+    #yesterday_wikimedia = '20211211' # uncomment to override date to be checked
+
+    fieldnames = ['date', 'total'] + mid_list
+    row_dict = {'date': yesterday_iso}
+
+    total = 0
+    success = True
+    for dict_record in user_dicts:
+        image_filename = dict_record['image_name']
+        #print(image_filename)
+        count = get_pageview_counts(filename_to_commons_page_article(image_filename), yesterday_wikimedia)
+        if count is None:
+            success = False
+            break # Get out of loop with failure state
+        else:
+            row_dict[dict_record['commons_id']] = count
+            total += int(count)
+    row_dict['total'] = str(total)
+
+    if success:
+        table.append(row_dict)
+        file_text_string = write_dicts_to_string(table, fieldnames)
+        save_string_to_file_in_bucket(file_text_string, 'commons_pageview_data.csv', path='gallery/')
+        return True
+    else:
+        return False
+
 # -----------------
 # main script
 # -----------------
@@ -517,6 +654,17 @@ def lambda_handler(event, context):
     last_run = json.loads(text_string)
     
     # Collect the data if the current date is later than the date the last time the file was updated.
+    if generate_utc_date() > last_run['commons_pageview_data.csv'].split('T')[0]:
+        result = get_commons_pageview_counts()
+        if result: # Save the file update time if successful
+            last_run['commons_pageview_data.csv'] = datetime.datetime.utcnow().isoformat()
+            file_text_string = json.dumps(last_run)
+            save_string_to_file_in_bucket(file_text_string, 'last_run.json')
+            print('commons_pageview_data.csv', datetime.datetime.utcnow().isoformat())
+        else: # If the file update was unsuccessful, do nothing on the first try of the day.
+            if last_script_run == generate_utc_date(): # If fail and the script was already run today...
+                send_email('commons_pageview_data.csv failed')
+    
     if generate_utc_date() > last_run['vandycite_edit_data.csv'].split('T')[0]:
         result = get_vandycite_contribution_counts()
         if result: # Save the file update time if successful
