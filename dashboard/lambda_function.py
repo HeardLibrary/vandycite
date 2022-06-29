@@ -254,7 +254,7 @@ def get_pageview_counts(article, date, project='commons.wikimedia.org', api_slee
     Wikimedia REST API information https://wikimedia.org/api/rest_v1/
     """
     query_url = 'https://wikimedia.org/api/rest_v1/metrics/pageviews/per-article/' + project + '/all-access/user/' + article + '/daily/' + date + '/' + date
-    print(query_url)
+    #print(query_url)
     response, code = get_request_status(query_url, headers=generate_header_dictionary())
     if code == 200:
         try:
