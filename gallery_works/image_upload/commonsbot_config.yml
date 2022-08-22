@@ -133,19 +133,24 @@ requrired_filetype: tiff # required filetype, only used for filetype filter (not
 
 # Non-critical edits to commons should be made no faster than once every 5 seconds. 
 # See https://commons.wikimedia.org/wiki/Commons:Bots#Bot_speed
+# Therefore a waiting time of at least 5 seconds is enforced between file uploads to commons by the value of commons_sleep.
 
 # IMPORTANT NOTE: If you hack this script to upload media to Commons, you MUST NOT decrease the delay time between
-# API writes to less than 5 seconds in order to speed up writing. If you do, then your script isn't 
+# Commons API uploads to less than 5 seconds in order to speed up writing. If you do, then your script isn't 
 # BaskaufCommonsBot and you need to change the user_agent_string_template to use your own URL and email address.
 # The same holds true if you make other substantive changes to the way that the script interacts with the API.
 # This script attempts to respect the "good citizen" guidelines for using the API and you should too.
 
-# Because of the ASW s3 bucket upload, which is slow, I'm not using a 5 second delay here. This short delay
-# just gives a short break between the end of the media upload and uploading the structured data. There will
-# be a long delay after the structured data upload and when the next media upload begins because of the 
-# intervening s3 upload. If you hack this script and don't have an action that includes a built-in delay,
-# you should set this sleeptime to something like the 5 second commons_sleep value.
-commons_upload_sleep_time: 0.5
+# Because the ASW IIIF s3 bucket upload of the media file is slow, more than 5 seconds may elapse before the next Commons
+# file upload. If that occurrs, then no additional delay is added prior to the next Commons file upload. However, if you  
+# do not use the IIIF server features of the script, or if the file is small and takes less than 5 seconds to upload, 
+# the script will automatically sleep long enough to impose a total delay of the number of seconds given in the 
+# commons_sleep setting.
+
+# NOTE: upload rate limits for structured data in Commons are controlled by a different mechanism (maxlag). If the server is 
+# lagged when uploading structured data, this may also cause more than 5 seconds to elapse and also eliminate the need for
+# an additional delay before the next Commons media upload.
+commons_sleep: 5
 
 # Set the value of the maxlag parameter to back off when the Commons API server is lagged.
 # This applies only to uploads to the structured data on Commons Wikibase instance.
@@ -155,9 +160,6 @@ commons_upload_sleep_time: 0.5
 # To test the maxlag handler code, set maxlag to a very low number like .1
 # If you don't know what you are doing, leave this value alone. In any case, it is rude to use a value greater than 5.
 maxlag: 5
-
-# commons_sleep is used to determine waiting time when writing structured data and the API is lagged.
-commons_sleep: 5
 
 # If you change these values or significantly modify the software, you need to use your own user-agent string.
 # %s will be replaced with the current script_version value from the script global variables.
