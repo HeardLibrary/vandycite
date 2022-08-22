@@ -64,7 +64,11 @@ filename_institution: Vanderbilt Fine Arts Gallery
 category_strings:
   - Vanderbilt University Fine Arts Gallery
 
-# !!! Need to put IIIF manifest logo and attribution here instead of hard-coding !!!
+# Attribution for IIIF manifest
+iiif_manifest_attribution: Provided by Vanderbilt University Fine Arts Gallery
+
+# URL of logo to include in IIIF manifest. Leave blank to omit.
+iiif_manifest_logo_url: https://iiif.library.vanderbilt.edu/iiif/3/vanderbilt_logo.png/full/!100,100/0/default.jpg
 
 # -----------------------------------
 # Copyright and license configuration
