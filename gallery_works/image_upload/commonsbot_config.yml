@@ -6,18 +6,22 @@
 # located in the user's home directory. This can be changed, but if so you must take care to isolate
 # that file from the code and configuration files if they are publicly exposed (e.g. on GitHub).
 
-# Controls whether some paths are relative to the home directory or not. 
+# When value is present, sets path value as working directory. To leave working directory as is, leave blank.
+# Data files are relative to this directory. The error log is in this directory.
+# The commons_images.csv file that logs data about the uploaded images is also in this directory.
+working_directory_path: /users/baskausj/github/vandycite/gallery_works/image_upload/
+
+# Controls whether paths for images to upload are relative to the home directory or not. 
 # If not, they may be absolute or relative to the current working directory.
 path_is_relative_to_home_directory: true
-local_image_directory_path: gallery_digital_image_archive/ # location of images to upload to Commons
-
-# Absolute file paths for IIIF server upload
-local_image_root_directory: /users/baskausj/gallery_digital_image_archive/
-tiff_image_root_directory: /users/baskausj/gallery_pyramidal_tiffs/
+local_image_directory_path: gallery_digital_image_archive/ # location of raw images to upload
+tiff_image_directory_path: gallery_pyramidal_tiffs/ # location of pyramidal tiled TIFF images
 
 # File locations in AWS S3
 s3_iiif_bucket_name: iiif-library-cantaloupe-storage
 s3_manifest_bucket_name: iiif-manifest.library.vanderbilt.edu
+# The s3_iiif_project_directory is a subdirectory of these buckets. No trailing slash.
+# The subdir value in the image data is a subdirectory of this one.
 s3_iiif_project_directory: gallery
 
 # Root URLs for IIIF-related files
@@ -28,6 +32,10 @@ manifest_iri_root: https://iiif-manifest.library.vanderbilt.edu/
 # --------
 # Behavior
 # --------
+
+# Places a limit on the number of items to upload in a session. 
+# To remove the limit, use zero or a negative value.
+max_items_to_upload: 1
 
 # Controls whether the newly created Commons media page opens in a new browser window. 
 # Useful when testing on a few images, but may be annoying if uploading many media items.
@@ -56,6 +64,7 @@ filename_institution: Vanderbilt Fine Arts Gallery
 category_strings:
   - Vanderbilt University Fine Arts Gallery
 
+# !!! Need to put IIIF manifest logo and attribution here instead of hard-coding !!!
 
 # -----------------------------------
 # Copyright and license configuration
