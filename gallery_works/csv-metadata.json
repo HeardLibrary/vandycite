@@ -3,7 +3,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "tables": [
     {
-      "url": "works_multiprop.csv",
+      "url": "../../vandycite/gallery_works/works_multiprop.csv",
       "tableSchema": {
         "columns": [
           {
