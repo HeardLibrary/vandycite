@@ -1,4 +1,4 @@
-name,accession,rank,description,notes,kilobytes,height,width,create_date,subdir,extension
+local_filename,accession,rank,label,notes,kilobytes,height,width,photo_inception,subdir,extension
 1956.001.jpg,1956.001,suppress,,,39,274,472,2010-02-22,1956,jpg
 1956-001.tif,1956.001,primary,,,73531,2611,4805,2020-07-23,1956,tif
 1956.002.jpg,1956.002,suppress,,,81,581,432,2010-02-22,1956,jpg
