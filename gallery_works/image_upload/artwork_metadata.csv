@@ -1,4 +1,4 @@
-qid,accession_number,dimension,type,label,creator,inception_val,inception_earliest_date_val,inception_latest_date_val,style_period,rights,media_url,status
+qid,inventory_number,dimension,type,label,creator,inception_val,inception_earliest_date_val,inception_latest_date_val,style_period,rights,media_url,status
 Q103296133,1978.161ab,2D,artists book,(Shinzo) Ukiyo E Ruiko; two volumes,Q4233718,1868-01-01T00:00:00Z,,,,NO KNOWN COPYRIGHT,https://forum.jstor.org/assets/26754203/representation-view,inception prior to copyright cutoff
 Q102961187,,2D,artists book,1 Sekunde artist's book,,,,,,,,
 Q103296500,,2D,artists book,A New Volume of the Golden Jar and the First Plum Blossom,,,,,,,,
