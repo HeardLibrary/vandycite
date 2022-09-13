@@ -54,7 +54,10 @@ sparql_sleep = 0.1 # minimal delay between SPARQL queries
 # - make screens optional
 # - fixed issues caused by underscores in file names
 # -----------------------------------------
-# Version 0.5.5 change notes: 2022-09-08
+# Version 0.5.5 change notes: 2022-09-13
+# - enable preferred language other than English
+# - eliminate need for one work metadata file by getting labels and other data from Wikidata via SPARQL
+# - allow any local identifier to be used in the manifest IRI instead of requiring inventory number
 # -----------------------------------------
 
 
@@ -563,6 +566,37 @@ def query_inception_year(qid):
 
     return inception
 
+def query_inventory_number(qid, collection_qid):
+    """Retrieve the inventory number of a work for a particular institution from Wikidata.
+    
+    Parameters
+    ----------
+    qid : str
+        The Wikidata Q ID of the work.
+    collection_qid : str
+        The Wikidata Q ID of the institution issuing the inventory number (used as a qualifier).
+    """
+    query_string = '''select distinct ?inventory_number where {
+    wd:''' + qid + ''' p:P217 ?inventory_number_node.
+    ?inventory_number_node ps:P217 ?inventory_number.
+    ?inventory_number_node pq:P195 wd:''' + collection_qid + '''.
+      }
+    '''
+    #print(query_string)
+
+    error = False
+    wdqs = Sparqler(useragent=user_agent)
+    data = wdqs.query(query_string)
+    if data is None:
+        return 'Query error'
+    elif len(data) == 0:
+        return ''
+    elif len(data) == 1 and data[0] == {}:
+        return ''
+    else:
+        # There should only be one or zero inventory numbers per institution, but if 
+        # more than one, take the first one.
+        return data[0]['inventory_number']['value']
 
 # ------------------------
 # Commons identifier/URL conversion functions
@@ -1400,12 +1434,15 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
             {
             "label": "Artist",
             "value": work_metadata['creator_string']
-            },
-            {
-            "label": "Accession Number",
-            "value": work_metadata['inventory_number']
             }
     ]
+
+    if config_values['supply_accession_number']:
+        inventory_number = query_inventory_number(work_metadata['work_qid'], config_values['collection_qid'])
+        metadata_list.append({
+            "label": "Accession Number",
+            "value": inventory_number
+            })
 
     if work_metadata['creation_year'] != '':
         metadata_list.append({
@@ -1430,7 +1467,7 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
         "@id": work_metadata['iiif_manifest_iri'],
         "@type": "sc:Manifest",
         "label": label,
-        "description": work_metadata['description_en']
+        "description": work_metadata['work_description']
     }
 
     if config_values['iiif_manifest_logo_url'] != '':
@@ -1704,11 +1741,13 @@ for index, work in works_metadata.iterrows():
             # This defines the subdirectory into which the manifest for the work is sorted (if any).
             # In the case of the Vanderbilt Fine Arts Gallery, the inventory numbers universally begin with a year string followed by a dot. 
             # So resources associated with a particular inventory number are located in a directory whose name is that year string.
+            # The user-defined subdirectory_split_character allows a similar organization without requiring the first part to be a date
+            # or for the local identifier to be separated by a dot.
             # In another system the work subdirectory would need to be stored with the work metadata, or be set to empty string.
             # NOTE: a subdirectory may also be used to indicate the location of the locally stored image within the path. However,
             # that subdirectory structure does not have to be the same as is used in the organization of the works. It is saved on an 
             # image-by-image basis in the image.csv image information table.
-            work_metadata['work_subdirectory'] = work_metadata['local_identifier'].split('.')[0]
+            work_metadata['work_subdirectory'] = work_metadata['local_identifier'].split(config_values['subdirectory_split_character'])[0]
         else:
             work_metadata['work_subdirectory'] = ''
 
