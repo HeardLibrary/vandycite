@@ -1036,7 +1036,7 @@ def wbeditentity_upload(commons_login, maxlag, mid, caption, caption_language, s
     # Now add the array of claims to the data structure
     data_structure['claims'] = json_claims_list
 
-    print(json.dumps(data_structure, indent = 2))
+    #print(json.dumps(data_structure, indent = 2))
     #print()
 
     # Confusingly, the data structure has to be encoded as a JSON string before adding as a value of the data name 
@@ -1049,8 +1049,8 @@ def wbeditentity_upload(commons_login, maxlag, mid, caption, caption_language, s
 
     #print(json.dumps(parameter_dictionary, indent = 2))
 
-    #response = attempt_post('https://commons.wikimedia.org/w/api.php', parameter_dictionary, commons_login.session)
-    response  = {'success': 1}
+    response = attempt_post('https://commons.wikimedia.org/w/api.php', parameter_dictionary, commons_login.session)
+    #response  = {'success': 1} # use instead of the line above to test but not upload
 
     return response
 
@@ -1495,7 +1495,7 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
     s3_manifest_key = s3_iiif_project_directory + subdirectory + work_metadata['escaped_local_identifier'] + '.json'
     print('Uploading manifest to s3:', work_metadata['escaped_local_identifier'] + '.json')
     s3_resource = boto3.resource('s3')
-    #s3_resource.Object(config_values['s3_manifest_bucket_name'], s3_manifest_key).put(Body = manifest, ContentType = 'application/json')
+    s3_resource.Object(config_values['s3_manifest_bucket_name'], s3_manifest_key).put(Body = manifest, ContentType = 'application/json')
     print(work_metadata['iiif_manifest_iri'])
 
 # ---------------------------
@@ -1600,12 +1600,11 @@ for index, work in works_metadata.iterrows():
     # ---------------------------
 
     # Screen out works whose images are already in Commons
-    '''
     if index in existing_images.qid.values:
         if config_values['verbose']:
             print('already done')
         continue
-    '''
+
     if config_values['screen_by_copyright']:
         ip_status = works_metadata.loc[index, 'status']
 

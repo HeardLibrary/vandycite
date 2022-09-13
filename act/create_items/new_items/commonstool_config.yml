@@ -17,9 +17,9 @@ perform_iiif_upload: true
 # ignored if the major functions are disabled by the settings above. These need to be used with caution,
 # particularly if they only need to be done on a single file. The script may fail if a later part 
 # requires the result of an earlier part that has never been completed.
-suppress_media_upload_to_commons: true
+suppress_media_upload_to_commons: false
 suppress_uploading_structured_data_to_commons: false
-suppress_uploading_media_to_iiif_server: true
+suppress_uploading_media_to_iiif_server: false
 suppress_create_upload_iiif_manifest: false
 suppress_outputing_updated_upload_records: false
 
@@ -29,7 +29,7 @@ max_items_to_upload: 1
 
 # Controls whether the newly created Commons media page opens in a new browser window. 
 # Useful when testing on a few images, but may be annoying if uploading many media items.
-open_browser_tab_after_upload: false
+open_browser_tab_after_upload: true
 
 # Controls whether to show works that have been skipped over and the reason for skipping.
 # true shows the information and false suppresses display.
