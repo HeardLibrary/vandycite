@@ -1480,7 +1480,7 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
     manifest_dict["sequences"] = sequences_list
 
     manifest = json.dumps(manifest_dict, indent=4)
-    print(manifest)
+    #print(manifest)
 
     if config_values['s3_iiif_project_directory'] == '':
         s3_iiif_project_directory = ''
@@ -1723,8 +1723,7 @@ for index, work in works_metadata.iterrows():
         work_metadata['creator_string'] = artist_name_string
         work_metadata['creation_year'] = inception_date
         # The local identifier is taken from the column whose name is specified in the configuration data
-        # .item() converts from a Pandas value to a simple string
-        work_metadata['local_identifier'] = works_metadata[config_values['local_identifier_column_name']].item()
+        work_metadata['local_identifier'] = works_metadata.loc[index, config_values['local_identifier_column_name']]
 
         # -----------------
         # Machinations for generating path-related strings
