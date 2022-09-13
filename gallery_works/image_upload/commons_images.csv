@@ -1,4 +1,4 @@
-qid,commons_id,inventory_number,label_en,directory,local_filename,rank,image_name,iiif_manifest,notes
+qid,commons_id,local_identifier,label_en,directory,local_filename,rank,image_name,iiif_manifest,notes
 Q102961225,M113028886,1984.021,"A Conversation with Guido di Brettinoro, (Purgatorio, Canto 14) from Illustrations to Dante's Divine Comedy",1984,1984.021.tif,,A Conversation with Guido di Brettinoro - Vanderbilt Fine Arts Gallery - 1984.021.tif,https://iiif-manifest.library.vanderbilt.edu/gallery/1984/1984.021.tif.json,"Trial upload by script, linked by Quickstatements from Wikidata"
 Q102961508,M113040378,1979.0264P,Adoration of the Sheperds,1979,1979.0264P.tif,,Adoration of the Sheperds - Vanderbilt Fine Arts Gallery - 1979.0264P.tif,https://iiif-manifest.library.vanderbilt.edu/gallery/1979/1979.0264P.tif.json,
 Q102961566,M113051913,1993.222,Album painting of two men in a cottage in a mountain landscape,1993,1993.222.tif,,Album painting of two men in a cottage in a mountain landscape - Vanderbilt Fine Arts Gallery - 1993.222.tif,https://iiif-manifest.library.vanderbilt.edu/gallery/1993/1993.222.tif.json,
