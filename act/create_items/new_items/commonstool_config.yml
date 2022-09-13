@@ -18,8 +18,8 @@ perform_iiif_upload: true
 # particularly if they only need to be done on a single file. The script may fail if a later part 
 # requires the result of an earlier part that has never been completed.
 suppress_media_upload_to_commons: true
-suppress_uploading_structured_data_to_commons: true
-suppress_uploading_media_to_iiif_server: false
+suppress_uploading_structured_data_to_commons: false
+suppress_uploading_media_to_iiif_server: true
 suppress_create_upload_iiif_manifest: false
 suppress_outputing_updated_upload_records: false
 
@@ -29,7 +29,7 @@ max_items_to_upload: 1
 
 # Controls whether the newly created Commons media page opens in a new browser window. 
 # Useful when testing on a few images, but may be annoying if uploading many media items.
-open_browser_tab_after_upload: true
+open_browser_tab_after_upload: false
 
 # Controls whether to show works that have been skipped over and the reason for skipping.
 # true shows the information and false suppresses display.
@@ -183,10 +183,22 @@ s3_iiif_project_directory: act
 iiif_server_url_root: https://iiif.library.vanderbilt.edu/iiif/3/
 manifest_iri_root: https://iiif-manifest.library.vanderbilt.edu/
 
+# Column in the artwork metadata file to be used as the local identifier in the manifest IRI
+local_identifier_column_name: act_id
+
 # If this setting is enabled, IIIF manifests will be organized within subdirectories based
-# on the first part of the image file name (preceding the first dot . in the name). 
+# on the first part of the work local identifier (preceding the first split character in the identifier). 
 # This is reflected in the manifest IRIs. If disabled, no subdirectory is used.
 organize_manifests_in_subdirectories: false
+# Character to be used to split the local identifier
+subdirectory_split_character: "."
+
+# If true, the inventory number will be retrieved from Wikidata and included as accession number in manifest.
+supply_accession_number: false
+# The collection Q ID is used to specify the institution whose inventory number will be used (in the case where
+# several institutions have assigned inventory numbers to the same work). Ignored if supply_accession_number is
+# false.
+collection_qid: Q18563658
 
 # ----------------------------------------------------------------------
 # DO NOT MESS WITH VALUES BELOW THIS UNLESS YOU KNOW WHAT YOU ARE DOING!
