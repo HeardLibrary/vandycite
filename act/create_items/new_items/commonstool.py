@@ -1532,13 +1532,9 @@ errors = False
 # These files are all relative to the current working directory
 # Note: setting the index to be the Q ID requires that qid has a unique value for each row. This should be the case.
 
-# File with VanderBot upload data for artworks
+# File with supplemental data about dimensions and copyright status of artworks
 works_metadata = pd.read_csv(config_values['artwork_items_metadata_file'], na_filter=False, dtype = str)
 works_metadata.set_index('qid', inplace=True)
-
-# File with supplemental data about dimensions and copyright status of artworks
-works_supplemental_metadata = pd.read_csv(config_values['artwork_additional_metadata_file'], na_filter=False, dtype = str)
-works_supplemental_metadata.set_index('qid', inplace=True)
 
 # File with image metadata (file size, creation date, pixel dimensions, foreign key to accession, etc.)
 # Don't set the index to qid because multiple rows have the same qid
@@ -1611,7 +1607,7 @@ for index, work in works_metadata.iterrows():
         continue
     '''
     if config_values['screen_by_copyright']:
-        ip_status = works_supplemental_metadata.loc[index, 'status']
+        ip_status = works_metadata.loc[index, 'status']
 
         # Skip unevaluated copyright (empty status cells).
         if ip_status == '':
@@ -1729,7 +1725,7 @@ for index, work in works_metadata.iterrows():
         work_metadata['creation_year'] = inception_date
         # The local identifier is taken from the column whose name is specified in the configuration data
         # .item() converts from a Pandas value to a simple string
-        work_metadata['local_identifier'] = works_supplemental_metadata[config_values['local_identifier_column_name']].item()
+        work_metadata['local_identifier'] = works_metadata[config_values['local_identifier_column_name']].item()
 
         # -----------------
         # Machinations for generating path-related strings
@@ -1798,7 +1794,7 @@ for index, work in works_metadata.iterrows():
         # ------------
 
         if config_values['perform_commons_upload']:
-            if works_supplemental_metadata.loc[index, 'dimension'] == '3D':
+            if works_metadata.loc[index, 'dimension'] == '3D':
                 image_metadata['n_dimensions'] = '3D'
                 image_metadata['artwork_license_text'] = config_values['artwork_license_text_3d']
                 image_metadata['photo_license_text'] = config_values['photo_license_text_3d']

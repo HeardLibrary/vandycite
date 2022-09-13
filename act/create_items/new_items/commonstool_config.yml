@@ -50,11 +50,8 @@ working_directory_path: /users/baskausj/github/vandycite/act/create_items/new_it
 
 # Paths of the following four files are relative to the working directory path above.
 
-# File with VanderBot upload data for artworks
-artwork_items_metadata_file: new_act_artworks.csv
-
-# File with supplemental data about dimensions and copyright status of artworks
-artwork_additional_metadata_file: artwork_metadata.csv
+# File with data on Q ID, dimensions, local identifier, and copyright status of artworks
+artwork_items_metadata_file: artwork_metadata.csv
 
 # File with image metadata (file size, creation date, pixel dimensions, foreign key to accession, etc.)
 image_metadata_file: images.csv
