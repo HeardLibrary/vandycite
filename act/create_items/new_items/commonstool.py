@@ -1455,8 +1455,8 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
     else:
         subdirectory = work_metadata['work_subdirectory'] + '/'
 
-    s3_manifest_key = s3_iiif_project_directory + subdirectory + work_metadata['escaped_inventory_number'] + '.json'
-    print('Uploading manifest to s3:', work_metadata['escaped_inventory_number'] + '.json')
+    s3_manifest_key = s3_iiif_project_directory + subdirectory + work_metadata['escaped_local_identifier'] + '.json'
+    print('Uploading manifest to s3:', work_metadata['escaped_local_identifier'] + '.json')
     s3_resource = boto3.resource('s3')
     #s3_resource.Object(config_values['s3_manifest_bucket_name'], s3_manifest_key).put(Body = manifest, ContentType = 'application/json')
     print(work_metadata['iiif_manifest_iri'])
@@ -1690,6 +1690,9 @@ for index, work in works_metadata.iterrows():
     if config_values['perform_iiif_upload']:
         work_metadata['creator_string'] = artist_name_string
         work_metadata['creation_year'] = inception_date
+        # The local identifier is taken from the column whose name is specified in the configuration data
+        # .item() converts from a Pandas value to a simple string
+        work_metadata['local_identifier'] = works_supplemental_metadata[config_values['local_identifier_column_name']].item()
 
         # -----------------
         # Machinations for generating path-related strings
@@ -1705,7 +1708,7 @@ for index, work in works_metadata.iterrows():
             # NOTE: a subdirectory may also be used to indicate the location of the locally stored image within the path. However,
             # that subdirectory structure does not have to be the same as is used in the organization of the works. It is saved on an 
             # image-by-image basis in the image.csv image information table.
-            work_metadata['work_subdirectory'] = work['inventory_number'].split('.')[0]
+            work_metadata['work_subdirectory'] = work_metadata['local_identifier'].split('.')[0]
         else:
             work_metadata['work_subdirectory'] = ''
 
@@ -1726,8 +1729,8 @@ for index, work in works_metadata.iterrows():
         # Must URL encode the inventory number because it might contain weird characters like ampersand  
         # and who knows what other garbage that isn't safe for a URL. Also, spaces need to be replaced with underscores
         # because the IIIF server will turn the URL encoded spaces back into spaces, then create an error.
-        work_metadata['escaped_inventory_number'] = urllib.parse.quote(work['inventory_number'].replace(' ', '_'))
-        work_metadata['iiif_manifest_iri'] = config_values['manifest_iri_root'] + s3_iiif_project_directory + subdirectory + work_metadata['escaped_inventory_number'] + '.json'
+        work_metadata['escaped_local_identifier'] = urllib.parse.quote(work_metadata['local_identifier'].replace(' ', '_'))
+        work_metadata['iiif_manifest_iri'] = config_values['manifest_iri_root'] + s3_iiif_project_directory + subdirectory + work_metadata['escaped_local_identifier'] + '.json'
     
     # ======================
     # Loop through all images depicting a particular artwork
@@ -1882,7 +1885,7 @@ for index, work in works_metadata.iterrows():
             new_image_data = [{
                 'qid': work_metadata['work_qid'],
                 'commons_id': image_metadata['mid'],
-                'inventory_number': work_metadata['inventory_number'],
+                'local_identifier': work_metadata['local_identifier'],
                 'label_en': output_label,
                 'directory': image_metadata['subdir'],
                 'local_filename': image_metadata['local_filename'],
