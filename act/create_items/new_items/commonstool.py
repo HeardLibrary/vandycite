@@ -1518,6 +1518,10 @@ if config_values['working_directory_path'] != '':
     # Change working directory to image upload directory
     os.chdir(config_values['working_directory_path'])
     
+pd_categories = []
+for category in config_values['public_domain_categories']:
+    pd_categories.append(category['reason'])
+        
 # Error log should be saved in current working directory
 # The log_object is a global variable so that it can be accessed in all functions.
 log_path = 'error_log.txt'
@@ -1615,7 +1619,7 @@ for index, work in works_metadata.iterrows():
             continue
 
         # Screen for public domain works. 
-        if not ip_status in config_values['public_domain_categories']:
+        if not ip_status in pd_categories:
             if config_values['verbose']:
                 print('not public domain')
             continue
