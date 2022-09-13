@@ -15,7 +15,7 @@ commons_page_prefix = 'https://commons.wikimedia.org/wiki/File:'
 # If you modify this script, you need to change the user-agent string to something else!
 user_agent = 'CommonsTool/' + script_version + ' (mailto:steve.baskauf@vanderbilt.edu)'
 error_log = ''
-
+sparql_sleep = 0.1 # minimal delay between SPARQL queries
 
 # -----------------------------------------
 # Version 0.4 change notes: 
@@ -257,7 +257,7 @@ class Sparqler:
             self.requestheader['Content-Type'] = 'application/x-www-form-urlencoded'
 
     def query(self, query_string, form='select', verbose=False, **kwargs):
-        """Sends a SPARQL query to the endpoint.
+        """Send a SPARQL query to the endpoint.
         
         Parameters
         ----------
@@ -353,6 +353,19 @@ class Sparqler:
 # ------------------------
 
 def query_artwork_creator_name(qid):
+    """Retrieve author name string from Wikidata.
+    
+    Parameters
+    ----------
+    qid : str
+        The Wikidata Q ID of the artwork.
+
+    Notes
+    -----
+    Returns a tuple of (error, names) where error is True if there is a query error or no creator claim.
+    and otherwise it is False. names is a string; "artist unknown" for anonymous artists and otherwise
+    a string constructed from the labels of all of the artists.
+    """
     query_string = '''select distinct ?label ?role_label where {
     optional {
     wd:''' + qid + ''' p:P170 ?creator_node.
@@ -372,6 +385,8 @@ def query_artwork_creator_name(qid):
     error = False
     wdqs = Sparqler(useragent=user_agent)
     data = wdqs.query(query_string)
+    sleep(sparql_sleep)
+
     if data is None:
         error = True
         creator_names = 'Query error'
@@ -403,6 +418,102 @@ def query_artwork_creator_name(qid):
                     if len(data) > 2:
                         creator_names += ' ' + creator_name + ',' # stubbornly insist on Oxford comma
     return error, creator_names
+
+def query_item_labels(qid, pref_lang):
+    """Retrieve the label in a preferred language from Wikidata.
+    
+    Parameters
+    ----------
+    qid : str
+        The Wikidata Q ID of the item.
+    pref_lang : str
+        The language tag of the preferred language.
+
+    Notes
+    -----
+    Returns a tuple of (label, language) where label is in the preferred language, if it exists. 
+    Otherwise the English label is returned.  If labels exist in neither the preferred language 
+    nor English, it returns the empty string. language is the language tag of the returned label and
+    it is the empty string if no label was found.
+    """
+    query_string = '''select distinct ?label where {
+    wd:''' + qid + ''' rdfs:label ?label.
+      }
+    '''
+    #print(query_string)
+
+    error = False
+    wdqs = Sparqler(useragent=user_agent)
+    data = wdqs.query(query_string)
+    sleep(sparql_sleep)
+    
+    # Check for errors or no results
+    # It is unlikely that either the query will have an error or the item will have no labels
+    if data is None:
+        return 'Query error', ''
+    elif len(data) == 1 and data[0] == {}:
+        return '', ''
+    
+    # Try first to get the label in the preferred language
+    found = False
+    for value in data:
+        if value['label']['xml:lang'] == pref_lang:
+            found = True
+            label = value['label']['value']
+            lang = pref_lang
+            
+    # If the label can't be found in the preferred language, try to get English
+    if not found:
+        found = False
+        for value in data:
+            if value['label']['xml:lang'] == 'en':
+                found = True
+                label = value['label']['value']
+                lang = 'en'
+    if not found:
+        label = ''
+        lang = ''
+    
+    return label, lang
+
+def query_inception_year(qid):
+    """Retrieve the inception year from Wikidata.
+    
+    Parameters
+    ----------
+    qid : str
+        The Wikidata Q ID of the item.
+
+    Notes
+    -----
+    Returns the year as a string followed by " CE" or " BCE". If no inception date, returns an empty string.
+    """
+    query_string = '''select distinct ?inception where {
+    wd:''' + qid + ''' wdt:P571 ?inception.
+      }
+    '''
+    #print(query_string)
+
+    error = False
+    wdqs = Sparqler(useragent=user_agent)
+    data = wdqs.query(query_string)
+    sleep(sparql_sleep)
+
+    if data is None:
+        return 'Query error'
+    elif len(data) == 0:
+        return ''
+    elif len(data) == 1 and data[0] == {}:
+        return ''
+    
+    # If there are more than one inception date, use the first one (there shouldn't be)
+    inception_pieces = data[0]['inception']['value'].split('-')
+    if len(inception_pieces) == 3:
+        inception = str(int(inception_pieces[0])) + ' CE' # CE, drop leading zeros
+    else:
+        inception = str(int(inception_pieces[1])) + ' BCE' # BCE, drop leading zeros and negative
+
+    return inception
 
 
 # ------------------------
@@ -843,7 +954,7 @@ def wbeditentity_upload(commons_login, maxlag, mid, caption, caption_language, s
     # Now add the array of claims to the data structure
     data_structure['claims'] = json_claims_list
 
-    #print(json.dumps(data_structure, indent = 2))
+    print(json.dumps(data_structure, indent = 2))
     #print()
 
     # Confusingly, the data structure has to be encoded as a JSON string before adding as a value of the data name 
@@ -856,9 +967,9 @@ def wbeditentity_upload(commons_login, maxlag, mid, caption, caption_language, s
 
     #print(json.dumps(parameter_dictionary, indent = 2))
 
-    response = attempt_post('https://commons.wikimedia.org/w/api.php', parameter_dictionary, commons_login.session)
-    # Old command that does not respect maxlag:
-    #response = commons_session.post('https://commons.wikimedia.org/w/api.php', data = parameter_dictionary)
+    #response = attempt_post('https://commons.wikimedia.org/w/api.php', parameter_dictionary, commons_login.session)
+    response  = {'success': 1}
+
     return response
 
 
@@ -1284,7 +1395,7 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
     manifest_dict["sequences"] = sequences_list
 
     manifest = json.dumps(manifest_dict, indent=4)
-    #print(manifest)
+    print(manifest)
 
     if config_values['s3_iiif_project_directory'] == '':
         s3_iiif_project_directory = ''
@@ -1299,7 +1410,7 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
     s3_manifest_key = s3_iiif_project_directory + subdirectory + work_metadata['escaped_inventory_number'] + '.json'
     print('Uploading manifest to s3:', work_metadata['escaped_inventory_number'] + '.json')
     s3_resource = boto3.resource('s3')
-    s3_resource.Object(config_values['s3_manifest_bucket_name'], s3_manifest_key).put(Body = manifest, ContentType = 'application/json')
+    #s3_resource.Object(config_values['s3_manifest_bucket_name'], s3_manifest_key).put(Body = manifest, ContentType = 'application/json')
     print(work_metadata['iiif_manifest_iri'])
 
 # ---------------------------
@@ -1345,6 +1456,7 @@ works_supplemental_metadata = pd.read_csv(config_values['artwork_additional_meta
 works_supplemental_metadata.set_index('qid', inplace=True)
 
 # File with image metadata (file size, creation date, pixel dimensions, foreign key to accession, etc.)
+# Don't set the index to qid because multiple rows have the same qid
 images_dataframe = pd.read_csv(config_values['image_metadata_file'], na_filter=False, dtype = str)
 
 # File for record keeping of uploads to Commons
@@ -1404,10 +1516,13 @@ for index, work in works_metadata.iterrows():
     # ---------------------------
 
     # Screen out works whose images are already in Commons
+    '''
     if index in existing_images.qid.values:
         if config_values['verbose']:
             print('already done')
         continue
+    '''
+    inception_date = query_inception_year(index)
     if config_values['screen_by_copyright']:
         ip_status = works_supplemental_metadata.loc[index, 'status']
 
@@ -1429,7 +1544,6 @@ for index, work in works_metadata.iterrows():
             try:
                 # convert the year part to an integer; will fail if empty string
                 # If the date is BCE, it will be a negative integer and it will be processed
-                inception_date = int(work['inception_val'][:4])
                 if inception_date > config_values['copyright_cutoff_date']:
                     if config_values['verbose']:
                         print('insufficient evidence out of copyright')
@@ -1440,7 +1554,7 @@ for index, work in works_metadata.iterrows():
                 pass # if there isn't an inception date, then Kali just determined that the work was really old
 
     # Skip over works that don't (yet) have a designated primary image
-    images_subframe = images_dataframe.loc[images_dataframe.inventory_number == work['inventory_number']] # result is DataFrame
+    images_subframe = images_dataframe.loc[images_dataframe['qid'] == index] # result is DataFrame
     if len(images_subframe) == 0: # skip any works whose image can't be found in the images data
         if config_values['verbose']:
             print('no image data')
@@ -1521,11 +1635,8 @@ for index, work in works_metadata.iterrows():
     # The following values are only used in the IIIF manifest and can be ignored if only a Commons upload is done.
     if config_values['perform_iiif_upload']:
         work_metadata['creator_string'] = artist_name_string
-
-        if work['inception_val'] == '':
-            work_metadata['creation_year'] = ''
-        else:
-            work_metadata['creation_year'] = work['inception_val'][:4]
+        work_metadata['creation_year'] = inception_date
+        print(inception_date)
 
         # -----------------
         # Machinations for generating path-related strings
