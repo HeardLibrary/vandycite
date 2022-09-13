@@ -59,6 +59,9 @@ image_metadata_file: images.csv
 # File for record keeping of uploads
 existing_uploads_file: commons_images.csv
 
+# File used by VanderBot to add image and IIIF manifest claims (used only by transfer_to_vanderbot.py)
+vanderbot_upload_file: new_act_artworks.csv
+
 # Controls whether paths for images to upload are relative to the home directory or not. 
 # If not, they may be absolute or relative to the current working directory.
 path_is_relative_to_home_directory: true
