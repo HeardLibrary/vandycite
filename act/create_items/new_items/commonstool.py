@@ -1666,8 +1666,8 @@ for index, work in works_metadata.iterrows():
         if query_error:
             if config_values['verbose']:
                 print('Failed find creator string in Wikidata with error:', response_string)
-            #error_log += 'Failed find creator string in Wikidata for ' + work['inventory_number'] + ' with error:' + response_string + '\n'
-            print('Failed find creator string in Wikidata for ', work['inventory_number'], ' with error:', response_string, file=log_object)
+            #error_log += 'Failed find creator string in Wikidata for ' + index + ' with error:' + response_string + '\n'
+            print('Failed find creator string in Wikidata for ', index, ' with error:', response_string, file=log_object)
             errors = True
             continue
         else:
@@ -1791,7 +1791,7 @@ for index, work in works_metadata.iterrows():
                 # file. Just log the error and go on.
                 if upload_error:
                     errors = True
-                    print('Image upload to Commons failed for', work['inventory_number'], file=log_object)
+                    print('Image upload to Commons failed for', index, file=log_object)
                     continue
                 else:
                     image_metadata['commons_filename'] = commons_filename
@@ -1832,8 +1832,8 @@ for index, work in works_metadata.iterrows():
         # So don't continue to the next iteration. But do skip the IIIF upload if a Commons upload fails.
         if config_values['perform_commons_upload'] and upload_error: # Note: due to "and short circuit", upload_error won't be evaluated if no commons upload
             errors = True
-            error_log += 'Structured data for Commons upload failed for' + work['inventory_number'] + '\n'
-            print('Structured data for Commons upload failed for', work['inventory_number'], file=log_object)
+            error_log += 'Structured data for Commons upload failed for' + index + '\n'
+            print('Structured data for Commons upload failed for', index, file=log_object)
         else:
             if config_values['perform_iiif_upload']:
                 # NOTE: the S3 bucket uploads don't seem to ever fail and there isn't an easy way to detect it,
