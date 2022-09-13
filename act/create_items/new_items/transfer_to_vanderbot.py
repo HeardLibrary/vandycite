@@ -1,13 +1,13 @@
 # transfer_to_vanderbot.py, a Python script for linking Wikimedia Commons artwork images with Wikidata items for those images. 
-# It uses CSV output from commonsbot.ipynb (https://github.com/HeardLibrary/linked-data/blob/master/commonsbot/commonsbot.ipynb) 
+# It uses CSV output from commonstool.py (https://github.com/HeardLibrary/linked-data/blob/master/commonsbot/commonstool.py) 
 # and produces input for VanderBot (https://github.com/HeardLibrary/linked-data/tree/master/vanderbot) by 
 # modifying an existing VanderBot-formatted CSV file.
 
-# (c) 2021 Vanderbilt University. This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
+# (c) 2022 Vanderbilt University. This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
 # Author: Steve Baskauf
 
 version = '0.3'
-created = '2022-09-01'
+created = '2022-09-13'
 
 # -----------------------------------------
 # Version 0.2 change notes: 
@@ -21,15 +21,7 @@ import pandas as pd
 import datetime
 import yaml
 import os
-
-# Configuration
-public_domain_categories = [
-    {'reason': 'artist died before copyright cutoff', 'applies': 'Q60332278', 'method': 'Q29940705'}, #100 years or more after author's death
-    {'reason': 'artist was born before 1800', 'applies': 'Q60332278', 'method': 'Q29940705'}, # 100 years or more after author's death
-    {'reason': 'assessed to be out of copyright', 'applies': 'Q60332278', 'method': 'Q61848113'}, # determined by GLAM institution and stated at its website
-    {'reason': 'from style or period that ended prior to copyright cutoff', 'applies': 'Q30', 'method': 'Q47246828'}, # published more than 95 years ago
-    {'reason': 'inception prior to copyright cutoff', 'applies': 'Q30', 'method': 'Q47246828'} #published more than 95 years ago
-]
+import json
 
 # Load configuration values
 with open('commonstool_config.yml', 'r') as file:
@@ -38,6 +30,8 @@ with open('commonstool_config.yml', 'r') as file:
 if config_values['working_directory_path'] != '':
     # Change working directory to image upload directory
     os.chdir(config_values['working_directory_path'])
+
+public_domain_categories = config_values['public_domain_categories']
 
 # Function definitions
 def generate_utc_date():

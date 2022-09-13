@@ -74,11 +74,26 @@ local_image_directory_path: act_upload/ # location of raw images to upload
 # If a particular screening criterion is set to false, the subsequent values are irrelevant
 screen_by_copyright: false
 public_domain_categories:
-  - artist died before copyright cutoff
-  - artist was born before 1800
-  - assessed to be out of copyright
-  - from style or period that ended prior to copyright cutoff
-  - inception prior to copyright cutoff
+  # 100 years or more after author's death
+  - reason: artist died before copyright cutoff
+    applies: Q60332278
+    method: Q29940705
+  # 100 years or more after author's death
+  - reason: artist was born before 1800
+    applies: Q60332278
+    method: Q29940705
+  # determined by GLAM institution and stated at its website
+  - reason: assessed to be out of copyright
+    applies: Q60332278
+    method: Q61848113
+  # published more than 95 years ago
+  - reason: from style or period that ended prior to copyright cutoff
+    applies: Q30
+    method: Q47246828
+  # published more than 95 years ago
+  - reason: inception prior to copyright cutoff
+    applies: Q30
+    method: Q47246828
 copyright_cutoff_date: 1926
 
 screen_by_file_characterstic: false
