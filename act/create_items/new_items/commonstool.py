@@ -419,8 +419,46 @@ def query_artwork_creator_name(qid):
                         creator_names += ' ' + creator_name + ',' # stubbornly insist on Oxford comma
     return error, creator_names
 
+def query_item_description(qid, language):
+    """Retrieve the description in a specific language from Wikidata.
+    
+    Parameters
+    ----------
+    qid : str
+        The Wikidata Q ID of the item.
+    pref_lang : str
+        The language tag of the language.
+
+    Notes
+    -----
+    Returns the description in the target language as a string. If it doesn't exist, empty string is returned.
+    """
+    query_string = '''select distinct ?description where {
+    wd:''' + qid + ''' schema:description ?description.
+    filter(lang(?description)="''' + language + '''")
+      }
+    '''
+    #print(query_string)
+    
+    error = False
+    wdqs = Sparqler(useragent=user_agent)
+    data = wdqs.query(query_string)
+    sleep(sparql_sleep)
+    
+    # Check for errors or no results
+    # It is unlikely that either the query will have an error or the item will have no labels
+    if data is None:
+        return 'Query error'
+    elif len(data) == 0:
+        return ''
+    elif len(data) == 1 and data[0] == {}:
+        return ''
+    else:
+        # Note: there can only be one or zero descriptions in a language.
+        return data[0]['description']['value']
+
 def query_item_labels(qid, pref_lang):
-    """Retrieve the label in a preferred language from Wikidata.
+    """Retrieve the label and description in a preferred language from Wikidata.
     
     Parameters
     ----------
@@ -431,10 +469,11 @@ def query_item_labels(qid, pref_lang):
 
     Notes
     -----
-    Returns a tuple of (label, language) where label is in the preferred language, if it exists. 
+    Returns a tuple of (label, description, language) where label is in the preferred language, if it exists. 
     Otherwise the English label is returned.  If labels exist in neither the preferred language 
     nor English, it returns the empty string. language is the language tag of the returned label and
-    it is the empty string if no label was found.
+    it is the empty string if no label was found. description is the description (if any) in the same
+    language as the label. If no description in that language, empty string is returned.
     """
     query_string = '''select distinct ?label where {
     wd:''' + qid + ''' rdfs:label ?label.
@@ -462,6 +501,9 @@ def query_item_labels(qid, pref_lang):
             label = value['label']['value']
             lang = pref_lang
             
+            # Now get the description in the same language
+            description = query_item_description(qid, lang)
+            
     # If the label can't be found in the preferred language, try to get English
     if not found:
         found = False
@@ -470,11 +512,17 @@ def query_item_labels(qid, pref_lang):
                 found = True
                 label = value['label']['value']
                 lang = 'en'
+                
+                # Now get the description in the same language
+                description = query_item_description(qid, lang)
+            
+    # If there isn't a label in either language, return empty string
     if not found:
         label = ''
         lang = ''
+        description = ''
     
-    return label, lang
+    return label, description, lang
 
 def query_inception_year(qid):
     """Retrieve the inception year from Wikidata.
@@ -1163,9 +1211,9 @@ def structured_data_upload(image_metadata, work_metadata, config_values, commons
     # The specific image label is only appended to the work label if there are multiple images.
     # For example, "Famous Sculpture - front view"
     if image_metadata['label'] == '':
-        caption = work_metadata['label_en'] + ', ' + work_metadata['description_en']
+        caption = work_metadata['work_label'] + ', ' + work_metadata['work_description']
     else:
-        caption = work_metadata['label_en'] + ' - ' + image_metadata['label'] + ', ' + work_metadata['description_en']
+        caption = work_metadata['work_label'] + ' - ' + image_metadata['label'] + ', ' + work_metadata['work_description']
     # The caption is a Wikibase label and an error will be thrown if it's longer than 250 characters.
     if len(caption) >= 250:
         caption = caption[:250]
@@ -1182,7 +1230,7 @@ def structured_data_upload(image_metadata, work_metadata, config_values, commons
 
         print('Uploading structured data')
         # Note: the structured data upload respects and processes maxlag, so no hard-coded delay is included here
-        response = wbeditentity_upload(commons_login, config_values['maxlag'], mid, caption, config_values['default_language'], sdc_claims_list)
+        response = wbeditentity_upload(commons_login, config_values['maxlag'], mid, caption, work_metadata['label_language'], sdc_claims_list)
         #response = {'success': 1} # Uncomment this line to test without actually doing the upload
         #print(json.dumps(response, indent=2))
         no_success = False
@@ -1345,7 +1393,7 @@ def upload_iiif_manifest_to_s3(canvases_list, work_metadata, config_values):
     # I'm having problems with labels that include double quotes. Despite having them be escaped during
     # conversion to JSON using json.dumps(), they still come out in the JSON unescaped. 
     # My solution for now is to replace them with smart quotes.
-    label = work_metadata['label_en']
+    label = work_metadata['work_label']
     label = convert_to_smart_quotes(label)
 
     metadata_list = [
@@ -1507,9 +1555,12 @@ commons_upload_sleep_time = 0
 # The row index is the Q ID and is a string. The work object is the data in the row and is a Pandas series
 # The items in the row series can be referred to by their labels, which are the column headers, e.g. work['label_en']
 for index, work in works_metadata.iterrows():
+    work_label, work_description, label_language = query_item_labels(index, config_values['default_language'])
+    inception_date = query_inception_year(index)
+
     if config_values['verbose']:
         print()
-        print(artwork_items_uploaded, work['label_en'])
+        print(artwork_items_uploaded, work_label)
 
     # ---------------------------
     # Screen works for appropriate images to upload
@@ -1522,7 +1573,6 @@ for index, work in works_metadata.iterrows():
             print('already done')
         continue
     '''
-    inception_date = query_inception_year(index)
     if config_values['screen_by_copyright']:
         ip_status = works_supplemental_metadata.loc[index, 'status']
 
@@ -1583,7 +1633,7 @@ for index, work in works_metadata.iterrows():
             if config_values['size_filter'] == 'pixsquared':
                 if int(image_to_upload['height']) * int(image_to_upload['width']) < config_values['minimum_pixel_squared']:
                     if config_values['verbose']:
-                        print('Image size', int(image_to_upload['height']) * int(image_to_upload['width']), ' square pixels too small.', work['label_en'])
+                        print('Image size', int(image_to_upload['height']) * int(image_to_upload['width']), ' square pixels too small.', work_label)
                     print('Inadequate pixel squared for', image_to_upload['local_filename'], file=log_object)
                     errors = True
                     all_good = False
@@ -1629,14 +1679,17 @@ for index, work in works_metadata.iterrows():
     
     # Create a dict from the work object, which I think is a series (originating from the works_multiprop.csv file).
     # Make this a dict so that items can easily be added to it.
-    work_metadata = dict(work)
+    #work_metadata = dict(work)
+    work_metadata = {}
     work_metadata['work_qid'] = index
+    work_metadata['label_language'] = label_language
+    work_metadata['work_label'] = work_label
+    work_metadata['work_description'] = work_description
 
     # The following values are only used in the IIIF manifest and can be ignored if only a Commons upload is done.
     if config_values['perform_iiif_upload']:
         work_metadata['creator_string'] = artist_name_string
         work_metadata['creation_year'] = inception_date
-        print(inception_date)
 
         # -----------------
         # Machinations for generating path-related strings
@@ -1721,7 +1774,7 @@ for index, work in works_metadata.iterrows():
         
         print()
         if not config_values['verbose']: # already printed above if set to verbose
-            print(artwork_items_uploaded, work['label_en'])
+            print(artwork_items_uploaded, work_label)
         print(image_metadata['local_filename'], image_metadata['rank'])
 
         # -----------
@@ -1732,7 +1785,7 @@ for index, work in works_metadata.iterrows():
             if not config_values['suppress_media_upload_to_commons']:
                 # Upload the media file to Commons
                 sleep(commons_upload_sleep_time) # Delay the next media item upload if less than commons_sleep time since the last upload.
-                upload_error, commons_filename = commons_image_upload(image_metadata, config_values, work_metadata['label_en'], commons_login)
+                upload_error, commons_filename = commons_image_upload(image_metadata, config_values, work_metadata['work_label'], commons_login)
             
                 # If the media file fails to upload, there is no point in continuing nor to add to the commons_images.csv
                 # file. Just log the error and go on.
@@ -1757,9 +1810,9 @@ for index, work in works_metadata.iterrows():
                 # The specific image label is only appended to the work label if there are multiple images.
                 # For example, "Famous Sculpture - front view"
                 if image_metadata['label'] == '':
-                    label = work_metadata['label_en']
+                    label = work_metadata['work_label']
                 else:
-                    label = work_metadata['label_en'] + ' - ' + image_metadata['label']
+                    label = work_metadata['work_label'] + ' - ' + image_metadata['label']
 
                 image_metadata['commons_filename'] = generate_commons_filename(label, image_metadata['local_filename'], image_metadata['filename_institution'])
 
@@ -1797,7 +1850,7 @@ for index, work in works_metadata.iterrows():
                     # If no explicit label given for the individual image (e.g. single image works), 
                     # use the work label as the canvas label. 
                     if image_metadata['label'] == '':
-                        canvas_label = work_metadata['label_en']
+                        canvas_label = work_metadata['work_label']
                     else:
                         canvas_label = image_metadata['label']
 
@@ -1815,9 +1868,9 @@ for index, work in works_metadata.iterrows():
             # The specific image label is only appended to the work label if there are multiple images.
             # For example, "Famous Sculpture - front view"
             if image_metadata['label'] == '':
-                output_label = work_metadata['label_en']
+                output_label = work_metadata['work_label']
             else:
-                output_label = work_metadata['label_en'] + ' - ' + image_metadata['label']
+                output_label = work_metadata['work_label'] + ' - ' + image_metadata['label']
 
             if not config_values['perform_commons_upload']:
                 image_metadata['mid'] = ''
