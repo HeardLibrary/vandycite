@@ -7,6 +7,29 @@ outfiles:
   - en
   manage_descriptions: true
   prop_list:
+  - variable: full_work_available
+    value_type: uri
+    pid: P953
+    qual: []
+    - variable: retrieved
+      value_type: date
+      pid: P813
+  - variable: edition_version
+    value_type: monolingualtext
+    language: en
+    pid: P9767
+    qual: []
+    ref: []
+  - variable: language
+    value_type: item
+    pid: P407
+    qual: []
+    ref: []
+  - variable: number_pages
+    value_type: quantity
+    pid: P1104
+    qual: []
+    ref: []
   - variable: doi
     value_type: string
     pid: P356
@@ -29,7 +52,7 @@ outfiles:
     - variable: retrieved
       value_type: date
       pid: P813
-  - variable: published
+  - variable: publication_date
     value_type: date
     pid: P577
     qual: []
@@ -52,7 +75,7 @@ outfiles:
     - variable: retrieved
       value_type: date
       pid: P813
-  - variable: journal
+  - variable: published_in
     value_type: item
     pid: P1433
     qual: []
@@ -121,6 +144,17 @@ outfiles:
   - variable: publisher
     value_type: item
     pid: P123
+    qual: []
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: retrieved
+      value_type: date
+      pid: P813
+  - variable: place_of_publication
+    value_type: item
+    pid: P291
     qual: []
     ref:
     - variable: referenceUrl
