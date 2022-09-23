@@ -1,2 +1,12 @@
-?qid wdt:P50 ?author.
-?author wdt:P1416 wd:Q7914452.
+optional {
+  ?qid wdt:P50 ?author.
+    {?author wdt:P1416 wd:Q7914452.} # Div School
+  union
+    {?author wdt:P1416 wd:Q114065689.} # GDR
+  }
+optional {
+  ?qid wdt:P98 ?editor.
+    {?editor wdt:P1416 wd:Q7914452.}
+  union
+    {?editor wdt:P1416 wd:Q114065689.}
+  }

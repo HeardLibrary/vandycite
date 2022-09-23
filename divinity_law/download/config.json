@@ -11,13 +11,6 @@
       "output_file_name": "articles.csv",
       "prop_list": [
         {
-          "pid": "P31",
-          "variable": "instance_of",
-          "value_type": "item",
-          "qual": [],
-          "ref": []
-        },
-        {
           "pid": "P356",
           "variable": "doi",
           "value_type": "string",
@@ -318,6 +311,20 @@
               "value_type": "date"
             }
           ]
+        }
+      ]
+    },
+    {
+      "manage_descriptions": false,
+      "label_description_language_list": [],
+      "output_file_name": "instance_of.csv",
+      "prop_list": [
+        {
+          "pid": "P31",
+          "variable": "instance_of",
+          "value_type": "item",
+          "qual": [],
+          "ref": []
         }
       ]
     }
