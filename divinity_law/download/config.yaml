@@ -144,7 +144,6 @@ outfiles:
       value_type: string
       pid: P1932
     ref:
-    - pid: P854
     - variable: referenceUrl
       value_type: uri
       pid: P854
@@ -166,7 +165,6 @@ outfiles:
       value_type: string
       pid: P1932
     ref:
-    - pid: P854
     - variable: referenceUrl
       value_type: uri
       pid: P854
@@ -181,9 +179,9 @@ outfiles:
     value_type: string
     pid: P2093
     qual:
-    - variable: stated_as
+    - variable: series_ordinal
       value_type: string
-      pid: P1932
+      pid: P1545
     ref:
     - variable: referenceUrl
       value_type: uri
