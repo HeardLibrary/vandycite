@@ -11,6 +11,7 @@ outfiles:
     value_type: uri
     pid: P953
     qual: []
+    ref:
     - variable: retrieved
       value_type: date
       pid: P813
