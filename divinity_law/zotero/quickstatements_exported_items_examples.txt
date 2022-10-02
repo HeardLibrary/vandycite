@@ -1,0 +1,1250 @@
+CREATE
+LAST	P31	Q571
+LAST	Len	"There is a balm in Gilead: the cultural roots of Martin Luther King, Jr."
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Minneapolis, Minnesota"
+LAST	P123	"Fortress Press"
+LAST	P577	+1991-00-00T00:00:00Z/9
+LAST	P212	"978-0-8006-2457-6"
+LAST	P1476	en:"There is a balm in Gilead: the cultural roots of Martin Luther King, Jr."
+LAST	P407	Q1860
+LAST	P243	"22243653"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Reclaiming the great world house: the global vision of Martin Luther King Jr."
+LAST	Den	"book"
+LAST	P98	"Vicki L. Crawford"	P1545	"1"
+LAST	P98	"Lewis V. Baldwin"	P1545	"2"
+LAST	P179	"The Morehouse College King Collection Series on Civil & Human Rights"
+LAST	P291	"Athens"
+LAST	P123	"University of Georgia Press"
+LAST	P577	+2019-00-00T00:00:00Z/9
+LAST	P212	"978-0-8203-5603-7"
+LAST	P1476	en:"Reclaiming the great world house: the global vision of Martin Luther King Jr."
+LAST	P407	Q1860
+LAST	P243	"1107807831"
+CREATE
+LAST	P31	Q571
+LAST	Len	"The legacy of Martin Luther King, Jr.: the boundaries of law, politics, and religion"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Notre Dame, Ind."
+LAST	P123	"University of Notre Dame Press"
+LAST	P577	+2002-00-00T00:00:00Z/9
+LAST	P212	"978-0-268-03354-5"
+LAST	P1476	en:"The legacy of Martin Luther King, Jr.: the boundaries of law, politics, and religion"
+LAST	P407	Q1860
+LAST	P243	"48884945"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Between cross and crescent: Christian and Muslim perspectives on Malcolm and Martin"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P2093	"Amiri YaSin Al-Hadid"	P1545	"2"
+LAST	P179	"The history of African-American religions"
+LAST	P291	"Gainesville"
+LAST	P123	"University Press of Florida"
+LAST	P577	+2002-00-00T00:00:00Z/9
+LAST	P212	"978-0-8130-2457-8"
+LAST	P1476	en:"Between cross and crescent: Christian and Muslim perspectives on Malcolm and Martin"
+LAST	P407	Q1860
+LAST	P243	"48014737"
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"Foreword"
+LAST	Den	"book section"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"God and human dignity: the personalism, theology, and ethics of Martin Luther King, Jr."
+LAST	P291	"Notre Dame, Ind."
+LAST	P123	"University of Notre Dame Press"
+LAST	P577	+2006-00-00T00:00:00Z/9
+LAST	P1476	en:"Foreword"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q571
+LAST	Len	"To make the wounded whole: the cultural legacy of Martin Luther King, Jr."
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Minneapolis"
+LAST	P123	"Fortress Press"
+LAST	P577	+1992-00-00T00:00:00Z/9
+LAST	P212	"978-0-8006-2543-6"
+LAST	P1476	en:"To make the wounded whole: the cultural legacy of Martin Luther King, Jr."
+LAST	P407	Q1860
+LAST	P243	"24541819"
+CREATE
+LAST	P31	Q571
+LAST	Len	""In a single garment of destiny": a global vision of justice"
+LAST	Den	"book"
+LAST	P2093	"Martin Luther King"	P1545	"1"
+LAST	P98	"Lewis V. Baldwin"	P1545	"1"
+LAST	P179	"The King Legacy series"
+LAST	P291	"Boston"
+LAST	P123	"Beacon Press"
+LAST	P577	+2012-00-00T00:00:00Z/9
+LAST	P212	"978-0-8070-8605-6"
+LAST	P1476	en:""In a single garment of destiny": a global vision of justice"
+LAST	P407	Q1860
+LAST	P243	"792880743"
+CREATE
+LAST	P31	Q571
+LAST	Len	""Thou, dear God": prayers that open hearts and spirits"
+LAST	Den	"book"
+LAST	P2093	"Martin Luther King"	P1545	"1"
+LAST	P98	"Lewis V. Baldwin"	P1545	"1"
+LAST	P179	"The King Legacy series"
+LAST	P291	"Boston"
+LAST	P123	"Beacon Press"
+LAST	P577	+2012-00-00T00:00:00Z/9
+LAST	P212	"978-0-8070-8603-2"
+LAST	P1476	en:""Thou, dear God": prayers that open hearts and spirits"
+LAST	P407	Q1860
+LAST	P243	"714724658"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Behind the public veil: the humanness of Martin Luther King Jr."
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P123	"Fortress Press"
+LAST	P577	+2016-00-00T00:00:00Z/9
+LAST	P212	"978-1-5064-0562-9"
+LAST	P1476	en:"Behind the public veil: the humanness of Martin Luther King Jr."
+LAST	P407	Q1860
+LAST	P243	"933438404"
+CREATE
+LAST	P31	Q571
+LAST	Len	"The voice of conscience: the church in the mind of Martin Luther King, Jr."
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Oxford ; New York"
+LAST	P123	"Oxford University Press"
+LAST	P577	+2010-00-00T00:00:00Z/9
+LAST	P212	"978-0-19-538030-9"
+LAST	P1476	en:"The voice of conscience: the church in the mind of Martin Luther King, Jr."
+LAST	P407	Q1860
+LAST	P243	"426065986"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Toward the beloved community: Martin Luther King Jr. and South Africa"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Cleveland, Oh."
+LAST	P123	"Pilgrim Press"
+LAST	P577	+1995-00-00T00:00:00Z/9
+LAST	P212	"978-0-8298-1102-5"
+LAST	P1476	en:"Toward the beloved community: Martin Luther King Jr. and South Africa"
+LAST	P407	Q1860
+LAST	P243	"32467758"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Never to leave us alone: the prayer life of Martin Luther King, Jr."
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Minneapolis, Minnesota"
+LAST	P123	"Fortress Press"
+LAST	P577	+2010-00-00T00:00:00Z/9
+LAST	P212	"978-0-8006-9744-0"
+LAST	P1476	en:"Never to leave us alone: the prayer life of Martin Luther King, Jr."
+LAST	P407	Q1860
+LAST	P243	"496965966"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Invisible strands in African Methodism: a history of the African Union Methodist Protestant and Union American Methodist Episcopal churches, 1805-1980"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P179	"ATLA monograph series"
+LAST	P1545	"19"
+LAST	P291	"Philadelphia ; Metuchen, N.J."
+LAST	P123	"American Theological Library Association ; Scarecrow Press"
+LAST	P577	+1983-00-00T00:00:00Z/9
+LAST	P212	"978-0-8108-1647-3"
+LAST	P1476	en:"Invisible strands in African Methodism: a history of the African Union Methodist Protestant and Union American Methodist Episcopal churches, 1805-1980"
+LAST	P407	Q1860
+LAST	P243	"9852318"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Freedom is never free: a biographical portrait of Edgar Daniel Nixon"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P2093	"Aprille V. Woodson"	P1545	"2"
+LAST	P291	"Nashville, Tenn. ; Montgomery"
+LAST	P123	"Office of Minority affairs, Tennessee General Assembly ; Tennessee State University, Nashville ; Alabama State University"
+LAST	P577	+1992-00-00T00:00:00Z/9
+LAST	P1476	en:"Freedom is never free: a biographical portrait of Edgar Daniel Nixon"
+LAST	P407	Q1860
+LAST	P243	"29339534"
+CREATE
+LAST	P31	Q571
+LAST	Len	"The domestication of Martin Luther King Jr.: Clarence B. Jones, right-wing conservatism, and the manipulation of the King legacy"
+LAST	Den	"book"
+LAST	P98	"Lewis V. Baldwin"	P1545	"1"
+LAST	P98	"Rufus Burrow, Jr."	P1545	"2"
+LAST	P291	"Eugene, Oregon"
+LAST	P123	"Cascade Books"
+LAST	P577	+2013-00-00T00:00:00Z/9
+LAST	P212	"978-1-61097-954-2"
+LAST	P1476	en:"The domestication of Martin Luther King Jr.: Clarence B. Jones, right-wing conservatism, and the manipulation of the King legacy"
+LAST	P407	Q1860
+LAST	P243	"853497637"
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"Foreword"
+LAST	Den	"book section"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"A lasting prophetic legacy: Martin Luther King Jr., the World Council of Churches, and the global crusade against racism and war"
+LAST	P291	"Eugene, Oregon"
+LAST	P123	"Wipf & Stock"
+LAST	P577	+2014-00-00T00:00:00Z/9
+LAST	P1476	en:"Foreword"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q571
+LAST	Len	""In an inescapable network of mutuality": Martin Luther King, Jr. and the globalization of an ethical ideal"
+LAST	Den	"book"
+LAST	P98	"Lewis V. Baldwin"	P1545	"1"
+LAST	P98	"Paul R. Dekar"	P1545	"2"
+LAST	P291	"Eugene, Oregon"
+LAST	P123	"Cascade Books"
+LAST	P577	+2013-00-00T00:00:00Z/9
+LAST	P212	"978-1-61097-434-9"
+LAST	P1476	en:""In an inescapable network of mutuality": Martin Luther King, Jr. and the globalization of an ethical ideal"
+LAST	P407	Q1860
+LAST	P243	"859192474"
+CREATE
+LAST	P31	Q571
+LAST	Len	"The mark of a man: Peter Spencer and the African Union Methodist tradition: the man, the movement, the message, and the legacy"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Lanham, MD"
+LAST	P123	"University Press of America"
+LAST	P577	+1987-00-00T00:00:00Z/9
+LAST	P1476	en:"The mark of a man: Peter Spencer and the African Union Methodist tradition: the man, the movement, the message, and the legacy"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q571
+LAST	Len	"Plenty Good Room: a Lenten Bible Study Based on African American Spirituals"
+LAST	Den	"book"
+LAST	P2093	"Marilyn E. Thornton"	P1545	"1"
+LAST	P291	"Nashville"
+LAST	P123	"Abingdon Press"
+LAST	P577	+2016-00-00T00:00:00Z/9
+LAST	P212	"978-1-5018-2249-0"
+LAST	P1476	en:"Plenty Good Room: a Lenten Bible Study Based on African American Spirituals"
+LAST	P407	Q1860
+LAST	P243	"966458366"
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"Foreword"
+LAST	Den	"book section"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"Existential togetherness: toward a common black religious heritage"
+LAST	P291	"Eugene, Oregon"
+LAST	P123	"Pickwick Publications"
+LAST	P577	+2019-00-00T00:00:00Z/9
+LAST	P212	"978-1-5326-5161-8"
+LAST	P1476	en:"Foreword"
+LAST	P407	Q1860
+LAST	P243	"1114283224"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Plenty good room: a Bible study based on African American spirituals: student"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Nashville, TN"
+LAST	P123	"Abingdon Press"
+LAST	P577	+2002-00-00T00:00:00Z/9
+LAST	P1476	en:"Plenty good room: a Bible study based on African American spirituals: student"
+LAST	P407	Q1860
+LAST	P243	"50625959"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Touched by grace: black Methodist heritage in the United Methodist Church"
+LAST	Den	"book"
+LAST	P2093	"Horace L. Wallace"	P1545	"1"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"2"
+LAST	P291	"Nashville, Tenn."
+LAST	P123	"Graded Press"
+LAST	P577	+1986-00-00T00:00:00Z/9
+LAST	P1476	en:"Touched by grace: black Methodist heritage in the United Methodist Church"
+LAST	P407	Q1860
+LAST	P243	"16320166"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Touched by grace ; teacher: Black Methodist heritage in The United Methodist Church"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P2093	"Horace L. Wallace"	P1545	"2"
+LAST	P291	"Nashville"
+LAST	P123	"Graded Press"
+LAST	P577	+1986-00-00T00:00:00Z/9
+LAST	P1476	en:"Touched by grace ; teacher: Black Methodist heritage in The United Methodist Church"
+LAST	P407	Q1860
+LAST	P243	"16350067"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Resources for the study of blacks in Methodism: a guide to the Garrett-Evangelical and Northwestern University collections"
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P2093	"Institute for Black Religious Research"	P1545	"2"
+LAST	P179	"IBRR resource series"
+LAST	P1545	"2"
+LAST	P291	"Evanston, Ill."
+LAST	P123	"Institute for Black Religious Research"
+LAST	P577	+1980-00-00T00:00:00Z/9
+LAST	P1476	en:"Resources for the study of blacks in Methodism: a guide to the Garrett-Evangelical and Northwestern University collections"
+LAST	P407	Q1860
+LAST	P243	"10627394"
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"Foreword"
+LAST	Den	"book section"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"This bright light of ours: stories from the Voting Rights fight"
+LAST	P179	"The modern South"
+LAST	P291	"Tuscaloosa"
+LAST	P123	"University of Alabama Press"
+LAST	P577	+2014-00-00T00:00:00Z/9
+LAST	P1476	en:"Foreword"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q571
+LAST	Len	"The Arc of Truth: The Thinking of Martin Luther King Jr."
+LAST	Den	"book"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P291	"Minneapolis, MN"
+LAST	P123	"Fortress Press"
+LAST	P577	+2022-00-00T00:00:00Z/9
+LAST	P212	"978-1-5064-8476-1"
+LAST	P1476	en:"The Arc of Truth: The Thinking of Martin Luther King Jr."
+LAST	P407	Q1860
+LAST	P243	"1292590004"
+CREATE
+LAST	P31	Q571
+LAST	Len	"Forging faith, building freedom: African American faith experiences in Delaware, 1800-1980"
+LAST	Den	"book"
+LAST	P2093	"Constance J. Cooper"	P1545	"1"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"2"
+LAST	P291	"Dover, Del."
+LAST	P123	"Delaware Heritage Press"
+LAST	P577	+2015-00-00T00:00:00Z/9
+LAST	P212	"978-0-924117-49-7"
+LAST	P1476	en:"Forging faith, building freedom: African American faith experiences in Delaware, 1800-1980"
+LAST	P407	Q1860
+LAST	P243	"908035793"
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Martin Luther King Jr., Malcolm X, and Our Current Moment: A Podcast Conversation with Lewis V Baldwin"
+LAST	Den	"journal article"
+LAST	P478	"41"
+LAST	P304	"30-42"
+LAST	P2093	"Michael J. Chan"	P1545	"1"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"2"
+LAST	P1433	"Word & World"
+LAST	P577	+2021-00-00T00:00:00Z/9
+LAST	P1476	en:"Martin Luther King Jr., Malcolm X, and Our Current Moment: A Podcast Conversation with Lewis V Baldwin"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Desert rose: the life and legacy of Coretta Scott King"
+LAST	Den	"journal article"
+LAST	P478	"15"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Southern Religion"
+LAST	P577	+2013-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Desert rose: the life and legacy of Coretta Scott King"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Martin Luther King Jr. and the image of God"
+LAST	Den	"journal article"
+LAST	P478	"67"
+LAST	P433	"4"
+LAST	P304	"502,504-505"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Theology Today"
+LAST	P577	+2011-01-00T00:00:00Z/10
+LAST	P1476	en:"Review of Martin Luther King Jr. and the image of God"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The fire spreads: holiness and Pentecostalism in the American South"
+LAST	Den	"journal article"
+LAST	P478	"12"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Southern Religion"
+LAST	P577	+2010-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of The fire spreads: holiness and Pentecostalism in the American South"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of American evangelicals: a contemporary history of a mainstream religious movement"
+LAST	Den	"journal article"
+LAST	P356	"10.1017/S000964070900095X"
+LAST	P478	"78"
+LAST	P433	"2"
+LAST	P304	"473-475"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+2009-06-00T00:00:00Z/10
+LAST	P1476	en:"Review of American evangelicals: a contemporary history of a mainstream religious movement"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of W. E. B. Du Bois: American prophet"
+LAST	Den	"journal article"
+LAST	P356	"10.1017/S000964070800036X"
+LAST	P478	"77"
+LAST	P433	"1"
+LAST	P304	"214-216"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+2008-03-00T00:00:00Z/10
+LAST	P1476	en:"Review of W. E. B. Du Bois: American prophet"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Revisioning the church: Martin Luther King, Jr. as a model for reflection"
+LAST	Den	"journal article"
+LAST	P478	"65"
+LAST	P433	"1"
+LAST	P304	"26-40"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Theology Today"
+LAST	P577	+2008-04-00T00:00:00Z/10
+LAST	P1476	en:"Revisioning the church: Martin Luther King, Jr. as a model for reflection"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"Scripture in the African-American Christian tradition: Christian theologies of scripture: a comparative introduction"
+LAST	Den	"book section"
+LAST	P304	"282-299"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P2093	"Stephen W Murphy"	P1545	"2"
+LAST	P1433	"Christian theologies of scripture: a comparative introduction"
+LAST	P291	"New York"
+LAST	P123	"New York University Press"
+LAST	P577	+2006-00-00T00:00:00Z/9
+LAST	P1476	en:"Scripture in the African-American Christian tradition: Christian theologies of scripture: a comparative introduction"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Around the family altar: domesticity in the African Methodist Episcopal church, 1865-1900"
+LAST	Den	"journal article"
+LAST	P356	"10.1017/S0009640700098899"
+LAST	P478	"75"
+LAST	P433	"3"
+LAST	P304	"684-686"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+2006-09-00T00:00:00Z/10
+LAST	P1476	en:"Review of Around the family altar: domesticity in the African Methodist Episcopal church, 1865-1900"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"Martin Luther King, Jr., a 'coalition of conscience,' and freedom in South Africa"
+LAST	Den	"book section"
+LAST	P304	"53-82"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Freedom's distant shores: American Protestants and post-colonial alliances with Africa"
+LAST	P291	"Waco, Texas"
+LAST	P123	"Baylor"
+LAST	P577	+2006-00-00T00:00:00Z/9
+LAST	P1476	en:"Martin Luther King, Jr., a 'coalition of conscience,' and freedom in South Africa"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The beloved community: how faith shapes social justice, from the civil rights movement to today"
+LAST	Den	"journal article"
+LAST	P356	"10.1558/poth.v7i4.527"
+LAST	P478	"7"
+LAST	P433	"4"
+LAST	P304	"527-529"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Political Theology"
+LAST	P577	+2006-10-00T00:00:00Z/10
+LAST	P1476	en:"Review of The beloved community: how faith shapes social justice, from the civil rights movement to today"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Moral evil and redemptive suffering: a history of theodicy in African-American religious thought"
+LAST	Den	"journal article"
+LAST	P356	"10.1017/S000964070011011X"
+LAST	P478	"74"
+LAST	P433	"1"
+LAST	P304	"204-206"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+2005-03-00T00:00:00Z/10
+LAST	P1476	en:"Review of Moral evil and redemptive suffering: a history of theodicy in African-American religious thought"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Long march ahead: African American churches and public policy in post-civil rights America"
+LAST	Den	"journal article"
+LAST	P356	"10.1093/jcs/47.3.636"
+LAST	P478	"47"
+LAST	P433	"3"
+LAST	P304	"636-637"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Journal of Church and State"
+LAST	P577	+2005-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Long march ahead: African American churches and public policy in post-civil rights America"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of For a great and grand purpose: the beginnings of the AMEZ Church in Florida, 1864-1905"
+LAST	Den	"journal article"
+LAST	P478	"8"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Southern Religion"
+LAST	P577	+2005-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of For a great and grand purpose: the beginnings of the AMEZ Church in Florida, 1864-1905"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of God and human responsibility: David Walker and ethical prophecy"
+LAST	Den	"journal article"
+LAST	P478	"65"
+LAST	P433	"3"
+LAST	P304	"304-305"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Encounter"
+LAST	P577	+2004-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of God and human responsibility: David Walker and ethical prophecy"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Fire from the midst of you: a religious life of John Brown"
+LAST	Den	"journal article"
+LAST	P356	"10.1093/jaarel/lfh043"
+LAST	P478	"72"
+LAST	P433	"2"
+LAST	P304	"523-525"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Journal of the American Academy of Religion"
+LAST	P577	+2004-06-00T00:00:00Z/10
+LAST	P1476	en:"Review of Fire from the midst of you: a religious life of John Brown"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Race and the cosmos: an invitation to view the world differently"
+LAST	Den	"journal article"
+LAST	P478	"40"
+LAST	P304	"82-85"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Memphis Theological Seminary Journal"
+LAST	P577	+2004-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Race and the cosmos: an invitation to view the world differently"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of An ex-colored church: social activism in the CME Church, 1870-1970"
+LAST	Den	"journal article"
+LAST	P478	"7"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Southern Religion"
+LAST	P577	+2004-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of An ex-colored church: social activism in the CME Church, 1870-1970"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"Revisiting the 'all-comprehending institution': historical reflections on the public roles of Black churches"
+LAST	Den	"book section"
+LAST	P304	"15-38"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"New day begun: African American churches and civic culture in post-civil rights America"
+LAST	P291	"Durham"
+LAST	P123	"Duke University Press"
+LAST	P577	+2003-00-00T00:00:00Z/9
+LAST	P212	"978-0-8223-3131-5"
+LAST	P1476	en:"Revisiting the 'all-comprehending institution': historical reflections on the public roles of Black churches"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Heart and head: black theology--past, present, and future"
+LAST	Den	"journal article"
+LAST	P478	"120"
+LAST	P433	"1"
+LAST	P304	"35-36"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Christian Century"
+LAST	P577	+2003-01-11T00:00:00Z/11
+LAST	P1476	en:"Review of Heart and head: black theology--past, present, and future"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Canaan Land: a religious history of African Americans"
+LAST	Den	"journal article"
+LAST	P356	"10.1111/1467-9809.00166"
+LAST	P478	"27"
+LAST	P433	"1"
+LAST	P304	"119-121"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Religious History"
+LAST	P577	+2003-02-00T00:00:00Z/10
+LAST	P1476	en:"Review of Canaan Land: a religious history of African Americans"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"'Deliverance to the captives': images of Jesus Christ in the slave community: Reading communities, reading scripture"
+LAST	Den	"book section"
+LAST	P304	"235-248"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Reading communities, reading scripture"
+LAST	P291	"Harrisburg, Pa."
+LAST	P123	"Trinity Press International"
+LAST	P577	+2002-00-00T00:00:00Z/9
+LAST	P212	"978-1-56338-369-4"
+LAST	P1476	en:"'Deliverance to the captives': images of Jesus Christ in the slave community: Reading communities, reading scripture"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Social protest thought in the African Methodist Episcopal Church, 1862-1939"
+LAST	Den	"journal article"
+LAST	P478	"42"
+LAST	P433	"3"
+LAST	P304	"589-590"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Journal of Church and State"
+LAST	P577	+2000-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Social protest thought in the African Methodist Episcopal Church, 1862-1939"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of I may not get there with you: the true Martin Luther King, Jr"
+LAST	Den	"journal article"
+LAST	P478	"117"
+LAST	P433	"23"
+LAST	P304	"838-840"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Christian Century"
+LAST	P577	+2000-08-16T00:00:00Z/11
+LAST	P1476	en:"Review of I may not get there with you: the true Martin Luther King, Jr"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Black faith and public talk: critical essays on James H Cone's Black theology and Black power"
+LAST	Den	"journal article"
+LAST	P478	"117"
+LAST	P433	"29"
+LAST	P304	"1084-1085"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Christian Century"
+LAST	P577	+2000-10-25T00:00:00Z/11
+LAST	P1476	en:"Review of Black faith and public talk: critical essays on James H Cone's Black theology and Black power"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Risks of faith: the emergence of a Black theology of liberation, 1968-1998"
+LAST	Den	"journal article"
+LAST	P478	"117"
+LAST	P433	"29"
+LAST	P304	"1084-1085"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Christian Century"
+LAST	P577	+2000-10-25T00:00:00Z/11
+LAST	P1476	en:"Review of Risks of faith: the emergence of a Black theology of liberation, 1968-1998"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of God's long summer: stories of faith and civil rights"
+LAST	Den	"journal article"
+LAST	P478	"41"
+LAST	P433	"1"
+LAST	P304	"151-152"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Journal of Church and State"
+LAST	P577	+1999-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of God's long summer: stories of faith and civil rights"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of African-American religion: interpretive essays in history and culture"
+LAST	Den	"journal article"
+LAST	P356	"10.1177/004057369805400426"
+LAST	P478	"54"
+LAST	P433	"4"
+LAST	P304	"554-555"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Theology Today"
+LAST	P577	+1998-01-00T00:00:00Z/10
+LAST	P1476	en:"Review of African-American religion: interpretive essays in history and culture"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The preacher king: Martin Luther King, Jr, and the word that moved America"
+LAST	Den	"journal article"
+LAST	P356	"10.2307/3170559"
+LAST	P478	"65"
+LAST	P433	"1"
+LAST	P304	"147-149"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+1996-03-00T00:00:00Z/10
+LAST	P1476	en:"Review of The preacher king: Martin Luther King, Jr, and the word that moved America"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Songs of Zion: the African Methodist Episcopal Church in the United States and South Africa"
+LAST	Den	"journal article"
+LAST	P478	"28"
+LAST	P433	"2"
+LAST	P304	"102-103"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Fides et historia"
+LAST	P577	+1996-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Songs of Zion: the African Methodist Episcopal Church in the United States and South Africa"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of A fire in the bones: reflections on African-American religious history"
+LAST	Den	"journal article"
+LAST	P356	"10.1177/004057369605300222"
+LAST	P478	"53"
+LAST	P433	"2"
+LAST	P304	"246-248"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Theology Today"
+LAST	P577	+1996-07-00T00:00:00Z/10
+LAST	P1476	en:"Review of A fire in the bones: reflections on African-American religious history"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Church People in the Struggle: The National Council of Churches and the Black Freedom Movement, 1950-1970"
+LAST	Den	"journal article"
+LAST	P356	"10.2307/3168706"
+LAST	P478	"64"
+LAST	P433	"1"
+LAST	P304	"148-149"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+1995-03-00T00:00:00Z/10
+LAST	P1476	en:"Review of Church People in the Struggle: The National Council of Churches and the Black Freedom Movement, 1950-1970"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The Rise of Gospel Blues: The Music of Thomas Andrew Dorsey in the Urban Church"
+LAST	Den	"journal article"
+LAST	P356	"10.2307/3168904"
+LAST	P478	"64"
+LAST	P433	"4"
+LAST	P304	"717-718"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+1995-12-00T00:00:00Z/10
+LAST	P1476	en:"Review of The Rise of Gospel Blues: The Music of Thomas Andrew Dorsey in the Urban Church"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Mysticism and Social Change: The Social Witness of Howard Thurman"
+LAST	Den	"journal article"
+LAST	P356	"10.2307/3168910"
+LAST	P478	"64"
+LAST	P433	"4"
+LAST	P304	"724-726"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Church History"
+LAST	P577	+1995-12-00T00:00:00Z/10
+LAST	P1476	en:"Review of Mysticism and Social Change: The Social Witness of Howard Thurman"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of West African Christianity"
+LAST	Den	"journal article"
+LAST	P478	"5"
+LAST	P433	"4"
+LAST	P304	"123-125"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Dialogue & Alliance"
+LAST	P577	+1991-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of West African Christianity"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Martin and Malcolm and America: A Dream or a Nightmare"
+LAST	Den	"journal article"
+LAST	P356	"10.1177/004057369204800419"
+LAST	P478	"48"
+LAST	P433	"4"
+LAST	P304	"468-469"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Theology Today"
+LAST	P577	+1992-01-00T00:00:00Z/10
+LAST	P1476	en:"Review of Martin and Malcolm and America: A Dream or a Nightmare"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Martin and Malcolm and America: A Dream or a Nightmare"
+LAST	Den	"journal article"
+LAST	P478	"12"
+LAST	P433	"3"
+LAST	P304	"298"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Word & World"
+LAST	P577	+1992-00-00T00:00:00Z/9
+LAST	P1476	en:"Martin and Malcolm and America: A Dream or a Nightmare"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"'Let us break bread together': Martin Luther King, Jr, and the Black church in the South, 1954-1968"
+LAST	Den	"book section"
+LAST	P304	"119-142"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Cultural perspectives on the American South"
+LAST	P291	"New York"
+LAST	P123	"Gordon & Breach"
+LAST	P577	+1991-00-00T00:00:00Z/9
+LAST	P212	"978-2-88124-394-3"
+LAST	P1476	en:"'Let us break bread together': Martin Luther King, Jr, and the Black church in the South, 1954-1968"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"The vision of Martin Luther King, Jr, and the apartheid system in South Africa"
+LAST	Den	"journal article"
+LAST	P478	"16"
+LAST	P433	"1-2"
+LAST	P304	"22-45"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Journal of Religious Studies"
+LAST	P577	+1990-00-00T00:00:00Z/9
+LAST	P1476	en:"The vision of Martin Luther King, Jr, and the apartheid system in South Africa"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Martin Luther King, Jr as a national and international symbol of community"
+LAST	Den	"journal article"
+LAST	P478	"101"
+LAST	P304	"2-4"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The AME Zion Quarterly Review"
+LAST	P577	+1989-04-00T00:00:00Z/10
+LAST	P1476	en:"Martin Luther King, Jr as a national and international symbol of community"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"The minister as preacher, pastor, and prophet: the thinking of Martin Luther King, Jr"
+LAST	Den	"journal article"
+LAST	P478	"7"
+LAST	P433	"2"
+LAST	P304	"79-97"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"American Baptist Quarterly"
+LAST	P577	+1988-06-00T00:00:00Z/10
+LAST	P1476	en:"The minister as preacher, pastor, and prophet: the thinking of Martin Luther King, Jr"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Understanding Martin Luther King, Jr within the context of southern Black religious history"
+LAST	Den	"journal article"
+LAST	P478	"13"
+LAST	P433	"2"
+LAST	P304	"1-26"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Journal of Religious Studies"
+LAST	P577	+1987-00-00T00:00:00Z/9
+LAST	P1476	en:"Understanding Martin Luther King, Jr within the context of southern Black religious history"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Family, church, and the Black experience: the shaping of Martin Luther King, Jr"
+LAST	Den	"journal article"
+LAST	P304	"2-10"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The AME Zion Quarterly Review"
+LAST	P577	+1987-01-00T00:00:00Z/10
+LAST	P1476	en:"Family, church, and the Black experience: the shaping of Martin Luther King, Jr"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"'Deliverance to the captives': images of Jesus Christ in the minds of Afro-American slaves"
+LAST	Den	"journal article"
+LAST	P478	"12"
+LAST	P433	"2"
+LAST	P304	"27-45"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Journal of Religious Studies"
+LAST	P577	+1986-00-00T00:00:00Z/9
+LAST	P1476	en:"'Deliverance to the captives': images of Jesus Christ in the minds of Afro-American slaves"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q21481766
+LAST	Len	"New directions for the study of Blacks in Methodism"
+LAST	Den	"book section"
+LAST	P304	"185-193"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Rethinking Methodist history: a bicentennial historical consultation"
+LAST	P291	"Nashville, Tenn"
+LAST	P577	+1985-00-00T00:00:00Z/9
+LAST	P212	"978-0-687-36170-0"
+LAST	P1476	en:"New directions for the study of Blacks in Methodism"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Martin Luther King, Jr, the black church, and the black messianic vision"
+LAST	Den	"journal article"
+LAST	P478	"12"
+LAST	P433	"1-2"
+LAST	P304	"93-108"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of the Interdenominational Theological Center"
+LAST	P577	+1984-00-00T00:00:00Z/9
+LAST	P1476	en:"Martin Luther King, Jr, the black church, and the black messianic vision"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"The Colored American and its reports on African Methodism in 1837"
+LAST	Den	"journal article"
+LAST	P478	"95"
+LAST	P433	"4"
+LAST	P304	"20-27"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The AME Zion Quarterly Review"
+LAST	P577	+1984-01-00T00:00:00Z/10
+LAST	P1476	en:"The Colored American and its reports on African Methodism in 1837"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Sources and ideas for the study of John Wesley and Africa"
+LAST	Den	"journal article"
+LAST	P478	"96"
+LAST	P433	"2"
+LAST	P304	"24-28"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The AME Zion Quarterly Review"
+LAST	P577	+1984-07-00T00:00:00Z/10
+LAST	P1476	en:"Sources and ideas for the study of John Wesley and Africa"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"'A home in dat rock': Afro-American folk sources and slave visions of heaven and hell"
+LAST	Den	"journal article"
+LAST	P478	"41"
+LAST	P433	"1"
+LAST	P304	"38-57"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Religious Thought"
+LAST	P577	+1984-00-00T00:00:00Z/9
+LAST	P1476	en:"'A home in dat rock': Afro-American folk sources and slave visions of heaven and hell"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of A Rock in a Weary Land: The AME Church during the Civil War and Reconstruction"
+LAST	Den	"journal article"
+LAST	P478	"21"
+LAST	P433	"3"
+LAST	P304	"174-175"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Methodist History"
+LAST	P577	+1983-04-00T00:00:00Z/10
+LAST	P1476	en:"Review of A Rock in a Weary Land: The AME Church during the Civil War and Reconstruction"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Black women and African Union Methodism, 1813-1983"
+LAST	Den	"journal article"
+LAST	P478	"21"
+LAST	P433	"4"
+LAST	P304	"225-237"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Methodist History"
+LAST	P577	+1983-07-00T00:00:00Z/10
+LAST	P1476	en:"Black women and African Union Methodism, 1813-1983"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Sources and ideas for the study of John Wesley and Africa"
+LAST	Den	"journal article"
+LAST	P478	"95"
+LAST	P433	"3"
+LAST	P304	"25-29"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The AME Zion Quarterly Review"
+LAST	P577	+1983-10-00T00:00:00Z/10
+LAST	P1476	en:"Sources and ideas for the study of John Wesley and Africa"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Festivity and celebration in a black Methodist tradition, 1813-1981"
+LAST	Den	"journal article"
+LAST	P478	"20"
+LAST	P433	"4"
+LAST	P304	"183-191"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Methodist History"
+LAST	P577	+1982-07-00T00:00:00Z/10
+LAST	P1476	en:"Festivity and celebration in a black Methodist tradition, 1813-1981"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"The AUMP and UAME churches: an unexplored area of black Methodism"
+LAST	Den	"journal article"
+LAST	P478	"19"
+LAST	P433	"3"
+LAST	P304	"175-178"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"Methodist History"
+LAST	P577	+1981-04-00T00:00:00Z/10
+LAST	P1476	en:"The AUMP and UAME churches: an unexplored area of black Methodism"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Father Peter Spencer: portrait of an unknown pioneer African Methodist leader"
+LAST	Den	"journal article"
+LAST	P478	"9"
+LAST	P433	"1"
+LAST	P304	"31-43"
+LAST	P2093	"Lewis V Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of the Interdenominational Theological Center"
+LAST	P577	+1981-00-00T00:00:00Z/9
+LAST	P1476	en:"Father Peter Spencer: portrait of an unknown pioneer African Methodist leader"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"The Freedom to Act on Conscience: Lawrence Edward Carter Sr.'s Life of Scholarship, Activism, and Service"
+LAST	Den	"journal article"
+LAST	P356	"https://doi.org/10.2979/spectrum.9.1_2.07"
+LAST	P478	"9"
+LAST	P433	"1/2"
+LAST	P304	"93-112"
+LAST	P2093	"Echol Nix"	P1545	"1"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"2"
+LAST	P1433	"Spectrum"
+LAST	P577	+2021-00-00T00:00:00Z/9
+LAST	P1476	en:"The Freedom to Act on Conscience: Lawrence Edward Carter Sr.'s Life of Scholarship, Activism, and Service"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Malcolm X and Martin Luther King, Jr.: What They Thought About Each Other"
+LAST	Den	"journal article"
+LAST	P478	"25"
+LAST	P433	"4"
+LAST	P304	"395-416"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"Islamic Studies"
+LAST	P577	+1986-00-00T00:00:00Z/9
+LAST	P1476	en:"Malcolm X and Martin Luther King, Jr.: What They Thought About Each Other"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The Papers of Martin Luther King, Jr., Volume IV: Symbol of the Movement, January 1957-December 1958"
+LAST	Den	"journal article"
+LAST	P478	"84"
+LAST	P433	"2"
+LAST	P304	"349-350"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Georgia Historical Quarterly"
+LAST	P577	+2000-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of The Papers of Martin Luther King, Jr., Volume IV: Symbol of the Movement, January 1957-December 1958"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of On the Side of My People: A Religious Life of Malcolm X., Louis A. DeCaro Jr."
+LAST	Den	"journal article"
+LAST	P356	"10.2307/2945087"
+LAST	P478	"83"
+LAST	P433	"2"
+LAST	P304	"700-701"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P2093	"Louis A. DeCaro"	P1545	"2"
+LAST	P1433	"The Journal of American History"
+LAST	P577	+1996-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of On the Side of My People: A Religious Life of Malcolm X., Louis A. DeCaro Jr."
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"The Unfolding of the Moral Order: Rufus Burrow, Jr., Personal Idealism, and the Life and Thought of Martin Luther King, Jr."
+LAST	Den	"journal article"
+LAST	P478	"6"
+LAST	P433	"1"
+LAST	P304	"1-13"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Pluralist"
+LAST	P577	+2011-00-00T00:00:00Z/9
+LAST	P1476	en:"The Unfolding of the Moral Order: Rufus Burrow, Jr., Personal Idealism, and the Life and Thought of Martin Luther King, Jr."
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of From Civil Rights to Human Rights: Martin Luther King Jr. and the Struggle for Economic Justice"
+LAST	Den	"journal article"
+LAST	P478	"70"
+LAST	P433	"4"
+LAST	P304	"789-790"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Historian"
+LAST	P577	+2008-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of From Civil Rights to Human Rights: Martin Luther King Jr. and the Struggle for Economic Justice"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Lift Your Voice Like a Trumpet: White Clergy and the Civil Rights and Antiwar Movements, 1954-1973"
+LAST	Den	"journal article"
+LAST	P356	"10.2307/2650459"
+LAST	P478	"104"
+LAST	P433	"2"
+LAST	P304	"601-602"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The American Historical Review"
+LAST	P577	+1999-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Lift Your Voice Like a Trumpet: White Clergy and the Civil Rights and Antiwar Movements, 1954-1973"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"The Making of a Dreamer: The Georgia Roots of Martin Luther King, Jr."
+LAST	Den	"journal article"
+LAST	P478	"76"
+LAST	P433	"3"
+LAST	P304	"639-651"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P98	"Clayborne Carson"	P1545	"1"
+LAST	P98	"Ralph E. Luker"	P1545	"2"
+LAST	P98	"Penny A. Russell"	P1545	"3"
+LAST	P1433	"The Georgia Historical Quarterly"
+LAST	P577	+1992-00-00T00:00:00Z/9
+LAST	P1476	en:"The Making of a Dreamer: The Georgia Roots of Martin Luther King, Jr."
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"A Reassessment of the Relationship Between Malcolm X and Martin Luther King, Jr."
+LAST	Den	"journal article"
+LAST	P478	"13"
+LAST	P433	"2"
+LAST	P304	"103–113"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Western Journal of Black Studies"
+LAST	P577	+1989-00-00T00:00:00Z/9
+LAST	P1476	en:"A Reassessment of the Relationship Between Malcolm X and Martin Luther King, Jr."
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of American Congregations (2 vols) edited by James P. Wind and James W. Lewis"
+LAST	Den	"journal article"
+LAST	P478	"82"
+LAST	P433	"3"
+LAST	P304	"1295"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of American History"
+LAST	P577	+1995-12-00T00:00:00Z/10
+LAST	P1476	en:"Review of American Congregations (2 vols) edited by James P. Wind and James W. Lewis"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Dreams and Nightmares: Martin Luther King Jr., Malcolm X, and the Struggle for Black Equality in America"
+LAST	Den	"journal article"
+LAST	P478	"79"
+LAST	P433	"1"
+LAST	P304	"232-233"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Southern History"
+LAST	P577	+2013-02-00T00:00:00Z/10
+LAST	P1476	en:"Review of Dreams and Nightmares: Martin Luther King Jr., Malcolm X, and the Struggle for Black Equality in America"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The Papers of Martin Luther King, Jr., Volume III: Birth of a New Age"
+LAST	Den	"journal article"
+LAST	P478	"81"
+LAST	P433	"3"
+LAST	P304	"814-815"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Georgia Historical Quarterly"
+LAST	P577	+1997-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of The Papers of Martin Luther King, Jr., Volume III: Birth of a New Age"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The Papers of Martin Luther King, Jr., Volume 2: Rediscovering Precious Values, July 1951-November 1955"
+LAST	Den	"journal article"
+LAST	P478	"79"
+LAST	P433	"2"
+LAST	P304	"513-515"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Georgia Historical Quarterly"
+LAST	P577	+1995-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of The Papers of Martin Luther King, Jr., Volume 2: Rediscovering Precious Values, July 1951-November 1955"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The Making of Martin Luther King and the Civil Right Movement"
+LAST	Den	"journal article"
+LAST	P478	"80"
+LAST	P433	"4"
+LAST	P304	"940-941"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Georgia Historical Quarterly"
+LAST	P577	+1996-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of The Making of Martin Luther King and the Civil Right Movement"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Martin Luther King Jr.'s "Beloved Community" Ideal and the Apartheid System in South Africa"
+LAST	Den	"journal article"
+LAST	P478	"10"
+LAST	P433	"4"
+LAST	P304	"211–222"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Western Journal of Black Studies"
+LAST	P577	+1986-00-00T00:00:00Z/9
+LAST	P1476	en:"Martin Luther King Jr.'s "Beloved Community" Ideal and the Apartheid System in South Africa"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Conjuring Culture: Biblical Formations of Black America."
+LAST	Den	"journal article"
+LAST	P356	"10.2307/2081977"
+LAST	P478	"82"
+LAST	P433	"1"
+LAST	P304	"213-214"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of American History"
+LAST	P577	+1995-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Conjuring Culture: Biblical Formations of Black America."
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of A Stone of Hope: Prophetic Religion and the Death of Jim Crow"
+LAST	Den	"journal article"
+LAST	P478	"58"
+LAST	P433	"1"
+LAST	P304	"72-74"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"Alabama Review"
+LAST	P577	+2005-01-00T00:00:00Z/10
+LAST	P1476	en:"Review of A Stone of Hope: Prophetic Religion and the Death of Jim Crow"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Hope and History: Why We Must Share the Story of the Movement"
+LAST	Den	"journal article"
+LAST	P478	"75"
+LAST	P433	"3"
+LAST	P304	"679-680"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Georgia Historical Quarterly"
+LAST	P577	+1991-00-00T00:00:00Z/9
+LAST	P1476	en:"Review of Hope and History: Why We Must Share the Story of the Movement"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of The Burden of Black Religion"
+LAST	Den	"journal article"
+LAST	P478	"95"
+LAST	P433	"4"
+LAST	P304	"1135"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of American History"
+LAST	P577	+2009-03-00T00:00:00Z/10
+LAST	P1476	en:"Review of The Burden of Black Religion"
+LAST	P407	Q1860
+CREATE
+LAST	P31	Q13442814
+LAST	Len	"Review of Becoming King: Martin Luther King Jr. and the Making of a National Leader"
+LAST	Den	"journal article"
+LAST	P478	"76"
+LAST	P433	"2"
+LAST	P304	"500-501"
+LAST	P2093	"Lewis V. Baldwin"	P1545	"1"
+LAST	P1433	"The Journal of Southern History"
+LAST	P577	+2010-05-00T00:00:00Z/10
+LAST	P1476	en:"Review of Becoming King: Martin Luther King Jr. and the Making of a National Leader"
+LAST	P407	Q1860
