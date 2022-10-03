@@ -665,8 +665,8 @@ def process_file(manage_descriptions, label_description_language_list, output_fi
 
 #file_text = read_plain_text(config_path)
 #config = json.loads(file_text)
-with open('config.yaml', 'r') as file_object:
-    config = yaml.safe_load(config_path)
+with open(config_path, 'r') as file_object:
+    config = yaml.safe_load(file_object)
 
 data_path = config['data_path']
 item_source_csv = config['item_source_csv'] 

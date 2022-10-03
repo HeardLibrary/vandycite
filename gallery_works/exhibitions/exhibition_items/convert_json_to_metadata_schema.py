@@ -11,6 +11,7 @@ created = '2021-03-13'
 # VanderBot v1.7.1 API-writing script vanderbot.py
 
 import json
+import yaml
 import sys # Read CLI arguments
 
 # ----------------
@@ -18,7 +19,7 @@ import sys # Read CLI arguments
 # ----------------
 
 # Set default values
-config_path = 'config.json'
+config_path = 'config.yaml'
 out_file_path = 'csv-metadata.json'
 default_language = 'en'
 node_root_url= 'http://example.com/.well-known/genid/'
@@ -334,9 +335,11 @@ def build_table(data_path, outfile):
 # Beginning of main script
 # ----------------
 
-with open(config_path, 'rt', encoding='utf-8') as file_object:
-    file_text = file_object.read()
-config = json.loads(file_text)
+#with open(config_path, 'rt', encoding='utf-8') as file_object:
+#    file_text = file_object.read()
+#config = json.loads(file_text)
+with open(config_path, 'r') as file_object:
+    config = yaml.safe_load(file_object)
 
 data_path = config['data_path']
 #item_source_csv = config['item_source_csv'] 
