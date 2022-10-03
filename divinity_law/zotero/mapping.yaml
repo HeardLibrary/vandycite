@@ -1,0 +1,121 @@
+constants: []
+
+# Value beginning with $: name of variable containing a constant value
+# Otherwise, value is the name of a function that calculates the value based on the value in the source column
+# Source is the column in the source table that's passed into the function. Not every function requires this.
+properties:
+- variable: instance_of
+  value: set_instance_of
+  source: Item Type
+  ref: []
+- variable: full_work_available
+  value: identity
+  source: full_work_available
+  ref:
+  - variable: retrieved
+    value: today
+- variable: edition_version
+  value: identity
+  source: edition_version
+- variable: language
+  value: detect_language
+  source: label
+- variable: number_pages
+  value: calculate_pages
+  source: page
+- variable: doi
+  value: clean_doi
+  source: doi
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: pmid
+  value: identity
+  source: pmid
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: publication_date
+  value: identity
+  source: publication_date
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: title_en
+  value: identity
+  source: label
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: published_in
+  value: disambiguate_published_in
+  source: ISSN
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: volume
+  value: identity
+  source: volume
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: page
+  value: identity
+  source: page
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: issue
+  value: identity
+  source: issue
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: isbn10
+  value: identity
+  source: isbn10
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: isbn13
+  value: identity
+  source: isbn13
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: publisher
+  value: disambiguate_publisher
+  source: publisher
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
+- variable: place_of_publication
+  value: disambiguate_place_of_publication
+  source: place_of_publication
+  ref:
+  - variable: referenceUrl
+    value: reference
+  - variable: retrieved
+    value: today
