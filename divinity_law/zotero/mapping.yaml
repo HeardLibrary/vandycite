@@ -19,13 +19,13 @@ properties:
   source: edition_version
 - variable: language
   value: detect_language
-  source: label
+  source: Title
 - variable: number_pages
   value: calculate_pages
-  source: page
+  source: Pages
 - variable: doi
   value: clean_doi
-  source: doi
+  source: DOI
   ref:
   - variable: referenceUrl
     value: reference
@@ -41,7 +41,7 @@ properties:
     value: today
 - variable: publication_date
   value: identity
-  source: publication_date
+  source: Publication Year
   ref:
   - variable: referenceUrl
     value: reference
@@ -49,7 +49,7 @@ properties:
     value: today
 - variable: title_en
   value: identity
-  source: label
+  source: Title
   ref:
   - variable: referenceUrl
     value: reference
@@ -65,7 +65,7 @@ properties:
     value: today
 - variable: volume
   value: identity
-  source: volume
+  source: Volume
   ref:
   - variable: referenceUrl
     value: reference
@@ -73,7 +73,7 @@ properties:
     value: today
 - variable: page
   value: identity
-  source: page
+  source: Pages
   ref:
   - variable: referenceUrl
     value: reference
@@ -81,23 +81,23 @@ properties:
     value: today
 - variable: issue
   value: identity
-  source: issue
+  source: Issue
   ref:
   - variable: referenceUrl
     value: reference
   - variable: retrieved
     value: today
 - variable: isbn10
-  value: identity
-  source: isbn10
+  value: isbn10
+  source: ISBN
   ref:
   - variable: referenceUrl
     value: reference
   - variable: retrieved
     value: today
 - variable: isbn13
-  value: identity
-  source: isbn13
+  value: isbn13
+  source: ISBN
   ref:
   - variable: referenceUrl
     value: reference
@@ -105,7 +105,7 @@ properties:
     value: today
 - variable: publisher
   value: disambiguate_publisher
-  source: publisher
+  source: Publisher
   ref:
   - variable: referenceUrl
     value: reference
@@ -113,7 +113,7 @@ properties:
     value: today
 - variable: place_of_publication
   value: disambiguate_place_of_publication
-  source: place_of_publication
+  source: Place
   ref:
   - variable: referenceUrl
     value: reference
