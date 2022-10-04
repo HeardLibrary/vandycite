@@ -7,28 +7,29 @@ properties:
 - variable: instance_of
   value: set_instance_of
   source: Item Type
-  ref: []
 - variable: full_work_available
   value: identity
-  source: full_work_available
+  source: Url
   ref:
   - variable: retrieved
     value: today
 - variable: edition_version
   value: identity
-  source: edition_version
+  source: Edition
 - variable: language
   value: detect_language
   source: Title
 - variable: number_pages
   value: calculate_pages
+  quantity_unit: Q1069725 # page
   source: Pages
 - variable: doi
   value: clean_doi
   source: DOI
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: pmid
@@ -36,7 +37,8 @@ properties:
   source: pmid
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: publication_date
@@ -44,7 +46,8 @@ properties:
   source: Publication Year
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: title_en
@@ -52,7 +55,8 @@ properties:
   source: Title
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: published_in
@@ -60,7 +64,8 @@ properties:
   source: ISSN
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: volume
@@ -68,7 +73,8 @@ properties:
   source: Volume
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: page
@@ -76,7 +82,8 @@ properties:
   source: Pages
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: issue
@@ -84,7 +91,8 @@ properties:
   source: Issue
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: isbn10
@@ -92,7 +100,8 @@ properties:
   source: ISBN
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: isbn13
@@ -100,7 +109,8 @@ properties:
   source: ISBN
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: publisher
@@ -108,7 +118,8 @@ properties:
   source: Publisher
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
 - variable: place_of_publication
@@ -116,6 +127,7 @@ properties:
   source: Place
   ref:
   - variable: referenceUrl
-    value: reference
+    value: set_reference
+    source: Url
   - variable: retrieved
     value: today
