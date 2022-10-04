@@ -39,6 +39,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -50,6 +53,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -61,6 +67,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -73,6 +82,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -84,6 +96,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -95,6 +110,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -106,6 +124,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -117,6 +138,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -128,6 +152,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -139,6 +166,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -150,6 +180,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -161,6 +194,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -182,6 +218,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -203,6 +242,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813
@@ -221,6 +263,9 @@ outfiles:
     - variable: referenceUrl
       value_type: uri
       pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
     - variable: retrieved
       value_type: date
       pid: P813

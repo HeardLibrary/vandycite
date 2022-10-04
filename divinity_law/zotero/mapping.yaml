@@ -30,6 +30,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: pmid
@@ -39,6 +42,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: publication_date
@@ -48,6 +54,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: title_en
@@ -57,6 +66,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: published_in
@@ -66,6 +78,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: volume
@@ -75,6 +90,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: page
@@ -84,6 +102,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: issue
@@ -93,6 +114,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: isbn10
@@ -102,6 +126,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: isbn13
@@ -111,6 +138,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: publisher
@@ -120,6 +150,9 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
 - variable: place_of_publication
@@ -129,5 +162,8 @@ properties:
   - variable: referenceUrl
     value: set_reference
     source: Url
+  - variable: stated_in
+    value_type: set_stated_in
+    pid: Url
   - variable: retrieved
     value: today
