@@ -8,7 +8,7 @@
       "label_description_language_list": [
         "en"
       ],
-      "output_file_name": "exhibition.csv",
+      "output_file_name": "exhibition_pieces.csv",
       "prop_list": [
         {
           "pid": "P608",

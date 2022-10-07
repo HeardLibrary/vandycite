@@ -3,7 +3,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "tables": [
     {
-      "url": "exhibition.csv",
+      "url": "exhibition_pieces.csv",
       "tableSchema": {
         "columns": [
           {
