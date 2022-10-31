@@ -1,126 +1,38 @@
-Image size exceeds 100 Mb for 2006.014.tif
-Image size exceeds 100 Mb for 1977.009.tif
-Image size exceeds 100 Mb for 1989.031.tif
-Image size exceeds 100 Mb for 2001.001.tif
-Image size exceeds 100 Mb for 1956.058.tif
-Image size exceeds 100 Mb for 1985.046.tif
-Image size exceeds 100 Mb for 2006.009.tif
-Image size exceeds 100 Mb for 2001.163a&b.tif
-Inadequate pixel squared for 2003.028.jpg
-Image size exceeds 100 Mb for 1956-036.tif
-Image size exceeds 100 Mb for 1979.0674P.tif
-Image size exceeds 100 Mb for 2006.010.tif
-Image size exceeds 100 Mb for 1994.016.tif
-Image size exceeds 100 Mb for 1994.025.tif
-Image size exceeds 100 Mb for 1994.010.tif
-Image size exceeds 100 Mb for 1994.007.tif
-Image size exceeds 100 Mb for 1994.042.tif
-Image size exceeds 100 Mb for 1994.020.tif
-Image size exceeds 100 Mb for 1994.008.tif
-Image size exceeds 100 Mb for 1994.012.tif
-Image size exceeds 100 Mb for 1994.031.tif
-Image size exceeds 100 Mb for 1994.029.tif
-Image size exceeds 100 Mb for 1994.026.tif
-Image size exceeds 100 Mb for 1994.023.tif
-Image size exceeds 100 Mb for 1994.024.tif
-Image size exceeds 100 Mb for 1994.027.tif
-Image size exceeds 100 Mb for 1994.022.tif
-Image size exceeds 100 Mb for 1994.034.tif
-Image size exceeds 100 Mb for 1994.011.tif
-Image size exceeds 100 Mb for 1994.028.tif
-Inadequate pixel squared for 2003.039.jpg
-Inadequate pixel squared for 2003.043.jpg
-Image size exceeds 100 Mb for 2003.071.tif
-Image size exceeds 100 Mb for 1973.013.tif
-Inadequate pixel squared for 1969.015.jpg
-Image size exceeds 100 Mb for 1956-034.tif
-Image size exceeds 100 Mb for 1956-028.tif
-Image size exceeds 100 Mb for 1970-068.tif
-Image size exceeds 100 Mb for 1999.251.tif
-Image size exceeds 100 Mb for 1979.0532P.tif
-Image size exceeds 100 Mb for 1979.0806P.tif
-Inadequate pixel squared for 2002.023.jpg
-Inadequate pixel squared for 2003.032.jpg
-Inadequate pixel squared for 1956.031.jpg
-Image size exceeds 100 Mb for 1979.1212P.tif
-Image size exceeds 100 Mb for 1979.1224P.tif
-Image size exceeds 100 Mb for 1977.003.tif
-Image size exceeds 100 Mb for 1994.531.tif
-Image size exceeds 100 Mb for 1982.103.tif
-Image size exceeds 100 Mb for 2000.109.tif
-Image size exceeds 100 Mb for 2000.119.tif
-Image size exceeds 100 Mb for 1979.1225P.tif
-Image size exceeds 100 Mb for 1979.1221P.tif
-Image size exceeds 100 Mb for 1979.1222P.tif
-Image size exceeds 100 Mb for 1975.063.tif
-Image size exceeds 100 Mb for 1975.062.tif
-Image size exceeds 100 Mb for 1971-064.tif
-Image size exceeds 100 Mb for 1979.1213P.tif
-Image size exceeds 100 Mb for 2000.115.tif
-Image size exceeds 100 Mb for 1979.1216P.tif
-Image size exceeds 100 Mb for 2000.108.tif
-Image size exceeds 100 Mb for 1996.005.tif
-Inadequate pixel squared for 2003.048.jpg
-Image size exceeds 100 Mb for 1979.1220P.tif
-Image size exceeds 100 Mb for 1999.252.tif
-Inadequate pixel squared for 2003.042.jpg
-Image size exceeds 100 Mb for 1979.1227P.tif
-Image size exceeds 100 Mb for 1979.1005P.tif
-Inadequate pixel squared for 2003.012.jpg
-Image size exceeds 100 Mb for 1975.064.tif
-Image size exceeds 100 Mb for 2005.033.tif
-Image size exceeds 100 Mb for 1980.031.tif
 Inadequate pixel squared for 2003.035.jpg
-Image size exceeds 100 Mb for 2004.031.tif
+Inadequate pixel squared for 2003.029.jpg
+Failed find creator string in Wikidata for  Q105095771  with error: No creators
+Failed find creator string in Wikidata for  Q105095772  with error: No creators
+Failed find creator string in Wikidata for  Q105095773  with error: No creators
+Failed find creator string in Wikidata for  Q105095775  with error: No creators
+Failed find creator string in Wikidata for  Q105095776  with error: No creators
+Failed find creator string in Wikidata for  Q105095777  with error: No creators
+Failed find creator string in Wikidata for  Q104017130  with error: No creators
 Inadequate pixel squared for 2004.032.jpg
-Image size exceeds 100 Mb for 1980.129.tif
-Image size exceeds 100 Mb for 1956-056.tif
-Image size exceeds 100 Mb for 1956-027.tif
 Inadequate pixel squared for 1981.034.jpg
 Inadequate pixel squared for 2001.166.tif
-Image size exceeds 100 Mb for 1979.1026P.tif
-Inadequate pixel squared for 2003.021.jpg
-Image size exceeds 100 Mb for 1979.1215P.tif
-Inadequate pixel squared for 2003.029.jpg
-Image size exceeds 100 Mb for 1988.106.tif
-Image size exceeds 100 Mb for 1972-077.tif
-Image size exceeds 100 Mb for 1979.1217P.tif
-Inadequate pixel squared for 2003.023.jpg
-Failed find creator string in Wikidata for  1979.0786P  with error: No creators
-Image size exceeds 100 Mb for 1974.021.tif
-Image size exceeds 100 Mb for 1992.249.tif
-Image size exceeds 100 Mb for 1979.0448P.tif
-Image size exceeds 100 Mb for 1994.013.tif
-Image size exceeds 100 Mb for 1994.014.tif
-Image size exceeds 100 Mb for 1994.017.tif
-Image size exceeds 100 Mb for 1994.019.tif
-Image size exceeds 100 Mb for 1994.049.tif
-Image size exceeds 100 Mb for 1979.1226P.tif
-Failed find creator string in Wikidata for  1979.0790P  with error: No creators
-Failed find creator string in Wikidata for  1979.0791P  with error: No creators
-Failed find creator string in Wikidata for  1979.0792P  with error: No creators
-Failed find creator string in Wikidata for  1979.0793P  with error: No creators
-Failed find creator string in Wikidata for  1979.0794P  with error: No creators
-Failed find creator string in Wikidata for  1979.0795P  with error: No creators
-Failed find creator string in Wikidata for  2007.011  with error: No creators
-Failed find creator string in Wikidata for  2007.012  with error: No creators
-Failed find creator string in Wikidata for  2007.013  with error: No creators
-Failed find creator string in Wikidata for  2010.006  with error: No creators
-Failed find creator string in Wikidata for  1980.032  with error: No creators
-Image size exceeds 100 Mb for 1973.001.tif
-Failed find creator string in Wikidata for  1972.067  with error: No creators
-Failed find creator string in Wikidata for  1971.050  with error: No creators
-Failed find creator string in Wikidata for  1971.043  with error: No creators
-Failed find creator string in Wikidata for  1989.043  with error: No creators
-Image size exceeds 100 Mb for 1998.055.tif
-Image size exceeds 100 Mb for 1998.047.tif
-Image size exceeds 100 Mb for 1998.046.tif
-Failed find creator string in Wikidata for  1979.0911P  with error: No creators
-Image size exceeds 100 Mb for 1998.056.tif
-Failed find creator string in Wikidata for  1996.192  with error: No creators
-Failed find creator string in Wikidata for  1994.334  with error: No creators
-Inadequate pixel squared for 1957.016.jpg
-Image size exceeds 100 Mb for 1978.027.tif
-Image size exceeds 100 Mb for 1979.0395P.tif
 Image size exceeds 100 Mb for 1976.036.tif
-Image size exceeds 100 Mb for 1994.530.tif
+Failed find creator string in Wikidata for  Q105096000  with error: No creators
+Inadequate pixel squared for 2002.023.jpg
+Failed find creator string in Wikidata for  Q106577270  with error: No creators
+Failed find creator string in Wikidata for  Q106577271  with error: No creators
+Inadequate pixel squared for 2003.032.jpg
+Inadequate pixel squared for 1956.031.jpg
+Failed find creator string in Wikidata for  Q105096099  with error: No creators
+Failed find creator string in Wikidata for  Q105096029  with error: No creators
+Failed find creator string in Wikidata for  Q105096016  with error: No creators
+Inadequate pixel squared for 2003.048.jpg
+Inadequate pixel squared for 1957.016.jpg
+Inadequate pixel squared for 2003.042.jpg
+Failed find creator string in Wikidata for  Q105095790  with error: No creators
+Inadequate pixel squared for 2003.028.jpg
+Failed find creator string in Wikidata for  Q105096032  with error: No creators
+Inadequate pixel squared for 2003.012.jpg
+Inadequate pixel squared for 2003.039.jpg
+Inadequate pixel squared for 2003.043.jpg
+Inadequate pixel squared for 2003.023.jpg
+Inadequate pixel squared for 2003.021.jpg
+Failed find creator string in Wikidata for  Q106568711  with error: No creators
+Inadequate pixel squared for 1969.015.jpg
+Failed find creator string in Wikidata for  Q105095787  with error: No creators
+Failed find creator string in Wikidata for  Q105095804  with error: No creators
+Failed find creator string in Wikidata for  Q105095792  with error: No creators
