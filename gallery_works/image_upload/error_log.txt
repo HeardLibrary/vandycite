@@ -1,19 +1,10 @@
 Inadequate pixel squared for 2003.035.jpg
 Inadequate pixel squared for 2003.029.jpg
-Failed find creator string in Wikidata for  Q105095771  with error: No creators
-Failed find creator string in Wikidata for  Q105095772  with error: No creators
-Failed find creator string in Wikidata for  Q105095773  with error: No creators
-Failed find creator string in Wikidata for  Q105095775  with error: No creators
-Failed find creator string in Wikidata for  Q105095776  with error: No creators
-Failed find creator string in Wikidata for  Q105095777  with error: No creators
-Failed find creator string in Wikidata for  Q104017130  with error: No creators
 Inadequate pixel squared for 2004.032.jpg
 Inadequate pixel squared for 1981.034.jpg
 Inadequate pixel squared for 2001.166.tif
 Image size exceeds 100 Mb for 1976.036.tif
-Failed find creator string in Wikidata for  Q105096000  with error: No creators
 Inadequate pixel squared for 2002.023.jpg
-Failed find creator string in Wikidata for  Q106577270  with error: No creators
 Failed find creator string in Wikidata for  Q106577271  with error: No creators
 Inadequate pixel squared for 2003.032.jpg
 Inadequate pixel squared for 1956.031.jpg
