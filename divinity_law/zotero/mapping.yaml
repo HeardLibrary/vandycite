@@ -8,7 +8,7 @@ properties:
   value: set_instance_of
   source: Item Type
 - variable: full_work_available
-  value: identity
+  value: set_reference
   source: Url
   ref:
   - variable: retrieved
@@ -60,7 +60,7 @@ properties:
   - variable: retrieved
     value: today
 - variable: title_en
-  value: identity
+  value: title_en
   source: Title
   ref:
   - variable: referenceUrl
