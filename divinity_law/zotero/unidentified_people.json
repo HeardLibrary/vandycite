@@ -1,0 +1,115 @@
+[
+  {
+    "qid": "https://wikidata.org/entity/",
+    "unique_identifier": "I76F4JXE",
+    "author": [
+      {
+        "name_string": "Theodore Walker",
+        "series_ordinal": 2,
+        "possible_matches": [
+          {
+            "qid": "Q102219774",
+            "label": "Theodore W Walker",
+            "description": "researcher",
+            "occupations": [
+              "researcher"
+            ],
+            "employers": [
+              "University of Wisconsin\u2013Madison",
+              "University of Illinois at Chicago",
+              "Illinois Environmental Protection Agency",
+              "Joint Special Operations Command"
+            ],
+            "affiliations": []
+          },
+          {
+            "qid": "Q67471544",
+            "label": "T. Walker",
+            "description": "researcher",
+            "occupations": [
+              "researcher"
+            ],
+            "employers": [],
+            "affiliations": []
+          },
+          {
+            "qid": "Q112532820",
+            "label": "Theodore Walker",
+            "description": "",
+            "occupations": [
+              "theologian"
+            ],
+            "employers": [],
+            "affiliations": []
+          }
+        ]
+      },
+      {
+        "name_string": "G Kasimu Baker-Fletcher",
+        "series_ordinal": 3,
+        "possible_matches": []
+      }
+    ],
+    "editor": [
+      {
+        "name_string": "Garth Kasimu Baker-Fletcher",
+        "series_ordinal": 1,
+        "possible_matches": [
+          {
+            "qid": "Q94854010",
+            "label": "Garth Kasimu Baker-Fletcher",
+            "description": "theologian",
+            "occupations": [
+              "theologian"
+            ],
+            "employers": [],
+            "affiliations": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "qid": "https://wikidata.org/entity/",
+    "unique_identifier": "9VVPT9A8",
+    "author": [],
+    "editor": [
+      {
+        "name_string": "Charles Hardwick",
+        "series_ordinal": 1,
+        "possible_matches": []
+      },
+      {
+        "name_string": "Donald Crosby",
+        "series_ordinal": 2,
+        "possible_matches": []
+      }
+    ]
+  },
+  {
+    "qid": "https://wikidata.org/entity/",
+    "unique_identifier": "2X366JRA",
+    "author": [],
+    "editor": [
+      {
+        "name_string": "George Yancy",
+        "series_ordinal": 1,
+        "possible_matches": [
+          {
+            "qid": "Q28940963",
+            "label": "George Yancy",
+            "description": "American philosopher (born 1961)",
+            "occupations": [
+              "philosopher"
+            ],
+            "employers": [
+              "Emory University",
+              "Duquesne University"
+            ],
+            "affiliations": []
+          }
+        ]
+      }
+    ]
+  }
+]

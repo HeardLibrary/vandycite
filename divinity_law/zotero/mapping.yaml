@@ -1,4 +1,6 @@
-constants: []
+constants:
+  unique_identifier_column: Key
+  label_column: Title
 
 # Value beginning with $: name of variable containing a constant value
 # Otherwise, value is the name of a function that calculates the value based on the value in the source column

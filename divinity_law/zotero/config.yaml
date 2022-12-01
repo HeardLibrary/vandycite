@@ -6,6 +6,8 @@ outfiles:
   label_description_language_list:
   - en
   manage_descriptions: true
+  ignore:
+  - unique_identifier
   prop_list:
   - variable: full_work_available
     value_type: uri
