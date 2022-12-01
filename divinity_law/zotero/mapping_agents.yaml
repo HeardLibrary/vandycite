@@ -1,9 +1,9 @@
 # value is the name of a function that calculates the value based on the value in the source column
 # Source is the column in the source table that's passed into the function. 
 sources:
-- variable: authors
+- variable: author
   value: extract_names_from_list
   source: Author
-- variable: editors
+- variable: editor
   value: extract_names_from_list
   source: Editor
