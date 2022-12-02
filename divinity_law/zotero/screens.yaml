@@ -1,0 +1,45 @@
+# The outer list is a screen.
+# The inner list within a screen are the requirements for the screen (having AND relationships for all
+# requirements.)
+
+# "property", "position", and "require" are required.
+# Possible values for "property" are label, description, or a P ID.
+# Possible values for "position" are subject or object.
+# Possible values for "filter_type" are <, >, or in. May be omitted. 
+# Numeric values for "filter_string" should be quoted to force them to be read in as strings.
+-
+  - property: P31
+    entity: Q5
+    lang: 
+    position: object
+    require: include
+    filter_type: 
+    filter_string: 
+  - property: description
+    entity: 
+    lang: 
+    position: object
+    require: exclude
+    filter_type: in
+    filter_string: dynasty person
+  - property: description
+    entity: 
+    lang: 
+    position: object
+    require: exclude
+    filter_type: in
+    filter_string: Peerage person ID=
+  - property: P570
+    entity: 
+    lang: 
+    position: object
+    require: exclude
+    filter_type: <
+    filter_string: "2000"
+  - property: P569
+    entity: 
+    lang: 
+    position: object
+    require: exclude
+    filter_type: <
+    filter_string: "1920"
