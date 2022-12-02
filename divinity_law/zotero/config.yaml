@@ -216,12 +216,12 @@ outfiles:
     value_type: item
     pid: P50
     qual:
-    - variable: series_ordinal
-      value_type: string
-      pid: P1545
     - variable: stated_as
       value_type: string
       pid: P1932
+    - variable: series_ordinal
+      value_type: string
+      pid: P1545
     ref:
     - variable: referenceUrl
       value_type: uri
@@ -240,12 +240,12 @@ outfiles:
     value_type: item
     pid: P98
     qual:
-    - variable: series_ordinal
-      value_type: string
-      pid: P1545
     - variable: stated_as
       value_type: string
       pid: P1932
+    - variable: series_ordinal
+      value_type: string
+      pid: P1545
     ref:
     - variable: referenceUrl
       value_type: uri
