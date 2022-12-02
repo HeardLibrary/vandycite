@@ -914,7 +914,7 @@
       }
     },
     {
-      "url": "authors.csv",
+      "url": "author.csv",
       "tableSchema": {
         "columns": [
           {
@@ -1009,7 +1009,7 @@
       }
     },
     {
-      "url": "editors.csv",
+      "url": "editor.csv",
       "tableSchema": {
         "columns": [
           {

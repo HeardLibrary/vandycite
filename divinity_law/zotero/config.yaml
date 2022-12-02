@@ -208,7 +208,7 @@ outfiles:
     - variable: retrieved
       value_type: date
       pid: P813
-- output_file_name: authors.csv
+- output_file_name: author.csv
   label_description_language_list: []
   manage_descriptions: false
   prop_list:
@@ -232,7 +232,7 @@ outfiles:
     - variable: retrieved
       value_type: date
       pid: P813
-- output_file_name: editors.csv
+- output_file_name: editor.csv
   label_description_language_list: []
   manage_descriptions: false
   prop_list:
