@@ -6,6 +6,7 @@ outfiles:
   label_description_language_list:
   - en
   manage_descriptions: true
+  # Note: if no columns to ignore, you must omit the "ignore" key or provide an empty list value: []
   ignore:
   - unique_identifier
   prop_list:
