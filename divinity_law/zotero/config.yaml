@@ -9,6 +9,11 @@ outfiles:
   ignore:
   - unique_identifier
   prop_list:
+  - variable: instance_of
+    value_type: item
+    pid: P31
+    qual: []
+    ref: []
   - variable: full_work_available
     value_type: uri
     pid: P953
@@ -271,12 +276,3 @@ outfiles:
     - variable: retrieved
       value_type: date
       pid: P813
-- output_file_name: instance_of.csv
-  label_description_language_list: []
-  manage_descriptions: false
-  prop_list:
-  - variable: instance_of
-    value_type: item
-    pid: P31
-    qual: []
-    ref: []
