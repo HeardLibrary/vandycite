@@ -10,6 +10,9 @@ sources:
 - variable: editor
   value: extract_names_from_list
   source: Editor
+- variable: translator
+  value: extract_names_from_list
+  source: Translator
 ref:
 - variable: referenceUrl
   value: set_reference

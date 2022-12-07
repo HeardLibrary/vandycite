@@ -256,6 +256,30 @@ outfiles:
     - variable: retrieved
       value_type: date
       pid: P813
+- output_file_name: translator.csv
+  label_description_language_list: []
+  manage_descriptions: false
+  prop_list:
+  - variable: translator
+    value_type: item
+    pid: P655
+    qual:
+    - variable: stated_as
+      value_type: string
+      pid: P1932
+    - variable: series_ordinal
+      value_type: string
+      pid: P1545
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: stated_in
+      value_type: item
+      pid: P248
+    - variable: retrieved
+      value_type: date
+      pid: P813
 - output_file_name: author_strings.csv
   label_description_language_list: []
   manage_descriptions: false

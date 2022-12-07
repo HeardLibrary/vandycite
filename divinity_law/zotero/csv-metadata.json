@@ -1104,6 +1104,101 @@
       }
     },
     {
+      "url": "translator.csv",
+      "tableSchema": {
+        "columns": [
+          {
+            "titles": "qid",
+            "name": "qid",
+            "datatype": "string",
+            "suppressOutput": true
+          },
+          {
+            "titles": "label_en",
+            "name": "label_en",
+            "datatype": "string",
+            "suppressOutput": true
+          },
+          {
+            "titles": "translator_uuid",
+            "name": "translator_uuid",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "http://www.wikidata.org/prop/P655",
+            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{translator_uuid}"
+          },
+          {
+            "titles": "translator",
+            "name": "translator",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{translator_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/statement/P655",
+            "valueUrl": "http://www.wikidata.org/entity/{translator}"
+          },
+          {
+            "titles": "translator_stated_as",
+            "name": "translator_stated_as",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{translator_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/qualifier/P1932"
+          },
+          {
+            "titles": "translator_series_ordinal",
+            "name": "translator_series_ordinal",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{translator_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/qualifier/P1545"
+          },
+          {
+            "titles": "translator_ref1_hash",
+            "name": "translator_ref1_hash",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{translator_uuid}",
+            "propertyUrl": "prov:wasDerivedFrom",
+            "valueUrl": "http://www.wikidata.org/reference/{translator_ref1_hash}"
+          },
+          {
+            "titles": "translator_ref1_referenceUrl",
+            "name": "translator_ref1_referenceUrl",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/reference/{translator_ref1_hash}",
+            "propertyUrl": "http://www.wikidata.org/prop/reference/P854",
+            "valueUrl": "{+translator_ref1_referenceUrl}"
+          },
+          {
+            "titles": "translator_ref1_stated_in",
+            "name": "translator_ref1_stated_in",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/reference/{translator_ref1_hash}",
+            "propertyUrl": "http://www.wikidata.org/prop/reference/P248",
+            "valueUrl": "http://www.wikidata.org/entity/{translator_ref1_stated_in}"
+          },
+          {
+            "titles": "translator_ref1_retrieved_nodeId",
+            "name": "translator_ref1_retrieved_nodeId",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/reference/{translator_ref1_hash}",
+            "propertyUrl": "http://www.wikidata.org/prop/reference/value/P813",
+            "valueUrl": "http://example.com/.well-known/genid/{translator_ref1_retrieved_nodeId}"
+          },
+          {
+            "titles": "translator_ref1_retrieved_val",
+            "name": "translator_ref1_retrieved_val",
+            "datatype": "dateTime",
+            "aboutUrl": "http://example.com/.well-known/genid/{translator_ref1_retrieved_nodeId}",
+            "propertyUrl": "http://wikiba.se/ontology#timeValue"
+          },
+          {
+            "titles": "translator_ref1_retrieved_prec",
+            "name": "translator_ref1_retrieved_prec",
+            "datatype": "integer",
+            "aboutUrl": "http://example.com/.well-known/genid/{translator_ref1_retrieved_nodeId}",
+            "propertyUrl": "http://wikiba.se/ontology#timePrecision"
+          }
+        ]
+      }
+    },
+    {
       "url": "author_strings.csv",
       "tableSchema": {
         "columns": [
