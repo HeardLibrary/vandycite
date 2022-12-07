@@ -39,8 +39,8 @@ properties:
   - variable: retrieved
     value: today
 - variable: pmid
-  value: identity
-  source: pmid
+  value: extract_pmid_from_extra
+  source: Extra
   ref:
   - variable: referenceUrl
     value: set_reference
