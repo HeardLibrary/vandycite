@@ -1,4 +1,6 @@
 constants:
+  # Globally suppress use of series ordinal. Will always be suppressed if only one author.
+  # Typically should be false unless data source has unordered agents.
   suppress_series_ordinal: false
 
 # value is the name of a function that calculates the value based on the value in the source column
