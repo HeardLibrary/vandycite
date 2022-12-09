@@ -2,7 +2,9 @@ qid,label,orcid
 Q100329,Michael Welker,
 Q107266742,Karen Baker-Fletcher,
 Q109600229,Randall C. Bailey,
+Q112369242,Alice L. Laffey,
 Q112532820,Theodore Walker,
+Q113758848,Herman C. Waetjen,
 Q12482381,Eleazar S. Fernandez,
 Q12493238,Kwok Pui-lan,
 Q1336892,John Dominic Crossan,
@@ -40,6 +42,7 @@ Q58328277,Katherine L Chiou,0000-0003-0160-8037
 Q58463679,Gelvam A Hartmann,0000-0001-6078-3893
 Q59685764,Ximena S Villagran,0000-0001-8630-2015
 Q60694120,Todd J. Braje,0000-0002-3138-1665
+Q6112059,Jack Dean Kingsbury,
 Q6138351,James M. Adovasio,
 Q61787528,Gustavo Politis,0000-0003-4161-9873
 Q6271166,Jon M. Erlandson,0000-0002-4705-4319
@@ -65,6 +68,8 @@ Q83665976,Teresa Rosales Tham,
 Q86741654,JuLeigh Petty,0000-0002-9370-4888
 Q87181391,Tat-Siong Benny Liew,
 Q89128687,Sally Miller,0000-0002-3426-8027
+Q92207043,Dawn Ottoni Wilhelm,
+Q92207288,Ronald J. Allen,
 Q92222709,Paul E. Capetz,
 Q92224966,Laura Gillman,
 Q92602470,Michael Allen,
@@ -87,8 +92,3 @@ Q46355109,Karen Kilby,
 Q5980637,Iain R Torrance,
 Q6056381,Pablo Richard,
 Q93222209,Néstor Oscar Míguez,
-Q113758848,Herman C. Waetjen,
-Q6112059,Jack Dean Kingsbury,
-Q112369242,Alice L Laffey,
-Q92207288,Ronald J. Allen,
-Q92207043,Dawn Ottoni-Wilhelm,
