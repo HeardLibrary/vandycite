@@ -3,7 +3,7 @@
   "@context": "http://www.w3.org/ns/csvw",
   "tables": [
     {
-      "url": "articles.csv",
+      "url": "works.csv",
       "tableSchema": {
         "columns": [
           {
