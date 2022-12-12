@@ -3,170 +3,169 @@ constants:
   label_column: Title
   description_code_column: Item Type
 
-# Value beginning with $: name of variable containing a constant value
-# Otherwise, value is the name of a function that calculates the value based on the value in the source column
-# Source is the column in the source table that's passed into the function. Not every function requires this.
+# mapping_function is the name of a function that calculates the mapping_function based on the mapping_function in the source column
+# in_col_label is the column in the source table that's passed into the function. Not every function requires this.
 properties:
-- variable: instance_of
-  value: set_instance_of
-  source: Item Type
-- variable: full_work_available
-  value: set_reference
-  source: Url
+- out_col_label: instance_of
+  mapping_function: set_instance_of
+  in_col_label: Item Type
+- out_col_label: full_work_available
+  mapping_function: set_reference
+  in_col_label: Url
   ref:
-  - variable: retrieved
-    value: today
-- variable: edition_version
-  value: identity
-  source: Edition
-- variable: language
-  value: detect_language
-  source: Title
-- variable: number_pages
-  value: calculate_pages
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: edition_version
+  mapping_function: identity
+  in_col_label: Edition
+- out_col_label: language
+  mapping_function: detect_language
+  in_col_label: Title
+- out_col_label: number_pages
+  mapping_function: calculate_pages
   quantity_unit: Q1069725 # page
-  source: Pages
-- variable: doi
-  value: clean_doi
-  source: DOI
+  in_col_label: Pages
+- out_col_label: doi
+  mapping_function: clean_doi
+  in_col_label: DOI
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: pmid
-  value: extract_pmid_from_extra
-  source: Extra
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: pmid
+  mapping_function: extract_pmid_from_extra
+  in_col_label: Extra
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: publication_date
-  value: identity
-  source: Publication Year
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: publication_date
+  mapping_function: identity
+  in_col_label: Publication Year
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: title_en
-  value: title_en
-  source: Title
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: title_en
+  mapping_function: title_en
+  in_col_label: Title
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: published_in
-  value: disambiguate_published_in
-  source: ISSN
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: published_in
+  mapping_function: disambiguate_published_in
+  in_col_label: ISSN
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: volume
-  value: identity
-  source: Volume
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: volume
+  mapping_function: identity
+  in_col_label: Volume
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: page
-  value: identity
-  source: Pages
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: page
+  mapping_function: identity
+  in_col_label: Pages
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: issue
-  value: identity
-  source: Issue
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: issue
+  mapping_function: identity
+  in_col_label: Issue
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: isbn10
-  value: isbn10
-  source: ISBN
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: isbn10
+  mapping_function: isbn10
+  in_col_label: ISBN
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: isbn13
-  value: isbn13
-  source: ISBN
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: isbn13
+  mapping_function: isbn13
+  in_col_label: ISBN
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: publisher
-  value: disambiguate_publisher
-  source: Publisher
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: publisher
+  mapping_function: disambiguate_publisher
+  in_col_label: Publisher
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
-- variable: place_of_publication
-  value: disambiguate_place_of_publication
-  source: Place
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today
+- out_col_label: place_of_publication
+  mapping_function: disambiguate_place_of_publication
+  in_col_label: Place
   ref:
-  - variable: referenceUrl
-    value: set_reference
-    source: Url
-  - variable: stated_in
-    value: set_stated_in
-    source: Url
-  - variable: retrieved
-    value: today
+  - out_col_label: referenceUrl
+    mapping_function: set_reference
+    in_col_label: Url
+  - out_col_label: stated_in
+    mapping_function: set_stated_in
+    in_col_label: Url
+  - out_col_label: retrieved
+    mapping_function: today

@@ -3,22 +3,22 @@ constants:
   # Typically should be false unless data source has unordered agents.
   suppress_series_ordinal: false
 
-# value is the name of a function that calculates the value based on the value in the source column
-# Source is the column in the source table that's passed into the function. 
+# mapping_function is the name of a function that calculates the value based on the value in the source column
+# in_col_label is the column in the source table that's passed into the function. 
 sources:
-- variable: author
-  value: extract_names_from_list
-  source: Author
-- variable: editor
-  value: extract_names_from_list
-  source: Editor
-- variable: translator
-  value: extract_names_from_list
-  source: Translator
+- out_col_label: author
+  mapping_function: extract_names_from_list
+  in_col_label: Author
+- out_col_label: editor
+  mapping_function: extract_names_from_list
+  in_col_label: Editor
+- out_col_label: translator
+  mapping_function: extract_names_from_list
+  in_col_label: Translator
 ref:
-- variable: referenceUrl
-  value: set_reference
-  source: Url
-- variable: stated_in
-  value: set_stated_in
-  source: Url
+- out_col_label: referenceUrl
+  mapping_function: set_reference
+  in_col_label: Url
+- out_col_label: stated_in
+  mapping_function: set_stated_in
+  in_col_label: Url
