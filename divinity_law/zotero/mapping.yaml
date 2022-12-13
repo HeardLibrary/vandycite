@@ -9,22 +9,27 @@ properties:
 - out_col_label: instance_of
   mapping_function: set_instance_of
   in_col_label: Item Type
+
 - out_col_label: full_work_available
   mapping_function: set_reference
   in_col_label: Url
   ref:
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: edition_version
   mapping_function: identity
   in_col_label: Edition
+
 - out_col_label: language
   mapping_function: detect_language
   in_col_label: Title
+
 - out_col_label: number_pages
   mapping_function: calculate_pages
   quantity_unit: Q1069725 # page
   in_col_label: Pages
+
 - out_col_label: doi
   mapping_function: clean_doi
   in_col_label: DOI
@@ -37,6 +42,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: pmid
   mapping_function: extract_pmid_from_extra
   in_col_label: Extra
@@ -49,6 +55,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: publication_date
   mapping_function: identity
   in_col_label: Publication Year
@@ -61,6 +68,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: title_en
   mapping_function: title_en
   in_col_label: Title
@@ -73,6 +81,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: published_in
   mapping_function: disambiguate_published_in
   in_col_label: ISSN
@@ -85,6 +94,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: volume
   mapping_function: identity
   in_col_label: Volume
@@ -97,6 +107,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: page
   mapping_function: identity
   in_col_label: Pages
@@ -109,6 +120,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: issue
   mapping_function: identity
   in_col_label: Issue
@@ -121,6 +133,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: isbn10
   mapping_function: isbn10
   in_col_label: ISBN
@@ -133,6 +146,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: isbn13
   mapping_function: isbn13
   in_col_label: ISBN
@@ -145,6 +159,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+
 - out_col_label: publisher
   mapping_function: disambiguate_publisher
   in_col_label: Publisher
@@ -157,6 +172,7 @@ properties:
     in_col_label: Url
   - out_col_label: retrieved
     mapping_function: today
+    
 - out_col_label: place_of_publication
   mapping_function: disambiguate_place_of_publication
   in_col_label: Place

@@ -1,5 +1,6 @@
 qid,label,orcid
 Q100329,Michael Welker,
+Q104214797,Dorothy C Bass,
 Q104214905,Diane Apostolos-Cappadona,
 Q105547867,Carmen M. Nanko-Fernández,
 Q106085446,John Wesley Cook,
@@ -14,6 +15,8 @@ Q112399890,William R. Myers,
 Q112472096,Joseph Sievers,
 Q112530409,Mark D. Ellison,
 Q112532820,Theodore Walker,
+Q112565003,James R. Nieman,
+Q113005908,Robin W. Lovin,
 Q113717461,Frederick R. Trost,
 Q113721057,Frederick A. Niedner,
 Q113731488,Dennis E. Tamburello,
@@ -33,7 +36,9 @@ Q15129872,Vance T. Holliday,0000-0002-7361-3911
 Q15513988,William Henry Willimon,
 Q15715715,John Coffey,
 Q16499815,Pamela Cooper-White,0000-0003-2605-3867
+Q16730327,John Swinton,0000-0002-3991-8949
 Q16973499,Dennis McCann,
+Q1810168,Ruard Ganzevoort,0000-0003-3395-1497
 Q1817914,Lenn Evan Goodman,0000-0003-3368-2303
 Q1898981,Mario Pino Quivira,0000-0001-6181-353X
 Q19664952,Samuel Torvend,
@@ -83,6 +88,7 @@ Q6135111,James H. Charlesworth,
 Q6138351,James M. Adovasio,
 Q61482585,Gene M. Tucker,
 Q6152541,Martin E. Marty,
+Q61703190,Brian Brock,
 Q61787528,Gustavo Politis,0000-0003-4161-9873
 Q6181107,Jeremy Begbie,
 Q6271166,Jon M. Erlandson,0000-0002-4705-4319
@@ -144,12 +150,5 @@ Q96236317,Christine A Hastorf,0000-0002-4661-5524
 Q96586626,Annalise E. Glauz-Todrank,
 Q97398066,Elizabeth Alexander,
 Q97398634,Lucinda Stewart,
-Q99398137,Eric Ziolkowski,
-Q104214797,Dorothy C Bass,
-Q112565003,James R. Nieman,
 Q99248903,Christian Scharen,
-Q113005908,Robin W. Lovin,
-Q16730327,John Swinton,
-Q61703190,"""Brian Brock",
-Q1810168,Ruard Ganzevoort,
-Q1810168,Ruard Ganzevoort,
+Q99398137,Eric Ziolkowski,
