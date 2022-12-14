@@ -1,3 +1,6 @@
+# Version information
+script_version: 0.0.1
+
 # Default language used for labels and descriptions
 default_language: en
 
