@@ -1,0 +1,70 @@
+# Default language used for labels and descriptions
+default_language: en
+
+# Settings for language detection. 
+language_precision_cutoff: 0.95 # above this level automatically assigned, below issues a warning
+
+# Settings for matching work titles to existing Wikidata item labels (empiracally determined)
+existing_work_fuzzy_match_cutoff: 97 # above this level no errors in testing, automatically assigned
+# The subtitle cutoff probably caught all partial title/subtitle cases.
+# But there were also errors with the same scores as some correct ones, so they need human review.
+existing_work_subtitle_fuzzy_match_cutoff: 86
+
+# Settings for communicating with the Wikidata API
+sparql_sleep: 0.1 # minimal delay between SPARQL queries in seconds
+
+# Settings for names extraction (from Zotero export)
+names_separator: ; # used to separate names on a concatenated list
+name_part_separator: "," # used to separate surname and given names (reversed)
+
+# File settings
+file_path: ""
+reference_file_path: /users/baskausj/github/vandycite/divinity_law/
+log_path: ""
+
+# Wikidata language codes used when the language of a work is inferred from title language detection
+language_qid:
+  en: Q1860
+  de: Q188
+  fr: Q150
+  es: Q1321
+  it: Q652
+  nl: Q7411
+  zh: Q7850
+  no: Q9043
+  ar: Q13955
+  he: Q9288
+  pt: Q5146
+
+# List of known work types used by Zotero
+work_types:
+- type_string: journalArticle
+  qid:        Q18918145 # academic journal article, alternatively Q13442814 scholarly article
+  description: journal article
+- type_string: book
+  qid:         Q3331189 # "version, edition, or translation"
+  description: book
+- type_string: bookSection
+  qid:         Q21481766 # "academic chapter"
+  description: academic book chapter
+- type_string: thesis
+  qid:         Q1266946 # "thesis"
+  description: thesis
+- type_string: encyclopediaArticle
+  qid:         Q13433827 # "encyclopedia article"
+  description: encyclopedia article
+- type_string: dictionaryEntry
+  qid:         Q1580166 # "dictionary entry"
+  description: dictionary entry
+- type_string: conferencePaper
+  qid:         Q23927052 # "dictionary entry"
+  description: conference paper
+
+# List of work types that are contained by other works
+contained_types:
+#- Q23927052 # conference paper should be here, but we don't want to suppress uploads of it so leave off for now
+- Q18918145 # "academic journal article"
+- Q21481766 # "academic chapter"
+- Q13433827 # "encyclopedia article"
+- Q1580166 # "dictionary entry"
+
