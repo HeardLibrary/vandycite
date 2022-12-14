@@ -184,6 +184,7 @@ properties:
 - out_col_label: publisher
   mapping_function: disambiguate_publisher
   in_col_label: Publisher
+  structure_name_string: publishers
   ref:
   - out_col_label: referenceUrl
     mapping_function: set_reference
@@ -199,6 +200,7 @@ properties:
 - out_col_label: place_of_publication
   mapping_function: disambiguate_place_of_publication
   in_col_label: Place
+  structure_name_string: publisher_locations
   ref:
   - out_col_label: referenceUrl
     mapping_function: set_reference
