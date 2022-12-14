@@ -13,6 +13,7 @@ properties:
 - out_col_label: full_work_available
   mapping_function: set_reference
   in_col_label: Url
+  structure_name_string: full_works
   ref:
   - out_col_label: retrieved
     mapping_function: today
@@ -37,9 +38,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -50,9 +53,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -63,9 +68,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -76,9 +83,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -89,9 +98,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -102,9 +113,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -115,9 +128,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -128,9 +143,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -141,9 +158,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -154,9 +173,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -167,9 +188,11 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
     
@@ -180,8 +203,10 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
+    structure_name_string: full_works
   - out_col_label: retrieved
     mapping_function: today
