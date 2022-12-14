@@ -1,6 +1,12 @@
 # Default language used for labels and descriptions
 default_language: en
 
+# User-Agent information. 
+# The user_agent string identifies this application to Wikimedia APIs,
+# so if you make significant modifications to the script or configuration that would change
+# the way that it operaties, you need to change this to your email address. 
+operator_email_address: steve.baskauf@vanderbilt.edu
+
 # Settings for language detection. 
 language_precision_cutoff: 0.95 # above this level automatically assigned, below issues a warning
 
@@ -21,6 +27,7 @@ name_part_separator: "," # used to separate surname and given names (reversed)
 file_path: ""
 reference_file_path: /users/baskausj/github/vandycite/divinity_law/
 log_path: ""
+source_data_filename: divinity_publications_2022-12-01.csv
 
 # Wikidata language codes used when the language of a work is inferred from title language detection
 language_qid:
