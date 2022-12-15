@@ -508,9 +508,14 @@ def disambiguate_publisher(name_string, settings, publishers):
             best_match_label = publisher['label']
             best_match_score = w_ratio
             
-    if best_match_score < 98:
+    # empiracally determined range for possible matches is > 86 and < 98
+    if best_match_score <= 86:
+        print('w_ratio:', best_match_score, 'Warning: No match for stated publisher: "' + name_string + '"\n')
+        logging.warning('w_ratio: ' + str(best_match_score) + ' Warning: no match for stated publisher: "' + name_string + '"')
+        return ''
+
+    elif best_match_score < 98:
         print('w_ratio:', best_match_score, 'Warning: poor match of: "' + best_match_label + '"', best_match, 'to stated publisher: "' + name_string + '"\n')
-        #error_log_string += 'w_ratio: ' + str(best_match_score) + ' Warning: poor match of: "' + best_match_label + '" ' + best_match + ' to stated publisher: "' + name_string + '"\n'
         logging.warning('w_ratio: ' + str(best_match_score) + ' Warning: poor match of: "' + best_match_label + '" ' + best_match + ' to stated publisher: "' + name_string + '"')
         
     return best_match
