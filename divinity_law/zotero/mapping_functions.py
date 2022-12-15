@@ -336,9 +336,9 @@ def set_instance_of(string, settings):
         if string == work_type['type_string']:
             return work_type['qid']
 
-    print('Did not find datatype for type:', string)
+    print('Cannot set instance_of, did not find datatype for type:', string)
     #error_log_string += 'Did not find datatype for type:' + string + '\n'
-    logging.warning('Did not find datatype for type:' + string)
+    logging.warning('Cannot set instance_of, did not find datatype for type:' + string)
     return ''
 
 def detect_language(string, settings):
@@ -511,7 +511,7 @@ def disambiguate_publisher(name_string, settings, publishers):
     if best_match_score < 98:
         print('w_ratio:', best_match_score, 'Warning: poor match of: "' + best_match_label + '"', best_match, 'to stated publisher: "' + name_string + '"\n')
         #error_log_string += 'w_ratio: ' + str(best_match_score) + ' Warning: poor match of: "' + best_match_label + '" ' + best_match + ' to stated publisher: "' + name_string + '"\n'
-        logging.warning('w_ratio: ' + str(best_match_score) + ' Warning: poor match of: "' + best_match_label + '" ' + best_match + ' to stated publisher: "' + name_string)
+        logging.warning('w_ratio: ' + str(best_match_score) + ' Warning: poor match of: "' + best_match_label + '" ' + best_match + ' to stated publisher: "' + name_string) + '"'
         
     return best_match
 
