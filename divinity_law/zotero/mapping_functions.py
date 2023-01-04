@@ -5,6 +5,8 @@ import requests
 from time import sleep
 import re # regex
 import logging
+import pandas as pd
+from typing import List, Dict, Tuple
 #import requests_cache
 
 #requests_cache.install_cache('wqs_cache', backend='sqlite', expire_after=300, allowable_methods=['GET', 'POST'])
@@ -14,32 +16,32 @@ import logging
 # ------------------------
 
 # The following function is needed by the calculate_pages function
-def roman_to_decimal(numeral):
+def roman_to_decimal(numeral: str) -> int:
     """Convert Roman numerals to integers.
     
     Note:
     -----
     Code from https://www.geeksforgeeks.org/python-program-for-converting-roman-numerals-to-decimal-lying-between-1-to-3999/"""
 
-    def roman_integer_value(r):
+    def roman_integer_value(char: str) -> int:
         """Return value of Roman numeral symbol.
 
         Note:
         -----
         Code from https://www.geeksforgeeks.org/python-program-for-converting-roman-numerals-to-decimal-lying-between-1-to-3999/"""    
-        if (r == 'I'):
+        if (char == 'I'):
             return 1
-        if (r == 'V'):
+        if (char == 'V'):
             return 5
-        if (r == 'X'):
+        if (char == 'X'):
             return 10
-        if (r == 'L'):
+        if (char == 'L'):
             return 50
-        if (r == 'C'):
+        if (char == 'C'):
             return 100
-        if (r == 'D'):
+        if (char == 'D'):
             return 500
-        if (r == 'M'):
+        if (char == 'M'):
             return 1000
         return -1
 
@@ -84,9 +86,8 @@ def roman_to_decimal(numeral):
 
     return res
 
-def include_reference_url(url, full_works):
-    """Returned strings are suitable to use for references. Currently it's assumed that the criteria are the
-    same for full work available."""
+def include_reference_url(url: str, full_works: pd.DataFrame) -> str:
+    """Returned strings are suitable to use for references (same criteria as full work available)."""
     url_pattern = "^https?:\\/\\/(?:www\\.)?[-a-zA-Z0-9@:%._\\+~#=]{1,256}\\.[a-zA-Z0-9()]{1,6}\\b(?:[-a-zA-Z0-9()@:%_\\+.~#?&\\/=]*)$"
     url_inclusion_strings = [
     'doi',
@@ -134,10 +135,10 @@ def include_reference_url(url, full_works):
         
     return ''
 
-def fix_all_caps(name_pieces):
-    """Input is a list of name strings from name split by spaces"""
+def fix_all_caps(name_pieces: List[str]) -> List[str]:
+    """Correct the capitalization for a list of name parts that are in all caps."""
 
-    def title_if_no_lowercase(string):
+    def title_if_no_lowercase(string: str) -> str:
         """Change to titlecase only if there are no lowercase letters in the string."""
         lower = 'abcdefghijklmnopqrstuvwxyz'
         is_lower = False
@@ -188,27 +189,28 @@ def fix_all_caps(name_pieces):
 # It includes only the method for the query form.
 
 class Sparqler:
-    """Build SPARQL queries of various sorts
 
-    Parameters
-    -----------
-    useragent : str
-        Required if using the Wikidata Query Service, otherwise optional.
-        Use the form: appname/v.v (URL; mailto:email@domain.com)
-        See https://meta.wikimedia.org/wiki/User-Agent_policy
-    endpoint: URL
-        Defaults to Wikidata Query Service if not provided.
-    method: str
-        Possible values are "post" (default) or "get". Use "get" if read-only query endpoint.
-        Must be "post" for update endpoint.
-    sleep: float
-        Number of seconds to wait between queries. Defaults to 0.1
-        
-    Required modules:
-    -------------
-    requests, datetime, time
-    """
     def __init__(self, method='post', endpoint='https://query.wikidata.org/sparql', useragent=None, sleep=0.1):
+        """Build SPARQL queries of various sorts
+
+        Parameters
+        -----------
+        useragent : str
+            Required if using the Wikidata Query Service, otherwise optional.
+            Use the form: appname/v.v (URL; mailto:email@domain.com)
+            See https://meta.wikimedia.org/wiki/User-Agent_policy
+        endpoint: URL
+            Defaults to Wikidata Query Service if not provided.
+        method: str
+            Possible values are "post" (default) or "get". Use "get" if read-only query endpoint.
+            Must be "post" for update endpoint.
+        sleep: float
+            Number of seconds to wait between queries. Defaults to 0.1
+            
+        Required modules:
+        -------------
+        requests, datetime, time
+        """
         # attributes for all methods
         self.http_method = method
         self.endpoint = endpoint
@@ -323,11 +325,11 @@ class Sparqler:
 # mapping functions
 # ------------------------
 
-def identity(value, settings):
+def identity(value: str, settings: Dict[str, any]) -> str:
     """Return the value argument with any leading and trailing whitespace removed."""
     return value.strip()
 
-def set_instance_of(string, settings):
+def set_instance_of(string: str, settings: Dict[str, any]) -> str:
     """Match the type string with possible types for the data source and return the type Q ID."""
     if string == '':
         return ''
@@ -341,7 +343,7 @@ def set_instance_of(string, settings):
     logging.warning('Cannot set instance_of, did not find datatype for type:' + string)
     return ''
 
-def detect_language(string, settings):
+def detect_language(string: str, settings: Dict[str, any]) -> str:
     """Detect the language of the label and return the Wikidata Q ID for it."""
     if string == '':
         return ''
@@ -365,7 +367,7 @@ def detect_language(string, settings):
         logging.warning('Warning: detected language ' + lang + ' not in list of known languages.')
         return ''
 
-def title_en(string, settings):
+def title_en(string: str, settings: Dict[str, any]) -> str:
     """Detect the language of the label and return the language code for it."""
     if string == '':
         return ''
@@ -382,7 +384,7 @@ def title_en(string, settings):
     else:
         return ''
 
-def calculate_pages(range, settings):
+def calculate_pages(range: str, settings: Dict[str, any]) -> str:
     """Calculate the number of pages from the page range.
     
     Note
@@ -414,12 +416,12 @@ def calculate_pages(range, settings):
         return ''
     return str(number_pages)
 
-def clean_doi(value, settings):
+def clean_doi(value: str, settings: Dict[str, any]) -> str:
     """Turn DOI into uppercase and remove leading and trailing whitespace."""
     cleaned_value = value.upper().strip()
     return cleaned_value
 
-def extract_pmid_from_extra(extra_field, settings):
+def extract_pmid_from_extra(extra_field, settings: Dict[str, any]) -> str:
     """Extract the PubMed ID from the Extra field in the Zotero export."""
     identifier = ''
     tokens = extra_field.split(' ')
@@ -430,7 +432,7 @@ def extract_pmid_from_extra(extra_field, settings):
             break
     return identifier
 
-def disambiguate_published_in(value, settings):
+def disambiguate_published_in(value: str, settings: Dict[str, any]) -> str:
     """Use the value in the ISSN column to try to find the containing work.
     
     Note:
@@ -478,21 +480,21 @@ def disambiguate_published_in(value, settings):
 
     return container_qid
 
-def isbn10(string, settings):
+def isbn10(string: str, settings: Dict[str, any]) -> str:
     """Check whether the ISBN value has 10 characters or not."""
     test = string.replace('-', '')
     if len(test) == 10:
         return string
     return ''
 
-def isbn13(string, settings):
+def isbn13(string: str, settings: Dict[str, any]) -> str:
     """Check whether the ISBN value has 13 characters or not."""
     test = string.replace('-', '')
     if len(test) == 13:
         return string
     return ''
 
-def disambiguate_publisher(name_string, settings, publishers):
+def disambiguate_publisher(name_string: str, settings: Dict[str, any], publishers: pd.DataFrame) -> str:
     """Look up the publisher Q ID from a list derived from a SPARQL query https://w.wiki/4pbi"""
     # Set publisher Q ID to empty string if there's no publisher string
     if name_string == '':
@@ -520,7 +522,7 @@ def disambiguate_publisher(name_string, settings, publishers):
         
     return best_match
 
-def disambiguate_place_of_publication(value, settings, publisher_locations):
+def disambiguate_place_of_publication(value: str, settings, publisher_locations: pd.DataFrame) -> str:
     """Look up place of publication Q ID from a list derived from query https://w.wiki/63Ap
     If there is a single match, the Q ID is returned.
     If there are no matches, the string is returned unprocessed.
@@ -565,13 +567,13 @@ def disambiguate_place_of_publication(value, settings, publisher_locations):
         logging.warning('Multiple matches found in place list.' + str(location_list))
         return location_list
 
-def today(settings):
+def today(settings: Dict[str, any]) -> str:
     """Generate the current UTC xsd:date"""
     whole_time_string_z = datetime.utcnow().isoformat() # form: 2019-12-05T15:35:04.959311
     date_z = whole_time_string_z.split('T')[0] # form 2019-12-05
     return date_z
 
-def set_reference(input_url, settings, full_works):
+def set_reference(input_url: str, settings: Dict[str, any], full_works: pd.DataFrame) -> str:
     """Screen any URL that is present in the field for suitability as the reference URL value."""
     url = include_reference_url(input_url, full_works) # Screen for suitable URLs
     if url != '':
@@ -579,7 +581,7 @@ def set_reference(input_url, settings, full_works):
     else:
         return ''
 
-def set_stated_in(input_url, settings, full_works):
+def set_stated_in(input_url: str, settings: Dict[str, any], full_works: pd.DataFrame) -> str:
     """If no URL is present, set a fixed value to be used as the stated_in value."""
     url = include_reference_url(input_url, full_works) # Screen for suitable URLs
     if url == '':
@@ -587,7 +589,7 @@ def set_stated_in(input_url, settings, full_works):
     else:
         return ''
 
-def extract_names_from_list(names_string, settings):
+def extract_names_from_list(names_string: str, settings: Dict[str, any]) -> str:
     """Extract multiple authors from a character-separated list in a single string."""
     if names_string == '':
         return []
@@ -641,10 +643,10 @@ def extract_names_from_list(names_string, settings):
 # mapping functions for agents
 # ------------------------
     
-def extract_names_from_list(names_string, settings):
+def extract_names_from_list(names_string: str, settings: Dict[str, any]) -> List[Dict[str, str]]:
     """Extract multiple authors from a character-separated list in a single string."""
 
-    def extract_name_pieces(name):
+    def extract_name_pieces(name: str) -> Tuple[List[str], str]:
         """Extract parts of names. Recognize typical male suffixes. Fix ALL CAPS if present."""
         # treat commas as if they were spaces
         name = name.replace(',', ' ')
