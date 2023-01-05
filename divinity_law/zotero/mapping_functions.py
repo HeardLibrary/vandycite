@@ -190,7 +190,7 @@ def fix_all_caps(name_pieces: List[str]) -> List[str]:
 
 class Sparqler:
 
-    def __init__(self, method='post', endpoint='https://query.wikidata.org/sparql', useragent=None, sleep=0.1):
+    def __init__(self, method: str = 'post', endpoint: str = 'https://query.wikidata.org/sparql', useragent=None, sleep: float = 0.1):
         """Build SPARQL queries of various sorts
 
         Parameters
@@ -228,7 +228,7 @@ class Sparqler:
         if self.http_method == 'post':
             self.requestheader['Content-Type'] = 'application/x-www-form-urlencoded'
 
-    def query(self, query_string, form='select', verbose=False, **kwargs):
+    def query(self, query_string: str, form: str = 'select', verbose: bool = False, **kwargs):
         """Send a SPARQL query to the endpoint.
         
         Parameters
