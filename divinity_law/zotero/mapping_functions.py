@@ -45,23 +45,23 @@ def roman_to_decimal(numeral: str) -> int:
             return 1000
         return -1
 
-    str = numeral.upper()
+    numeral_string = numeral.upper()
     res = 0
     i = 0
 
-    while (i < len(str)):
+    while (i < len(numeral_string)):
 
         # Getting value of symbol s[i]
-        s1 = roman_integer_value(str[i])
+        s1 = roman_integer_value(numeral_string[i])
         
         # Return a negative number if error.
         if s1 < 0:
             return -1
 
-        if (i + 1 < len(str)):
+        if (i + 1 < len(numeral_string)):
 
             # Getting value of symbol s[i + 1]
-            s2 = roman_integer_value(str[i + 1])
+            s2 = roman_integer_value(numeral_string[i + 1])
             
             # Return a negative number if error.
             if s2 < 0:
