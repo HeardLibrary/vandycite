@@ -6,7 +6,7 @@ from time import sleep
 import re # regex
 import logging
 import pandas as pd
-from typing import List, Dict, Tuple
+from typing import List, Dict, Tuple, Optional, Any
 #import requests_cache
 
 #requests_cache.install_cache('wqs_cache', backend='sqlite', expire_after=300, allowable_methods=['GET', 'POST'])
@@ -190,7 +190,7 @@ def fix_all_caps(name_pieces: List[str]) -> List[str]:
 
 class Sparqler:
 
-    def __init__(self, method: str = 'post', endpoint: str = 'https://query.wikidata.org/sparql', useragent=None, sleep: float = 0.1):
+    def __init__(self, method: str = 'post', endpoint: str = 'https://query.wikidata.org/sparql', useragent: Optional[str] = None, sleep: float = 0.1):
         """Build SPARQL queries of various sorts
 
         Parameters
@@ -325,11 +325,11 @@ class Sparqler:
 # mapping functions
 # ------------------------
 
-def identity(value: str, settings: Dict[str, any]) -> str:
+def identity(value: str, settings: Dict[str, Any]) -> str:
     """Return the value argument with any leading and trailing whitespace removed."""
     return value.strip()
 
-def set_instance_of(string: str, settings: Dict[str, any]) -> str:
+def set_instance_of(string: str, settings: Dict[str, Any]) -> str:
     """Match the type string with possible types for the data source and return the type Q ID."""
     if string == '':
         return ''
@@ -343,7 +343,7 @@ def set_instance_of(string: str, settings: Dict[str, any]) -> str:
     logging.warning('Cannot set instance_of, did not find datatype for type:' + string)
     return ''
 
-def detect_language(string: str, settings: Dict[str, any]) -> str:
+def detect_language(string: str, settings: Dict[str, Any]) -> str:
     """Detect the language of the label and return the Wikidata Q ID for it."""
     if string == '':
         return ''
@@ -367,7 +367,7 @@ def detect_language(string: str, settings: Dict[str, any]) -> str:
         logging.warning('Warning: detected language ' + lang + ' not in list of known languages.')
         return ''
 
-def title_en(string: str, settings: Dict[str, any]) -> str:
+def title_en(string: str, settings: Dict[str, Any]) -> str:
     """Detect the language of the label and return the language code for it."""
     if string == '':
         return ''
@@ -384,7 +384,7 @@ def title_en(string: str, settings: Dict[str, any]) -> str:
     else:
         return ''
 
-def calculate_pages(range: str, settings: Dict[str, any]) -> str:
+def calculate_pages(range: str, settings: Dict[str, Any]) -> str:
     """Calculate the number of pages from the page range.
     
     Note
@@ -416,12 +416,12 @@ def calculate_pages(range: str, settings: Dict[str, any]) -> str:
         return ''
     return str(number_pages)
 
-def clean_doi(value: str, settings: Dict[str, any]) -> str:
+def clean_doi(value: str, settings: Dict[str, Any]) -> str:
     """Turn DOI into uppercase and remove leading and trailing whitespace."""
     cleaned_value = value.upper().strip()
     return cleaned_value
 
-def extract_pmid_from_extra(extra_field, settings: Dict[str, any]) -> str:
+def extract_pmid_from_extra(extra_field, settings: Dict[str, Any]) -> str:
     """Extract the PubMed ID from the Extra field in the Zotero export."""
     identifier = ''
     tokens = extra_field.split(' ')
@@ -432,7 +432,7 @@ def extract_pmid_from_extra(extra_field, settings: Dict[str, any]) -> str:
             break
     return identifier
 
-def disambiguate_published_in(value: str, settings: Dict[str, any]) -> str:
+def disambiguate_published_in(value: str, settings: Dict[str, Any]) -> str:
     """Use the value in the ISSN column to try to find the containing work.
     
     Note:
@@ -480,21 +480,21 @@ def disambiguate_published_in(value: str, settings: Dict[str, any]) -> str:
 
     return container_qid
 
-def isbn10(string: str, settings: Dict[str, any]) -> str:
+def isbn10(string: str, settings: Dict[str, Any]) -> str:
     """Check whether the ISBN value has 10 characters or not."""
     test = string.replace('-', '')
     if len(test) == 10:
         return string
     return ''
 
-def isbn13(string: str, settings: Dict[str, any]) -> str:
+def isbn13(string: str, settings: Dict[str, Any]) -> str:
     """Check whether the ISBN value has 13 characters or not."""
     test = string.replace('-', '')
     if len(test) == 13:
         return string
     return ''
 
-def disambiguate_publisher(name_string: str, settings: Dict[str, any], publishers: pd.DataFrame) -> str:
+def disambiguate_publisher(name_string: str, settings: Dict[str, Any], publishers: pd.DataFrame) -> str:
     """Look up the publisher Q ID from a list derived from a SPARQL query https://w.wiki/4pbi"""
     # Set publisher Q ID to empty string if there's no publisher string
     if name_string == '':
@@ -567,13 +567,13 @@ def disambiguate_place_of_publication(value: str, settings, publisher_locations:
         logging.warning('Multiple matches found in place list.' + str(location_list))
         return location_list
 
-def today(settings: Dict[str, any]) -> str:
+def today(settings: Dict[str, Any]) -> str:
     """Generate the current UTC xsd:date"""
     whole_time_string_z = datetime.utcnow().isoformat() # form: 2019-12-05T15:35:04.959311
     date_z = whole_time_string_z.split('T')[0] # form 2019-12-05
     return date_z
 
-def set_reference(input_url: str, settings: Dict[str, any], full_works: pd.DataFrame) -> str:
+def set_reference(input_url: str, settings: Dict[str, Any], full_works: pd.DataFrame) -> str:
     """Screen any URL that is present in the field for suitability as the reference URL value."""
     url = include_reference_url(input_url, full_works) # Screen for suitable URLs
     if url != '':
@@ -581,7 +581,7 @@ def set_reference(input_url: str, settings: Dict[str, any], full_works: pd.DataF
     else:
         return ''
 
-def set_stated_in(input_url: str, settings: Dict[str, any], full_works: pd.DataFrame) -> str:
+def set_stated_in(input_url: str, settings: Dict[str, Any], full_works: pd.DataFrame) -> str:
     """If no URL is present, set a fixed value to be used as the stated_in value."""
     url = include_reference_url(input_url, full_works) # Screen for suitable URLs
     if url == '':
@@ -589,7 +589,7 @@ def set_stated_in(input_url: str, settings: Dict[str, any], full_works: pd.DataF
     else:
         return ''
 
-def extract_names_from_list(names_string: str, settings: Dict[str, any]) -> str:
+def extract_names_from_list(names_string: str, settings: Dict[str, Any]) -> str:
     """Extract multiple authors from a character-separated list in a single string."""
     if names_string == '':
         return []
@@ -643,7 +643,7 @@ def extract_names_from_list(names_string: str, settings: Dict[str, any]) -> str:
 # mapping functions for agents
 # ------------------------
     
-def extract_names_from_list(names_string: str, settings: Dict[str, any]) -> List[Dict[str, str]]:
+def extract_names_from_list(names_string: str, settings: Dict[str, Any]) -> List[Dict[str, str]]:
     """Extract multiple authors from a character-separated list in a single string."""
 
     def extract_name_pieces(name: str) -> Tuple[List[str], str]:
