@@ -9,11 +9,13 @@ properties:
 - out_col_label: instance_of
   mapping_function: set_instance_of
   in_col_label: Item Type
+  use_settings: True
 
 - out_col_label: full_work_available
   mapping_function: set_reference
   in_col_label: Url
-  structure_name_string: full_works
+  reference_dfs: 
+  - full_works
   ref:
   - out_col_label: retrieved
     mapping_function: today
@@ -25,6 +27,7 @@ properties:
 - out_col_label: language
   mapping_function: detect_language
   in_col_label: Title
+  use_settings: True
 
 - out_col_label: number_pages
   mapping_function: calculate_pages
@@ -38,11 +41,13 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -53,11 +58,13 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -68,11 +75,13 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -83,26 +92,31 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
 - out_col_label: published_in
   mapping_function: disambiguate_published_in
   in_col_label: ISSN
+  use_settings: True
   ref:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -113,11 +127,13 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -128,11 +144,13 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -143,11 +161,13 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -158,11 +178,13 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
@@ -173,42 +195,50 @@ properties:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
 
 - out_col_label: publisher
   mapping_function: disambiguate_publisher
   in_col_label: Publisher
-  structure_name_string: publishers
+  reference_dfs: 
+  - publishers
   ref:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today
     
 - out_col_label: place_of_publication
   mapping_function: disambiguate_place_of_publication
   in_col_label: Place
-  structure_name_string: publisher_locations
+  reference_dfs: 
+  - publisher_locations
   ref:
   - out_col_label: referenceUrl
     mapping_function: set_reference
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: stated_in
     mapping_function: set_stated_in
     in_col_label: Url
-    structure_name_string: full_works
+    reference_dfs: 
+    - full_works
   - out_col_label: retrieved
     mapping_function: today

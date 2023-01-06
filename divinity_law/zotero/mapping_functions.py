@@ -325,7 +325,7 @@ class Sparqler:
 # mapping functions
 # ------------------------
 
-def identity(value: str, settings: Dict[str, Any]) -> str:
+def identity(value: str) -> str:
     """Return the value argument with any leading and trailing whitespace removed."""
     return value.strip()
 
@@ -367,7 +367,7 @@ def detect_language(string: str, settings: Dict[str, Any]) -> str:
         logging.warning('Warning: detected language ' + lang + ' not in list of known languages.')
         return ''
 
-def title_en(string: str, settings: Dict[str, Any]) -> str:
+def title_en(string: str) -> str:
     """Detect the language of the label and return the language code for it."""
     if string == '':
         return ''
@@ -384,7 +384,7 @@ def title_en(string: str, settings: Dict[str, Any]) -> str:
     else:
         return ''
 
-def calculate_pages(range: str, settings: Dict[str, Any]) -> str:
+def calculate_pages(range: str) -> str:
     """Calculate the number of pages from the page range.
     
     Note
@@ -416,12 +416,12 @@ def calculate_pages(range: str, settings: Dict[str, Any]) -> str:
         return ''
     return str(number_pages)
 
-def clean_doi(value: str, settings: Dict[str, Any]) -> str:
+def clean_doi(value: str) -> str:
     """Turn DOI into uppercase and remove leading and trailing whitespace."""
     cleaned_value = value.upper().strip()
     return cleaned_value
 
-def extract_pmid_from_extra(extra_field, settings: Dict[str, Any]) -> str:
+def extract_pmid_from_extra(extra_field) -> str:
     """Extract the PubMed ID from the Extra field in the Zotero export."""
     identifier = ''
     tokens = extra_field.split(' ')
@@ -480,21 +480,21 @@ def disambiguate_published_in(value: str, settings: Dict[str, Any]) -> str:
 
     return container_qid
 
-def isbn10(string: str, settings: Dict[str, Any]) -> str:
+def isbn10(string: str) -> str:
     """Check whether the ISBN value has 10 characters or not."""
     test = string.replace('-', '')
     if len(test) == 10:
         return string
     return ''
 
-def isbn13(string: str, settings: Dict[str, Any]) -> str:
+def isbn13(string: str) -> str:
     """Check whether the ISBN value has 13 characters or not."""
     test = string.replace('-', '')
     if len(test) == 13:
         return string
     return ''
 
-def disambiguate_publisher(name_string: str, settings: Dict[str, Any], publishers: pd.DataFrame) -> str:
+def disambiguate_publisher(name_string: str, publishers: pd.DataFrame) -> str:
     """Look up the publisher Q ID from a list derived from a SPARQL query https://w.wiki/4pbi"""
     # Set publisher Q ID to empty string if there's no publisher string
     if name_string == '':
@@ -522,7 +522,7 @@ def disambiguate_publisher(name_string: str, settings: Dict[str, Any], publisher
         
     return best_match
 
-def disambiguate_place_of_publication(value: str, settings, publisher_locations: pd.DataFrame) -> str:
+def disambiguate_place_of_publication(value: str, publisher_locations: pd.DataFrame) -> str:
     """Look up place of publication Q ID from a list derived from query https://w.wiki/63Ap
     If there is a single match, the Q ID is returned.
     If there are no matches, the string is returned unprocessed.
@@ -567,13 +567,13 @@ def disambiguate_place_of_publication(value: str, settings, publisher_locations:
         logging.warning('Multiple matches found in place list.' + str(location_list))
         return location_list
 
-def today(settings: Dict[str, Any]) -> str:
+def today() -> str:
     """Generate the current UTC xsd:date"""
     whole_time_string_z = datetime.utcnow().isoformat() # form: 2019-12-05T15:35:04.959311
     date_z = whole_time_string_z.split('T')[0] # form 2019-12-05
     return date_z
 
-def set_reference(input_url: str, settings: Dict[str, Any], full_works: pd.DataFrame) -> str:
+def set_reference(input_url: str, full_works: pd.DataFrame) -> str:
     """Screen any URL that is present in the field for suitability as the reference URL value."""
     url = include_reference_url(input_url, full_works) # Screen for suitable URLs
     if url != '':
@@ -581,7 +581,7 @@ def set_reference(input_url: str, settings: Dict[str, Any], full_works: pd.DataF
     else:
         return ''
 
-def set_stated_in(input_url: str, settings: Dict[str, Any], full_works: pd.DataFrame) -> str:
+def set_stated_in(input_url: str, full_works: pd.DataFrame) -> str:
     """If no URL is present, set a fixed value to be used as the stated_in value."""
     url = include_reference_url(input_url, full_works) # Screen for suitable URLs
     if url == '':
