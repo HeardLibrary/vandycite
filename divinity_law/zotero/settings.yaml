@@ -27,10 +27,12 @@ names_separator: ; # used to separate names on a concatenated list
 name_part_separator: "," # used to separate surname and given names (reversed)
 
 # File settings
-file_path: ""
-reference_file_path: /users/baskausj/github/vandycite/divinity_law/
-log_path: ""
+data_file_path: data/
 source_data_filename: divinity_publications_2022-12-01.csv
+reference_file_path: ref/
+log_path: logs/
+temporary_files_path: temp/
+configuration_files_path: config/
 
 # Wikidata language codes used when the language of a work is inferred from title language detection
 language_qid:
