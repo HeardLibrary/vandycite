@@ -9,12 +9,15 @@ sources:
 - out_col_label: author
   mapping_function: extract_names_from_list
   in_col_label: Author
+  use_settings: True
 - out_col_label: editor
   mapping_function: extract_names_from_list
   in_col_label: Editor
+  use_settings: True
 - out_col_label: translator
   mapping_function: extract_names_from_list
   in_col_label: Translator
+  use_settings: True
 ref:
 - out_col_label: referenceUrl
   mapping_function: set_reference
