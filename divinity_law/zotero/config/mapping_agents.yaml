@@ -29,5 +29,3 @@ ref:
   in_col_label: Url
   reference_dfs: 
   - full_works
-- out_col_label: retrieved
-  mapping_function: today
