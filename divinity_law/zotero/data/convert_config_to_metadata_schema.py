@@ -12,10 +12,11 @@ created = '2023-01-11'
 # VanderBot v1.9.3 API-writing script vanderbot.py
 
 # ----------------------------------------
-# Version 1.1.0 change notes (2022-12-02)
+# Version 1.1.0 change notes (2023-01-11)
 # - This script replaces the older script convert_json_to_metadata_schema.py, which accepts JSON rather than YAML
 # as input. Since JSON is also valid YAML, any files that could have been read by that script can also be 
-# read by this one.
+# read by this one. If no file is specified using --config, the old default, config.json,
+# will be tried if config.yaml fails.
 # - Outfiles can have an OPTIONAL "ignore" column list. Column names on that list will be included
 # in the output JSON as columns with "suppressOutput" value of true.
 
@@ -354,28 +355,16 @@ def build_table(data_path, outfile):
 # ----------------
 # Beginning of main script
 # ----------------
-'''
-with open(config_path, 'rt', encoding='utf-8') as file_object:
-    file_text = file_object.read()
-config = json.loads(file_text)
-'''
 
-if config_path[-4:] == 'json':
-    # Handle the case where an (old) JSON configuration file is specified
-    with open(config_path, 'rt', encoding='utf-8') as file_object:
-        file_text = file_object.read()
-    config = json.loads(file_text)
-else:
-    # Assume the configuration file is in YAML. This will handle the default 
-    # value of config.yaml where no --config option is specified.
-    try:
-        with open(config_path, 'r') as file_object:
-            config = yaml.safe_load(file_object)
-    except:
-        # If that fails, then assume that the old default config.json applies and try to open that.
-            with open('config.json', 'rt', encoding='utf-8') as file_object:
-                file_text = file_object.read()
-            config = json.loads(file_text)
+# In the case where no --config option is specified, the default config.yaml will be opened.
+# If this fails, try opening the old default, config.json
+try:
+    with open(config_path, 'r') as file_object:
+        config = yaml.safe_load(file_object)
+except:
+    with open('config.json', 'r') as file_object:
+        config = yaml.safe_load(file_object)
+
 
 data_path = config['data_path']
 #item_source_csv = config['item_source_csv'] 
