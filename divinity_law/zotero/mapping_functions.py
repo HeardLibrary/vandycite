@@ -589,6 +589,7 @@ def set_stated_in(input_url: str, full_works: pd.DataFrame) -> str:
     else:
         return ''
 
+'''BAD DUPLICATE DEFINITION!
 def extract_names_from_list(names_string: str, settings: Dict[str, Any]) -> str:
     """Extract multiple authors from a character-separated list in a single string."""
     if names_string == '':
@@ -637,7 +638,7 @@ def extract_names_from_list(names_string: str, settings: Dict[str, Any]) -> str:
         pass # need to write code for case where they aren't reversed
         
     return output_list
-
+'''
 
 # ------------------------
 # mapping functions for agents
