@@ -28,7 +28,7 @@ name_part_separator: "," # used to separate surname and given names (reversed)
 
 # File settings
 data_file_path: data/
-source_data_filename: journal_articles_to_upload.csv
+source_data_filename: books_to_upload.csv
 reference_file_path: ref/
 log_path: logs/
 temporary_files_path: temp/
