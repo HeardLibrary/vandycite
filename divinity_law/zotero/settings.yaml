@@ -10,6 +10,15 @@ default_language: en
 # the way that it operaties, you need to change this to your email address. 
 operator_email_address: steve.baskauf@vanderbilt.edu
 
+# Settings for suppressing various checks.
+# These setting should all be set to true under normal operations.
+check_for_previous_processing: true
+skip_if_containing_work_not_found: true
+skip_if_not_known_type: true
+skip_if_no_author_information: true
+check_if_work_in_wikidata: true
+divert_possible_partial_titles: true # only evaluated if check_if_work_in_wikidata is true
+
 # Settings for language detection. 
 language_precision_cutoff: 0.95 # above this level automatically assigned, below issues a warning
 
@@ -28,7 +37,7 @@ name_part_separator: "," # used to separate surname and given names (reversed)
 
 # File settings
 data_file_path: data/
-source_data_filename: books_to_upload.csv
+source_data_filename: ency_dict_makeup.csv
 reference_file_path: ref/
 log_path: logs/
 temporary_files_path: temp/
