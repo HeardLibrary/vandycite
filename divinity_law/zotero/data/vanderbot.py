@@ -1120,8 +1120,14 @@ if terse:
 # default API resource URL when a Wikibase/Wikidata instance is installed.
 resourceUrl = '/w/api.php'
 
-DOMAIN_NAME, user, pwd = retrieveCredentials(credentials_path)
-endpointUrl = DOMAIN_NAME + resourceUrl
+base_url, user, pwd = retrieveCredentials(credentials_path)
+endpointUrl = base_url + resourceUrl
+if base_url == 'https://www.wikidata.org':
+    DOMAIN_NAME = 'http://www.wikidata.org'
+elif base_url == 'https://commons.wikimedia.org':
+    DOMAIN_NAME = 'http://commons.wikimedia.org'
+else:
+    DOMAIN_NAME = base_url
 
 # DO NOT decrease this limit unless you have obtained a bot flag! If you have a bot flag, then you have created your own
 # User-Agent and are not using VanderBot any more. In that case, you must change the user_agent_header below to reflect
