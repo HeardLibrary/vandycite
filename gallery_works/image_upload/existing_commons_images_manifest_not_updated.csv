@@ -1,0 +1,5 @@
+qid,commons_id,local_identifier,label_en,directory,local_filename,rank,image_name,iiif_manifest,notes
+Q65080716,M81681029,1956.032,The Entombment,,,,"Lucas Cranach the Elder, The Entombment, in or before 1509, NGA 37023.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=37023,Merged from Q103309678. Can't figure out why it isn't getting picked up by Listeria - only getting old version.
+Q76552832,M81854064,1965.002,Zacharie Astruc,,,,"Félix Bracquemond, Zacharie Astruc, 1865, NGA 151064.jpg",https://www.nga.gov/api/v1/iiif/presentation/manifest.json?cultObj:id=151064,The image is not identical to the one in our collection. Merged from Q103310115.
+Q90716090,M31171961,,Emily Thorn Vanderbilt Sloane,,,,Emily Thorn Vanderbilt Sloane White.jpg,,
+Q94702774,M6649731,1979.0648P,A Baptismal Ceremony,,,,Amico Aspertini.1474–1552A Baptismal Ceremony Cress Collection.jpg,,
