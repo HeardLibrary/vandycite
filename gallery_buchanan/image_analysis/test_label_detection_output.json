@@ -1,0 +1,110 @@
+{
+  "labelAnnotations": [
+    {
+      "mid": "/m/02p0tk3",
+      "description": "Human body",
+      "score": 0.8842032,
+      "topicality": 0.8842032,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05nnm",
+      "description": "Organism",
+      "score": 0.85750186,
+      "topicality": 0.85750186,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01n5jq",
+      "description": "Poster",
+      "score": 0.82017106,
+      "topicality": 0.82017106,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0jjw",
+      "description": "Art",
+      "score": 0.8114068,
+      "topicality": 0.8114068,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03r_vp",
+      "description": "Adaptation",
+      "score": 0.79217625,
+      "topicality": 0.79217625,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03gq5hm",
+      "description": "Font",
+      "score": 0.7756395,
+      "topicality": 0.7756395,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05qdh",
+      "description": "Painting",
+      "score": 0.6917555,
+      "topicality": 0.6917555,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01kr8f",
+      "description": "Illustration",
+      "score": 0.67592096,
+      "topicality": 0.67592096,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0p9xx",
+      "description": "Visual arts",
+      "score": 0.6624116,
+      "topicality": 0.6624116,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/08v4gh",
+      "description": "Vintage clothing",
+      "score": 0.65649974,
+      "topicality": 0.65649974,
+      "locale": "",
+      "confidence": 0.0,
+      "locations": [],
+      "properties": []
+    }
+  ],
+  "faceAnnotations": [],
+  "landmarkAnnotations": [],
+  "logoAnnotations": [],
+  "localizedObjectAnnotations": [],
+  "textAnnotations": []
+}
+done
