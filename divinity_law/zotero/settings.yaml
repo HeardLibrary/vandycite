@@ -78,7 +78,7 @@ work_types:
   qid:         Q1580166 # "dictionary entry"
   description: dictionary entry
 - type_string: conferencePaper
-  qid:         Q23927052 # "dictionary entry"
+  qid:         Q23927052 # "conference paper"
   description: conference paper
 
 # List of work types that are contained by other works
