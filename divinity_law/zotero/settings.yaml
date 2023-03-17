@@ -62,24 +62,31 @@ work_types:
 - type_string: journalArticle
   qid:        Q18918145 # academic journal article, alternatively Q13442814 scholarly article
   description: journal article
+  equivalent_types: ['Q18918145', 'Q13442814', 'Q191067', 'Q7318358', 'Q637866'] # academic journal article, scholarly article, article, review article, book review
 - type_string: book
   qid:         Q3331189 # "version, edition, or translation"
   description: book
+  equivalent_types: ['Q3331189', 'Q571', 'Q193495', 'Q193495'] # version/edition/translation, book, monograph, edited volume
 - type_string: bookSection
   qid:         Q21481766 # "academic chapter"
   description: academic book chapter
+  equivalent_types: ['Q21481766']
 - type_string: thesis
   qid:         Q1266946 # "thesis"
   description: thesis
+  equivalent_types: ['Q1266946']
 - type_string: encyclopediaArticle
   qid:         Q13433827 # "encyclopedia article"
   description: encyclopedia article
+  equivalent_types: ['Q13433827']
 - type_string: dictionaryEntry
   qid:         Q1580166 # "dictionary entry"
   description: dictionary entry
+  equivalent_types: ['Q1580166']
 - type_string: conferencePaper
   qid:         Q23927052 # "conference paper"
   description: conference paper
+  equivalent_types: ['Q23927052']
 
 # List of work types that are contained by other works
 contained_types:
