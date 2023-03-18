@@ -52,7 +52,7 @@ language_qid:
   it: Q652
   nl: Q7411
   zh: Q7850
-  no: Q9043
+  "no": Q9043
   ar: Q13955
   he: Q9288
   pt: Q5146
@@ -65,7 +65,7 @@ language_lingua_names:
   ITALIAN: it
   DUTCH: nl
   CHINESE: zh
-  NYNORSK: no
+  NYNORSK: "no"
   ARABIC: ar
   HEBREW: he
   PORTUGUESE: pt
