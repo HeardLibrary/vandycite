@@ -383,8 +383,8 @@ def detect_language(string: str, settings: Dict[str, Any]) -> str:
 
     # First test: do the two language detectors agree?
     if lingua_lang != lang:
-        print('Warning! Language detection mismatch. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
-        logging.warning('Warning! Language detection mismatch. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
+        print('Warning! Language detection mismatch. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + ' Langdetect: ' + lang + ' ' + str(confidence))
+        logging.warning('Warning! Language detection mismatch. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + ' Langdetect: ' + lang + ' ' + str(confidence))
         # Use the language from Lingua. 
         # Don't need to check if it's in the list of known languages since it's restricted to a list of languages.
         return settings['language_qid'][lingua_lang]
@@ -443,13 +443,13 @@ def title_en(string: str, settings: Dict[str, Any]) -> str:
         return string
     elif lang != 'en' and lingua_lang == 'en':
         # Log a warning but return the string.
-        print('Warning! lang_detect thinks non-English title. Lingua: ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
-        logging.warning('Warning! lang_detect thinks non-English title. Lingua: ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
+        print('Warning! lang_detect thinks non-English title. Lingua: ' + str(lingua_confidence) + ' Langdetect: ' + lang + ' ' + str(confidence))
+        logging.warning('Warning! lang_detect thinks non-English title. Lingua: ' + str(lingua_confidence) + ' Langdetect: ' + lang + ' ' + str(confidence))
         return string
     elif lingua_lang != 'en' and (lang == 'en' and confidence > settings['language_precision_cutoff']):
         # Log a warning but return the string.
-        print('Warning! Lingua thinks non-English title but lang_detect has high confidence. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + str(confidence))
-        logging.warning('Warning! Lingua thinks non-English title but lang_detect has high confidence. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + str(confidence))
+        print('Warning! Lingua thinks non-English title but lang_detect has high confidence. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + ' Langdetect: ' + str(confidence))
+        logging.warning('Warning! Lingua thinks non-English title but lang_detect has high confidence. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + ' Langdetect: ' + str(confidence))
         return string
     else:
         return ''
