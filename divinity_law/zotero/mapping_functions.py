@@ -1,4 +1,6 @@
 from langdetect import detect_langs
+# !pip3 install lingua-language-detector
+from lingua import Language, LanguageDetectorBuilder
 from fuzzywuzzy import fuzz # fuzzy logic matching
 from datetime import datetime
 import requests
@@ -347,7 +349,30 @@ def detect_language(string: str, settings: Dict[str, Any]) -> str:
     """Detect the language of the label and return the Wikidata Q ID for it."""
     if string == '':
         return ''
+    
+    # Create a list of the lingua language name values
+    lungua_languages = [
+    Language.ENGLISH,
+    Language.FRENCH,
+    Language.GERMAN,
+    Language.SPANISH,
+    Language.ITALIAN,
+    Language.DUTCH,
+    Language.CHINESE,
+    Language.NYNORSK,
+    Language.ARABIC,
+    Language.HEBREW,
+    Language.PORTUGUESE
+    ]
+
+    # Pass the lungua_languages list to the detector
+    lingua_language_detector = LanguageDetectorBuilder.from_languages(*lungua_languages).build()
+
     try:
+        confidence_values = lingua_language_detector.compute_language_confidence_values(string)
+        lingua_lang = settings['language_lingua_names'][confidence_values[0][0].name]
+        lingua_confidence = confidence_values[0][1]
+
         lang_list = detect_langs(string)
         lang_string = str(lang_list[0])
         confidence = float(lang_string[3:])
@@ -355,6 +380,16 @@ def detect_language(string: str, settings: Dict[str, Any]) -> str:
     except: #exceptions occur when no info to decide, e.g. numbers
         lang = 'zxx'
         confidence = float(0)
+
+    # First test: do the two language detectors agree?
+    if lingua_lang != lang:
+        print('Warning! Language detection mismatch. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
+        logging.warning('Warning! Language detection mismatch. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
+        # Use the language from Lingua. 
+        # Don't need to check if it's in the list of known languages since it's restricted to a list of languages.
+        return settings['language_qid'][lingua_lang]
+
+    # Second test: log a warning if the detect_langs confidence is below the cutoff
     if confidence < settings['language_precision_cutoff']:
         print('Warning: language confidence for', lang, 'below', settings['language_precision_cutoff'], ':', confidence)
         #error_log_string += 'Warning: language confidence for ' + lang + ' below ' + str(settings['language_precision_cutoff']) + ': ' + str(confidence) + '\n'
@@ -362,16 +397,40 @@ def detect_language(string: str, settings: Dict[str, Any]) -> str:
     if lang in settings['language_qid']:
         return settings['language_qid'][lang]
     else:
+        # As of 2023-03-18, this basically won't happen, since if the language isn't in the lingua list, the two detected language won't match.
         print('Warning: detected language', lang, 'not in list of known languages.')
         #error_log_string += 'Warning: detected language ' + lang + ' not in list of known languages.\n'
         logging.warning('Warning: detected language ' + lang + ' not in list of known languages.')
         return ''
 
-def title_en(string: str) -> str:
+def title_en(string: str, settings: Dict[str, Any]) -> str:
     """Detect the language of the label and return the language code for it."""
     if string == '':
         return ''
+    
+    # Create a list of the lingua language name values
+    lungua_languages = [
+    Language.ENGLISH,
+    Language.FRENCH,
+    Language.GERMAN,
+    Language.SPANISH,
+    Language.ITALIAN,
+    Language.DUTCH,
+    Language.CHINESE,
+    Language.NYNORSK,
+    Language.ARABIC,
+    Language.HEBREW,
+    Language.PORTUGUESE
+    ]
+
+    # Pass the lungua_languages list to the detector
+    lingua_language_detector = LanguageDetectorBuilder.from_languages(*lungua_languages).build()
+
     try:
+        confidence_values = lingua_language_detector.compute_language_confidence_values(string)
+        lingua_lang = settings['language_lingua_names'][confidence_values[0][0].name]
+        lingua_confidence = confidence_values[0][1]
+
         lang_list = detect_langs(string)
         lang_string = str(lang_list[0])
         confidence = float(lang_string[3:])
@@ -379,7 +438,18 @@ def title_en(string: str) -> str:
     except: #exceptions occur when no info to decide, e.g. numbers
         lang = 'zxx'
         confidence = float(0)
-    if lang == 'en':
+    # If the two language detectors agree, return the string.
+    if lang == 'en' and lingua_lang == 'en':
+        return string
+    elif lang != 'en' and lingua_lang == 'en':
+        # Log a warning but return the string.
+        print('Warning! lang_detect thinks non-English title. Lingua: ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
+        logging.warning('Warning! lang_detect thinks non-English title. Lingua: ' + str(lingua_confidence) + 'Langdetect: ' + lang + ' ' + str(confidence))
+        return string
+    elif lingua_lang != 'en' and (lang == 'en' and confidence > settings['language_precision_cutoff']):
+        # Log a warning but return the string.
+        print('Warning! Lingua thinks non-English title but lang_detect has high confidence. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + str(confidence))
+        logging.warning('Warning! Lingua thinks non-English title but lang_detect has high confidence. Lingua: ' + lingua_lang + ' ' + str(lingua_confidence) + 'Langdetect: ' + str(confidence))
         return string
     else:
         return ''

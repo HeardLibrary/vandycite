@@ -57,6 +57,19 @@ language_qid:
   he: Q9288
   pt: Q5146
 
+language_lingua_names:
+  ENGLISH: en
+  FRENCH: fr
+  GERMAN: de
+  SPANISH: es
+  ITALIAN: it
+  DUTCH: nl
+  CHINESE: zh
+  NYNORSK: "no"
+  ARABIC: ar
+  HEBREW: he
+  PORTUGUESE: pt
+
 # List of known work types used by Zotero
 work_types:
 - type_string: journalArticle

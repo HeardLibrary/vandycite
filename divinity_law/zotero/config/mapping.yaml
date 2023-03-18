@@ -88,6 +88,7 @@ properties:
 - out_col_label: title_en
   mapping_function: title_en
   in_col_label: Title
+  use_settings: True
   ref:
   - out_col_label: referenceUrl
     mapping_function: set_reference
