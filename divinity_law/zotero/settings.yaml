@@ -79,7 +79,7 @@ work_types:
 - type_string: book
   qid:         Q3331189 # "version, edition, or translation"
   description: book
-  equivalent_types: ['Q3331189', 'Q571', 'Q193495', 'Q193495'] # version/edition/translation, book, monograph, edited volume
+  equivalent_types: ['Q3331189', 'Q571', 'Q193495', 'Q1711593'] # version/edition/translation, book, monograph, edited volume
 - type_string: bookSection
   qid:         Q21481766 # "academic chapter"
   description: academic book chapter
