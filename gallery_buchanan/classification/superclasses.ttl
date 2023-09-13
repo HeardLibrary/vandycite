@@ -1,0 +1,3254 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sesame: <http://www.openrdf.org/schema/sesame#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix fn: <http://www.w3.org/2005/xpath-functions#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix hint: <http://www.bigdata.com/queryHints#> .
+@prefix bd: <http://www.bigdata.com/rdf#> .
+@prefix bds: <http://www.bigdata.com/rdf/search#> .
+@prefix psn: <http://www.wikidata.org/prop/statement/value-normalized/> .
+@prefix pqn: <http://www.wikidata.org/prop/qualifier/value-normalized/> .
+@prefix prn: <http://www.wikidata.org/prop/reference/value-normalized/> .
+@prefix mwapi: <https://www.mediawiki.org/ontology#API/> .
+@prefix gas: <http://www.bigdata.com/rdf/gas#> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix wdtn: <http://www.wikidata.org/prop/direct-normalized/> .
+@prefix psv: <http://www.wikidata.org/prop/statement/value/> .
+@prefix ps: <http://www.wikidata.org/prop/statement/> .
+@prefix pqv: <http://www.wikidata.org/prop/qualifier/value/> .
+@prefix pq: <http://www.wikidata.org/prop/qualifier/> .
+@prefix prv: <http://www.wikidata.org/prop/reference/value/> .
+@prefix pr: <http://www.wikidata.org/prop/reference/> .
+@prefix wdno: <http://www.wikidata.org/prop/novalue/> .
+@prefix p: <http://www.wikidata.org/prop/> .
+@prefix wikibase: <http://wikiba.se/ontology#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
+@prefix wds: <http://www.wikidata.org/entity/statement/> .
+@prefix wdv: <http://www.wikidata.org/value/> .
+@prefix wdref: <http://www.wikidata.org/reference/> .
+@prefix schema: <http://schema.org/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix geo: <http://www.opengis.net/ont/geosparql#> .
+@prefix geof: <http://www.opengis.net/def/geosparql/function/> .
+@prefix mediawiki: <https://www.mediawiki.org/ontology#> .
+@prefix ontolex: <http://www.w3.org/ns/lemon/ontolex#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+
+wd:Q80228 wdt:P279 wd:Q987767 ;
+	rdfs:label "bottle"@en .
+
+wd:Q987767 rdfs:label "container"@en .
+
+wd:Q87167 wdt:P279 wd:Q49848 ;
+	rdfs:label "manuscript"@en .
+
+wd:Q49848 rdfs:label "document"@en .
+
+wd:Q81707 wdt:P279 wd:Q835420 ;
+	rdfs:label "teacup"@en .
+
+wd:Q835420 rdfs:label "teaware"@en .
+
+wd:Q80228 wdt:P279 wd:Q96952903 .
+
+wd:Q96952903 rdfs:label "vessel"@en .
+
+wd:Q93184 wdt:P279 wd:Q340169 ;
+	rdfs:label "drawing"@en .
+
+wd:Q340169 rdfs:label "media"@en .
+
+wd:Q81980 wdt:P279 wd:Q81944 ;
+	rdfs:label "chopsticks"@en .
+
+wd:Q81944 rdfs:label "cutlery"@en .
+
+wd:Q80228 wdt:P279 wd:Q113519195 .
+
+wd:Q113519195 rdfs:label "long, thin object"@en .
+
+wd:Q81727 wdt:P279 wd:Q2453629 ;
+	rdfs:label "cup"@en .
+
+wd:Q2453629 rdfs:label "drinking vessel"@en .
+
+wd:Q81707 wdt:P279 wd:Q2100893 .
+
+wd:Q2100893 rdfs:label "cup with stem"@en .
+
+wd:Q93184 wdt:P279 wd:Q110304307 .
+
+wd:Q110304307 rdfs:label "two-dimensional visual artwork"@en .
+
+wd:Q125191 wdt:P279 wd:Q107435521 ;
+	rdfs:label "photograph"@en .
+
+wd:Q107435521 rdfs:label "record"@en .
+
+wd:Q125191 wdt:P279 wd:Q110304307 .
+
+wd:Q87167 wdt:P279 wd:Q3331189 .
+
+wd:Q3331189 rdfs:label "version, edition, or translation"@en .
+
+wd:Q87167 wdt:P279 wd:Q18593264 .
+
+wd:Q18593264 rdfs:label "item of collection or exhibition"@en .
+
+wd:Q87167 wdt:P279 wd:Q110304307 .
+
+wd:Q81980 wdt:P279 wd:Q10971443 .
+
+wd:Q10971443 rdfs:label "stick"@en .
+
+wd:Q131536 wdt:P279 wd:Q659691 ;
+	rdfs:label "boomerang"@en .
+
+wd:Q659691 rdfs:label "throwing stick"@en .
+
+wd:Q131536 wdt:P279 wd:Q153556 .
+
+wd:Q153556 rdfs:label "ranged weapon"@en .
+
+wd:Q110304307 wdt:P279 wd:Q118870638 .
+
+wd:Q118870638 rdfs:label "two-dimensional object"@en .
+
+wd:Q125191 wdt:P279 wd:Q478798 .
+
+wd:Q478798 rdfs:label "image"@en .
+
+wd:Q131557 wdt:P279 wd:Q1065579 ;
+	rdfs:label "amulet"@en .
+
+wd:Q1065579 rdfs:label "costume accessory"@en .
+
+wd:Q131557 wdt:P279 wd:Q1532771 .
+
+wd:Q1532771 rdfs:label "lucky symbol"@en .
+
+wd:Q131559 wdt:P279 wd:Q50414774 ;
+	rdfs:label "shield"@en .
+
+wd:Q50414774 rdfs:label "armor"@en .
+
+wd:Q110304307 wdt:P279 wd:Q4502142 .
+
+wd:Q4502142 rdfs:label "visual artwork"@en .
+
+wd:Q340169 wdt:P279 wd:Q12894677 .
+
+wd:Q12894677 rdfs:label "means"@en .
+
+wd:Q107435521 wdt:P279 wd:Q286583 .
+
+wd:Q286583 rdfs:label "manifestation"@en .
+
+wd:Q1158805 wdt:P279 wd:Q154038 ;
+	rdfs:label "food steamer"@en .
+
+wd:Q154038 rdfs:label "cookware and bakeware"@en .
+
+wd:Q1066288 wdt:P279 wd:Q179700 ;
+	rdfs:label "figurine"@en .
+
+wd:Q179700 rdfs:label "statue"@en .
+
+wd:Q478798 wdt:P279 wd:Q16686448 .
+
+wd:Q16686448 rdfs:label "artificial entity"@en .
+
+wd:Q104526 wdt:P279 wd:Q39546 ;
+	rdfs:label "pipe"@en .
+
+wd:Q39546 rdfs:label "tool"@en .
+
+wd:Q107444 wdt:P279 wd:Q154038 ;
+	rdfs:label "kettle"@en .
+
+wd:Q1125665 wdt:P279 wd:Q220659 ;
+	rdfs:label "cong"@en .
+
+wd:Q220659 rdfs:label "archaeological artifact"@en .
+
+wd:Q1207302 wdt:P279 wd:Q987767 ;
+	rdfs:label "jar"@en .
+
+wd:Q104555 wdt:P279 wd:Q354733 ;
+	rdfs:label "ruler"@en .
+
+wd:Q354733 rdfs:label "straightedge"@en .
+
+wd:Q478798 wdt:P279 wd:Q118870638 .
+
+wd:Q934849 wdt:P279 wd:Q14952 ;
+	rdfs:label "headband"@en .
+
+wd:Q14952 rdfs:label "headgear"@en .
+
+wd:Q987767 wdt:P279 wd:Q39546 .
+
+wd:Q354733 wdt:P279 wd:Q39546 .
+
+wd:Q11419301 wdt:P279 wd:Q39546 .
+
+wd:Q1138737 wdt:P279 wd:Q1146001 ;
+	rdfs:label "lamp"@en .
+
+wd:Q1146001 rdfs:label "light source"@en .
+
+wd:Q104555 wdt:P279 wd:Q875696 .
+
+wd:Q875696 rdfs:label "stationery"@en .
+
+wd:Q1158805 wdt:P279 wd:Q57583712 .
+
+wd:Q57583712 rdfs:label "cooking appliance"@en .
+
+wd:Q1207302 wdt:P279 wd:Q60739826 .
+
+wd:Q60739826 rdfs:label "food storage container"@en .
+
+wd:Q1138737 wdt:P279 wd:Q111324721 .
+
+wd:Q111324721 rdfs:label "lighting device"@en .
+
+wd:Q101401 wdt:P279 wd:Q838948 ;
+	rdfs:label "bell"@en .
+
+wd:Q838948 rdfs:label "work of art"@en .
+
+wd:Q101401 wdt:P279 wd:Q8205328 .
+
+wd:Q8205328 rdfs:label "artificial physical object"@en .
+
+wd:Q104555 wdt:P279 wd:Q2041172 .
+
+wd:Q2041172 rdfs:label "measuring instrument"@en .
+
+wd:Q8205328 wdt:P279 wd:Q223557 .
+
+wd:Q223557 rdfs:label "physical object"@en .
+
+wd:Q99895 wdt:P279 wd:Q10971235 ;
+	rdfs:label "pillow"@en .
+
+wd:Q10971235 rdfs:label "cushion"@en .
+
+wd:Q104555 wdt:P279 wd:Q4198689 .
+
+wd:Q4198689 rdfs:label "metrological mechanism"@en .
+
+wd:Q104555 wdt:P279 wd:Q116971226 .
+
+wd:Q116971226 rdfs:label "measuring tools & sensor"@en .
+
+wd:Q875696 wdt:P279 wd:Q121916 .
+
+wd:Q121916 rdfs:label "writing implement"@en .
+
+wd:Q101401 wdt:P279 wd:Q55721729 .
+
+wd:Q55721729 rdfs:label "percussion vessels"@en .
+
+wd:Q104526 wdt:P279 wd:Q11419301 .
+
+wd:Q11419301 rdfs:label "smoking equipment"@en .
+
+wd:Q2041172 wdt:P279 wd:Q1047213 .
+
+wd:Q1047213 rdfs:label "measurement tool"@en .
+
+wd:Q11419301 wdt:P279 wd:Q1065579 .
+
+wd:Q154038 wdt:P279 wd:Q987767 , wd:Q1521410 .
+
+wd:Q1521410 rdfs:label "kitchenware"@en .
+
+wd:Q153988 wdt:P279 wd:Q851782 ;
+	rdfs:label "bowl"@en .
+
+wd:Q851782 rdfs:label "tableware"@en .
+
+wd:Q133067 wdt:P279 wd:Q214609 ;
+	rdfs:label "mosaic"@en .
+
+wd:Q214609 rdfs:label "material"@en .
+
+wd:Q4198689 wdt:P279 wd:Q517596 .
+
+wd:Q517596 rdfs:label "mechanism"@en .
+
+wd:Q133067 wdt:P279 wd:Q262343 .
+
+wd:Q262343 rdfs:label "assemblage"@en .
+
+wd:Q39546 wdt:P279 wd:Q10273457 .
+
+wd:Q10273457 rdfs:label "equipment"@en .
+
+wd:Q354733 wdt:P279 wd:Q1666865 .
+
+wd:Q1666865 rdfs:label "mathematical instrument"@en .
+
+wd:Q875696 wdt:P279 wd:Q2383811 .
+
+wd:Q2383811 rdfs:label "office supply"@en .
+
+wd:Q133067 wdt:P279 wd:Q391414 .
+
+wd:Q391414 rdfs:label "architectural element"@en .
+
+wd:Q133067 wdt:P279 wd:Q350268 .
+
+wd:Q350268 rdfs:label "plastic artwork"@en .
+
+wd:Q8205328 wdt:P279 wd:Q16686448 .
+
+wd:Q11419301 wdt:P279 wd:Q5308899 .
+
+wd:Q5308899 rdfs:label "drug paraphernalia"@en .
+
+wd:Q860861 wdt:P279 wd:Q350268 ;
+	rdfs:label "sculpture"@en .
+
+wd:Q914149 wdt:P279 wd:Q2383811 ;
+	rdfs:label "paperweight"@en .
+
+wd:Q945313 wdt:P279 wd:Q366134 ;
+	rdfs:label "cassone"@en .
+
+wd:Q366134 rdfs:label "chest"@en .
+
+wd:Q869381 wdt:P279 wd:Q1465180 ;
+	rdfs:label "flowerpot"@en .
+
+wd:Q1465180 rdfs:label "plant container"@en .
+
+wd:Q860861 wdt:P279 wd:Q8205328 .
+
+wd:Q838948 wdt:P279 wd:Q17537576 .
+
+wd:Q17537576 rdfs:label "creative work"@en .
+
+wd:Q55721729 wdt:P279 wd:Q30038792 .
+
+wd:Q30038792 rdfs:label "percussion idiophones"@en .
+
+wd:Q354733 wdt:P279 wd:Q26972858 .
+
+wd:Q26972858 rdfs:label "drawing instrument"@en .
+
+wd:Q10971235 wdt:P279 wd:Q45063185 .
+
+wd:Q45063185 rdfs:label "soft furnishing"@en .
+
+wd:Q914149 wdt:P279 wd:Q65088317 .
+
+wd:Q65088317 rdfs:label "weight"@en .
+
+wd:Q153988 wdt:P279 wd:Q987767 .
+
+wd:Q1062404 wdt:P279 wd:Q4502142 ;
+	rdfs:label "artist's book"@en .
+
+wd:Q116971226 wdt:P279 wd:Q39546 .
+
+wd:Q132397 wdt:P279 wd:Q2413314 ;
+	rdfs:label "pitcher"@en .
+
+wd:Q2413314 rdfs:label "jug"@en .
+
+wd:Q134560 wdt:P279 wd:Q1065579 ;
+	rdfs:label "belt"@en .
+
+wd:Q151771 wdt:P279 wd:Q111324670 ;
+	rdfs:label "candlestick"@en .
+
+wd:Q111324670 rdfs:label "candleholder"@en .
+
+wd:Q133067 wdt:P279 wd:Q110304307 .
+
+wd:Q152574 wdt:P279 wd:Q4388799 ;
+	rdfs:label "coat"@en .
+
+wd:Q4388799 rdfs:label "outerwear"@en .
+
+wd:Q134566 wdt:P279 wd:Q11223329 ;
+	rdfs:label "weighing scale"@en .
+
+wd:Q11223329 rdfs:label "dynamometer"@en .
+
+wd:Q151771 wdt:P279 wd:Q56071807 .
+
+wd:Q56071807 rdfs:label "stand"@en .
+
+wd:Q835420 wdt:P279 wd:Q39546 .
+
+wd:Q132397 wdt:P279 wd:Q516844 .
+
+wd:Q516844 rdfs:label "beer glass"@en .
+
+wd:Q131647 wdt:P279 wd:Q618779 ;
+	rdfs:label "medal"@en .
+
+wd:Q618779 rdfs:label "award"@en .
+
+wd:Q132397 wdt:P279 wd:Q851782 .
+
+wd:Q131647 wdt:P279 wd:Q838948 .
+
+wd:Q113519195 wdt:P279 wd:Q223557 .
+
+wd:Q132397 wdt:P279 wd:Q1207302 .
+
+wd:Q131696 wdt:P279 wd:Q1521410 ;
+	rdfs:label "towel"@en .
+
+wd:Q132137 wdt:P279 wd:Q2414609 ;
+	rdfs:label "icon"@en .
+
+wd:Q2414609 rdfs:label "religious painting"@en .
+
+wd:Q131647 wdt:P279 wd:Q28886448 .
+
+wd:Q28886448 rdfs:label "work with multiple executions"@en .
+
+wd:Q131696 wdt:P279 wd:Q98792614 .
+
+wd:Q98792614 rdfs:label "bathroom linen"@en .
+
+wd:Q131647 wdt:P279 wd:Q116035976 .
+
+wd:Q116035976 rdfs:label "monetiform object"@en .
+
+wd:Q96952903 wdt:P279 wd:Q987767 .
+
+wd:Q1323314 wdt:P279 wd:Q987767 ;
+	rdfs:label "bag"@en .
+
+wd:Q1320546 wdt:P279 wd:Q1329540 ;
+	rdfs:label "weight"@en .
+
+wd:Q1329540 rdfs:label "material measure"@en .
+
+wd:Q1320546 wdt:P279 wd:Q65088317 .
+
+wd:Q1264081 wdt:P279 wd:Q111514811 ;
+	rdfs:label "censer"@en .
+
+wd:Q111514811 rdfs:label "incense burner"@en .
+
+wd:Q1018079 wdt:P279 wd:Q11019 ;
+	rdfs:label "butter churn"@en .
+
+wd:Q11019 rdfs:label "machine"@en .
+
+wd:Q1064538 wdt:P279 wd:Q22075301 ;
+	rdfs:label "quilt"@en .
+
+wd:Q22075301 rdfs:label "textile artwork"@en .
+
+wd:Q1064538 wdt:P279 wd:Q55570182 .
+
+wd:Q55570182 rdfs:label "bedcover"@en .
+
+wd:Q1053956 wdt:P279 wd:Q214609 ;
+	rdfs:label "bead"@en ;
+	wdt:P279 wd:Q838948 .
+
+wd:Q1018079 wdt:P279 wd:Q1183543 .
+
+wd:Q1183543 rdfs:label "appliance"@en .
+
+wd:Q1053956 wdt:P279 wd:Q15303351 .
+
+wd:Q15303351 rdfs:label "art material"@en .
+
+wd:Q18593264 wdt:P279 wd:Q386724 .
+
+wd:Q386724 rdfs:label "work"@en .
+
+wd:Q10971443 wdt:P279 wd:Q728 .
+
+wd:Q728 rdfs:label "weapon"@en .
+
+wd:Q10971443 wdt:P279 wd:Q223557 .
+
+wd:Q3331189 wdt:P279 wd:Q732577 .
+
+wd:Q732577 rdfs:label "publication"@en .
+
+wd:Q18593264 wdt:P279 wd:Q2342494 .
+
+wd:Q2342494 rdfs:label "collectible"@en .
+
+wd:Q10971443 wdt:P279 wd:Q8205328 .
+
+wd:Q3331189 wdt:P279 wd:Q16889133 .
+
+wd:Q16889133 rdfs:label "class"@en .
+
+wd:Q2453629 wdt:P279 wd:Q96952903 .
+
+wd:Q185623 wdt:P279 wd:Q649107 ;
+	rdfs:label "halberd"@en .
+
+wd:Q649107 rdfs:label "pole weapon"@en .
+
+wd:Q170476 wdt:P279 wd:Q548275 ;
+	rdfs:label "menorah"@en .
+
+wd:Q548275 rdfs:label "candelabra"@en .
+
+wd:Q168658 wdt:P279 wd:Q337060 ;
+	rdfs:label "doll"@en .
+
+wd:Q337060 rdfs:label "perceptible object"@en .
+
+wd:Q178401 wdt:P279 wd:Q738680 ;
+	rdfs:label "amphora"@en .
+
+wd:Q738680 rdfs:label "pottery of ancient Greece"@en .
+
+wd:Q191851 wdt:P279 wd:Q838948 ;
+	rdfs:label "vase"@en .
+
+wd:Q49848 wdt:P279 wd:Q286583 .
+
+wd:Q188075 wdt:P279 wd:Q987767 ;
+	rdfs:label "box"@en .
+
+wd:Q178401 wdt:P279 wd:Q987767 , wd:Q4502142 .
+
+wd:Q182780 wdt:P279 wd:Q1514280 ;
+	rdfs:label "dagger"@en .
+
+wd:Q1514280 rdfs:label "stabbing weapon"@en .
+
+wd:Q189299 wdt:P279 wd:Q3575260 ;
+	rdfs:label "necklace"@en .
+
+wd:Q3575260 rdfs:label "bijou"@en .
+
+wd:Q168456 wdt:P279 wd:Q3575260 ;
+	rdfs:label "earring"@en .
+
+wd:Q168658 wdt:P279 wd:Q11784425 .
+
+wd:Q11784425 rdfs:label "physical model"@en .
+
+wd:Q189299 wdt:P279 wd:Q4470686 .
+
+wd:Q4470686 rdfs:label "decoration"@en .
+
+wd:Q191657 wdt:P279 wd:Q3590880 ;
+	rdfs:label "stirrup"@en .
+
+wd:Q3590880 rdfs:label "equestrian equipment"@en .
+
+wd:Q162919 wdt:P279 wd:Q57248625 ;
+	rdfs:label "seal"@en .
+
+wd:Q57248625 rdfs:label "mark"@en .
+
+wd:Q168456 wdt:P279 wd:Q29544254 .
+
+wd:Q29544254 rdfs:label "ear ornament"@en .
+
+wd:Q178401 wdt:P279 wd:Q19899872 .
+
+wd:Q19899872 rdfs:label "Greek vases"@en .
+
+wd:Q189233 wdt:P279 wd:Q44666669 ;
+	rdfs:label "throne"@en .
+
+wd:Q44666669 rdfs:label "individual seat"@en .
+
+wd:Q189233 wdt:P279 wd:Q111325174 .
+
+wd:Q111325174 rdfs:label "power symbol"@en .
+
+wd:Q49848 wdt:P279 wd:Q15621286 .
+
+wd:Q15621286 rdfs:label "intellectual work"@en .
+
+wd:Q2100893 wdt:P279 wd:Q2453629 .
+
+wd:Q49848 wdt:P279 wd:Q37866906 .
+
+wd:Q37866906 rdfs:label "information resource"@en .
+
+wd:Q153556 wdt:P279 wd:Q728 .
+
+wd:Q392326 wdt:P279 wd:Q728 ;
+	rdfs:label "club"@en .
+
+wd:Q345127 wdt:P279 wd:Q11460 ;
+	rdfs:label "robe"@en .
+
+wd:Q11460 rdfs:label "clothing"@en .
+
+wd:Q1532771 wdt:P279 wd:Q80071 .
+
+wd:Q80071 rdfs:label "symbol"@en .
+
+wd:Q516844 wdt:P279 wd:Q1922981 .
+
+wd:Q1922981 rdfs:label "glassware"@en .
+
+wd:Q350268 wdt:P279 wd:Q4502142 .
+
+wd:Q262343 wdt:P279 wd:Q4502142 .
+
+wd:Q98792614 wdt:P279 wd:Q796635 .
+
+wd:Q796635 rdfs:label "linens"@en .
+
+wd:Q214609 wdt:P279 wd:Q2424752 .
+
+wd:Q2424752 rdfs:label "product"@en .
+
+wd:Q366134 wdt:P279 wd:Q14745 .
+
+wd:Q14745 rdfs:label "furniture"@en .
+
+wd:Q1065579 wdt:P279 wd:Q11460 , wd:Q362200 .
+
+wd:Q362200 rdfs:label "accessory"@en .
+
+wd:Q231250 wdt:P279 wd:Q28823 ;
+	rdfs:label "lace"@en .
+
+wd:Q28823 rdfs:label "textile"@en .
+
+wd:Q618779 wdt:P279 wd:Q184303 .
+
+wd:Q184303 rdfs:label "gift"@en .
+
+wd:Q50414774 wdt:P279 wd:Q1333024 .
+
+wd:Q1333024 rdfs:label "personal protective equipment"@en .
+
+wd:Q28886448 wdt:P279 wd:Q386724 .
+
+wd:Q429785 wdt:P279 wd:Q732577 ;
+	rdfs:label "poster"@en .
+
+wd:Q386215 wdt:P279 wd:Q81727 ;
+	rdfs:label "mug"@en .
+
+wd:Q204917 wdt:P279 wd:Q267228 ;
+	rdfs:label "whistle"@en .
+
+wd:Q267228 rdfs:label "sound generator"@en .
+
+wd:Q391414 wdt:P279 wd:Q55412936 .
+
+wd:Q55412936 rdfs:label "design element"@en .
+
+wd:Q851782 wdt:P279 wd:Q1521410 .
+
+wd:Q659691 wdt:P279 wd:Q1566976 .
+
+wd:Q1566976 rdfs:label "throwing weapon"@en .
+
+wd:Q116035976 wdt:P279 wd:Q8205328 .
+
+wd:Q1521410 wdt:P279 wd:Q1310214 .
+
+wd:Q1310214 rdfs:label "utensil"@en .
+
+wd:Q392326 wdt:P279 wd:Q339828 .
+
+wd:Q339828 rdfs:label "blunt instrument"@en .
+
+wd:Q98792614 wdt:P279 wd:Q10528974 .
+
+wd:Q10528974 rdfs:label "personal hygiene item"@en .
+
+wd:Q214488 wdt:P279 wd:Q216530 ;
+	rdfs:label "ashtray"@en .
+
+wd:Q216530 rdfs:label "waste container"@en .
+
+wd:Q214609 wdt:P279 wd:Q10683158 .
+
+wd:Q10683158 rdfs:label "substance"@en .
+
+wd:Q516844 wdt:P279 wd:Q21167379 .
+
+wd:Q21167379 rdfs:label "drinking glass"@en .
+
+wd:Q262343 wdt:P279 wd:Q28870066 .
+
+wd:Q28870066 rdfs:label "ensemble of works of art"@en .
+
+wd:Q245117 wdt:P279 wd:Q860861 ;
+	rdfs:label "relief sculpture"@en .
+
+wd:Q201097 wdt:P279 wd:Q987767 ;
+	rdfs:label "basket"@en .
+
+wd:Q366134 wdt:P279 wd:Q987767 .
+
+wd:Q245005 wdt:P279 wd:Q835420 ;
+	rdfs:label "teapot"@en .
+
+wd:Q728 wdt:P279 wd:Q39546 .
+
+wd:Q273831 wdt:P279 wd:Q828980 ;
+	rdfs:label "apron"@en .
+
+wd:Q828980 rdfs:label "workwear"@en .
+
+wd:Q369376 wdt:P279 wd:Q1516291 ;
+	rdfs:label "furoshiki"@en .
+
+wd:Q1516291 rdfs:label "gift wrapping"@en .
+
+wd:Q50414774 wdt:P279 wd:Q14524031 .
+
+wd:Q14524031 rdfs:label "protective clothing"@en .
+
+wd:Q2414609 wdt:P279 wd:Q3305213 .
+
+wd:Q3305213 rdfs:label "painting"@en .
+
+wd:Q404785 wdt:P279 wd:Q96952903 ;
+	rdfs:label "ewer"@en .
+
+wd:Q392326 wdt:P279 wd:Q10971443 .
+
+wd:Q223689 wdt:P279 wd:Q3155356 ;
+	rdfs:label "Pietà"@en .
+
+wd:Q3155356 rdfs:label "lamentation of Christ"@en .
+
+wd:Q201664 wdt:P279 wd:Q3575260 ;
+	rdfs:label "bracelet"@en .
+
+wd:Q618779 wdt:P279 wd:Q16686448 .
+
+wd:Q204917 wdt:P279 wd:Q55738663 .
+
+wd:Q55738663 rdfs:label "open flutes with internal duct without fingerholes"@en .
+
+wd:Q231250 wdt:P279 wd:Q22075301 .
+
+wd:Q302497 wdt:P279 wd:Q57315360 ;
+	rdfs:label "mandolin"@en .
+
+wd:Q57315360 rdfs:label "necked bowl lutes sounded by plectrum"@en .
+
+wd:Q213761 wdt:P279 wd:Q19394283 ;
+	rdfs:label "spindle"@en .
+
+wd:Q19394283 rdfs:label "textile arts tool"@en .
+
+wd:Q208320 wdt:P279 wd:Q55721729 ;
+	rdfs:label "gong"@en .
+
+wd:Q245005 wdt:P279 wd:Q60310748 .
+
+wd:Q60310748 rdfs:label "pot"@en .
+
+wd:Q345179 wdt:P279 wd:Q56147900 ;
+	rdfs:label "hand warmer"@en .
+
+wd:Q56147900 rdfs:label "equipment for personal use"@en .
+
+wd:Q201664 wdt:P279 wd:Q4470686 .
+
+wd:Q223689 wdt:P279 wd:Q5003624 .
+
+wd:Q5003624 rdfs:label "memorial"@en .
+
+wd:Q245117 wdt:P279 wd:Q110304307 .
+
+wd:Q467505 rdfs:label "handbag"@en .
+
+wd:Q1261026 wdt:P279 wd:Q49848 .
+
+wd:Q50414774 wdt:P279 wd:Q20793164 .
+
+wd:Q20793164 rdfs:label "armor"@en .
+
+wd:Q1521410 wdt:P279 wd:Q26037047 .
+
+wd:Q26037047 rdfs:label "culinary equipment"@en .
+
+wd:Q2414609 wdt:P279 wd:Q117023378 .
+
+wd:Q117023378 rdfs:label "religious work of art"@en .
+
+wd:Q2413314 wdt:P279 wd:Q96952903 .
+
+wd:Q60310748 wdt:P279 wd:Q154038 .
+
+wd:Q339828 wdt:P279 wd:Q222405 .
+
+wd:Q222405 rdfs:label "cold weapon"@en .
+
+wd:Q118870638 wdt:P279 wd:Q488383 .
+
+wd:Q488383 rdfs:label "object"@en .
+
+wd:Q57315360 wdt:P279 wd:Q230262 .
+
+wd:Q230262 rdfs:label "plucked string instrument"@en .
+
+wd:Q11460 wdt:P279 wd:Q386724 .
+
+wd:Q118495619 wdt:P279 wd:Q838948 .
+
+wd:Q2424752 wdt:P279 wd:Q488383 .
+
+wd:Q206615 wdt:P279 wd:Q214609 .
+
+wd:Q468402 rdfs:label "tile"@en .
+
+wd:Q1261026 wdt:P279 wd:Q732577 .
+
+wd:Q115921371 wdt:P279 wd:Q2424752 .
+
+wd:Q60310748 wdt:P279 wd:Q96952903 .
+
+wd:Q57315360 wdt:P279 wd:Q55724836 .
+
+wd:Q55724836 rdfs:label "necked bowl lutes"@en .
+
+wd:Q4502142 wdt:P279 wd:Q838948 .
+
+wd:Q732577 wdt:P279 wd:Q115668308 .
+
+wd:Q115668308 rdfs:label "release"@en .
+
+wd:Q22075301 wdt:P279 wd:Q4502142 .
+
+wd:Q1261026 wdt:P279 wd:Q2424752 .
+
+wd:Q11460 wdt:P279 wd:Q2424752 .
+
+wd:Q22075301 wdt:P279 wd:Q8205328 .
+
+wd:Q1516291 wdt:P279 wd:Q5158735 .
+
+wd:Q5158735 rdfs:label "concoction"@en .
+
+wd:Q11460 wdt:P279 wd:Q8205328 .
+
+wd:Q56147900 wdt:P279 wd:Q10273457 .
+
+wd:Q1516291 wdt:P279 wd:Q16509017 .
+
+wd:Q16509017 rdfs:label "giving"@en .
+
+wd:Q2453629 wdt:P279 wd:Q851782 .
+
+wd:Q386724 wdt:P279 wd:Q16686448 .
+
+wd:Q14745 wdt:P279 wd:Q31807746 .
+
+wd:Q31807746 rdfs:label "furnishing"@en .
+
+wd:Q11460 wdt:P279 wd:Q113518695 .
+
+wd:Q113518695 rdfs:label "flat object"@en .
+
+wd:Q4502142 wdt:P279 wd:Q110910970 .
+
+wd:Q110910970 rdfs:label "visual work"@en .
+
+wd:Q22075301 wdt:P279 wd:Q110619173 .
+
+wd:Q110619173 rdfs:label "textile work"@en .
+
+wd:Q728 wdt:P279 wd:Q115921371 .
+
+wd:Q115921371 rdfs:label "adult product"@en .
+
+wd:Q828980 wdt:P279 wd:Q14524031 .
+
+wd:Q16686448 wdt:P279 wd:Q1150771 .
+
+wd:Q1150771 rdfs:label "output"@en .
+
+wd:Q11789812 wdt:P279 wd:Q39546 .
+
+wd:Q672890 rdfs:label "hatchet"@en .
+
+wd:Q198763 wdt:P279 wd:Q11460 ;
+	rdfs:label "undergarment"@en .
+
+wd:Q200539 wdt:P279 wd:Q11460 ;
+	rdfs:label "dress"@en .
+
+wd:Q825501 rdfs:label "obi"@en .
+
+wd:Q1477300 wdt:P279 wd:Q11460 .
+
+wd:Q193220 wdt:P279 wd:Q39546 ;
+	rdfs:label "hand fan"@en .
+
+wd:Q11540470 wdt:P279 wd:Q153988 .
+
+wd:Q798625 rdfs:label "chawan"@en .
+
+wd:Q95965973 wdt:P279 wd:Q153988 .
+
+wd:Q81944 wdt:P279 wd:Q3773693 .
+
+wd:Q3773693 rdfs:label "kitchen utensil"@en .
+
+wd:Q64816586 wdt:P279 wd:Q835420 .
+
+wd:Q198976 wdt:P279 wd:Q57216 ;
+	rdfs:label "charger"@en .
+
+wd:Q57216 rdfs:label "plate"@en .
+
+wd:Q17537576 wdt:P279 wd:Q386724 .
+
+wd:Q193358 wdt:P279 wd:Q81895 ;
+	rdfs:label "ladle"@en .
+
+wd:Q81895 rdfs:label "spoon"@en .
+
+wd:Q720106 rdfs:label "scroll"@en .
+
+wd:Q191851 wdt:P279 wd:Q987767 .
+
+wd:Q193220 wdt:P279 wd:Q1065579 , wd:Q1310214 , wd:Q3575260 .
+
+wd:Q193358 wdt:P279 wd:Q3773693 .
+
+wd:Q1370565 wdt:P279 wd:Q488383 .
+
+wd:Q193220 wdt:P279 wd:Q6498398 .
+
+wd:Q6498398 rdfs:label "mechanical fan"@en .
+
+wd:Q833823 rdfs:label "beaker"@en .
+
+wd:Q1370565 wdt:P279 wd:Q1065579 .
+
+wd:Q193220 wdt:P279 wd:Q11606456 .
+
+wd:Q11606456 rdfs:label "traditional craft designated by the Minister of Economy, Trade and Industry in Japan"@en .
+
+wd:Q191851 wdt:P279 wd:Q96952903 .
+
+wd:Q39397 wdt:P279 wd:Q2578402 .
+
+wd:Q2578402 rdfs:label "hand tool"@en .
+
+wd:Q668349 rdfs:label "kylix"@en .
+
+wd:Q193358 wdt:P279 wd:Q106358005 .
+
+wd:Q106358005 rdfs:label "serving cutlery"@en .
+
+wd:Q111525822 wdt:P279 wd:Q31807746 .
+
+wd:Q860792 rdfs:label "picture frame"@en .
+
+wd:Q162919 wdt:P279 wd:Q112110 .
+
+wd:Q112110 rdfs:label "emblem"@en .
+
+wd:Q111525822 wdt:P279 wd:Q82168968 .
+
+wd:Q82168968 rdfs:label "storage and display accessories"@en .
+
+wd:Q1477300 wdt:P279 wd:Q9053464 .
+
+wd:Q9053464 rdfs:label "costume"@en .
+
+wd:Q162919 wdt:P279 wd:Q552345 .
+
+wd:Q552345 rdfs:label "insignia"@en .
+
+wd:Q39397 wdt:P279 wd:Q15407649 .
+
+wd:Q15407649 rdfs:label "edged and bladed weapon"@en .
+
+wd:Q121916 wdt:P279 wd:Q10273457 .
+
+wd:Q56071807 wdt:P279 wd:Q14745 .
+
+wd:Q39397 wdt:P279 wd:Q115170682 .
+
+wd:Q115170682 rdfs:label "separation device"@en .
+
+wd:Q56071807 wdt:P279 wd:Q1058733 .
+
+wd:Q1058733 rdfs:label "support"@en .
+
+wd:Q543901 wdt:P279 wd:Q1065579 ;
+	rdfs:label "netsuke"@en .
+
+wd:Q536168 wdt:P279 wd:Q796635 ;
+	rdfs:label "tablecloth"@en .
+
+wd:Q11223329 wdt:P279 wd:Q2041172 .
+
+wd:Q483444 wdt:P279 wd:Q1477300 ;
+	rdfs:label "kimono"@en .
+
+wd:Q1477300 rdfs:label "Japanese clothing"@en .
+
+wd:Q57248625 wdt:P279 wd:Q49848 .
+
+wd:Q543901 wdt:P279 wd:Q3476527 .
+
+wd:Q3476527 rdfs:label "Japanese sculpture"@en .
+
+wd:Q111324670 wdt:P279 wd:Q111324721 .
+
+wd:Q497903 wdt:P279 wd:Q28935403 ;
+	rdfs:label "collar"@en .
+
+wd:Q28935403 rdfs:label "costume component"@en .
+
+wd:Q543901 wdt:P279 wd:Q72609855 .
+
+wd:Q72609855 rdfs:label "trinket"@en .
+
+wd:Q536168 wdt:P279 wd:Q31808206 .
+
+wd:Q31808206 rdfs:label "covering"@en .
+
+wd:Q497903 wdt:P279 wd:Q6985603 .
+
+wd:Q6985603 rdfs:label "neckwear"@en .
+
+wd:Q57248625 wdt:P279 wd:Q80071 .
+
+wd:Q112110 wdt:P279 wd:Q80071 .
+
+wd:Q429785 wdt:P279 wd:Q1261026 .
+
+wd:Q1261026 rdfs:label "printed matter"@en .
+
+wd:Q429785 wdt:P279 wd:Q4502142 , wd:Q28886448 , wd:Q118495619 .
+
+wd:Q118495619 rdfs:label "wall art"@en .
+
+wd:Q65088317 wdt:P279 wd:Q223557 .
+
+wd:Q112110 wdt:P279 wd:Q478798 .
+
+wd:Q552345 wdt:P279 wd:Q80071 .
+
+wd:Q2383811 wdt:P279 wd:Q2424752 .
+
+wd:Q19899872 wdt:P279 wd:Q738680 .
+
+wd:Q476968 rdfs:label "krater"@en .
+
+wd:Q112110 wdt:P279 wd:Q4502142 .
+
+wd:Q552345 wdt:P279 wd:Q7225129 .
+
+wd:Q7225129 rdfs:label "political symbolism"@en .
+
+wd:Q2383811 wdt:P279 wd:Q8205328 .
+
+wd:Q1465180 wdt:P279 wd:Q111254795 .
+
+wd:Q111254795 rdfs:label "horticultural container"@en .
+
+wd:Q3476527 wdt:P279 wd:Q11634 .
+
+wd:Q11634 rdfs:label "art of sculpture"@en .
+
+wd:Q796635 wdt:P279 wd:Q28823 .
+
+wd:Q3575260 wdt:P279 wd:Q2142903 .
+
+wd:Q2142903 rdfs:label "jewelry"@en .
+
+wd:Q337060 wdt:P279 wd:Q223557 .
+
+wd:Q796635 wdt:P279 wd:Q2424752 , wd:Q1485500 .
+
+wd:Q1485500 rdfs:label "tangible good"@en .
+
+wd:Q4388799 wdt:P279 wd:Q11460 .
+
+wd:Q11784425 wdt:P279 wd:Q8205328 .
+
+wd:Q796635 wdt:P279 wd:Q69016679 .
+
+wd:Q69016679 rdfs:label "hospital equipment and supplies"@en .
+
+wd:Q3476527 wdt:P279 wd:Q113072886 .
+
+wd:Q113072886 rdfs:label "visual arts of Japan"@en .
+
+wd:Q11784425 wdt:P279 wd:Q18593264 .
+
+wd:Q468402 wdt:P279 wd:Q206615 .
+
+wd:Q206615 rdfs:label "building material"@en .
+
+wd:Q468402 wdt:P279 wd:Q391414 .
+
+wd:Q467505 wdt:P279 wd:Q1323314 , wd:Q1065579 .
+
+wd:Q738680 wdt:P279 wd:Q220659 .
+
+wd:Q557164 wdt:P279 wd:Q603399 ;
+	rdfs:label "inro"@en .
+
+wd:Q603399 rdfs:label "Japanese art"@en .
+
+wd:Q649107 wdt:P279 wd:Q222405 .
+
+wd:Q738680 wdt:P279 wd:Q17379525 .
+
+wd:Q17379525 rdfs:label "pottery ware"@en .
+
+wd:Q548275 wdt:P279 wd:Q815738 .
+
+wd:Q815738 rdfs:label "light fixture"@en .
+
+wd:Q29544254 wdt:P279 wd:Q4470686 .
+
+wd:Q557164 wdt:P279 wd:Q10660049 .
+
+wd:Q10660049 rdfs:label "sagemono"@en .
+
+wd:Q557164 wdt:P279 wd:Q7075109 .
+
+wd:Q7075109 rdfs:label "objet d'art"@en .
+
+wd:Q1183543 wdt:P279 wd:Q39546 .
+
+wd:Q476968 wdt:P279 wd:Q19899872 .
+
+wd:Q573870 wdt:P279 wd:Q4211668 ;
+	rdfs:label "bi"@en .
+
+wd:Q4211668 rdfs:label "Chinese jade"@en .
+
+wd:Q1941820 wdt:P279 wd:Q39546 ;
+	rdfs:label "mold"@en .
+
+wd:Q548275 wdt:P279 wd:Q111324670 .
+
+wd:Q11060274 wdt:P279 wd:Q28886448 ;
+	rdfs:label "print"@en .
+
+wd:Q1894855 wdt:P279 wd:Q121916 ;
+	rdfs:label "yatate"@en .
+
+wd:Q60739826 wdt:P279 wd:Q138580 .
+
+wd:Q138580 rdfs:label "food packaging material"@en .
+
+wd:Q1329540 wdt:P279 wd:Q223557 .
+
+wd:Q1406758 wdt:P279 wd:Q335261 ;
+	rdfs:label "finial"@en .
+
+wd:Q335261 rdfs:label "ornament"@en .
+
+wd:Q1406758 wdt:P279 wd:Q391414 .
+
+wd:Q1566584 wdt:P279 wd:Q522648 ;
+	rdfs:label "hairpin"@en .
+
+wd:Q522648 rdfs:label "clothing in ancient Greece"@en .
+
+wd:Q1473346 wdt:P279 wd:Q838948 ;
+	rdfs:label "stained glass"@en .
+
+wd:Q1566584 wdt:P279 wd:Q838312 .
+
+wd:Q838312 rdfs:label "pin"@en .
+
+wd:Q1757989 wdt:P279 wd:Q796635 ;
+	rdfs:label "placemat"@en .
+
+wd:Q1409660 wdt:P279 wd:Q987767 ;
+	rdfs:label "brazier"@en .
+
+wd:Q60739826 wdt:P279 wd:Q987767 .
+
+wd:Q1941820 wdt:P279 wd:Q987767 .
+
+wd:Q1409660 wdt:P279 wd:Q3773693 .
+
+wd:Q1566584 wdt:P279 wd:Q2457980 .
+
+wd:Q2457980 rdfs:label "clothing in ancient Rome"@en .
+
+wd:Q1758043 wdt:P279 wd:Q3749240 ;
+	rdfs:label "tsuba"@en .
+
+wd:Q3749240 rdfs:label "guard"@en .
+
+wd:Q1566584 wdt:P279 wd:Q5639584 .
+
+wd:Q5639584 rdfs:label "hairstyling tool"@en .
+
+wd:Q1347864 wdt:P279 wd:Q6887300 ;
+	rdfs:label "walking stick"@en .
+
+wd:Q6887300 rdfs:label "mobility aid"@en .
+
+wd:Q1347864 wdt:P279 wd:Q1065579 .
+
+wd:Q1941820 wdt:P279 wd:Q8205328 .
+
+wd:Q1566584 wdt:P279 wd:Q21369154 .
+
+wd:Q21369154 rdfs:label "hairstyle accessory"@en .
+
+wd:Q1593696 wdt:P279 wd:Q17504947 ;
+	rdfs:label "hilt"@en .
+
+wd:Q17504947 rdfs:label "tool handle"@en .
+
+wd:Q1941820 wdt:P279 wd:Q29349307 .
+
+wd:Q29349307 rdfs:label "form"@en .
+
+wd:Q1441616 wdt:P279 wd:Q25207165 ;
+	rdfs:label "bird feeder"@en .
+
+wd:Q25207165 rdfs:label "feeder"@en .
+
+wd:Q1593696 wdt:P279 wd:Q107471838 .
+
+wd:Q107471838 rdfs:label "edged weapon component"@en .
+
+wd:Q1347864 wdt:P279 wd:Q116221300 .
+
+wd:Q116221300 rdfs:label "walking aid"@en .
+
+wd:Q1643900 wdt:P279 wd:Q2308299 ;
+	rdfs:label "arrowhead"@en .
+
+wd:Q2308299 rdfs:label "projectile point"@en .
+
+wd:Q613972 rdfs:label "tray"@en .
+
+wd:Q11019 wdt:P279 wd:Q1183543 .
+
+wd:Q4211668 wdt:P279 wd:Q175089 .
+
+wd:Q175089 rdfs:label "jade"@en .
+
+wd:Q14952 wdt:P279 wd:Q11460 .
+
+wd:Q10660049 wdt:P279 wd:Q362200 .
+
+wd:Q1183543 wdt:P279 wd:Q8205328 .
+
+wd:Q7075109 wdt:P279 wd:Q4406616 .
+
+wd:Q4406616 rdfs:label "concrete object"@en .
+
+wd:Q14952 wdt:P279 wd:Q1065579 .
+
+wd:Q11060274 wdt:P279 wd:Q3331189 .
+
+wd:Q11019 wdt:P279 wd:Q35825432 .
+
+wd:Q35825432 rdfs:label "converter"@en .
+
+wd:Q28823 wdt:P279 wd:Q28877 .
+
+wd:Q28877 rdfs:label "goods"@en .
+
+wd:Q35825432 wdt:P279 wd:Q35120 .
+
+wd:Q35120 rdfs:label "entity"@en .
+
+wd:Q15303351 wdt:P279 wd:Q214609 .
+
+wd:Q28823 wdt:P279 wd:Q214609 .
+
+wd:Q672890 wdt:P279 wd:Q39397 .
+
+wd:Q39397 rdfs:label "axe"@en .
+
+wd:Q15303351 wdt:P279 wd:Q115923192 .
+
+wd:Q115923192 rdfs:label "arts and craft item"@en .
+
+wd:Q2822867 wdt:P279 wd:Q14745 ;
+	rdfs:label "armrest"@en .
+
+wd:Q720106 wdt:P279 wd:Q340169 .
+
+wd:Q668349 wdt:P279 wd:Q738680 .
+
+wd:Q613972 wdt:P279 wd:Q851782 .
+
+wd:Q720106 wdt:P279 wd:Q87167 .
+
+wd:Q2153373 wdt:P279 wd:Q39546 ;
+	rdfs:label "water-dropper"@en .
+
+wd:Q613972 wdt:P279 wd:Q987767 .
+
+wd:Q600794 wdt:P279 wd:Q121916 ;
+	rdfs:label "inkstone"@en .
+
+wd:Q720106 wdt:P279 wd:Q121916 .
+
+wd:Q3202271 wdt:P279 wd:Q25294 ;
+	rdfs:label "mallet"@en .
+
+wd:Q25294 rdfs:label "hammer"@en .
+
+wd:Q28823 wdt:P279 wd:Q8205328 , wd:Q16686448 .
+
+wd:Q825501 wdt:P279 wd:Q1065579 , wd:Q1370565 .
+
+wd:Q1370565 rdfs:label "sash"@en .
+
+wd:Q668349 wdt:P279 wd:Q2100893 .
+
+wd:Q833823 wdt:P279 wd:Q2453629 .
+
+wd:Q825501 wdt:P279 wd:Q1477300 .
+
+wd:Q3006804 wdt:P279 wd:Q81895 ;
+	rdfs:label "chashaku"@en .
+
+wd:Q28935403 wdt:P279 wd:Q11460 .
+
+wd:Q672890 wdt:P279 wd:Q11789812 .
+
+wd:Q11789812 rdfs:label "woodworking tool"@en .
+
+wd:Q798625 wdt:P279 wd:Q11540470 .
+
+wd:Q11540470 rdfs:label "wan"@en .
+
+wd:Q3305213 wdt:P279 wd:Q8205328 .
+
+wd:Q798625 wdt:P279 wd:Q64816586 .
+
+wd:Q64816586 rdfs:label "Japanese teaware"@en .
+
+wd:Q860792 wdt:P279 wd:Q111525822 .
+
+wd:Q111525822 rdfs:label "frame"@en .
+
+wd:Q798625 wdt:P279 wd:Q95965973 .
+
+wd:Q95965973 rdfs:label "tea bowl"@en .
+
+wd:Q11060274 wdt:P279 wd:Q110304307 .
+
+wd:Q2668072 wdt:P279 wd:Q386724 ;
+	rdfs:label "collection"@en .
+
+wd:Q3087145 wdt:P279 wd:Q335261 ;
+	rdfs:label "pommel"@en .
+
+wd:Q72609855 wdt:P279 wd:Q28877 .
+
+wd:Q3006804 wdt:P279 wd:Q744849 .
+
+wd:Q744849 rdfs:label "scoop"@en .
+
+wd:Q2923121 wdt:P279 wd:Q835420 ;
+	rdfs:label "tea caddy"@en ;
+	wdt:P279 wd:Q987767 .
+
+wd:Q3087145 wdt:P279 wd:Q200266 .
+
+wd:Q200266 rdfs:label "handle"@en .
+
+wd:Q2111434 wdt:P279 wd:Q3575260 ;
+	rdfs:label "pendant"@en .
+
+wd:Q3180027 wdt:P279 wd:Q1135567 ;
+	rdfs:label "belt buckle"@en .
+
+wd:Q1135567 rdfs:label "buckle"@en .
+
+wd:Q2569925 wdt:P279 wd:Q1521410 ;
+	rdfs:label "trivet"@en .
+
+wd:Q2239762 wdt:P279 wd:Q2002016 ;
+	rdfs:label "clasp"@en .
+
+wd:Q2002016 rdfs:label "fastener"@en .
+
+wd:Q2239762 wdt:P279 wd:Q2142903 .
+
+wd:Q2668072 wdt:P279 wd:Q16686448 , wd:Q16889133 .
+
+wd:Q2601788 wdt:P279 wd:Q21029893 ;
+	rdfs:label "votive offering"@en .
+
+wd:Q21029893 rdfs:label "religious object"@en .
+
+wd:Q72609855 wdt:P279 wd:Q223557 .
+
+wd:Q3305213 wdt:P279 wd:Q110304307 .
+
+wd:Q3006804 wdt:P279 wd:Q64816586 .
+
+wd:Q179700 wdt:P279 wd:Q860861 .
+
+wd:Q11060274 wdt:P279 wd:Q23013246 .
+
+wd:Q23013246 rdfs:label "copy"@en .
+
+wd:Q55570182 wdt:P279 wd:Q1762457 .
+
+wd:Q1762457 rdfs:label "bedding"@en .
+
+wd:Q6985603 wdt:P279 wd:Q1065579 .
+
+wd:Q179700 wdt:P279 wd:Q29527347 .
+
+wd:Q29527347 rdfs:label "figure"@en .
+
+wd:Q603399 wdt:P279 wd:Q13150034 .
+
+wd:Q13150034 rdfs:label "art of the Earth"@en .
+
+wd:Q28935403 wdt:P279 wd:Q15989253 .
+
+wd:Q15989253 rdfs:label "part"@en .
+
+wd:Q55570182 wdt:P279 wd:Q31807746 .
+
+wd:Q10660049 wdt:P279 wd:Q987767 .
+
+wd:Q28935403 wdt:P279 wd:Q1310239 .
+
+wd:Q1310239 rdfs:label "component"@en .
+
+wd:Q31808206 wdt:P279 wd:Q31807746 .
+
+wd:Q19394283 wdt:P279 wd:Q39546 .
+
+wd:Q106358005 wdt:P279 wd:Q15847317 .
+
+wd:Q15847317 rdfs:label "service cutlery"@en .
+
+wd:Q19394283 wdt:P279 wd:Q115923203 .
+
+wd:Q115923203 rdfs:label "arts and craft tool"@en .
+
+wd:Q6498398 wdt:P279 wd:Q65115262 .
+
+wd:Q65115262 rdfs:label "fluid accelerator"@en .
+
+wd:Q11606456 wdt:P279 wd:Q37736399 .
+
+wd:Q37736399 rdfs:label "traditional craft"@en .
+
+wd:Q55738663 wdt:P279 wd:Q55738662 .
+
+wd:Q55738662 rdfs:label "open flutes with internal duct"@en .
+
+wd:Q111514811 wdt:P279 wd:Q987767 .
+
+wd:Q60739826 wdt:P279 wd:Q26037047 .
+
+wd:Q111514811 wdt:P279 wd:Q111514945 .
+
+wd:Q111514945 rdfs:label "incense holder"@en .
+
+wd:Q3302947 wdt:P279 wd:Q2431196 ;
+	rdfs:label "audio recording"@en .
+
+wd:Q2431196 rdfs:label "audiovisual work"@en .
+
+wd:Q111325174 wdt:P279 wd:Q80071 .
+
+wd:Q1514280 wdt:P279 wd:Q222405 .
+
+wd:Q3590880 wdt:P279 wd:Q768186 .
+
+wd:Q768186 rdfs:label "sports equipment"@en .
+
+wd:Q4470686 wdt:P279 wd:Q838948 .
+
+wd:Q3590880 wdt:P279 wd:Q950799 .
+
+wd:Q950799 rdfs:label "tack"@en .
+
+wd:Q4470686 wdt:P279 wd:Q1065579 .
+
+wd:Q44666669 wdt:P279 wd:Q2207370 .
+
+wd:Q2207370 rdfs:label "seat"@en .
+
+wd:Q1514280 wdt:P279 wd:Q5581528 .
+
+wd:Q5581528 rdfs:label "melee weapon"@en .
+
+wd:Q4470686 wdt:P279 wd:Q6149036 .
+
+wd:Q6149036 rdfs:label "decoration"@en .
+
+wd:Q6498398 wdt:P279 wd:Q11019 .
+
+wd:Q3302947 wdt:P279 wd:Q107435521 .
+
+wd:Q81895 wdt:P279 wd:Q214609 , wd:Q81944 , wd:Q154038 .
+
+wd:Q216530 wdt:P279 wd:Q987767 .
+
+wd:Q3773693 wdt:P279 wd:Q1521410 .
+
+wd:Q267228 wdt:P279 wd:Q1183543 .
+
+wd:Q1310214 wdt:P279 wd:Q2578402 .
+
+wd:Q5003624 wdt:P279 wd:Q4989906 .
+
+wd:Q4989906 rdfs:label "monument"@en .
+
+wd:Q57216 wdt:P279 wd:Q113518695 , wd:Q99513137 .
+
+wd:Q99513137 rdfs:label "dish"@en .
+
+wd:Q216530 wdt:P279 wd:Q61989482 .
+
+wd:Q61989482 rdfs:label "bin"@en .
+
+wd:Q216530 wdt:P279 wd:Q115922519 .
+
+wd:Q115922519 rdfs:label "household supply"@en .
+
+wd:Q3399907 wdt:P279 wd:Q154038 ;
+	rdfs:label "crock"@en .
+
+wd:Q111324721 wdt:P279 wd:Q10273457 .
+
+wd:Q3399907 wdt:P279 wd:Q987767 .
+
+wd:Q220659 wdt:P279 wd:Q1791627 .
+
+wd:Q1791627 rdfs:label "cultural artifact"@en .
+
+wd:Q1146001 wdt:P279 wd:Q13402900 .
+
+wd:Q13402900 rdfs:label "radiator"@en .
+
+wd:Q220659 wdt:P279 wd:Q10855061 .
+
+wd:Q10855061 rdfs:label "archaeological find"@en .
+
+wd:Q1146001 wdt:P279 wd:Q31464082 .
+
+wd:Q31464082 rdfs:label "source"@en .
+
+wd:Q3761748 wdt:P279 wd:Q839546 ;
+	rdfs:label "ferrule"@en .
+
+wd:Q839546 rdfs:label "machine element"@en .
+
+wd:Q3399907 wdt:P279 wd:Q3773693 .
+
+wd:Q3761748 wdt:P279 wd:Q1310239 .
+
+wd:Q4364339 wdt:P279 wd:Q8205328 ;
+	rdfs:label "plaque"@en .
+
+wd:Q57583712 wdt:P279 wd:Q3588251 .
+
+wd:Q3588251 rdfs:label "heater"@en .
+
+wd:Q4364339 wdt:P279 wd:Q14562306 .
+
+wd:Q14562306 rdfs:label "bas-relief"@en .
+
+wd:Q3399907 wdt:P279 wd:Q17379525 .
+
+wd:Q57583712 wdt:P279 wd:Q1183543 .
+
+wd:Q6105860 wdt:P279 wd:Q14745 ;
+	rdfs:label "headrest"@en .
+
+wd:Q376 wdt:P279 wd:Q11019 ;
+	rdfs:label "clock"@en .
+
+wd:Q5849500 wdt:P279 wd:Q28823 ;
+	rdfs:label "cloth"@en .
+
+wd:Q111743673 wdt:P279 wd:Q39546 ;
+	rdfs:label "food extracting tool"@en .
+
+wd:Q11422 wdt:P279 wd:Q223557 ;
+	rdfs:label "toy"@en .
+
+wd:Q11405 wdt:P279 wd:Q181247 ;
+	rdfs:label "flute"@en .
+
+wd:Q181247 rdfs:label "woodwind instrument"@en .
+
+wd:Q111743391 wdt:P279 wd:Q543901 ;
+	rdfs:label "sashi"@en .
+
+wd:Q99513137 wdt:P279 wd:Q851782 .
+
+wd:Q11405 wdt:P279 wd:Q173453 .
+
+wd:Q173453 rdfs:label "wind instrument"@en .
+
+wd:Q7236012 wdt:P279 wd:Q29957 ;
+	rdfs:label "powder horn"@en .
+
+wd:Q29957 rdfs:label "funnel"@en .
+
+wd:Q10988986 wdt:P279 wd:Q36649 ;
+	rdfs:label "textile art"@en .
+
+wd:Q36649 rdfs:label "visual arts"@en .
+
+wd:Q8037437 wdt:P279 wd:Q1762457 ;
+	rdfs:label "woven coverlet"@en ;
+	wdt:P279 wd:Q1314278 .
+
+wd:Q1314278 rdfs:label "woven fabric"@en .
+
+wd:Q97570030 wdt:P279 wd:Q860861 ;
+	rdfs:label "carving"@en .
+
+wd:Q4364339 wdt:P279 wd:Q17537576 .
+
+wd:Q7236012 wdt:P279 wd:Q14830135 .
+
+wd:Q14830135 rdfs:label "powder flask"@en .
+
+wd:Q107197368 wdt:P279 wd:Q987767 ;
+	rdfs:label "pencil/pen holder"@en .
+
+wd:Q11410 wdt:P279 wd:Q17538258 ;
+	rdfs:label "game"@en .
+
+wd:Q17538258 rdfs:label "recreative work"@en .
+
+wd:Q376 wdt:P279 wd:Q4198689 .
+
+wd:Q111435487 wdt:P279 wd:Q10273457 ;
+	rdfs:label "divination equipment"@en .
+
+wd:Q111525943 wdt:P279 wd:Q2002016 ;
+	rdfs:label "clothing fastener"@en .
+
+wd:Q107471838 wdt:P279 wd:Q107471841 .
+
+wd:Q107471841 rdfs:label "weapon component"@en .
+
+wd:Q376 wdt:P279 wd:Q42622779 .
+
+wd:Q42622779 rdfs:label "timepiece"@en .
+
+wd:Q11404 wdt:P279 wd:Q19588483 ;
+	rdfs:label "drum"@en .
+
+wd:Q19588483 rdfs:label "struck membranophone"@en .
+
+wd:Q376 wdt:P279 wd:Q115923123 .
+
+wd:Q115923123 rdfs:label "decorative object"@en .
+
+wd:Q8037437 wdt:P279 wd:Q55570182 .
+
+wd:Q57207481 wdt:P279 wd:Q39397 ;
+	rdfs:label "axe"@en .
+
+wd:Q28972621 wdt:P279 wd:Q14952 ;
+	rdfs:label "headdress"@en .
+
+wd:Q21550451 wdt:P279 wd:Q161524 ;
+	rdfs:label "ceremonial mask"@en .
+
+wd:Q161524 rdfs:label "mask"@en .
+
+wd:Q29405120 wdt:P279 wd:Q838312 ;
+	rdfs:label "pin"@en .
+
+wd:Q95965965 wdt:P279 wd:Q987767 ;
+	rdfs:label "brush holder"@en .
+
+wd:Q93306772 wdt:P279 wd:Q987767 ;
+	rdfs:label "beverage urn"@en .
+
+wd:Q21369154 wdt:P279 wd:Q1065579 .
+
+wd:Q29480005 wdt:P279 wd:Q1323314 ;
+	rdfs:label "pouch"@en .
+
+wd:Q57207481 wdt:P279 wd:Q1760958 .
+
+wd:Q1760958 rdfs:label "cutting tool"@en .
+
+wd:Q29405120 wdt:P279 wd:Q2142903 .
+
+wd:Q50316288 wdt:P279 wd:Q21369154 ;
+	rdfs:label "comb"@en .
+
+wd:Q21550451 wdt:P279 wd:Q5064153 .
+
+wd:Q5064153 rdfs:label "ceremonial dress"@en .
+
+wd:Q82171231 wdt:P279 wd:Q82168968 ;
+	rdfs:label "holder"@en .
+
+wd:Q96093273 wdt:P279 wd:Q56147152 ;
+	rdfs:label "stamp"@en .
+
+wd:Q56147152 rdfs:label "marking equipment"@en .
+
+wd:Q28966302 wdt:P279 wd:Q28966125 ;
+	rdfs:label "embroidery"@en .
+
+wd:Q28966125 rdfs:label "needlework"@en .
+
+wd:Q44740228 wdt:P279 wd:Q31808206 ;
+	rdfs:label "wall hanging"@en .
+
+wd:Q15621286 wdt:P279 wd:Q386724 .
+
+wd:Q38942 wdt:P279 wd:Q987767 ;
+	rdfs:label "tub"@en .
+
+wd:Q37866906 wdt:P279 wd:Q1554231 .
+
+wd:Q1554231 rdfs:label "resource"@en .
+
+wd:Q35197 wdt:P279 wd:Q2424752 ;
+	rdfs:label "mirror"@en .
+
+wd:Q12894677 wdt:P279 wd:Q2574811 .
+
+wd:Q2574811 rdfs:label "cause"@en .
+
+wd:Q35197 wdt:P279 wd:Q15303351 , wd:Q65037298 .
+
+wd:Q65037298 rdfs:label "optical component"@en .
+
+wd:Q286583 wdt:P279 wd:Q16686448 .
+
+wd:Q111744113 wdt:P279 wd:Q11019 ;
+	rdfs:label "heddle pulley"@en .
+
+wd:Q14748 wdt:P279 wd:Q14745 ;
+	rdfs:label "table"@en .
+
+wd:Q15026 wdt:P279 wd:Q14745 ;
+	rdfs:label "chair"@en .
+
+wd:Q32489 wdt:P279 wd:Q39546 ;
+	rdfs:label "knife"@en .
+
+wd:Q34379 wdt:P279 wd:Q39546 ;
+	rdfs:label "musical instrument"@en .
+
+wd:Q22676 wdt:P279 wd:Q161928 ;
+	rdfs:label "shoe"@en .
+
+wd:Q161928 rdfs:label "footwear"@en .
+
+wd:Q35197 wdt:P279 wd:Q214609 .
+
+wd:Q37866906 wdt:P279 wd:Q3523102 .
+
+wd:Q3523102 rdfs:label "source of information"@en .
+
+wd:Q111746816 wdt:P279 wd:Q65088317 ;
+	rdfs:label "fuchin"@en .
+
+wd:Q12180 wdt:P279 wd:Q829554 ;
+	rdfs:label "door knocker"@en .
+
+wd:Q829554 rdfs:label "builders hardware"@en .
+
+wd:Q34379 wdt:P279 wd:Q267228 .
+
+wd:Q11422 wdt:P279 wd:Q2424752 .
+
+wd:Q14973 wdt:P279 wd:Q2569925 ;
+	rdfs:label "beverage coaster"@en .
+
+wd:Q33163 wdt:P279 wd:Q2207370 ;
+	rdfs:label "stool"@en .
+
+wd:Q15026 wdt:P279 wd:Q2207370 .
+
+wd:Q12180 wdt:P279 wd:Q1381282 .
+
+wd:Q1381282 rdfs:label "signal instrument"@en .
+
+wd:Q14973 wdt:P279 wd:Q1521410 .
+
+wd:Q34735 wdt:P279 wd:Q1780422 ;
+	rdfs:label "compass"@en .
+
+wd:Q1780422 rdfs:label "navigational instrument"@en .
+
+wd:Q34379 wdt:P279 wd:Q56146933 .
+
+wd:Q56146933 rdfs:label "music equipment"@en .
+
+wd:Q11422 wdt:P279 wd:Q21550927 .
+
+wd:Q21550927 rdfs:label "recreational equipment"@en .
+
+wd:Q14973 wdt:P279 wd:Q117207848 .
+
+wd:Q117207848 rdfs:label "barware"@en .
+
+wd:Q32489 wdt:P279 wd:Q28692583 .
+
+wd:Q28692583 rdfs:label "bladed object"@en .
+
+wd:Q12791 wdt:P279 wd:Q15407649 ;
+	rdfs:label "sword"@en ;
+	wdt:P279 wd:Q9180322 .
+
+wd:Q9180322 rdfs:label "piercing-cutting weapon"@en .
+
+wd:Q11422 wdt:P279 wd:Q17538258 .
+
+wd:Q10273457 wdt:P279 wd:Q223557 , wd:Q2424752 .
+
+wd:Q1666865 wdt:P279 wd:Q3099911 .
+
+wd:Q3099911 rdfs:label "scientific instrument"@en .
+
+wd:Q1485500 wdt:P279 wd:Q28877 .
+
+wd:Q2578402 wdt:P279 wd:Q39546 .
+
+wd:Q222405 wdt:P279 wd:Q728 .
+
+wd:Q1485500 wdt:P279 wd:Q223557 .
+
+wd:Q113518695 wdt:P279 wd:Q223557 .
+
+wd:Q80071 wdt:P279 wd:Q1272626 .
+
+wd:Q1272626 rdfs:label "representation"@en .
+
+wd:Q1485500 wdt:P279 wd:Q337060 .
+
+wd:Q80071 wdt:P279 wd:Q3695082 .
+
+wd:Q3695082 rdfs:label "sign"@en .
+
+wd:Q26972858 wdt:P279 wd:Q39546 .
+
+wd:Q61989482 wdt:P279 wd:Q987767 .
+
+wd:Q28877 wdt:P279 wd:Q2424752 .
+
+wd:Q115922519 wdt:P279 wd:Q2424752 .
+
+wd:Q223557 wdt:P279 wd:Q4406616 , wd:Q35459920 .
+
+wd:Q35459920 rdfs:label "three-dimensional object"@en .
+
+wd:Q28877 wdt:P279 wd:Q2897903 .
+
+wd:Q2897903 rdfs:label "goods and services"@en .
+
+wd:Q223557 wdt:P279 wd:Q112276019 .
+
+wd:Q112276019 rdfs:label "physical entity"@en .
+
+wd:Q113518695 wdt:P279 wd:Q118870638 .
+
+wd:Q26972858 wdt:P279 wd:Q15303351 .
+
+wd:Q17379525 wdt:P279 wd:Q2424752 .
+
+wd:Q7225129 wdt:P279 wd:Q4419563 .
+
+wd:Q4419563 rdfs:label "symbolism"@en .
+
+wd:Q815738 wdt:P279 wd:Q1310214 .
+
+wd:Q17379525 wdt:P279 wd:Q22809652 .
+
+wd:Q22809652 rdfs:label "manufactured object"@en .
+
+wd:Q815738 wdt:P279 wd:Q22809652 .
+
+wd:Q13150034 wdt:P279 wd:Q735 .
+
+wd:Q735 rdfs:label "art"@en .
+
+wd:Q14524031 wdt:P279 wd:Q11460 .
+
+wd:Q115170682 wdt:P279 wd:Q39546 .
+
+wd:Q15407649 wdt:P279 wd:Q222405 .
+
+wd:Q115668308 wdt:P279 wd:Q286583 , wd:Q386724 .
+
+wd:Q21167379 wdt:P279 wd:Q833823 .
+
+wd:Q29527347 wdt:P279 wd:Q1272626 .
+
+wd:Q115668308 wdt:P279 wd:Q2424752 .
+
+wd:Q14524031 wdt:P279 wd:Q1333024 .
+
+wd:Q29527347 wdt:P279 wd:Q4502142 .
+
+wd:Q69016679 wdt:P279 wd:Q6657015 .
+
+wd:Q6657015 rdfs:label "medical equipment"@en .
+
+wd:Q31807746 wdt:P279 wd:Q10273457 .
+
+wd:Q21167379 wdt:P279 wd:Q1922981 .
+
+wd:Q55412936 wdt:P279 wd:Q15989253 .
+
+wd:Q31807746 wdt:P279 wd:Q17537576 .
+
+wd:Q28870066 wdt:P279 wd:Q17489659 .
+
+wd:Q17489659 rdfs:label "group of works"@en .
+
+wd:Q15407649 wdt:P279 wd:Q28692583 .
+
+wd:Q10683158 wdt:P279 wd:Q28555911 .
+
+wd:Q28555911 rdfs:label "ordinary matter"@en .
+
+wd:Q12826066 wdt:P279 wd:Q39546 ;
+	rdfs:label "plumbline"@en .
+
+wd:Q11667200 wdt:P279 wd:Q987767 ;
+	rdfs:label "Kōgō"@en .
+
+wd:Q11240146 wdt:P279 wd:Q121916 ;
+	rdfs:label "inkstick"@en .
+
+wd:Q11625371 wdt:P279 wd:Q129211 ;
+	rdfs:label "insect cage"@en .
+
+wd:Q129211 rdfs:label "cage"@en .
+
+wd:Q11835431 wdt:P279 wd:Q178659 ;
+	rdfs:label "engraving"@en .
+
+wd:Q178659 rdfs:label "illustration"@en .
+
+wd:Q11083119 wdt:P279 wd:Q987767 ;
+	rdfs:label "urn"@en .
+
+wd:Q18218093 wdt:P279 wd:Q214609 ;
+	rdfs:label "etching print"@en .
+
+wd:Q12826066 wdt:P279 wd:Q1282265 .
+
+wd:Q1282265 rdfs:label "stonemasonry tool"@en .
+
+wd:Q18563147 wdt:P279 wd:Q220659 ;
+	rdfs:label "unidentified object"@en .
+
+wd:Q11083119 wdt:P279 wd:Q8205328 .
+
+wd:Q11835431 wdt:P279 wd:Q11060274 .
+
+wd:Q11667200 wdt:P279 wd:Q64816586 .
+
+wd:Q11083119 wdt:P279 wd:Q56612128 .
+
+wd:Q56612128 rdfs:label "funerary container"@en .
+
+wd:Q17489659 wdt:P279 wd:Q386724 .
+
+wd:Q18563147 wdt:P279 wd:Q488383 .
+
+wd:Q19969434 wdt:P279 wd:Q720106 ;
+	rdfs:label "scroll painting"@en ;
+	wdt:P279 wd:Q3305213 .
+
+wd:Q16676881 wdt:P279 wd:Q1762308 ;
+	rdfs:label "credenza"@en .
+
+wd:Q1762308 rdfs:label "sideboard"@en .
+
+wd:Q20983127 wdt:P279 wd:Q81727 ;
+	rdfs:label "Soba Choko"@en .
+
+wd:Q18218093 wdt:P279 wd:Q11060274 .
+
+wd:Q16676881 wdt:P279 wd:Q5662058 .
+
+wd:Q5662058 rdfs:label "cupboard"@en .
+
+wd:Q18219090 wdt:P279 wd:Q11835431 ;
+	rdfs:label "woodcut print"@en .
+
+wd:Q17489659 wdt:P279 wd:Q16887380 .
+
+wd:Q16887380 rdfs:label "group"@en .
+
+wd:Q17489160 wdt:P279 wd:Q28777669 ;
+	rdfs:label "bust"@en .
+
+wd:Q28777669 rdfs:label "portrait sculpture"@en .
+
+wd:Q26037047 wdt:P279 wd:Q39546 .
+
+wd:Q362200 wdt:P279 wd:Q386724 .
+
+wd:Q1047213 wdt:P279 wd:Q1183543 .
+
+wd:Q26037047 wdt:P279 wd:Q2424752 .
+
+wd:Q362200 wdt:P279 wd:Q2424752 , wd:Q8205328 .
+
+wd:Q26037047 wdt:P279 wd:Q10273457 .
+
+wd:Q184303 wdt:P279 wd:Q28877 .
+
+wd:Q1566976 wdt:P279 wd:Q153556 .
+
+wd:Q362200 wdt:P279 wd:Q117670709 .
+
+wd:Q117670709 rdfs:label "add-on"@en .
+
+wd:Q517596 wdt:P279 wd:Q120926552 .
+
+wd:Q120926552 rdfs:label "engineered physical system"@en .
+
+wd:Q20820214 wdt:P279 wd:Q63917312 ;
+	rdfs:label "printing block"@en .
+
+wd:Q63917312 rdfs:label "block"@en .
+
+wd:Q20820214 wdt:P279 wd:Q67619804 .
+
+wd:Q67619804 rdfs:label "printing surface"@en .
+
+wd:Q1922981 wdt:P279 wd:Q22809652 .
+
+wd:Q10855061 wdt:P279 wd:Q337060 .
+
+wd:Q1791627 wdt:P279 wd:Q210272 .
+
+wd:Q210272 rdfs:label "cultural heritage"@en .
+
+wd:Q1791627 wdt:P279 wd:Q8205328 .
+
+wd:Q65115262 wdt:P279 wd:Q11019 .
+
+wd:Q10855061 wdt:P279 wd:Q18593264 .
+
+wd:Q2142903 wdt:P279 wd:Q362200 , wd:Q2467478 .
+
+wd:Q2467478 rdfs:label "widget"@en .
+
+wd:Q110910970 wdt:P279 wd:Q386724 .
+
+wd:Q111254795 wdt:P279 wd:Q987767 .
+
+wd:Q117023378 wdt:P279 wd:Q838948 .
+
+wd:Q488383 wdt:P279 wd:Q35120 .
+
+wd:Q4989906 wdt:P279 wd:Q179700 .
+
+wd:Q1150771 wdt:P279 wd:Q2995644 .
+
+wd:Q2995644 rdfs:label "result"@en .
+
+wd:Q5158735 wdt:P279 wd:Q627371 .
+
+wd:Q627371 rdfs:label "food processing"@en .
+
+wd:Q4989906 wdt:P279 wd:Q811979 .
+
+wd:Q811979 rdfs:label "architectural structure"@en .
+
+wd:Q6149036 wdt:P279 wd:Q838948 .
+
+wd:Q4989906 wdt:P279 wd:Q838948 .
+
+wd:Q16509017 wdt:P279 wd:Q1914636 .
+
+wd:Q1914636 rdfs:label "activity"@en .
+
+wd:Q5158735 wdt:P279 wd:Q3249551 .
+
+wd:Q3249551 rdfs:label "process"@en .
+
+wd:Q45063185 wdt:P279 wd:Q31807746 .
+
+wd:Q5581528 wdt:P279 wd:Q222405 .
+
+wd:Q16889133 wdt:P279 wd:Q99527517 .
+
+wd:Q99527517 rdfs:label "collective entity"@en .
+
+wd:Q5308899 wdt:P279 wd:Q39546 , wd:Q1759540 .
+
+wd:Q1759540 rdfs:label "paraphernalia"@en .
+
+wd:Q768186 wdt:P279 wd:Q2184715 .
+
+wd:Q2184715 rdfs:label "durable good"@en .
+
+wd:Q768186 wdt:P279 wd:Q10273457 .
+
+wd:Q30038792 wdt:P279 wd:Q19462049 .
+
+wd:Q19462049 rdfs:label "directly struck idiophone"@en .
+
+wd:Q1333024 wdt:P279 wd:Q11460 .
+
+wd:Q113072886 wdt:P279 wd:Q603399 .
+
+wd:Q1058733 wdt:P279 wd:Q64830866 .
+
+wd:Q64830866 rdfs:label "physical interface"@en .
+
+wd:Q9053464 wdt:P279 wd:Q11460 .
+
+wd:Q175089 wdt:P279 wd:Q7946 .
+
+wd:Q7946 rdfs:label "mineral"@en .
+
+wd:Q9053464 wdt:P279 wd:Q10273457 .
+
+wd:Q113072886 wdt:P279 wd:Q13149280 .
+
+wd:Q13149280 rdfs:label "visual arts of the Earth"@en .
+
+wd:Q11634 wdt:P279 wd:Q17310537 .
+
+wd:Q17310537 rdfs:label "sculpture"@en .
+
+wd:Q11634 wdt:P279 wd:Q47407603 .
+
+wd:Q47407603 rdfs:label "artistic creation"@en .
+
+wd:Q31464082 wdt:P279 wd:Q35120 .
+
+wd:Q13402900 wdt:P279 wd:Q31464082 .
+
+wd:Q15989253 wdt:P279 wd:Q35120 .
+
+wd:Q138580 wdt:P279 wd:Q66157003 .
+
+wd:Q66157003 rdfs:label "packing material"@en .
+
+wd:Q1310239 wdt:P279 wd:Q15989253 .
+
+wd:Q4406616 wdt:P279 wd:Q488383 .
+
+wd:Q3695082 wdt:P279 wd:Q488383 .
+
+wd:Q1272626 wdt:P279 wd:Q3695082 .
+
+wd:Q2342494 wdt:P279 wd:Q488383 .
+
+wd:Q35459920 wdt:P279 wd:Q488383 .
+
+wd:Q2897903 wdt:P279 wd:Q488383 .
+
+wd:Q2342494 wdt:P279 wd:Q2424752 .
+
+wd:Q2897903 wdt:P279 wd:Q58415929 .
+
+wd:Q58415929 rdfs:label "spatio-temporal entity"@en .
+
+wd:Q110619173 wdt:P279 wd:Q28877 .
+
+wd:Q10528974 wdt:P279 wd:Q2424752 .
+
+wd:Q110619173 wdt:P279 wd:Q223557 .
+
+wd:Q3588251 wdt:P279 wd:Q1183543 .
+
+wd:Q115923192 wdt:P279 wd:Q2424752 .
+
+wd:Q20793164 wdt:P279 wd:Q10273457 .
+
+wd:Q1762457 wdt:P279 wd:Q796635 .
+
+wd:Q15847317 wdt:P279 wd:Q81944 .
+
+wd:Q1333024 wdt:P279 wd:Q3030569 .
+
+wd:Q3030569 rdfs:label "protective device"@en .
+
+wd:Q10528974 wdt:P279 wd:Q115922057 .
+
+wd:Q115922057 rdfs:label "health care or beauty item"@en .
+
+wd:Q1762457 wdt:P279 wd:Q63981612 .
+
+wd:Q63981612 rdfs:label "product category"@en .
+
+wd:Q230262 wdt:P279 wd:Q936762 .
+
+wd:Q936762 rdfs:label "lamellophone"@en .
+
+wd:Q2207370 wdt:P279 wd:Q14745 .
+
+wd:Q82168968 wdt:P279 wd:Q82168137 .
+
+wd:Q82168137 rdfs:label "household accessories"@en .
+
+wd:Q15847317 wdt:P279 wd:Q3773693 .
+
+wd:Q230262 wdt:P279 wd:Q1798603 .
+
+wd:Q1798603 rdfs:label "string instrument"@en .
+
+wd:Q37736399 wdt:P279 wd:Q2207288 .
+
+wd:Q2207288 rdfs:label "craft"@en .
+
+wd:Q117670709 wdt:P279 wd:Q1049496 .
+
+wd:Q1049496 rdfs:label "complementary good"@en .
+
+wd:Q117670709 wdt:P279 wd:Q1310239 , wd:Q2424752 .
+
+wd:Q111514945 wdt:P279 wd:Q987767 .
+
+wd:Q64830866 wdt:P279 wd:Q110558466 .
+
+wd:Q110558466 rdfs:label "interface"@en .
+
+wd:Q64830866 wdt:P279 wd:Q112276019 .
+
+wd:Q17504947 wdt:P279 wd:Q200266 .
+
+wd:Q66157003 wdt:P279 wd:Q214609 .
+
+wd:Q5639584 wdt:P279 wd:Q39546 .
+
+wd:Q2995644 wdt:P279 wd:Q35120 .
+
+wd:Q25207165 wdt:P279 wd:Q3629395 .
+
+wd:Q3629395 rdfs:label "agricultural tool"@en .
+
+wd:Q116221300 wdt:P279 wd:Q6887300 .
+
+wd:Q6887300 wdt:P279 wd:Q688498 .
+
+wd:Q688498 rdfs:label "assistive technology"@en .
+
+wd:Q25207165 wdt:P279 wd:Q27098499 .
+
+wd:Q27098499 rdfs:label "dispenser"@en .
+
+wd:Q838312 wdt:P279 wd:Q2002016 .
+
+wd:Q2308299 wdt:P279 wd:Q1700214 .
+
+wd:Q1700214 rdfs:label "point"@en .
+
+wd:Q522648 wdt:P279 wd:Q2998482 .
+
+wd:Q2998482 rdfs:label "clothing in the ancient world"@en .
+
+wd:Q2457980 wdt:P279 wd:Q2998482 .
+
+wd:Q6887300 wdt:P279 wd:Q6554101 .
+
+wd:Q6554101 rdfs:label "medical device"@en .
+
+wd:Q335261 wdt:P279 wd:Q8205328 .
+
+wd:Q112276019 wdt:P279 wd:Q53617489 .
+
+wd:Q53617489 rdfs:label "continuant"@en .
+
+wd:Q112276019 wdt:P279 wd:Q58415929 .
+
+wd:Q115923203 wdt:P279 wd:Q39546 .
+
+wd:Q55724836 wdt:P279 wd:Q55724833 .
+
+wd:Q55724833 rdfs:label "necked lute"@en .
+
+wd:Q55738662 wdt:P279 wd:Q55738661 .
+
+wd:Q55738661 rdfs:label "single flutes with internal duct"@en .
+
+wd:Q115923203 wdt:P279 wd:Q115923192 .
+
+wd:Q200266 wdt:P279 wd:Q15331 .
+
+wd:Q15331 rdfs:label "jig"@en .
+
+wd:Q2002016 wdt:P279 wd:Q39546 .
+
+wd:Q2431196 wdt:P279 wd:Q194980 .
+
+wd:Q194980 rdfs:label "intangible good"@en .
+
+wd:Q21029893 wdt:P279 wd:Q223557 .
+
+wd:Q2002016 wdt:P279 wd:Q839546 .
+
+wd:Q25294 wdt:P279 wd:Q339828 .
+
+wd:Q1135567 wdt:P279 wd:Q2002016 .
+
+wd:Q200266 wdt:P279 wd:Q4576564 .
+
+wd:Q4576564 rdfs:label "adapter"@en .
+
+wd:Q200266 wdt:P279 wd:Q15989253 .
+
+wd:Q2431196 wdt:P279 wd:Q17537576 .
+
+wd:Q2002016 wdt:P279 wd:Q18819626 .
+
+wd:Q18819626 rdfs:label "connector"@en .
+
+wd:Q21029893 wdt:P279 wd:Q115921911 .
+
+wd:Q115921911 rdfs:label "religious or ceremonial object"@en .
+
+wd:Q2431196 wdt:P279 wd:Q106213450 .
+
+wd:Q106213450 rdfs:label "time-based visual work"@en .
+
+wd:Q2431196 wdt:P279 wd:Q110879282 .
+
+wd:Q110879282 rdfs:label "video and/or audio work"@en .
+
+wd:Q25294 wdt:P279 wd:Q30058680 .
+
+wd:Q30058680 rdfs:label "impact tool"@en .
+
+wd:Q744849 wdt:P279 wd:Q56147393 .
+
+wd:Q56147393 rdfs:label "serving spoon"@en .
+
+wd:Q29349307 wdt:P279 wd:Q39546 .
+
+wd:Q17310537 wdt:P279 wd:Q1078913 .
+
+wd:Q1078913 rdfs:label "plastic arts"@en .
+
+wd:Q47407603 wdt:P279 wd:Q2990593 .
+
+wd:Q2990593 rdfs:label "animal behaviour"@en .
+
+wd:Q47407603 wdt:P279 wd:Q11398090 .
+
+wd:Q11398090 rdfs:label "creation"@en .
+
+wd:Q47407603 wdt:P279 wd:Q8187769 .
+
+wd:Q8187769 rdfs:label "economic activity"@en .
+
+wd:Q47407603 wdt:P279 wd:Q16519399 .
+
+wd:Q16519399 rdfs:label "artistic activity"@en .
+
+wd:Q47407603 wdt:P279 wd:Q112122445 .
+
+wd:Q112122445 rdfs:label "creative, artistic and performing activities"@en .
+
+wd:Q3749240 wdt:P279 wd:Q107471838 .
+
+wd:Q7946 wdt:P279 wd:Q11438 .
+
+wd:Q11438 rdfs:label "solid"@en .
+
+wd:Q7946 wdt:P279 wd:Q79529 .
+
+wd:Q79529 rdfs:label "chemical substance"@en .
+
+wd:Q7946 wdt:P279 wd:Q188460 .
+
+wd:Q188460 rdfs:label "natural resource"@en .
+
+wd:Q14562306 wdt:P279 wd:Q245117 , wd:Q860861 .
+
+wd:Q839546 wdt:P279 wd:Q811909 .
+
+wd:Q811909 rdfs:label "physical technological component"@en .
+
+wd:Q7946 wdt:P279 wd:Q20098970 .
+
+wd:Q20098970 rdfs:label "inorganic matter"@en .
+
+wd:Q7946 wdt:P279 wd:Q10683158 , wd:Q12037703 .
+
+wd:Q12037703 rdfs:label "mineral substance"@en .
+
+wd:Q7946 wdt:P279 wd:Q115820956 .
+
+wd:Q115820956 rdfs:label "natural matter"@en .
+
+wd:Q839546 wdt:P279 wd:Q66310125 .
+
+wd:Q66310125 rdfs:label "nonbiological component"@en .
+
+wd:Q14562306 wdt:P279 wd:Q110304307 .
+
+wd:Q2184715 wdt:P279 wd:Q28877 .
+
+wd:Q936762 wdt:P279 wd:Q12639 .
+
+wd:Q12639 rdfs:label "idiophone"@en .
+
+wd:Q1798603 wdt:P279 wd:Q1051772 .
+
+wd:Q1051772 rdfs:label "chordophone"@en .
+
+wd:Q2184715 wdt:P279 wd:Q2424752 .
+
+wd:Q181247 wdt:P279 wd:Q173453 .
+
+wd:Q41207 wdt:P279 wd:Q386724 ;
+	rdfs:label "coin"@en .
+
+wd:Q1368 wdt:P279 wd:Q1659862 .
+
+wd:Q1659862 rdfs:label "nominal good"@en .
+
+wd:Q41207 wdt:P279 wd:Q2342494 .
+
+wd:Q140830 wdt:P279 wd:Q2823610 .
+
+wd:Q2823610 rdfs:label "financial asset"@en .
+
+wd:Q161928 wdt:P279 wd:Q1065579 .
+
+wd:Q173453 wdt:P279 wd:Q659216 .
+
+wd:Q659216 rdfs:label "aerophone"@en .
+
+wd:Q65037298 wdt:P279 wd:Q811909 , wd:Q115797427 .
+
+wd:Q115797427 rdfs:label "camera and optics product"@en .
+
+wd:Q41207 wdt:P279 wd:Q693464 .
+
+wd:Q693464 rdfs:label "cash"@en .
+
+wd:Q1368 wdt:P279 wd:Q1643989 .
+
+wd:Q1643989 rdfs:label "legal tender"@en .
+
+wd:Q1368 wdt:P279 wd:Q7598359 .
+
+wd:Q7598359 rdfs:label "standard of deferred payment"@en .
+
+wd:Q161928 wdt:P279 wd:Q115797493 .
+
+wd:Q115797493 rdfs:label "fashion product"@en .
+
+wd:Q41207 wdt:P279 wd:Q18593264 , wd:Q116035976 .
+
+wd:Q22809652 wdt:P279 wd:Q1836700 .
+
+wd:Q1836700 rdfs:label "manufactured good"@en .
+
+wd:Q62266950 wdt:P279 wd:Q4406616 .
+
+wd:Q23013246 wdt:P279 wd:Q35120 .
+
+wd:Q1381282 wdt:P279 wd:Q34379 .
+
+wd:Q28692583 wdt:P279 wd:Q39546 .
+
+wd:Q19588483 wdt:P279 wd:Q133163 .
+
+wd:Q133163 rdfs:label "percussion instrument"@en .
+
+wd:Q19588483 wdt:P279 wd:Q212892 .
+
+wd:Q212892 rdfs:label "Membranophones"@en .
+
+wd:Q829554 wdt:P279 wd:Q391414 .
+
+wd:Q1381282 wdt:P279 wd:Q1183543 .
+
+wd:Q9180322 wdt:P279 wd:Q1514280 .
+
+wd:Q1780422 wdt:P279 wd:Q2041172 .
+
+wd:Q9180322 wdt:P279 wd:Q1617400 .
+
+wd:Q1617400 rdfs:label "slashing weapon"@en .
+
+wd:Q42622779 wdt:P279 wd:Q2041172 .
+
+wd:Q56146933 wdt:P279 wd:Q10273457 .
+
+wd:Q21550927 wdt:P279 wd:Q10273457 .
+
+wd:Q17538258 wdt:P279 wd:Q17537576 .
+
+wd:Q829554 wdt:P279 wd:Q111398534 .
+
+wd:Q111398534 rdfs:label "hardware"@en .
+
+wd:Q115923123 wdt:P279 wd:Q223557 .
+
+wd:Q36649 wdt:P279 wd:Q735 .
+
+wd:Q117207848 wdt:P279 wd:Q26037047 .
+
+wd:Q834028 wdt:P279 wd:Q28877 .
+
+wd:Q735 wdt:P279 wd:Q184872 .
+
+wd:Q184872 rdfs:label "recreation"@en .
+
+wd:Q29957 wdt:P279 wd:Q834028 .
+
+wd:Q834028 rdfs:label "laboratory equipment"@en .
+
+wd:Q29957 wdt:P279 wd:Q1521410 .
+
+wd:Q3030569 wdt:P279 wd:Q10273457 .
+
+wd:Q14830135 wdt:P279 wd:Q987767 .
+
+wd:Q834028 wdt:P279 wd:Q10273457 .
+
+wd:Q1314278 wdt:P279 wd:Q5849500 .
+
+wd:Q1659862 wdt:P279 wd:Q28877 .
+
+wd:Q693464 wdt:P279 wd:Q1368 .
+
+wd:Q1368 rdfs:label "money"@en .
+
+wd:Q834028 wdt:P279 wd:Q115634138 .
+
+wd:Q115634138 rdfs:label "science and laboratory product"@en .
+
+wd:Q693464 wdt:P279 wd:Q140830 .
+
+wd:Q140830 rdfs:label "cash and cash equivalents"@en .
+
+wd:Q1643989 wdt:P279 wd:Q190122 .
+
+wd:Q190122 rdfs:label "promissory note"@en .
+
+wd:Q7598359 wdt:P279 wd:Q367293 .
+
+wd:Q367293 rdfs:label "convention"@en .
+
+wd:Q2823610 wdt:P279 wd:Q427581 .
+
+wd:Q427581 rdfs:label "intangible asset"@en .
+
+wd:Q30058680 wdt:P279 wd:Q39546 .
+
+wd:Q693464 wdt:P279 wd:Q8205328 .
+
+wd:Q120926552 wdt:P279 wd:Q994895 .
+
+wd:Q994895 rdfs:label "technical system"@en .
+
+wd:Q120926552 wdt:P279 wd:Q1454986 .
+
+wd:Q1454986 rdfs:label "physical system"@en .
+
+wd:Q42889 wdt:P279 wd:Q11019 .
+
+wd:Q42861 rdfs:label "kite"@en .
+
+wd:Q49007 rdfs:label "yarn"@en .
+
+wd:Q42861 wdt:P279 wd:Q11422 .
+
+wd:Q7194062 wdt:P279 wd:Q11019 .
+
+wd:Q154503 wdt:P279 wd:Q11436 .
+
+wd:Q11436 rdfs:label "aircraft"@en ;
+	wdt:P279 wd:Q42889 .
+
+wd:Q42889 rdfs:label "vehicle"@en .
+
+wd:Q42861 wdt:P279 wd:Q154503 .
+
+wd:Q154503 rdfs:label "aerodyne"@en .
+
+wd:Q184418 wdt:P279 wd:Q14745 .
+
+wd:Q48634 rdfs:label "sarcophagus"@en .
+
+wd:Q49007 wdt:P279 wd:Q28823 .
+
+wd:Q48634 wdt:P279 wd:Q184418 .
+
+wd:Q184418 rdfs:label "coffin"@en .
+
+wd:Q11436 wdt:P279 wd:Q7194062 .
+
+wd:Q7194062 rdfs:label "flying machine"@en ;
+	wdt:P279 wd:Q1882685 .
+
+wd:Q1882685 rdfs:label "mechanical device"@en .
+
+wd:Q42889 wdt:P279 wd:Q115797408 .
+
+wd:Q115797408 rdfs:label "vehicles and vehicle parts product"@en .
+
+wd:Q42889 wdt:P279 wd:Q106839123 .
+
+wd:Q106839123 rdfs:label "means of transport"@en .
+
+wd:Q3523102 wdt:P279 wd:Q31464082 .
+
+wd:Q1554231 wdt:P279 wd:Q31464082 .
+
+wd:Q49007 wdt:P279 wd:Q111726451 .
+
+wd:Q111726451 rdfs:label "cord"@en .
+
+wd:Q7194062 wdt:P279 wd:Q116780996 .
+
+wd:Q116780996 rdfs:label "flying object"@en .
+
+wd:Q184418 wdt:P279 wd:Q56612128 .
+
+wd:Q1554231 wdt:P279 wd:Q53617489 .
+
+wd:Q111726451 wdt:P279 wd:Q28823 .
+
+wd:Q53617489 wdt:P279 wd:Q35120 .
+
+wd:Q56612157 wdt:P279 wd:Q987767 .
+
+wd:Q115797408 wdt:P279 wd:Q2424752 .
+
+wd:Q106839123 wdt:P279 wd:Q10273457 , wd:Q12894677 .
+
+wd:Q56612157 wdt:P279 wd:Q56627913 .
+
+wd:Q56627913 rdfs:label "ceremonial object"@en .
+
+wd:Q56612128 wdt:P279 wd:Q56612157 .
+
+wd:Q56612157 rdfs:label "ceremonial container"@en .
+
+wd:Q79497835 wdt:P279 wd:Q56627913 .
+
+wd:Q56612128 wdt:P279 wd:Q79497835 .
+
+wd:Q79497835 rdfs:label "funerary object"@en .
+
+wd:Q1760958 wdt:P279 wd:Q39546 .
+
+wd:Q161524 wdt:P279 wd:Q838948 , wd:Q8205328 .
+
+wd:Q5064153 wdt:P279 wd:Q9053464 .
+
+wd:Q1760958 wdt:P279 wd:Q115170682 .
+
+wd:Q161524 wdt:P279 wd:Q11460 .
+
+wd:Q4419563 wdt:P279 wd:Q3249551 .
+
+wd:Q28555911 wdt:P279 wd:Q6005984 .
+
+wd:Q6005984 rdfs:label "baryonic matter"@en .
+
+wd:Q28966125 wdt:P279 wd:Q28823 .
+
+wd:Q56147152 wdt:P279 wd:Q39546 .
+
+wd:Q107471841 wdt:P279 wd:Q1310239 .
+
+wd:Q28966125 wdt:P279 wd:Q22075301 .
+
+wd:Q107471841 wdt:P279 wd:Q107401707 .
+
+wd:Q107401707 rdfs:label "tool component"@en .
+
+wd:Q5064153 wdt:P279 wd:Q56627913 .
+
+wd:Q3099911 wdt:P279 wd:Q39546 .
+
+wd:Q1282265 wdt:P279 wd:Q39546 .
+
+wd:Q63917312 wdt:P279 wd:Q223557 .
+
+wd:Q178659 wdt:P279 wd:Q478798 .
+
+wd:Q28777669 wdt:P279 wd:Q134307 .
+
+wd:Q134307 rdfs:label "portrait"@en .
+
+wd:Q67619804 wdt:P279 wd:Q67611759 .
+
+wd:Q67611759 rdfs:label "printing equipment"@en .
+
+wd:Q129211 wdt:P279 wd:Q987767 .
+
+wd:Q178659 wdt:P279 wd:Q4502142 .
+
+wd:Q28777669 wdt:P279 wd:Q860861 .
+
+wd:Q129211 wdt:P279 wd:Q56055115 .
+
+wd:Q56055115 rdfs:label "artificial animal shelter"@en .
+
+wd:Q5662058 wdt:P279 wd:Q3561331 .
+
+wd:Q3561331 rdfs:label "vitrine"@en .
+
+wd:Q1762308 wdt:P279 wd:Q2741056 .
+
+wd:Q2741056 rdfs:label "cabinet"@en .
+
+wd:Q5662058 wdt:P279 wd:Q2741056 .
+
+wd:Q16887380 wdt:P279 wd:Q99527517 .
+
+wd:Q2467478 wdt:P279 wd:Q337060 , wd:Q2424752 .
+
+wd:Q115922057 wdt:P279 wd:Q2424752 .
+
+wd:Q210272 wdt:P279 wd:Q2434238 .
+
+wd:Q2434238 rdfs:label "heritage"@en .
+
+wd:Q811979 wdt:P279 wd:Q811430 .
+
+wd:Q811430 rdfs:label "fixed construction"@en .
+
+wd:Q2467478 wdt:P279 wd:Q8205328 .
+
+wd:Q1759540 wdt:P279 wd:Q39546 .
+
+wd:Q811979 wdt:P279 wd:Q11908691 .
+
+wd:Q11908691 rdfs:label "artificial physical structure"@en .
+
+wd:Q3249551 wdt:P279 wd:Q20937557 .
+
+wd:Q20937557 rdfs:label "series"@en .
+
+wd:Q627371 wdt:P279 wd:Q104637425 .
+
+wd:Q104637425 rdfs:label "material process"@en .
+
+wd:Q3249551 wdt:P279 wd:Q67518978 .
+
+wd:Q67518978 rdfs:label "occurrent"@en .
+
+wd:Q659216 wdt:P279 wd:Q34379 .
+
+wd:Q2574811 wdt:P279 wd:Q31464082 .
+
+wd:Q811909 wdt:P279 wd:Q39546 .
+
+wd:Q15331 wdt:P279 wd:Q39546 .
+
+wd:Q194980 wdt:P279 wd:Q28877 .
+
+wd:Q56147393 wdt:P279 wd:Q81895 .
+
+wd:Q18819626 wdt:P279 wd:Q839546 .
+
+wd:Q811909 wdt:P279 wd:Q1310239 .
+
+wd:Q15331 wdt:P279 wd:Q4438793 .
+
+wd:Q4438793 rdfs:label "means of labor"@en .
+
+wd:Q15331 wdt:P279 wd:Q116970995 .
+
+wd:Q116970995 rdfs:label "tool accessory"@en .
+
+wd:Q18819626 wdt:P279 wd:Q64830866 .
+
+wd:Q63981612 wdt:P279 wd:Q16887380 .
+
+wd:Q2998482 wdt:P279 wd:Q11460 .
+
+wd:Q1700214 wdt:P279 wd:Q39546 , wd:Q220659 .
+
+wd:Q19462049 wdt:P279 wd:Q5280486 .
+
+wd:Q5280486 rdfs:label "struck idiophone"@en .
+
+wd:Q82168137 wdt:P279 wd:Q31807746 .
+
+wd:Q1700214 wdt:P279 wd:Q111547477 .
+
+wd:Q111547477 rdfs:label "piercing equipment"@en .
+
+wd:Q115820956 wdt:P279 wd:Q35758 .
+
+wd:Q35758 rdfs:label "matter"@en .
+
+wd:Q13149280 wdt:P279 wd:Q36649 .
+
+wd:Q12037703 wdt:P279 wd:Q79529 .
+
+wd:Q20098970 wdt:P279 wd:Q214609 .
+
+wd:Q184872 wdt:P279 wd:Q451967 .
+
+wd:Q451967 rdfs:label "intentional human activity"@en .
+
+wd:Q188460 wdt:P279 wd:Q1970309 .
+
+wd:Q1970309 rdfs:label "natural object"@en .
+
+wd:Q188460 wdt:P279 wd:Q11879003 .
+
+wd:Q11879003 rdfs:label "environmental resource"@en .
+
+wd:Q13149280 wdt:P279 wd:Q13150034 .
+
+wd:Q188460 wdt:P279 wd:Q112276019 .
+
+wd:Q111398534 wdt:P279 wd:Q1310239 , wd:Q2424752 .
+
+wd:Q115797493 wdt:P279 wd:Q2424752 .
+
+wd:Q2741056 wdt:P279 wd:Q14745 .
+
+wd:Q111398534 wdt:P279 wd:Q115922189 .
+
+wd:Q115922189 rdfs:label "hardware and hardware accessories"@en .
+
+wd:Q99527517 wdt:P279 wd:Q35120 .
+
+wd:Q2741056 wdt:P279 wd:Q9158768 .
+
+wd:Q9158768 rdfs:label "storage"@en .
+
+wd:Q11438 wdt:P279 wd:Q35758 .
+
+wd:Q6657015 wdt:P279 wd:Q39546 .
+
+wd:Q2207288 wdt:P279 wd:Q627436 .
+
+wd:Q627436 rdfs:label "field of work"@en .
+
+wd:Q6657015 wdt:P279 wd:Q10273457 .
+
+wd:Q79529 wdt:P279 wd:Q10683158 .
+
+wd:Q6657015 wdt:P279 wd:Q115633690 .
+
+wd:Q115633690 rdfs:label "medical product"@en .
+
+wd:Q79529 wdt:P279 wd:Q43460564 .
+
+wd:Q43460564 rdfs:label "chemical entity"@en .
+
+wd:Q55724833 wdt:P279 wd:Q30038759 .
+
+wd:Q30038759 rdfs:label "handle lute"@en .
+
+wd:Q66310125 wdt:P279 wd:Q1310239 .
+
+wd:Q56055115 wdt:P279 wd:Q811430 .
+
+wd:Q55738661 wdt:P279 wd:Q55738660 .
+
+wd:Q55738660 rdfs:label "flutes with internal duct"@en .
+
+wd:Q56055115 wdt:P279 wd:Q7493941 .
+
+wd:Q7493941 rdfs:label "shelter"@en .
+
+wd:Q56055115 wdt:P279 wd:Q115921084 .
+
+wd:Q115921084 rdfs:label "pet supply"@en .
+
+wd:Q1914636 wdt:P279 wd:Q3249551 .
+
+wd:Q4576564 wdt:P279 wd:Q2424752 , wd:Q10273457 .
+
+wd:Q1051772 wdt:P279 wd:Q34379 .
+
+wd:Q12639 wdt:P279 wd:Q34379 .
+
+wd:Q811430 wdt:P279 wd:Q618123 .
+
+wd:Q618123 rdfs:label "geographical feature"@en .
+
+wd:Q627436 wdt:P279 wd:Q1047113 .
+
+wd:Q1047113 rdfs:label "specialty"@en .
+
+wd:Q811430 wdt:P279 wd:Q8205328 .
+
+wd:Q11908691 wdt:P279 wd:Q8205328 , wd:Q15710813 .
+
+wd:Q15710813 rdfs:label "physical structure"@en .
+
+wd:Q2434238 wdt:P279 wd:Q488383 .
+
+wd:Q58415929 wdt:P279 wd:Q35120 .
+
+wd:Q20937557 wdt:P279 wd:Q16889133 .
+
+wd:Q67518978 wdt:P279 wd:Q26907166 .
+
+wd:Q26907166 rdfs:label "temporal entity"@en .
+
+wd:Q104637425 wdt:P279 wd:Q104637332 .
+
+wd:Q104637332 rdfs:label "planned process"@en .
+
+wd:Q115633690 wdt:P279 wd:Q2424752 , wd:Q115922057 .
+
+wd:Q27098499 wdt:P279 wd:Q987767 .
+
+wd:Q6554101 wdt:P279 wd:Q1183543 .
+
+wd:Q3629395 wdt:P279 wd:Q1183543 .
+
+wd:Q27098499 wdt:P279 wd:Q1183543 .
+
+wd:Q688498 wdt:P279 wd:Q1183543 .
+
+wd:Q106213450 wdt:P279 wd:Q4502142 .
+
+wd:Q688498 wdt:P279 wd:Q98178108 .
+
+wd:Q98178108 rdfs:label "accommodation"@en .
+
+wd:Q6554101 wdt:P279 wd:Q115633690 .
+
+wd:Q110879282 wdt:P279 wd:Q17537576 .
+
+wd:Q115921911 wdt:P279 wd:Q16686448 .
+
+wd:Q133163 wdt:P279 wd:Q34379 .
+
+wd:Q212892 wdt:P279 wd:Q34379 .
+
+wd:Q56627913 wdt:P279 wd:Q223557 .
+
+wd:Q1617400 wdt:P279 wd:Q222405 .
+
+wd:Q56627913 wdt:P279 wd:Q115921911 .
+
+wd:Q67611759 wdt:P279 wd:Q67611939 .
+
+wd:Q67611939 rdfs:label "image-making equipment"@en .
+
+wd:Q115797427 wdt:P279 wd:Q2424752 .
+
+wd:Q3561331 wdt:P279 wd:Q14745 .
+
+wd:Q134307 wdt:P279 wd:Q386724 , wd:Q478798 .
+
+wd:Q3561331 wdt:P279 wd:Q17334923 .
+
+wd:Q17334923 rdfs:label "physical location"@en .
+
+wd:Q5280486 wdt:P279 wd:Q12639 , wd:Q133163 .
+
+wd:Q110558466 wdt:P279 wd:Q12894677 .
+
+wd:Q6005984 wdt:P279 wd:Q28921572 .
+
+wd:Q28921572 rdfs:label "common matter"@en .
+
+wd:Q2990593 wdt:P279 wd:Q9332 .
+
+wd:Q9332 rdfs:label "behavior"@en .
+
+wd:Q8187769 wdt:P279 wd:Q451967 .
+
+wd:Q16519399 wdt:P279 wd:Q451967 .
+
+wd:Q11398090 wdt:P279 wd:Q1914636 .
+
+wd:Q2990593 wdt:P279 wd:Q22299433 .
+
+wd:Q22299433 rdfs:label "multicellular organismal process"@en .
+
+wd:Q112122445 wdt:P279 wd:Q29584868 .
+
+wd:Q29584868 rdfs:label "Creative, arts and entertainment activities"@en .
+
+wd:Q11398090 wdt:P279 wd:Q104637332 .
+
+wd:Q107401707 wdt:P279 wd:Q15989253 .
+
+wd:Q1078913 wdt:P279 wd:Q36649 .
+
+wd:Q1836700 wdt:P279 wd:Q2424752 , wd:Q8205328 .
+
+wd:Q116970995 wdt:P279 wd:Q115922189 , wd:Q117670709 .
+
+wd:Q55738660 wdt:P279 wd:Q478634 .
+
+wd:Q478634 rdfs:label "duct flute"@en .
+
+wd:Q30038759 wdt:P279 wd:Q1808578 .
+
+wd:Q1808578 rdfs:label "lutes"@en .
+
+wd:Q4438793 wdt:P279 wd:Q210947 .
+
+wd:Q210947 rdfs:label "factor of production"@en .
+
+wd:Q115634138 wdt:P279 wd:Q2424752 .
+
+wd:Q111547477 wdt:P279 wd:Q10273457 .
+
+wd:Q98178108 wdt:P279 wd:Q26256310 .
+
+wd:Q26256310 rdfs:label "research intervention"@en .
+
+wd:Q1049496 wdt:P279 wd:Q28877 .
+
+wd:Q1454986 wdt:P279 wd:Q58778 .
+
+wd:Q58778 rdfs:label "system"@en .
+
+wd:Q994895 wdt:P279 wd:Q58778 , wd:Q2424752 , wd:Q16686448 .
+
+wd:Q1400881 wdt:P279 wd:Q28877 .
+
+wd:Q28038717 wdt:P279 wd:Q49848 .
+
+wd:Q427581 wdt:P279 wd:Q46737 .
+
+wd:Q46737 rdfs:label "asset"@en .
+
+wd:Q6042535 wdt:P279 wd:Q1400881 .
+
+wd:Q1400881 rdfs:label "property"@en .
+
+wd:Q46737 wdt:P279 wd:Q1554231 .
+
+wd:Q15809678 wdt:P279 wd:Q2424752 .
+
+wd:Q190122 wdt:P279 wd:Q15809678 .
+
+wd:Q15809678 rdfs:label "financial product"@en .
+
+wd:Q427581 wdt:P279 wd:Q6042535 .
+
+wd:Q6042535 rdfs:label "intangible property"@en .
+
+wd:Q367293 wdt:P279 wd:Q16889133 .
+
+wd:Q190122 wdt:P279 wd:Q28038717 .
+
+wd:Q28038717 rdfs:label "negotiable instrument"@en .
+
+wd:Q1970309 wdt:P279 wd:Q488383 .
+
+wd:Q11879003 wdt:P279 wd:Q1554231 .
+
+wd:Q43460564 wdt:P279 wd:Q28555911 .
+
+wd:Q451967 wdt:P279 wd:Q61788060 .
+
+wd:Q61788060 rdfs:label "human activity"@en .
+
+wd:Q35758 wdt:P279 wd:Q28732711 .
+
+wd:Q28732711 rdfs:label "physical substance"@en .
+
+wd:Q378078 wdt:P279 wd:Q35120 .
+
+wd:Q116780996 wdt:P279 wd:Q223557 .
+
+wd:Q1882685 wdt:P279 wd:Q11019 .
+
+wd:Q1047113 wdt:P279 wd:Q110403031 .
+
+wd:Q110403031 rdfs:label "knowledge type"@en .
+
+wd:Q28921572 wdt:P279 wd:Q35758 .
+
+wd:Q28732711 wdt:P279 wd:Q378078 .
+
+wd:Q378078 rdfs:label "substance"@en .
+
+wd:Q28732711 wdt:P279 wd:Q4406616 , wd:Q112276019 .
+
+wd:Q1047113 wdt:P279 wd:Q105948247 .
+
+wd:Q105948247 rdfs:label "knowledge system"@en .
+
+wd:Q9158768 wdt:P279 wd:Q6671777 .
+
+wd:Q6671777 rdfs:label "structure"@en .
+
+wd:Q478634 wdt:P279 wd:Q11405 .
+
+wd:Q17334923 wdt:P279 wd:Q58416391 .
+
+wd:Q58416391 rdfs:label "spatial entity"@en .
+
+wd:Q15710813 wdt:P279 wd:Q1454986 .
+
+wd:Q1808578 wdt:P279 wd:Q19588495 .
+
+wd:Q19588495 rdfs:label "composite chordophone"@en .
+
+wd:Q15710813 wdt:P279 wd:Q6671777 .
+
+wd:Q26907166 wdt:P279 wd:Q58415929 .
+
+wd:Q618123 wdt:P279 wd:Q4406616 , wd:Q17334923 .
+
+wd:Q22299433 wdt:P279 wd:Q2996394 .
+
+wd:Q2996394 rdfs:label "biological process"@en .
+
+wd:Q29584868 wdt:P279 wd:Q29584234 .
+
+wd:Q29584234 rdfs:label "arts, entertainment and recreation"@en .
+
+wd:Q9332 wdt:P279 wd:Q2083958 .
+
+wd:Q2083958 rdfs:label "pattern"@en .
+
+wd:Q104637332 wdt:P279 wd:Q451967 , wd:Q3249551 .
+
+wd:Q2083958 wdt:P279 wd:Q4184950 .
+
+wd:Q4184950 rdfs:label "regularity"@en .
+
+wd:Q58778 wdt:P279 wd:Q99527517 .
+
+wd:Q7493941 wdt:P279 wd:Q811979 , wd:Q108147624 .
+
+wd:Q108147624 rdfs:label "refuge"@en .
+
+wd:Q105948247 wdt:P279 wd:Q3622126 .
+
+wd:Q3622126 rdfs:label "conceptual system"@en .
+
+wd:Q110403031 wdt:P279 wd:Q21146257 .
+
+wd:Q21146257 rdfs:label "type"@en .
+
+wd:Q115921084 wdt:P279 wd:Q2424752 , wd:Q116957923 .
+
+wd:Q116957923 rdfs:label "animal or pet supply"@en .
+
+wd:Q19588495 wdt:P279 wd:Q1051772 .
+
+wd:Q210947 wdt:P279 wd:Q1554231 , wd:Q16887380 , wd:Q21088122 .
+
+wd:Q21088122 rdfs:label "input"@en .
+
+wd:Q61788060 wdt:P279 wd:Q1914636 .
+
+wd:Q67611939 wdt:P279 wd:Q10273457 .
+
+wd:Q115922189 wdt:P279 wd:Q2424752 .
+
+wd:Q108147624 wdt:P279 wd:Q618123 .
+
+wd:Q6671777 wdt:P279 wd:Q99527517 .
+
+wd:Q29584234 wdt:P279 wd:Q8187769 .
+
+wd:Q2996394 wdt:P279 wd:Q13878858 .
+
+wd:Q13878858 rdfs:label "natural process"@en .
+
+wd:Q2996394 wdt:P279 wd:Q17320256 .
+
+wd:Q17320256 rdfs:label "physical process"@en .
+
+wd:Q2996394 wdt:P279 wd:Q64732777 .
+
+wd:Q64732777 rdfs:label "biological phenomenon"@en .
+
+wd:Q26256310 wdt:P279 wd:Q3249551 .
+
+wd:Q58416391 wdt:P279 wd:Q58415929 .
+
+wd:Q21088122 wdt:P279 wd:Q28877 , wd:Q107231997 .
+
+wd:Q107231997 rdfs:label "input"@en .
+
+wd:Q116957923 wdt:P279 wd:Q2424752 .
+
+wd:Q64732777 wdt:P279 wd:Q1293220 .
+
+wd:Q1293220 rdfs:label "physical phenomenon"@en .
+
+wd:Q13878858 wdt:P279 wd:Q1322005 .
+
+wd:Q1322005 rdfs:label "natural phenomenon"@en .
+
+wd:Q64732777 wdt:P279 wd:Q1322005 .
+
+wd:Q4184950 wdt:P279 wd:Q7184903 .
+
+wd:Q7184903 rdfs:label "abstract object"@en .
+
+wd:Q17320256 wdt:P279 wd:Q1293220 .
+
+wd:Q13878858 wdt:P279 wd:Q3249551 .
+
+wd:Q17320256 wdt:P279 wd:Q111752858 .
+
+wd:Q111752858 rdfs:label "physicochemical process"@en .
+
+wd:Q3622126 wdt:P279 wd:Q58778 , wd:Q7184903 , wd:Q16686448 .
+
+wd:Q21146257 wdt:P279 wd:Q16889133 .
+
+wd:Q1322005 wdt:P279 wd:Q483247 .
+
+wd:Q483247 rdfs:label "phenomenon"@en .
+
+wd:Q1293220 wdt:P279 wd:Q483247 .
+
+wd:Q483247 wdt:P279 wd:Q30241068 .
+
+wd:Q30241068 rdfs:label "observable entity"@en .
+
+wd:Q7184903 wdt:P279 wd:Q488383 .
+
+wd:Q30241068 wdt:P279 wd:Q35120 .
+
+wd:Q111752858 wdt:P279 wd:Q3249551 .
+
+wd:Q937228 wdt:P279 wd:Q35120 .
+
+wd:Q3505845 wdt:P279 wd:Q483247 .
+
+wd:Q18603648 wdt:P279 wd:Q813912 .
+
+wd:Q813912 rdfs:label "condition"@en .
+
+wd:Q3505845 wdt:P279 wd:Q937228 .
+
+wd:Q937228 rdfs:label "property"@en .
+
+wd:Q813912 wdt:P279 wd:Q3505845 .
+
+wd:Q3505845 rdfs:label "state"@en .
+
+wd:Q107231997 wdt:P279 wd:Q18603648 .
+
+wd:Q18603648 rdfs:label "contributing factor"@en .

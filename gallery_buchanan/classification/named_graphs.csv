@@ -1,0 +1,3 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
+http://work-class-links,2023-09-12,library.vanderbilt.edu,sd:NamedGraph,https://www.library.vanderbilt.edu/gallery/,testing,
+http://wikidata-art-superclasses,2023-09-12,library.vanderbilt.edu,sd:NamedGraph,https://www.library.vanderbilt.edu/gallery/,testing,
