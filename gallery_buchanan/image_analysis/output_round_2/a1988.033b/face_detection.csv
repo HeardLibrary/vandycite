@@ -1,0 +1,2 @@
+accession_number,score,rel_left_x,rel_right_x,rel_top_y,rel_bottom_y,abs_left_x,abs_right_x,abs_top_y,abs_bottom_y,roll_angle,pan_angle,tilt_angle,"landmarking, confidence",joy_likelihood,sorrow_likelihood,anger_likelihood,surprise_likelihood,under_exposed_likelihood,blurred_likelihood,headwear_likelihood,landmarking_confidence
+1996.015,0.96484375,0.424,0.725,0.42847025495750707,0.6763456090651558,424,725,605,955,2.8994253,-46.249844,-1.8826308,,2,1,1,1,1,1,1,0.38530216
