@@ -1,0 +1,106 @@
+data_path: ''
+item_pattern_file: ''
+item_source_csv: titles_cleaned_upload.csv
+outfiles:
+- output_file_name: ca.csv
+  label_description_language_list:
+  - ca
+  manage_descriptions: true
+  prop_list:
+  - variable: title_ca
+    value_type: monolingualtext
+    language: ca
+    pid: P1476
+    qual: []
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: retrieved
+      value_type: date
+      pid: P813
+- output_file_name: de.csv
+  label_description_language_list:
+  - de
+  manage_descriptions: true
+  prop_list:
+  - variable: title_de
+    value_type: monolingualtext
+    language: de
+    pid: P1476
+    qual: []
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: retrieved
+      value_type: date
+      pid: P813
+- output_file_name: es.csv
+  label_description_language_list:
+  - es
+  manage_descriptions: true
+  prop_list:
+  - variable: title_es
+    value_type: monolingualtext
+    language: es
+    pid: P1476
+    qual: []
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: retrieved
+      value_type: date
+      pid: P813
+- output_file_name: fr.csv
+  label_description_language_list:
+  - fr
+  manage_descriptions: true
+  prop_list:
+  - variable: title_fr
+    value_type: monolingualtext
+    language: fr
+    pid: P1476
+    qual: []
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: retrieved
+      value_type: date
+      pid: P813
+- output_file_name: la.csv
+  label_description_language_list:
+  - la
+  manage_descriptions: true
+  prop_list:
+  - variable: title_la
+    value_type: monolingualtext
+    language: la
+    pid: P1476
+    qual: []
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: retrieved
+      value_type: date
+      pid: P813
+- output_file_name: it.csv
+  label_description_language_list:
+  - it
+  manage_descriptions: true
+  prop_list:
+  - variable: title_it
+    value_type: monolingualtext
+    language: it
+    pid: P1476
+    qual: []
+    ref:
+    - variable: referenceUrl
+      value_type: uri
+      pid: P854
+    - variable: retrieved
+      value_type: date
+      pid: P813
