@@ -246,7 +246,7 @@
         {
             "pid": "P361",
             "variable": "part_of",
-            "value_type": "uri",
+            "value_type": "item",
             "qual": [],
             "ref": [
                {

@@ -724,7 +724,7 @@
             "datatype": "string",
             "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{part_of_uuid}",
             "propertyUrl": "http://www.wikidata.org/prop/statement/P361",
-            "valueUrl": "{+part_of}"
+            "valueUrl": "http://www.wikidata.org/entity/{part_of}"
           },
           {
             "titles": "part_of_ref1_hash",
