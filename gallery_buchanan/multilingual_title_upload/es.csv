@@ -1,7 +1,7 @@
-qid,label_en,title_es_uuid,title_es,title_es_ref1_hash,title_es_ref1_referenceUrl,title_es_ref1_retrieved_nodeId,title_es_ref1_retrieved_val,title_es_ref1_retrieved_prec
-Q103299645,Nanny's Boy,,Et de la Rollana,,,,,
-Q105091796,"Floris: Sculpture/Drawings, Carl van der Voort, Ibiza",,"Floris: Esculturas/Dibujos, Galeria Carl van der Voort, Ibiza",,,,,
-Q105091824,Funeral of a Clown,,Funeral de un Payaso,,,,,
-Q105091893,"The Witch, Religious Violence",,"La Bruja, Violencia Religiosa",,,,,
-Q103302340,The Prodigious Life of Death,,La Portentosa Vida de la Muerte,,,,,
-Q105092134,"Stipend, Paid Violence",,"Stipendium, Violencia Pagada",,,,,
+qid,label_es,description_es,title_es_uuid,title_es,title_es_ref1_hash,title_es_ref1_referenceUrl,title_es_ref1_retrieved_nodeId,title_es_ref1_retrieved_val,title_es_ref1_retrieved_prec
+Q103299645,Et de la Rollana,,20DA51F2-D8A9-4E40-AE42-EBF20D27F462,Et de la Rollana,,,,,
+Q105091796,"Floris: Esculturas/Dibujos, Galeria Carl van der Voort, Ibiza",,D5AA0F5D-A913-4420-9D42-B561D73673AE,"Floris: Esculturas/Dibujos, Galeria Carl van der Voort, Ibiza",,,,,
+Q105091824,Funeral de un Payaso,,FA853B12-1CC1-417F-A472-DD287097F74F,Funeral de un Payaso,,,,,
+Q105091893,"La Bruja, Violencia Religiosa",,E54E4453-6D98-43FC-92C0-0B971E2C87DD,"La Bruja, Violencia Religiosa",,,,,
+Q103302340,La Portentosa Vida de la Muerte,,45312D3D-3D75-4C9F-814C-BB60A3E06A11,La Portentosa Vida de la Muerte,,,,,
+Q105092134,"Stipendium, Violencia Pagada",,34CC080C-9C5F-4E8B-8EB2-03A3917CCBEB,"Stipendium, Violencia Pagada",,,,,

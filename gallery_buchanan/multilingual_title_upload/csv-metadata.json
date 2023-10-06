@@ -13,10 +13,20 @@
             "suppressOutput": true
           },
           {
-            "titles": "label_en",
-            "name": "label_en",
+            "titles": "label_ca",
+            "name": "label_ca",
             "datatype": "string",
-            "suppressOutput": true
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "rdfs:label",
+            "lang": "ca"
+          },
+          {
+            "titles": "description_ca",
+            "name": "description_ca",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "schema:description",
+            "lang": "ca"
           },
           {
             "titles": "title_ca_uuid",
@@ -86,10 +96,20 @@
             "suppressOutput": true
           },
           {
-            "titles": "label_en",
-            "name": "label_en",
+            "titles": "label_de",
+            "name": "label_de",
             "datatype": "string",
-            "suppressOutput": true
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "rdfs:label",
+            "lang": "de"
+          },
+          {
+            "titles": "description_de",
+            "name": "description_de",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "schema:description",
+            "lang": "de"
           },
           {
             "titles": "title_de_uuid",
@@ -159,10 +179,20 @@
             "suppressOutput": true
           },
           {
-            "titles": "label_en",
-            "name": "label_en",
+            "titles": "label_es",
+            "name": "label_es",
             "datatype": "string",
-            "suppressOutput": true
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "rdfs:label",
+            "lang": "es"
+          },
+          {
+            "titles": "description_es",
+            "name": "description_es",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "schema:description",
+            "lang": "es"
           },
           {
             "titles": "title_es_uuid",
@@ -232,10 +262,20 @@
             "suppressOutput": true
           },
           {
-            "titles": "label_en",
-            "name": "label_en",
+            "titles": "label_fr",
+            "name": "label_fr",
             "datatype": "string",
-            "suppressOutput": true
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "rdfs:label",
+            "lang": "fr"
+          },
+          {
+            "titles": "description_fr",
+            "name": "description_fr",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "schema:description",
+            "lang": "fr"
           },
           {
             "titles": "title_fr_uuid",
@@ -305,10 +345,20 @@
             "suppressOutput": true
           },
           {
-            "titles": "label_en",
-            "name": "label_en",
+            "titles": "label_la",
+            "name": "label_la",
             "datatype": "string",
-            "suppressOutput": true
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "rdfs:label",
+            "lang": "la"
+          },
+          {
+            "titles": "description_la",
+            "name": "description_la",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "schema:description",
+            "lang": "la"
           },
           {
             "titles": "title_la_uuid",
@@ -378,10 +428,20 @@
             "suppressOutput": true
           },
           {
-            "titles": "label_en",
-            "name": "label_en",
+            "titles": "label_it",
+            "name": "label_it",
             "datatype": "string",
-            "suppressOutput": true
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "rdfs:label",
+            "lang": "it"
+          },
+          {
+            "titles": "description_it",
+            "name": "description_it",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "schema:description",
+            "lang": "it"
           },
           {
             "titles": "title_it_uuid",
