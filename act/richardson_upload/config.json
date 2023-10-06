@@ -242,6 +242,24 @@
                 "value_type": "date"
               }
             ]
+        },
+        {
+            "pid": "P361",
+            "variable": "part_of",
+            "value_type": "uri",
+            "qual": [],
+            "ref": [
+               {
+                "pid": "P854",
+                "variable": "referenceUrl",
+                "value_type": "uri"
+              },
+              {
+                "pid": "P813",
+                "variable": "retrieved",
+                "value_type": "date"
+              }
+            ]
         }
       ]
     }
