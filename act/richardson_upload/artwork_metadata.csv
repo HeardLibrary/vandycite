@@ -1,0 +1,906 @@
+qid,label_en,act_id,dimension,status,inception_val
+Q122959927,Adoration of the Magi,46328,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959929,Orant Figure,46330,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959930,Christ holding the Law,46331,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959933,"Jonah, Raising of Lazarus, Striking of the Rock",46334,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959934,Daniel in the Lions' Den,46335,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959935,Visitation of the Magi,46336,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959936,Dove and the Three Youths in the Fiery Furnace,46337,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959937,Three Youths in the Fiery Furnace,46338,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959938,Christ's Entry into Jerusalem and Raising of Lazarus,46339,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959939,Christ in Judgment,46340,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959940,Daniel in the Lions' Den,46341,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959941,Noah Receiving the Dove and the Three Youths in the Fiery Furnace,46342,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959942,Christ Performing Miracles,46343,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959943,Orant Figure and Agape Meal,46344,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959954,Vatican City. Direzione generale dei musei. Sarcophagus Frontal,46354,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959966,Christ's Entry into Jerusalem [sarcophagus fragment],46365,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959967,"Christ Performing Miracles, Healing Scenes",46366,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959968,Christ Performing Miracles: Loaves and Healing,46367,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959969,"Christ Performing Miracles, Healing the blind",46368,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959972,Christ giving Law to Peter; Healing the woman who touched Jesus' cloak; Feeding the thousands,46370,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959973,"Binding of Isaac, Moses, Christ Performing Miracle",46371,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959975,Vatican City. Direzione generale dei musei. Sarcophagus Frontal,46372,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959977,Lamb and Peacock with Aurelius Inscription,46374,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959978,"Raising of Lazarus, Inscription",46375,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959979,"Raising of Lazarus, Inscription detail",46376,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959980,Peter Stiking the Rock; Wedding at Cana,46377,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959981,"Sarcophagus Frontal, left side",46378,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959982,"Sarcophagus Frontal, right side",46379,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959983,Vatican City. Direzione generale dei musei. Sarcophagus Frontal,46380,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959984,"Christ Performing Miracles, Healing Scenes",46381,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959985,Peter Striking the Rock? ; Christ Healing,46382,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959987,Peter Striking the Rock; Arrest of Peter; Healing by Christ; Wedding at Cana; Loaves and Fish,46383,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959988,Christ Raises the Young Man; Christ at the Wedding at Cana,46385,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959989,Healing of the Paralytic; Sacrifice of Isaac,46386,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959991,Peter Striking the Rock and Wedding at Cana,46387,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959992,"Orant Figure, Raising of Lazarus, and Loaves and Fishes",46388,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959996,"Christ Performing Miracles, Healing Scenes",46391,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959997,Fragment from the Vatican Museum. Christ's Entry into Jerusalem,46392,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959999,Christ Performing Miracles --  Wedding at Cana and Healing of the Blind,46394,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960001,Christ Performing Miracles; Wedding at Cana; Sacrifice of Isaac,46395,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960002,Christ Raising the Dead and the Visitation of the Magi,46396,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960003,Christ Performing Miracles,46397,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960004,"Noah and the Dove, Jonah Cycle",46398,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960005,"Jonah, Striking of the Rock",46399,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960006,Jonah as Endymion,46400,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960007,Inscription with Dove,46401,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960008,Inscription with Wheat Tare,46402,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960010,Traditio Legis; Christ handing the Law to Peter and Paul,46403,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960011,Vatican City. Direzione generale dei musei. Sarcophagus Frontal,46405,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960012,Vatican City. Direzione generale dei musei. Sarcophagus Frontal,46406,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122960013,Vatican City. Direzione generale dei musei. Sarcophagus Frontal,46407,3D,inception prior to copyright cutoff,0300-01-01T00:00:00Z
+Q122959928,"Nativity, Baptism of Christ, and Christ Raising the Dead",46329,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959931,Angels Supporting Slate,46332,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959932,Adam and Serpent from the Garden of Eden,46333,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959944,"Christ Performing Miracles, and Adam and Eve",46345,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959957,"Scenes of Passion, Christ before Pilate",46357,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959958,Christ before Centurion,46358,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959959,Centurions Sleep under Chi Rho,46359,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959960,Christ Crowned with Thorns,46360,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959963,Procession of the Cross,46361,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959964,Separation of Sheep and Goats,46362,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959965,Peter in Gethsemane,46363,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959993,Christ before Pilate,46389,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959994,Adam and Eve and Christ Raising the Dead,46390,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959998,Christ Blessing,46393,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122960207,Traditio Legis Sarcophagus,53848,3D,inception prior to copyright cutoff,0350-01-01T00:00:00Z
+Q122959945,"Pontius Pilate, Sarcophagus of Junius Bassus",46346,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959946,"Traditio Legis, Sarcophagus of Junius Bassus",46347,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959947,"Christ's entrance to Jerusalem, Sarcophagus of Junius Bassus",46348,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959949,"Christ Peaching, Sarcophagus of Junius Bassus",46349,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959950,"Daniel in the Lions' Den, Sarcophagus of Junius Bassus",46350,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959952,"Peter, the Apostle, Sarcophagus of Junius Bassus",46352,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959953,"Trial, Sarcophagus of Junius Bassus",46353,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959955,"Adam and Eve, Sarcophagus of Junius Bassus",46355,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959956,"Woman Washing Jesus' feet, Sarcophagus of Junius Bassus",46356,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122959970,"Binding of Issac, Sarcophagus of Junius Bassus",46369,3D,inception prior to copyright cutoff,0359-01-01T00:00:00Z
+Q122960205,Adam Naming the Animals,53847,3D,inception prior to copyright cutoff,0450-01-01T00:00:00Z
+Q122960204,Ascension from the Rabbula Gospels,53846,3D,inception prior to copyright cutoff,0586-01-01T00:00:00Z
+Q122960107,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47125,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960108,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47143,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960109,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47144,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960110,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47145,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960113,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47146,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960114,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47147,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960115,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France,",47148,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960116,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47149,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960117,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47150,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960119,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47151,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960120,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47152,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960121,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47153,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960122,"Baptistmal font, Cathedral of St. Pierre, Angouleme, France",47157,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122960124,"Western front sculpture, Cathedral of St. Pierre, Angouleme, France",47158,3D,inception prior to copyright cutoff,1050-01-01T00:00:00Z
+Q122959816,St. Savin - Burial of Abraham,32950,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959817,St. Savin - Angel's Blessing of Abraham; Isaac's Inheritance,33090,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959818,St. Savin - Christ of Parousia and the Visions of Apocalypse,33113,3D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959819,St. Savin - Apostles in Glory,33138,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959820,St. Savin - Angels Worshipping,33149,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959821,St. Savin - Angels Worshipping,33155,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959822,St. Savin - Sixth Angel of the Apocalypse,33251,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959823,St. Savin - War of Michael and the Dragon,33259,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959824,St. Savin - Sixth Angel of the Apocalypse (Detail),33260,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959826,St. Savin - Fifth Angel of the Apocalypse,33262,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959827,"St. Savin - Temple of God; Woman, Child, and Dragon",33263,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959828,St. Savin - Adoration of the Virgin,33274,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959829,"St. Savin - Woman, Child, and Dragon (Detail)",33281,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959830,St. Savin - Moses Receiving the Tablets of the Law,33283,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959831,St. Savin - Drowning of Pharaoh's Army in the Red Sea,33358,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959833,St. Savin - March of the Children of Israel Toward the Promised Land,33359,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959834,St. Savin - Joseph's Appointment as the Master of Pharaoh's Palace,33360,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959835,St. Savin - Joseph Interprets Pharaoh's Dreams,33361,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959836,St. Savin - Joseph and Potiphar's Wife,33362,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959837,St. Savin - Joseph Sold into Slavery,33363,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959838,St. Savin - Isaac Blessing Jacob,33376,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959839,St. Savin - Isaac Blessing Jacob (Detail),33378,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959841,St. Savin - Noah's Disembarkation from the Ark,33423,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959842,St. Savin - Noah's Drunkenness,33424,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959843,St. Savin - Noah Curses Canaan,33428,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959844,Building theTower of Babel,33430,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959845,St. Savin - Calling of Abraham,33460,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959846,St. Savin - Abraham and Lot Part Company,33462,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959847,St. Savin - Creation of the Luminaries; Creation of Eve and Her Temptation by the Serpent,33547,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959849,St. Savin - God's Creation of the Luminaries,33548,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959850,St. Savin - God's Creation of Eve and Her Temptation by the Serpent,33549,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959851,St. Savin - God's Creation of Eve and Her Temptation by the Serpent (Detail),33550,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122959852,St. Savin - Angels Worshipping,33852,2D,inception prior to copyright cutoff,1065-01-01T00:00:00Z
+Q122960068,"Christ in Majesty, Murals and interior of Saint-Julien in Brioude, France.",47088,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960069,"Murals and interior of Saint-Julien in Brioude, France.",47090,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960070,Angels praising God in glory,47091,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960071,"Angel Lion, Murals and interior of Saint-Julien in Brioude, France.",47092,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960073,"Murals and interior of Saint-Julien in Brioude, France.",47093,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960074,"Murals and interior of Saint-Julien in Brioude, France.",47094,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960075,"Murals and interior of Saint-Julien in Brioude, France.",47095,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960076,"Murals and interior of Saint-Julien in Brioude, France.",47096,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960077,"Murals and interior of Saint-Julien in Brioude, France.",47097,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960078,"Murals and interior of Saint-Julien in Brioude, France.",47098,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960079,"Murals and interior of Saint-Julien in Brioude, France.",47099,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960080,"Murals and interior of Saint-Julien in Brioude, France.",47100,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960081,"Murals and interior of Saint-Julien in Brioude, France.",47101,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960082,"Murals and interior of Saint-Julien in Brioude, France.",47102,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960084,"Murals and interior of Saint-Julien in Brioude, France.",47103,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960085,"Murals and interior of Saint-Julien in Brioude, France.",47104,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960086,"Murals and interior of Saint-Julien in Brioude, France.",47105,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960087,"Murals and interior of Saint-Julien in Brioude, France.",47106,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960088,"Murals and interior of Saint-Julien in Brioude, France.",47107,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960089,"Murals and interior of Saint-Julien in Brioude, France.",47108,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960090,"Murals and interior of Saint-Julien in Brioude, France.",47109,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960091,"Murals and interior of Saint-Julien in Brioude, France.",47110,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960092,"Murals and interior of Saint-Julien in Brioude, France.",47111,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960093,"Murals and interior of Saint-Julien in Brioude, France.",47112,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960095,"Murals and interior of Saint-Julien in Brioude, France.",47113,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960096,"Murals and interior of Saint-Julien in Brioude, France.",47114,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960097,"Murals and interior of Saint-Julien in Brioude, France.",47115,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960098,"Murals and interior of Saint-Julien in Brioude, France.",47116,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960099,"Colored light bathes the interior of Saint-Julien in Brioude, France.",47117,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960101,"Murals and interior of Saint-Julien in Brioude, France.",47118,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960102,"Murals and interior of Saint-Julien in Brioude, France.",47119,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960103,"Murals and interior of Saint-Julien in Brioude, France.",47120,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960105,"Murals and interior of Saint-Julien in Brioude, France.",47121,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122960106,"Murals and interior of Saint-Julien in Brioude, France.",47122,3D,inception prior to copyright cutoff,1100-01-01T00:00:00Z
+Q122959895,"Last Judgment; The Blessed in Heaven, Abbaye Sainte-Foy de Conques",43112,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959897,"Last Judgment, Abbaye Sainte-Foy de Conques",43114,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959898,Last Judgment; Separation of Saved (Christ's right) from Damned (Christ's left),43115,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959899,"Last Judgment; The Blessed in Heaven, Abbaye Sainte-Foy de Conques",43116,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959900,"Last Judgment; The Tortures of Hell, Abbaye Sainte-Foy de Conques",43117,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959901,"Last Judgment; Division of Blessed and Damned, upper detail",43118,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959902,Last Judgment; the Elect in Heaven,43119,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959903,Last Judgment; Separation of the Damned,43120,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959905,"Last Judgment; Abraham gathers the blessed in his bosom, detail",43121,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959906,"Last Judgment; Great Cross, angel calls on horn (right of Christ)",43122,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959907,"Last Judgment; Great Cross, angel calls on horn (left of Christ)",43123,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959908,Last Judgment; Christ enthroned,43124,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959909,"Last Judgment; The Elect, including Charlemagne, Peter and Mary",43125,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959910,Last Judgment; Abraham gathers the blessed in his bosom,43126,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959911,Last Judgment; Angels (left) protect entrance to heaven from sinners,43127,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959912,Last Judgment; Tortures,43128,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959913,Last Judgment; Satan in Hell,43129,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959914,Last Judgment; Mouth of Hell,43130,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959916,Last Judgment; Division of Blessed and Damned,43131,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959917,"Last Judgment; the Blessed in Heaven, Ste. Foy",43132,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959918,"Last Judgment; The Resurrection of the Dead, and the Blessed Enter Heaven, upper left detail",43133,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959920,"Last Judgment; The Resurrection of the Dead, and the Blessed Enter Heaven",43134,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959921,"Last Judgment; The Blessed in Heaven, Peter with the Keys",43135,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959922,Last Judgment; The Great Cross with Symbols of Nail and Lance Held by the Angels,43136,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959923,Last Judgment; Angels in Heaven Guarding the Entrance,43137,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959924,"Last Judgment; The Tortures of Hell, Abbaye Sainte-Foy de Conques",43138,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122959925,"Last Judgment; Angels in Heaven Guarding the Entrance, detail",43139,3D,inception prior to copyright cutoff,1101-01-01T00:00:00Z
+Q122960125,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47159,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960126,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47160,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960127,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47161,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960128,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47162,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960129,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47163,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960130,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47164,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960131,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47165,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960132,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47166,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960133,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47167,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960134,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47168,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960135,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47169,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960136,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47170,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960137,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47171,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960138,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47172,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960139,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47173,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960140,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47174,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960141,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47175,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960142,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47176,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960143,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47177,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960144,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47178,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960145,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47179,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960147,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47180,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960148,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47181,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960149,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47182,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960150,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47183,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960152,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47184,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960153,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47185,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960154,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47186,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960156,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47187,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960157,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47188,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960158,"Church of St. Pierre, Aulnay, France; exterior and interior sculpture",47189,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960160,"Church of St. Pierre, Aulnay, France; stained glass",47190,3D,inception prior to copyright cutoff,1125-01-01T00:00:00Z
+Q122960208,"Temptation of Christ, Cathedral of St. Lazare, Autun, France",53870,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960209,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53871,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960210,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53872,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960211,"Annunciation to Mary, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53873,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960213,"Annunciation to Mary, Cathedral of St. Lazare, Autun, France",53874,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960215,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53875,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960219,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53877,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960222,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53878,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960224,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53879,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960226,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53881,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960227,"Annunciation to the Shepherds, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53882,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960228,"Annunciation to Mary, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53885,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960229,"Birth of Jesus, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53886,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960230,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53887,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960231,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53888,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960232,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53889,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960233,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53890,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960234,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53891,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960235,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53892,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960236,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53893,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960238,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53894,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960239,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53897,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960240,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53898,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960242,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53899,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960244,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53900,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960245,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53901,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960246,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53902,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960247,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53903,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960248,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53904,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960249,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53905,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960250,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53906,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960251,"Souls Rising from the Dead, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53907,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960252,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53908,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960253,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53909,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960254,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53910,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960255,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53911,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960256,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53912,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960257,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53913,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960258,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53915,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960259,"Tympanum, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53916,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960260,"Fight of a Pygmy and a Crane Capital, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53918,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960261,"Presentation of the Autun Cathederal Capital, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53919,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960262,"Adoration of the Magi Capital, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53920,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960263,"Three Magi Capital, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53921,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960266,"The Hanging of Judas, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53922,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960267,"The Death of Cain Capital, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53923,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960268,"Adam and Eve Tempted by the Evil, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53925,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960269,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53926,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960270,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53927,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960271,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53928,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960272,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53929,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960273,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53930,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960274,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53931,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960275,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53932,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960276,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53933,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960277,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53934,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960278,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53935,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960279,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53936,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960281,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53937,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960283,"Jesus Washing Feet, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53938,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960284,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53939,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960285,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53940,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960286,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53941,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960287,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53942,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960288,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53943,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960289,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53944,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960291,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53945,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960293,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53946,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960294,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53947,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960295,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53948,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960296,"Anointing of Jesus, Cathedral of St. Lazare, Autun, France -- Relief sculpture",53949,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122960297,"Cathedral of St. Lazare, Autun, France -- Relief sculpture",53950,3D,inception prior to copyright cutoff,1130-01-01T00:00:00Z
+Q122959853,A Tetramorph Standing on a Wheel; head of Ezekiel below,42403,3D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959854,Lazarus in Abraham's Bosom,42407,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959855,Presentation of the infant Jesus in the temple,42408,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959856,Accusation of the Virgin and the Annunciation,42409,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959857,Christ before Herod Antipas,42411,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959858,Eagle-Symbol of John the Evangelist,42413,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959859,Betrayal and Arrest of Christ; Simon of Cyrene bearing the Cross,42414,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959860,The Touronians steal the corpse of Martin from the sleeping Poitevins,42415,3D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959861,Ox-Symbol of Luke the Evangelist,42416,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959862,Christ Enthroned with Scenes from his Life,42417,3D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959863,Angel-Symbol of Matthew the Evangelist,42418,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959865,Lion-Symbol of Mark the Evangelist,42419,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959866,Christ Enthroned,42420,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959867,The Visitation: Elizabeth Greets Mary,42421,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959868,"The Visitation: Elizabeth Greets Mary, detail",42422,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959869,Crucifixion of St. Peter,42423,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959870,The Visitation: Elizabeth Greets  Mary,42424,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959871,"Christ's Entry into Jerusalem, Saint-Martin (Church : Nohant-Vicq, France)",42426,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959873,Preparation for Christ's Entry into Jerusalem,42427,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959874,David,42428,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959875,Christ Enthroned with Agnus Dei,42429,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959877,College of Apostles,42430,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959878,College of Apostles,42431,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959880,College of Apostles,42432,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959881,Journey and Adoration of the Magi,42433,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959882,Moses,42434,3D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959883,Last Supper,42435,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959884,Preparation for Christ's Entry into Jerusalem; Walls of Jerusalem,42436,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959885,Adam and Eve liberated from Hell; Christ as liberator,42437,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959886,Feast of Dives in parable of Lazarus and Dives,42438,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959887,Lazarus knocking at the door in the parable of Lazarus and Dives,42439,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959888,Betrayal and Arrest of Christ,42440,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959890,Tetramorph (close up),42442,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959891,"""Maiestas Domini"" (Christ in Majesty); Christ with personifications of the evangelists",42444,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959892,"""Maiestas Domini"" (Christ in Majesty); Christ with seraphim and tetramorph figures",42445,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959893,Christ Washing Peter's Feet,42446,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959894,"Purification of Isaiah's lips, or, putting words into Jeremiah's mouth, or, Ezekiel eats scroll",42491,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122960162,Maiestas Domini (Christ in Majesty),50497,2D,inception prior to copyright cutoff,1137-01-01T00:00:00Z
+Q122959334,"Chartres Cathedral; zodiac signs and labors of months; archivolts, left portal, west facade",26281,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959335,"Chartres Cathedral; Ascension of Christ; left portal, west facade",26282,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959336,"Chartres Cathedral; Christ, angels, apostles; left portal, west facade",26283,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959337,"Chartres Cathedral; queen, Jew, Isaiah; left embrasure jamb figures, center portal, west facade",26284,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959338,"Chartres Cathedral; Sarah, Abraham, Hagar; jamb figures, left embrasure, left portal, west facade",26285,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959339,"Chartres Cathedral; Christ in Majesty; central portal, west facade",26286,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959340,"Chartres Cathedral; Christ, four Evangelists; tympanum and lintel, central portal, west facade",26288,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959342,"Chartres Cathedral; Mary holding infant Christ, Presentation in the Temple, Annunciation, Visitation, and Nativity; tympanum and lintels, right portal, west facade",26290,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959343,"Chartres Cathedral; Seat of Wisdom, Liberal Arts; right portal, west facade",26291,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959344,"Chartres Cathedral; Liberal Arts and Ancients; archivolts, right portal, west facade",26292,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959345,"Chartres Cathedral; Christ in Majesty; tympanum, central portal, west facade",26293,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959346,"Chartres Cathedral; Samuel, David, Queen of Sheba, Solomon; right embrasure jamb figures, central portal, west facade",26294,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959347,"Chartres Cathedral; Life of Christ; capital decoration, west facade",26295,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959348,"Chartres Cathedral; Astronomy and Ptolemy; right archivolts, right portal, west facade",26296,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959349,"Chartres Cathedral; Cicero and Rhetoric; left archivolts, right portal, west facade",26297,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959350,"Chartres Cathedral; unidentified human and animal figures with vegetation; colonnette on left embrasure, right portal, west facade",26298,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959351,"Chartres Cathedral; Virgin Mary, infant Christ; tympanum, right portal, west facade",26299,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959352,"Chartres Cathedral; Presentation of the infant Jesus in the temple; upper lintel, right portal, west facade",26300,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959353,"Chartres Cathedral; Roland, Louis VII; jamb figures on left embrasure, right portal, west facade",26301,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959354,"Chartres Cathedral; Geometry, Arithmetic, Hand of God, angels; archivolts, right portal, west facade",26302,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959355,"Chartres Cathedral; elders, angels; left archivolts, central portal, west facade",26303,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959356,"Chartres Cathedral; scenes of life of Christ and heads of jamb figures; right portal, west facade",26305,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959357,"Chartres Cathedral; king, Roland, Louis VII; left embrasure jamb figures, right portal, west facade",26306,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959358,"Chartres Cathedral; Matthew, Charlemagne (Constantine), Hildegard wife of Charlemagne; right embrasure jamb figures, right portal, west facade",26307,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959359,"Chartres Cathedral; Life of Christ; capitals above right jamb figures, right portal, west facade",26308,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959360,"Chartres Cathedral; Aristotle, Dialectics, Gemini, Pisces; left archivolts, right portal, west facade",26309,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959361,"Chartres Cathedral; Arithmetic and Boethius; archivolts, right portal, west facade",26310,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959362,"Chartres Cathedral; unidentified queen; left embrasure jamb figure, central portal, west facade",26311,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959363,"Chartres Cathedral; queen, Jew, Isaiah, life of Mary and of Christ; heads of jamb figures and capitals, central portal, west facade",26312,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959364,"Chartres Cathedral; queen, Jew, Isaiah; left embrasure jamb figures, central portal, west facade",26313,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959365,"Chartres Cathedral; Jew, Isaiah; left embrasure jamb figures, central portal, west facade",26315,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959366,"Chartres Cathedral; Evangelist symbols; tympanum, central portal, west facade",26316,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959367,"Chartres Cathedral; winged ox and eagle; tympanum, central portal, west facade",26318,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959368,"Chartres Cathedral; Apostles; lintel, central portal, west façade",26319,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959370,"Chartres Cathedral; Apostles; lintel, central portal, west façade",26320,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959371,"Chartres Cathedral; Dialectic, Cicero, Gemini, Angel; left archivolts, right portal, west facade",26321,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959377,"Chartres Cathedral; view of section between left and central portal, west facade",26340,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959390,"Chartres Cathedral; Life of Mary, the mother of Jesus; lower lintel, right portal, west facade",26354,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959391,"Chartres Cathedral; Annunciation to the Shepherds; lintel, right portal, west facade",26355,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959394,"Chartres Cathedral; zodiac signs and labors of months; archivolts, left portal, west facade",26358,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959395,"Chartres Cathedral; zodiac signs and labors of months; archivolts, left portal, west facade",26359,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959396,"Chartres Cathedral; zodiac signs and labors of months; archivolts, left portal, west facade",26360,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959397,"Chartres Cathedral; January as Labor of the Month; archivolts, left portal, west facade",26361,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959398,"Chartres Cathedral; zodiac signs and labors of the months; archivolts left portal, west facade",26362,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959399,"Chartres Cathedral; zodiac signs and labors of the months; archivolts, left portal, west facade",26363,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959400,"Chartres Cathedral; labors of the months and zodiac signs; archivolts, left portal, west facade",26364,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959401,"Chartres Cathedral; right embrasure jamb figure, left portal, west facade",26365,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959402,"Chartres Cathedral; Moses; right embrasure jamb figure, left portal, west facade",26366,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959404,"Chartres Cathedral; unidentified male figure; left chambranle, central portal, west facade",26368,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959405,"Chartres Cathedral; Sarah, Abraham, Hagar, Adam, Eve; jamb figures, left embrasure, left portal, west facade",26369,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959535,"Chartres Cathedral; Matthew, Charlemagne (Constantine), Hildegarde (queen); right embrasure, right portal, west facade",27212,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959537,"Chartres Cathedral; twenty-four elders of the apocalypse; voussoirs, left side, central portal, west facade",27213,3D,inception prior to copyright cutoff,1145-01-01T00:00:00Z
+Q122959422,"Laon; Last Judgment; left archivolts of the south portal, west facade (Last Judgment Portal)",26953,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959423,"Laon; Last Judgment; right archivolts of the right portal, west facade (Last Judgment Portal)",27089,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959424,"Laon; crouching figure; center portal, west facade (Coronation Portal)",27090,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959425,"Laon; figures in the gable above the south portal, west facade (Portal of the Last Judgment)",27091,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959426,"Laon; right jamb figures of the south portal, west facade (Last Judgment Portal)",27092,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959534,"Laon; Annunciation, Nativity, Visit of the Three Wise Men, Virtues and Vices, prophets; lintel, tympanum and archivolts of the north portal, west facade (Nativity Portal)",27211,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959538,"Laon; Virgin Mary, Jesus Christ; gable of the center portal porch, west facade",27215,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959539,"Laon; Abraham and Isaac, Moses?, Samuel, David; left jamb figures of the center portal, west facade (Coronation Portal)",27217,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959541,"Laon; Presentation in the Temple, Virgin Mary, Jesus Christ; right embrasure figures of the north portal, west facade (Nativity Portal)",27218,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959542,"Laon; Annunciation; embrasure figures of the north portal, west facade (Nativity Portal)",27219,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959543,"Laon; Isaiah, Jeremiah, Simeon, John the Baptist; right jamb figures of the center portal, west facade (Coronation Portal)",27220,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959544,"Laon; Presentation in the temple; right embrasure figures of the north portal, west facade (Nativity Portal)",27221,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959546,"Laon; Nebuchadnezzar; right archivolts of the left portal, west facade",27222,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959547,"Laon; Abraham and Isaac, Moses?, Samuel, David; left jamb figures of the center portal, west facade (Coronation portal)",27223,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959549,"Laon; Coronation, Death, and Assumption of the Virgin, Tree of Jesse, Virgin Mary, Jesus Christ, Jesse, David, Bathesheba; trumeau, lintel, tympanum, archivolts and embrasures of the center portal, west facade (Coronation Portal)",27224,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959550,"Laon; Coronation, Death, and Assumption of the Virgin, Tree of Jesse, Virgin Mary, Jesus Christ, Jesse, David, Bathesheba; tympanum and archivolts of the center portal, west facade (Coronation Portal)",27225,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959551,Laon; western exterior,27226,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959552,"Laon: Presentation in the temple, Virtues and Vices, prophets; right archivolts and heads of the right jamb figures of the north portal, west facade (Nativity Portal)",27227,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959553,"Laon; David; left end of the lintel and the left embrasure figure of the center portal, west facade (Coronation portal)",27228,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959554,"Laon; Nativity, Coronation of the Virgin, Last Judgment; portals and porches of west facade",27229,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959555,"Laon; Annunciation, Nativity, Visit by the Three Wise Men, Virtures and Vices, prophets; lintel, tympanum and archivolts of the north portal, west facade (Nativity Portal)",27230,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959556,"Laon; Adoration of Magi; typanum of the north portal, west facade",27231,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959557,"Laon; Nativity, Annunciation, Visit by the Three Wise Men, Presentation in the Temple; north portal, west facade",27232,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959558,"Laon; Virgin Mary, Jesus Christ; gable the center portal, west facade",27234,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959559,"Laon; Abraham, Isaac, Moses (Solomon?), Samuel; left jamb figures of the center portal, west facade",27235,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959560,"Laon; Tree of Jesse; archivolts above the left jamb figures of center portal, west facade (Coronation Portal)",27236,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959561,"Laon; Samuel, David; left jamb figures of the center portal, west facade",27237,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959562,"Laon; Hell; right archivolts of the left portal, west facade (Portal of Last Judgment)",27239,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959563,"Laon; Mary visits Elizabeth; left jamb figures of the north portal, west facade (Nativity Portal)",27240,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959564,"Laon; Last Judgment, Jesus Christ, Virgin Mary, apostles, St. Michael, the elect, the dead, virgins, Abraham, angels, Devil; the archivolts, lintel and tympanum of the south portal, west facade (Last Judgment Portal)",27241,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959565,Laon; Stained Glass (1),27244,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959566,"Laon; Liberal Arts, Virgin Mary; Rose window of north transept",27245,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959567,"Laon; Liberal Arts, Virgin Mary; Rose Window of north transept",27246,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959568,Laon; St. Stephen and Theophilus; north stained glass window of east facade (flat chevet),27247,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959569,Laon; Easter; center stained glass window of east facade (flat chevet),27248,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959570,Laon; Nativity; south stained glass window of east facade (flat chevet),27249,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959571,Laon; Post-Apocalyptic Church; Great Rose Window of east facade (flat chevet),27250,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959572,"Laon; left jamb figures of the south portal, west facade (Last Judgment Portal)",27251,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959573,"Laon; Virgin Mary, Jesus Christ; gable of the center portal, west facade",27252,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959574,"Laon; Last Judgment, Jesus Christ, Virgin Mary, apostles, St. Michael, the elect, the dead, the wise and foolish virgins, Abraham, angels, Devil; the archivolts, lintel and tympanum of the south portal, west facade (Last Judgment Portal)",27253,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959575,"Laon; Virgin Mary, Jesus Christ, Death and Burial of Mary; trumeau, lintel and right jamb figures of the center portal, west facade (Coronation Portal)",27254,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959576,"Laon; Virgin Mary, Jesus Christ; Death, Assumption and Coronation of the Virgin; trumeau, lintel, tympanum, and the left jamb figures of the center portal, west facade (Coronation Portal)",27255,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959577,"Laon; Virgin Mary, Jesus Christ; trumeau of the center portal, west facade (Coronation Portal)",27256,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959579,"Laon; Last Judgment, Jesus Christ, Virgin Mary, St. Michael, Abraham; archivolts, lintel, tympanum and jamb figures of the south portal, west facade (Last Judgment Portal)",27257,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959580,"Laon; Simeon, John the Baptist; right jamb figures of the center portal, west facade (Coronation Portal)",27258,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122960161,"Laon; Tree of Jesse, Abraham, Moses, Samuel, David, angels, prophets; archivolts above the left jamb figures of the center portal, west facade (Coronation Portal)",49995,3D,inception prior to copyright cutoff,1155-01-01T00:00:00Z
+Q122959429,"Senlis; Jacob (Isaiah), David; right embrasure, jamb figures, central portal, west facade",27099,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959581,"Senlis; Moses, Abraham, Isaac; left embrasure, jamb figures, central portal, west facade",28134,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959582,"Senlis; Virgin Mary; lintel, central portal, west facade",28135,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959583,"Senlis; voussoirs, capitals and jamb figures, right side, central portal, west facade",28136,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959584,"Senlis; Coronation of the Virgin; voussoirs, central portal, west facade",28137,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959585,"Senlis; John the Baptist, Samuel (Aaron), Moses; left embrasure, jamb figures, central portal, west facade",28138,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959586,"Senlis; Simeon, Jeremiah, Jacob (Isaiah), David; right embrasure, jamb figures, central portal, west facade",28140,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959587,"Senlis; Simeon, Jeremiah; right embrasure, jamb figures, central portal, west facade",28141,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959589,"Senlis; Assumption of the Virgin; lintel, central portal, west facade",28142,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959591,"Senlis; Coronation of Mary; detail above tympanum, central portal, west facade",28143,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959592,"Senlis; Coronation of Mary; detail of tympanum, central portal, west façade (Detail)",28144,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959593,"Senlis; Coronation of Mary; detail of tympanum, central portal, west facade",28145,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959594,"Senlis; Tree of Jesse,  precursors of Christ, patriarchs, prophets; detail of left voussoirs, central portal, west facade",28146,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959595,"Senlis; Bestiary, labors of the months; detail of left embrasure under jamb figures, central portal, west facade",28147,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959596,"Senlis; labors of the months; detail of right embrasure under jamb figures, central portal, west facade",28148,3D,inception prior to copyright cutoff,1170-01-01T00:00:00Z
+Q122959331,"Chartres Cathedral; Jesus Christ; ""Notre Dame de la Belle Verriere"" window, south-east interior",26271,3D,inception prior to copyright cutoff,1180-01-01T00:00:00Z
+Q122959332,"Chartres Cathedral; Jesus Christ; ""Notre Dame de la Belle Verriere"" window, south-east interior",26272,3D,inception prior to copyright cutoff,1180-01-01T00:00:00Z
+Q122959333,"Chartres Cathedral; Jesus Christ; ""Notre Dame de la Belle Verriere"" window, south-east interior",26273,3D,inception prior to copyright cutoff,1180-01-01T00:00:00Z
+Q122959392,"Chartres Cathedral; Mary, Jesus; ""Notre Dame de la Belle Verriere"" window, south-east interior",26356,3D,inception prior to copyright cutoff,1180-01-01T00:00:00Z
+Q122959428,Noyon Cathedral; lives of saints,27093,3D,inception prior to copyright cutoff,1180-01-01T00:00:00Z
+Q122959446,"Sens; interior, stained glass window",27125,3D,inception prior to copyright cutoff,1180-01-01T00:00:00Z
+Q122959440,"Sens; Life of John the Baptist ; left portal, west facade (John the Baptist Portal)",27118,3D,inception prior to copyright cutoff,1185-01-01T00:00:00Z
+Q122960063,"Sculputure, Notre Dame du Port, Clermont-Ferrand",47065,3D,inception prior to copyright cutoff,1185-01-01T00:00:00Z
+Q122960064,"Sculpture with wooden doors, Notre Dame du Port, Clermont-Ferrand",47066,3D,inception prior to copyright cutoff,1185-01-01T00:00:00Z
+Q122960065,"Stained Glass, Notre Dame du Port, Clermont-Ferrand",47068,3D,inception prior to copyright cutoff,1185-01-01T00:00:00Z
+Q122960066,"Murals, Notre Dame du Port, Clermont-Ferrand",47069,3D,inception prior to copyright cutoff,1185-01-01T00:00:00Z
+Q122960067,"Notre Dame du Port, Clermont-Ferrand - a ""Black Madonna""",47071,3D,inception prior to copyright cutoff,1185-01-01T00:00:00Z
+Q122959430,"Sens; labors of the months, zodiac, calendar, bestiary; socles, right side, central portal, west facade",27110,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959431,"Sens; labors of the months, zodiac signs, calendar, bestiary; socles, right side, central portal, west facade",27111,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959432,"Sens; St. Stephen; trumeau, central portal, west facade",27112,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959433,"Sens; Wise Virgins; left chambranle, central portal, west facade",27113,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959434,"Sens; foolish virgins; right chambranle, central portal, west facade",27114,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959436,"Sens; Liberal Arts, Calendar; socles, left side, central portal, west facade",27115,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959438,"Sens; Liberal Arts, Calendar, Bestiary; socles, left side, central portal, west facade",27116,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959441,"Sens; Coronation, Death, and Assupmtion of the Virgin; right portal, west facade (Portal of the Virgin)",27119,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959442,"Sens; Liberal Arts, Calendar, Bestiary; socles, left side, central portal, west facade",27120,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959443,"Sens; Largitas; right socle, left portal, west facade (John the Baptist Portal)",27121,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959444,"Sens; Avarice; left socle, left portal, west facade (Portal of John the Baptist)",27122,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959445,"Sens; Life of Mary; socles, right portal, west facade",27123,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959448,"Sens; foolish virgins, Calendar, Bestiary; right side, central portal, west facade",27127,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959597,"Sens; Liberal Arts, Calendar; socles, left side, central portal, west facade",28319,3D,inception prior to copyright cutoff,1195-01-01T00:00:00Z
+Q122959599,"Chartres Cathedral; Garden of Eden, Temptation, Fall; ""Good Samaritan"" window, interior stained glass window",28333,3D,inception prior to copyright cutoff,1200-01-01T00:00:00Z
+Q122959600,"Chartres Cathedral; Creation, Garden of Eden, Adam and Eve, Good Samaritan; ""Good Samaritan"" window, interior stained glass",28337,3D,inception prior to copyright cutoff,1200-01-01T00:00:00Z
+Q122959602,Chartres Cathedral; Life of St. Eustace; interior stained glass,28338,3D,inception prior to copyright cutoff,1200-01-01T00:00:00Z
+Q122959318,"Chartres Cathedral; Moses, Samuel, Aaron; left embrasure jamb figures, central portal, north transept",26238,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959320,"Chartres Cathedral; Mary, the mother of Jesus, apostles, angels; lintel of central portal, north transept",26242,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959321,"Chartres Cathedral; Isaiah (Jacob), Jesse, Jeremiah, Simeon, Jesus, John the Baptist, Peter; right embrasure, central portal, north transept",26243,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959323,"Chartres Cathedral; Melchizedek, Abraham, Isaac, Moses, Aaron (Samuel), David; left embrasure jamb figures, central portal, north transept",26244,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959324,"Chartres Cathedral; Coronation, Death and Assumption of the Virgin; tympanum and lintel, central portal, north transept",26246,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959325,"Chartres Cathedral; Coronation of the Virgin; tympanum of central portal, north transept",26247,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959326,"Chartres Cathedral; Samuel, David; left embrasure jamb figures, central portal, north transept",26248,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959327,"Chartres Cathedral; Isaiah, Jeremiah; jamb figures, right embrasures, central portal, north transept",26249,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959329,"Chartres Cathedral; Melchizedek, Abraham, Isaac, Samuel or Aaron, David; left embrasure jamb figures, central portal, north transept",26251,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959330,"Chartres Cathedral; Melchizedek, Abraham, Isaac, Moses, Samuel (Aaron), David; left embrasure jamb figures of the central portal, north transept",26252,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959393,"Chartres Cathedral; Melchizedek, Abraham, Isaac, Moses; left embrasure jamb figures, central portal, north transept",26357,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959403,"Chartres Cathedral; Massacre of the children of Bethlehem; left capitals, north portal, west facade",26367,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959412,"Chartres Cathedral; Joseph, Judith (Sarah), Jesus Son of Sirach; right embrasure, right portal, north transept",26375,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959414,"Chartres Cathedral; Balaam, Queen of Sheba, Solomon; left embrasure figures, right portal, north transept",26378,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959415,"Chartres Cathedral; Balaam, Queen of Sheba, Solomon; bases of left embrasure figures, right portal, north transept",26379,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959416,"Chartres Cathedral; Joseph, Judith (Sibyl), Jesus Son of Sirach; right embrasure, right portal, north transept",26380,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959417,"Chartres Cathedral; Nativity, Adoration of Magi, Wise and Foolish Virgins, Virtues and Vices, Twelve Fruits of Holy Spirit; tympanum, left portal, north transept",26381,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959418,"Chartres Cathedral; Mary, Elizabeth, Daniel (Zechariah); right embrasure, left portal, north transept",26383,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959419,"Chartres Cathedral; Mary, Elizabeth, Daniel (Zechariah); right embrasure, left portal, north transept",26384,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959420,"Chartres Cathedral; Isaiah, Gabriel, Mary; left embrasure jamb figures, left portal, north transept",26385,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959598,"Chartres Cathedral; Nativity; left portal, north transept",28332,3D,inception prior to copyright cutoff,1207-01-01T00:00:00Z
+Q122959449,"Reims; gargoyle between the central and the north portals, west facade",27128,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959450,"Reims; Jesus Christ, pilgrims, angels, Emmaus, hell, Limbo; archivolts on the right side of the north portal, west facade",27129,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959451,"Reims; Simeon, John the Baptist, Isaiah; right jamb figures of the south portal, west facade",27130,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959452,Reims; River of the Paradise; figure on the buttress between the center and the north portals,27131,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959454,"Reims; Presentation in the temple, Queen of Sheba, Isaiah, Joseph, Mary, Simeon, and a servant girl; jamb figure on the buttress between the north and the central portals, west facade, and the left jamb figures of the central portal",27132,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959455,"Reims; Abraham, Isaac, Aaron; right jamb figures of the south portal, west facade",27133,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959456,"Reims; Visitation, Virgin Mary, Elizabeth; right jamb figures of the central portal, west facade",27134,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959457,"Reims; Presentation in the Temple, Anna; left jamb figure of the central portal, west facade",27135,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959458,"Reims; Isaiah, Moses, Abraham, Isaac; right jamb figures of the south portal, west facade",27137,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959459,"Reims; Coronation of the Virgin; archivolts at the top of the center portal, west facade",27138,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959460,"Reims; St. Calixtus, St Nicaisius, Clovis, St. Remi, Job, Jesus Christ; trumeau and tympanum of the central portal, north facade (Portal of Saints)",27139,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959461,"Reims; Coronation of the Virgin; left side of the archivolts of the central porch, west facade",27140,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959462,"Reims; Temptation in the Wilderness, Jesus Christ; left side of the archivolts of the north portal, west facade",27142,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959464,"Reims; Coronation of the Virgin; central portal, west facade",27143,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959465,"Reims; Jesus Christ, Coronation of the Virgin; Rose Window of the south transept",27144,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959467,"Reims; Annunciation, Gabriel and Mary; right jamb figures of the central portal, west facade",27145,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959468,"Reims; Crucifixion, Jesus Christ; gable above the north portal, west facade",27146,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959469,Reims; Virgin and the Child; right portal of the north transept,27147,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959470,"Reims; Passion; left side of the archivolts of the north portal, west facade",27148,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959472,"Reims; Presentation in the temple, Joseph, Mary, Jesus Christ, Simeon; left jamb figures of the central portal, west facade",27149,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959473,"Reims; Jesus Christ, John the Baptist, Herod, Zechariah; statues on the right reverse side of the central portal, west facade",27150,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959474,"Reims; Florent, Eutropia, John, Rigobert, Queen of Sheba, Isaiah, Joseph the father of Jesus, Virgin Mary, Jesus Christ, Simeon; jamb figures flanking the buttress between the north and the central portals, west facade",27151,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959475,"Reims; stained-glass window on the tympanum of the south portal, west facade",27153,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959476,"Reims; Coronation of the Virgin; top portion of the archivolts of the central portal, west facade",27154,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959477,"Reims; Stephen, Nicholas, Helen, Denis, angel; left jamb figures of the north portal, west facade",27155,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959478,"Reims; Last Judgment, Jesus Christ; gable above the south portal, west facade",27156,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959479,"Reims; Creation, God the Creator, Adam, Eve, Cain, Abel, Virgin Mary, Jesus Christ; Rose of the north transept",27157,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959480,Reims; statues of kings in restoration at Tau Museum,27158,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959481,"Reims; Passion of Christ; right side of the archivolts of the north portal, west facade",27159,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959482,"Reims; Visitation, Virgin Mary, Elizabeth; right jamb figures of the central portal, west facade",27160,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959483,"Reims; Book of Revelation, St. John, angels; left side of the archivolts of the south portal, west facade",27161,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959484,"Reims; St. Florent, St. Eutropia, St. John; right jamb figures of the north portal, west facade",27162,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959487,"Reims; St. Nicaisius, St. Eutropia, St. Remi, Job, angels, bishops, patriarchs and popes; left side of the central portal, north transept (Portal of Saints)",27163,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959488,"Reims; St. Florent, St. Eutropia, St. John, St. Rigobert, Queen of Sheba, Isaiah; right jamb figures of the north portal, west facade",27164,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959489,"Reims; Annunciation, Visitation, Gabriel and Mary, Elizabeth, David, Solomon, Bishop Remi, Callixtus; jamb figures between the central and the south portals, west facade",27165,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959490,"Reims; figure on a butress, south facade",27166,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959491,"Reims; John the Baptist, Isaiah, David, Virgin Mary, Anne, Joachim, angel; left reverse side of the central portal, west facade",27167,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959492,Reims; Annunciation; gable of the north transept,27169,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959493,"Reims; St. Nicaisius, St. Eutropia, angel; left jamb figures of the central portal, north transept (Portal of Saints)",27171,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959494,"Reims; Calixtus, Nicaisius, Eutropia, Clovis, Remi, Job, Jesus Christ, bishops, patriarchs, popes, angels, demons; central portal of the north transept (Portal of Saints)",27172,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959495,"Reims; Last Judgment; left side of the archivolts of the south portal, west facade",27173,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959496,"Reims; Presentation in the Temple, Joseph the father of Jesus; left jamb figures of the central portal, west facade",27174,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959497,"Reims; Christmas crib, Massacre of the Innocents, Flight into Egypt, Gideon's Fleece, Burning Bush, Anne, Joachim, Isaiah, Virgin Mary; left reverse side of the central portal, west facade",27175,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959498,"Reims; Last Judgment, Virtues and Vices, the resurrection of the bodies, Jesus Christ (Beau Dieu), St. Paul, St. James, St. John, the elect and the damned, the foolish virgins, deacons, angels; right side of the north portal of the north transept",27176,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959499,"Reims; Presentation in the temple, Mary, the infant Jesus, Simeon; left jamb figures of the central portal, west facade",27178,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959500,"Reims; Helen, Denis, the angel of the smile; left jamb figures of the north portal, west facade",27179,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959501,"Reims; Calixtus, Clovis, Remi, Job, Jesus Christ, bishops, patriarchs, popes, angels, demons; right side of the central portal of the north transept (Portal of Saints)",27180,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959502,"Reims; Coronation of the Virgin, Assumption of the Virgin; central portal and the Rose Window of the west facade",27181,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959503,Reims; sculptures on the buttress of the south tower,27182,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959504,"Reims; Annunciation, Gabriel and Mary; right jamb figures of the central portal, west facade",27183,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959506,"Reims; Annunciation and Visitation: Gabriel, Mary, Elizabeth, David; right jamb figures of the central portal, west facade",27184,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959507,"Reims; Passion, Coronation of the Virgin, Last Judgment; portals of the western facade",27185,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959508,"Reims; Annunciation and Visitation: Gabriel, Mary, Elizabeth, David, Solomon, Bishop Remi, Calixtus, apostles; jamb figures flanking the buttress between the central and the south portals",27186,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959509,"Reims; Seven Plagues of the Seven Cups, Horsemen of the Apocalypse, Trumpets of the Judgment, Thousand Year Reign; top portion of the right archivolts of the south portal, west facade",27187,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959510,"Reims; Last Judgment, Virtues and Vices, the resurrection of the bodies, Jesus Christ (Beau Dieu),  St. Bartholomew, St. Andrew, St. Peter, St. Paul, St. James, St. John, the elect and the damned, Abraham, the wise virgins, the foolish virgins, ...",27188,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959511,"Reims; Abraham, Isaac, Aaron; right jamb figures of the south portal, west facade",27189,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959512,"Reims; Calixtus, apostles; left jamb figures of the south portal, west facade",27190,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959513,"Reims; Last Judgment; tympanum and the archivolts of the south portal, west facade",27191,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959514,"Reims;  Afre, Helen, Jerome, Jesus Christ, the Hebrews, musicians, angels; right side of the archivolts of the central portal, west facade",27192,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959515,"Reims; Coronation of the Virgin; gable of the central portal, west facade",27193,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959516,"Reims; Church, Synagogue, Assumption of the Virgin, Coronation of the Virgin, Jesus Christ; south transept",27194,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959517,"Reims; Litanies of Mary; small rose-window of the central portal, west facade",27195,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959518,"Reims; St. Nicaisius, St. Remi, Job, Jesus Christ; left side of the tympanum of the central portal, the north transept (Portal of Saints)",27196,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959519,Reims; southern tower,27197,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959520,"Reims; Simeon, John the Baptist, Isaiah, Moses, Abraham, Isaac; right jamb figures of the south portal, west facade",27198,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959521,"Reims; Coronation of the Virgin; left side of the archivolts of the central portal, west facade",27199,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959523,"Reims; Last Judgment; right side of the archivolts of the south portal, west facade",27200,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959524,Reims; Coronation of the Virgin; central portal of west facade,27201,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959525,"Reims; Last Judgment, Virtues and Vices, the resurrection of the bodies, Jesus Christ (Beau Dieu), St. Bartholomew, St. Andrew, St. Peter, the elect and the damned, Abraham, the wise virgins, deacons, angels",27202,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959526,"Reims; Annunciation, Gabriel; right jamb figure of the central portal, west facade",27203,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959527,Reims; River of the Paradise; bottom of the arch between the central and south portals,27204,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959528,Reims; Saints; central portal of the north transept (Portal of Saints),27205,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959529,Reims; gargoyle between the central and the south portals,27206,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959530,"Reims; Conversion of Paul; lintel of the south portal, west facade",27207,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959531,"Reims; St. Remi, St. Calixtus, apostles; left jamb figures of the south portal, west facade",27208,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959533,"Reims; Melchizedek, Abraham, John the Baptist, Herod; reverse side of the central portal, west facade",27209,3D,inception prior to copyright cutoff,1211-01-01T00:00:00Z
+Q122959372,"Chartres Cathedral; Saint George; right embrasure, left portal, south transept",26322,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959373,"Chartres Cathedral; Saints Stephen, Clement, Lawrence; left embrasure jamb figures, left portal, south transept",26323,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959374,"Chartres Cathedral; Roland, Saints Stephen, Clement, Lawrence; left embrasure jamb figures, left portal, south transept",26324,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959375,"Chartres Cathedral; Christ and Stephen the Martyr; tympanum and lintel, left portal, south transept",26325,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959376,"Chartres Cathedral; Saints and Martyrs Leo, Martin, Lubin, Benoit, Anthony, Avit; west side, rightmost column of porch, south transept",26337,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959378,"Chartres Cathedral; Confessors; right embrasure, right portal, south transept",26341,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959379,"Chartres Cathedral; Apostles Paul, John, James the Major, James the Minor, Bartholomew; right embrasure jamb figures, central portal, south transept",26342,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959380,"Chartres Cathedral; Christ as Supreme Judge; central portal, south transept",26343,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959381,"Chartres Cathedral; Christ as trumeau figure; central portal, south transept",26344,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959382,"Chartres Cathedral; Apostles; left embrasure, central portal, south transept",26345,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959383,"Chartres Cathedral; Apostles Peter and Andrew; left embrasure, central portal, south transept",26346,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959384,"Chartres Cathedral; Heaven; left archivolts, central portal, south transept",26347,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959385,"Chartres Cathedral; Apostle Paul and scenes of hell; right side, central portal, south transept",26348,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959386,"Chartres Cathedral; Christ as Supreme Judge; central portal, south transept",26350,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959387,"Chartres Cathedral; Apostles John, James the Major, James the Minor; right embrasure, central portal, south transept",26351,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959388,"Chartres Cathedral; donor figures with bread; below trumeau, central portal, south transept",26352,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959389,"Chartres Cathedral; separation of the saved and the damned; lintel, central portal, south transept",26353,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959406,"Chartres Cathedral; Laumer, Silvester, Ambrose, Nicholas; left embrasure jamb figures, right portal, south transept",26370,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959408,"Chartres Cathedral; St. Lomer ( also known as Launomarus of Corbion); between central and right portal, south transept",26371,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959409,"Chartres Cathedral; tonsured priest; right embrasure, right portal, south transept",26372,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959411,"Chartres Cathedral; Apostle Jude; between central and right portal, south transept",26374,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959421,"Chartres Cathedral; bakers or bread donors; figures below trumeau, central portal, south transept",26391,3D,inception prior to copyright cutoff,1212-01-01T00:00:00Z
+Q122959603,Elijah Meets Obadiah,29198,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959604,Angel's Warning to the Three Wise Men,29202,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959605,Later Life of the Three Wise Men,29203,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959606,Burning of the Ship of the Three Wise Men,29204,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959607,Herod's Order to Burn the Ship of the Three Wise Men,29205,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959608,Solomon's Prayer of Dedication for the Temple,29206,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959609,Solomon Answers the Questions of the Queen of Sheba,29207,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959611,"Balaam's Prophecy of ""Star of Jacob""",29208,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959612,Isaiah Prophesying the Adoration of Christ,29209,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959613,Herod's Inquiry into the Birthplace of the Messiah,29210,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959614,"Massacre of the Innocents, stone",29211,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959615,Solomon on His Throne,29212,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959616,Queen of Sheba's Visit to Solomon,29213,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959617,Obadiah Feeding Prophets,29214,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959618,Veneration of Idol,29215,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959619,Personification of Despair,29216,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959620,Personfication of Avarice,29217,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959621,Embrace of Lust,29218,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959622,Folly Bites on Stone,29219,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959624,Fall of Pride,29220,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959625,Ezekiel's Vision of Man with Measuring Reed,29221,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959626,Daniel's Interpretation of the Writing on the Wall,29222,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959627,Personification of Faith,29224,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959628,Personification of Hope,29225,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959629,Personification of Charity,29226,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959630,Personification of Chastity,29227,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959631,Personification of Prudence,29228,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959632,Personification of Humility,29229,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959634,Ezekiel's symbols - wheel within a wheel and hem of his robe.,29230,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959635,Daniel in the Lion's Den,29231,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959636,Nahum Prophesying against Nineveh,29232,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959637,Wolf and the Crane,29233,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959638,Example of Cowardice,29234,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959639,Example of Anger,29235,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959640,Example of Bad Behavior,29236,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959641,Example of Disobedience,29237,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959642,Example of Inconstancy,29238,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959643,Purification of Isaiah,29239,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959644,Breaking of Jeremiah's Yoke,29240,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959646,Spears Are Beaten into Pruning Hooks,29241,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959647,The Fox and the Rooster from Aesop's Fables,29242,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959649,Personification of Fortitude,29243,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959650,Personification of Patience,29244,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959651,Personification of Gentleness,29245,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959652,Personification of Concord,29246,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959653,Personification of Obedience,29247,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959654,Personification of Perseverance,29248,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959655,Isaiah's Vision of God on the Throne,29250,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959656,Jeremiah Buries His Girdle,29251,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959657,Swords Are Beaten into Plowshares,29252,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959658,Moses before the Burning Bush,29253,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959659,Aaron with the Blossoming Rod,29254,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959661,Elizabeth Giving Birth to John the Baptist,29255,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959662,Naming of John the Baptist,29256,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959663,Child Jesus among the Teachers in the Temple,29257,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959664,Return of the Holy Family from Egypt,29258,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959665,Amos the Herdsman,29259,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959666,Nebuchadnezzar's dream,29260,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959667,Gideon's fleece,29261,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959668,Reaping the Grain Harvest,29262,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959669,Harvesting,29263,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959670,Annunciation of the Birth of John to Zechariah,29265,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959671,Zechariah and Elizabeth Reacting to the Annunciation of the Birth of John the Baptist,29266,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959672,"Flight into Egypt, stone",29267,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959673,Fall of the Idols,29268,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959674,Amos' Vision of God Constructing a Wall,29269,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959675,Sowing of Winter Crop,29270,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959676,Treading of Grapes for Wine,29271,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959677,Harvesting of Fruit,29272,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959679,Threshing of the Grain,29273,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959680,God Afflicts the Land with Drought,29276,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959681,Sagittarius the Archer,29277,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959682,Scorpio the Scorpion,29279,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959683,Libra as Justice Holding Scales,29280,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959684,Virgo the Virgin,29281,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959685,Leo the Lion,29282,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959686,Cancer the Crab,29283,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959687,Rebuilding of the House of God,29284,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959688,"Haggai's prophetic speech, Fall into Ruin of the House of God",29285,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959689,Rise of Wickedness,29286,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959690,God Speaks to the People of Israel,29287,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959691,Fall into Ruin of the House of God,29288,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959693,Rise of Wickedness,29289,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959694,God's Condemnation of Polluted Sacrifice,29291,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959695,Destruction of Nineveh,29292,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959696,Daniel in the Lion's Den,29293,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959697,Ruin of Nineveh,29294,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959698,The Destruction of Nineveh,29295,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959699,Writing of the Vision of Habakkuk,29296,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959700,God's Destruction of the Ethiopians,29297,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959701,"Ahab, Elijah and Obadiah",29298,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959702,Jonah under a Bush outside Nineveh,29299,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959703,Micah's Prophecy of the Vine,29300,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959705,Elijah Commands Obadiah,29301,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959706,Jonah Being Cast out of the Belly of the Fish,29302,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959707,Micah Prophesying before the Tower,29303,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959708,Preparing of Game for a Feast,29304,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959709,Two-Headed Man (Janus) at the Table of Feast,29305,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959710,Man Warming Himself by the Fire,29306,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959711,Vine-Cultivation,29307,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959712,Hunting with a Falcon,29308,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959713,Garden in Spring,29309,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959715,Ruin of Nineveh,29310,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959716,Capricorn,29311,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959717,Aquarius,29312,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959718,Pisces the Fish,29313,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959720,Aries the Ram,29314,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959721,Taurus the Bull,29315,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959722,Gemini (the Twins),29316,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959723,God Searching Jerusalem with Lamps,29317,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959725,"West facade, left portal, right side",29318,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959726,"West facade, left portal, left side",29319,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959727,"West facade, central portal, left side",29320,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959728,"West facade, central portal, right side",29321,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959729,"West facade, right portal, right side",29322,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959730,"Amiens Cathedral, West facade, right portal, left side",29324,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959732,"Mary, Queen of Heaven",29325,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959733,"Last Judgment, Cathédrale d'Amiens",29327,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959734,"Last Judgment, Cathédrale d'Amiens (Detail)",29329,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959735,Christ treading on beasts,29330,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959736,St. Firmin's Relics,29331,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959738,"Amiens Cathedral, West portal",29332,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959739,"Amiens Cathedral, West portal",29333,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959740,"Amiens Cathedral, West portal",29334,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959741,Christ Treading on Beasts,29336,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959780,King Belshazzar's Feast,29415,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959785,Amos' Visions of the Impending Devastation that God Speaks to Amos,29428,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959786,Amos' Visions of the Impending Devastation that Amos Speaks to God,29429,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959788,Joel's Prophecies Regarding the Darkening of the Sun and the Moon,29432,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959789,God Appearing to Amos the Shepherd,29433,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959790,God Creates Adam and Eve,29434,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959791,God Warns Adam and Eve not to Eat from the Tree of Knowledge of Good and Evil,29435,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959792,Angel Keeps Adam and Eve out of Paradise with a Flaming Sword,29436,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959793,God Creates Adam,29437,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959794,God Creates Eve from Adam,29438,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959796,Adam and Eve Holding and Eating the Fruit,29439,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959797,Adam Digging the Earth and Eve Spinning,29440,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959798,"Annunciation and Visitation, stone sculpture",29442,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959799,Christ at Last Judgment with Mary and John the Baptist,29444,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959800,Christ at Last Judgment,29445,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959801,Christ at Last Judgment (Detail),29446,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959802,"Last Judgment, Cathédrale d'Amiens (Detail)",29447,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959803,"Last Judgment, Cathédrale d'Amiens (Detail)",29449,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959805,"Last Judgment, Cathédrale d'Amiens (Detail)",29450,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959806,"Last Judgment, Cathédrale d'Amiens (Detail)",29451,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959807,"Last Judgment, Cathédrale d'Amiens (Detail)",29452,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959808,"Last Judgment, Cathédrale d'Amiens (Detail)",29453,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959810,"Last Judgment, Cathédrale d'Amiens (Detail)",29454,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959811,Wise Virgins,29455,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959812,John the Baptist's Warning about the impending judgment,29456,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959813,Hosea Takes Gomer to Be His Wife,29457,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122959815,Hosea Takes Gomer to Be His Wife -- second instance paying 15 shekels of silver,29458,3D,inception prior to copyright cutoff,1230-01-01T00:00:00Z
+Q122960029,"Madonna and Child, Clermont-Ferrand fresco",47036,3D,inception prior to copyright cutoff,1250-01-01T00:00:00Z
+Q122960030,Clermont-Ferrand fresco,47037,3D,inception prior to copyright cutoff,1250-01-01T00:00:00Z
+Q122960032,Clermont-Ferrand fresco,47038,3D,inception prior to copyright cutoff,1250-01-01T00:00:00Z
+Q122959439,"Sens; Martyrdom of St. Stephen; central portal, west facade",27117,3D,inception prior to copyright cutoff,1270-01-01T00:00:00Z
+Q122960352,Charity,56299,3D,inception prior to copyright cutoff,1330-01-01T00:00:00Z
+Q122959779,Amiens - rose window,29400,3D,inception prior to copyright cutoff,1380-01-01T00:00:00Z
+Q122960351,"Scene from Labors of the Month, August",55881,3D,inception prior to copyright cutoff,1450-01-01T00:00:00Z
+Q122960343,Virgin and Child,54366,3D,inception prior to copyright cutoff,1490-01-01T00:00:00Z
+Q122959410,Chartres Cathedral; John the Baptist; north tower,26373,3D,inception prior to copyright cutoff,1500-01-01T00:00:00Z
+Q122960345,The Rest on the Flight into Egypt,54370,3D,inception prior to copyright cutoff,1500-01-01T00:00:00Z
+Q122959742,James the Great and the Conversion of Hermogenes the Sorcerer,29337,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959743,James the Great and the conversion of Hermogenes the Sorcerer,29338,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959744,James the Great and the Conversion of Hermogenes the Sorcerer,29339,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959745,James the Great and the Conversion of Hermogenes the Sorcerer,29341,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959746,James the Great and the Conversion of Hermogenes the Sorcerer,29342,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959747,James the Great and the Conversion of Hermogenes the Sorcerer,29343,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959748,Martyrdom and Death of John the Baptist,29344,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959749,Martyrdom and Death of John the Baptist,29345,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959750,Martyrdom and Death of John the Baptist,29346,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959751,Martyrdom and Death of John the Baptist,29347,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959753,Martyrdom and Death of John the Baptist,29348,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959754,John the Baptist's Preaching and the Baptism of Christ,29349,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959755,Preaching of John the Baptist,29350,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959756,John the Baptist and the Baptism of Christ,29351,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959757,John the Baptist disputing,29352,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959758,John the Baptist Identifies Jesus as the Lamb of God,29353,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959759,John the Baptist in the Wilderness,29354,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959760,Zechariah naming John the Baptist,29355,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959761,Elizabeth's Naming of John the Baptist,29356,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959762,Circumcision of John the Baptist,29357,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959763,Birth of John the Baptist with Mary the Mother of Jesus,29358,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959764,Mary's Stay in the House of Elizabeth,29359,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959765,Annunciation of the Birth of John the Baptist to Zacharias,29360,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959766,Zechariah Coming out of the Temple Speechless,29361,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959767,Meeting of Zecharias and Elizabeth,29362,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959769,Visitation of Mary,29363,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959770,Jesus in the Temple and other Temple activities,29364,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959771,Jesus Teaching in the Temple,29391,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959772,Angel Appears to Joseph; Flight into Egypt,29392,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959773,Marriage feast at Cana,29393,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959774,Noah's Sacrifice,29395,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959775,Ark Floating on the Flood Waters,29396,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959776,Creation of Adam and Eve,29397,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959777,"Annunciation, wood carving",29399,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959782,Jesus' cleansing of the Temple,29417,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122959783,Jesus' healing of the lame in the Temple,29418,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960163,In process,51538,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960164,Dove After the Flood,51539,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960165,"Flight into Egypt, wood",51540,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960166,Marriage Feast at Cana - detail,51541,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960167,Jesus Teaching the Disciples,51542,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960168,Mary as a Young Girl,51543,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960169,"Annunciation, stained glass",51544,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960170,Visitation,51545,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960172,Angel Appears to Joseph,51546,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960173,Joseph is betrothed to Mary,51547,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960175,Canon Singing,51548,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960177,Birth of Mary,51549,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960178,Jesus Teaching in the Temple,51550,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960179,"Massacre of the Innocents, wood",51551,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960180,Jesus Returning to Nazareth,51552,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960181,"Choirstall woodcarving of the Pentecost, with tongues of fire descending upon the apostles, 1508-1519.",51553,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960183,"Jesus visits his mother, Mary, and the Assumption of Mary",51554,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960184,"Choirstall woodcarving of the Pentecost, with tongues of fire descending upon the apostles, detail, 1508-1519.",51555,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960185,Nativity,51556,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960186,Visitation of the Magi,51558,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960187,Jesus Baptizing,51559,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960188,Jesus the Good Shepherd,51560,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960189,The Prodigal Son,51561,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960190,Jesus Heals the Lame,51562,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960191,"Crucifixion, the spear or lance piercing Jesus' side",51563,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960192,Life of Jesus,51564,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960193,Mourning of Jesus,51565,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960194,Resurrection,51566,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960195,Ascension,51567,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960196,Baptism of Christ,51568,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960197,Jesus Before Pilate,51569,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960199,Jesus Carrying the Cross,51570,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960200,"Jesus Carrying the Cross, Speaking to a Woman",51571,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960201,Crucifixion,51572,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960202,Flagellation of Christ,51573,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960203,Noli me tangere,51574,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960353,"Choirstall woodcarving of the Pentecost, with tongues of fire descending upon the apostles, detail",58964,3D,inception prior to copyright cutoff,1513-01-01T00:00:00Z
+Q122960350,Saint Anne with the Virgin and Christ Child,54375,3D,inception prior to copyright cutoff,1520-01-01T00:00:00Z
+Q122960344,"A Sermon on Charity, detail",54368,3D,inception prior to copyright cutoff,1522-01-01T00:00:00Z
+Q122960348,Saint Maurice,54372,3D,inception prior to copyright cutoff,1523-01-01T00:00:00Z
+Q122960347,"Adoration of the Magi, detail",54371,3D,inception prior to copyright cutoff,1526-01-01T00:00:00Z
+Q122960015,Clermont-Ferrand stained glass,47024,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960016,Clermont-Ferrand stained glass,47025,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960017,Clermont-Ferrand stained glass,47026,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960018,Clermont-Ferrand stained glass,47027,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960019,Clermont-Ferrand stained glass,47028,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960020,Clermont-Ferrand stained glass,47029,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960021,Clermont-Ferrand stained glass,47030,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960023,Clermont-Ferrand stained glass,47031,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960024,Clermont-Ferrand stained glass,47032,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960025,Clermont-Ferrand stained glass,47033,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960027,Clermont-Ferrand stained glass,47034,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960028,Clermont-Ferrand stained glass,47035,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960034,Clermont-Ferrand stained glass,47039,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960035,Clermont-Ferrand stained glass,47040,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960036,Clermont-Ferrand stained glass,47041,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960037,Clermont-Ferrand stained glass,47042,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960038,Clermont-Ferrand stained glass,47043,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960039,Clermont-Ferrand stained glass,47044,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960041,Clermont-Ferrand stained glass,47045,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960042,Clermont-Ferrand stained glass,47046,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960043,Clermont-Ferrand stained glass,47047,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960044,Clermont-Ferrand stained glass,47048,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960045,Clermont-Ferrand stained glass,47049,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960046,Clermont-Ferrand stained glass,47050,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960047,Clermont-Ferrand stained glass,47051,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960049,Clermont-Ferrand stained glass,47052,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960050,Clermont-Ferrand stained glass,47053,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960051,Clermont-Ferrand stained glass,47054,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960053,Clermont-Ferrand stained glass,47055,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960054,Clermont-Ferrand stained glass,47056,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960055,Clermont-Ferrand stained glass,47057,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960056,"The Woman and the Beast, Clermont-Ferrand stained glass",47058,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960057,The Woman and the Beast; Clermont-Ferrand stained glass,47059,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960058,"The Woman and the Beast from Revelation, Clermont-Ferrand stained glass",47060,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960059,"The Woman and the Beast, Clermont-Ferrand stained glass, details",47061,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960061,Clermont-Ferrand stained glass,47062,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960062,Clermont-Ferrand stained glass,47063,3D,inception prior to copyright cutoff,1600-01-01T00:00:00Z
+Q122960349,Virgin and Child with Saint Catherine of Alexandria,54374,3D,inception prior to copyright cutoff,1632-01-01T00:00:00Z
+Q122960314,The Macklin Bible -- Christ's Passion,54053,3D,inception prior to copyright cutoff,1791-01-01T00:00:00Z
+Q122960317,The Macklin Bible -- The Transfiguration,54058,3D,inception prior to copyright cutoff,1791-01-01T00:00:00Z
+Q122960324,The Macklin Bible -- The Marys at the Sepulchre,54065,3D,inception prior to copyright cutoff,1791-01-01T00:00:00Z
+Q122960339,The Macklin Bible -- Departure of Hagar,54092,3D,inception prior to copyright cutoff,1791-01-01T00:00:00Z
+Q122960311,The Macklin Bible -- The Woman of Samaria,54050,3D,inception prior to copyright cutoff,1792-01-01T00:00:00Z
+Q122960335,The Macklin Bible -- Christ Appeasing the Storm,54077,3D,inception prior to copyright cutoff,1792-01-01T00:00:00Z
+Q122960337,The Macklin Bible -- John Preaching in the Wilderness,54080,3D,inception prior to copyright cutoff,1792-01-01T00:00:00Z
+Q122960333,The Macklin Bible -- The Lord of the Vineyard,54075,3D,inception prior to copyright cutoff,1793-01-01T00:00:00Z
+Q122960336,The Macklin Bible -- The Devil Leaving Christ,54079,3D,inception prior to copyright cutoff,1793-01-01T00:00:00Z
+Q122960338,The Macklin Bible -- The Holy Family - Frontispiece of the New Testament,54081,3D,inception prior to copyright cutoff,1793-01-01T00:00:00Z
+Q122960300,The Macklin Bible -- The Shipwreck of St. Paul,54041,3D,inception prior to copyright cutoff,1794-01-01T00:00:00Z
+Q122960310,The Macklin Bible -- The Woman Accused of Adultery,54049,3D,inception prior to copyright cutoff,1794-01-01T00:00:00Z
+Q122960316,The Macklin Bible -- The Widow's Mite,54055,3D,inception prior to copyright cutoff,1794-01-01T00:00:00Z
+Q122960323,The Macklin Bible -- The Annunciation,54063,3D,inception prior to copyright cutoff,1794-01-01T00:00:00Z
+Q122960328,The Macklin Bible -- Christ Appearing to the Marys,54069,3D,inception prior to copyright cutoff,1794-01-01T00:00:00Z
+Q122960301,The Macklin Bible -- Paul expelling the Evil Spirit from the Damsel of Philippi,54042,3D,inception prior to copyright cutoff,1795-01-01T00:00:00Z
+Q122960304,The Macklin Bible -- The Angel Freeing the Apostles,54045,3D,inception prior to copyright cutoff,1795-01-01T00:00:00Z
+Q122960325,The Macklin Bible -- Of Such is the Kingdom of Heaven,54066,3D,inception prior to copyright cutoff,1795-01-01T00:00:00Z
+Q122960326,The Macklin Bible -- Christ Walking on the Sea,54067,3D,inception prior to copyright cutoff,1795-01-01T00:00:00Z
+Q122960327,The Macklin Bible -- The Raising of Jairus’s Daughter,54068,3D,inception prior to copyright cutoff,1795-01-01T00:00:00Z
+Q122960306,The Macklin Bible -- The Death of Sapphira,54046,3D,inception prior to copyright cutoff,1796-01-01T00:00:00Z
+Q122960319,The Macklin Bible -- St. John (John the Baptist),54059,3D,inception prior to copyright cutoff,1796-01-01T00:00:00Z
+Q122960322,The Macklin Bible -- The Angels Appearing to the Shepherds,54062,3D,inception prior to copyright cutoff,1796-01-01T00:00:00Z
+Q122960334,The Macklin Bible -- Touching the Hem of the Garment,54076,3D,inception prior to copyright cutoff,1796-01-01T00:00:00Z
+Q122960298,The Macklin Bible -- The Angel Binding Satan,54038,3D,inception prior to copyright cutoff,1797-01-01T00:00:00Z
+Q122960303,The Macklin Bible -- The Conversion of St. Paul,54044,3D,inception prior to copyright cutoff,1797-01-01T00:00:00Z
+Q122960308,The Macklin Bible -- Christ and Mary Magdalene,54047,3D,inception prior to copyright cutoff,1797-01-01T00:00:00Z
+Q122960320,The Macklin Bible -- The Presentation in the Temple,54060,3D,inception prior to copyright cutoff,1797-01-01T00:00:00Z
+Q122960331,Macklin Bible - The Resurrection,54073,3D,inception prior to copyright cutoff,1797-01-01T00:00:00Z
+Q122960341,The Macklin Bible -- St. John's Vision,54121,3D,inception prior to copyright cutoff,1797-01-01T00:00:00Z
+Q122960302,The Macklin Bible -- The Angel Appearing to Cornelius,54043,3D,inception prior to copyright cutoff,1798-01-01T00:00:00Z
+Q122960309,The Macklin Bible -- The Woman Wiping Jesus’s Feet,54048,3D,inception prior to copyright cutoff,1798-01-01T00:00:00Z
+Q122960313,The Macklin Bible -- Christ at Emmaus,54052,3D,inception prior to copyright cutoff,1798-01-01T00:00:00Z
+Q122960329,The Macklin Bible -- Peter Denying Christ,54072,3D,inception prior to copyright cutoff,1798-01-01T00:00:00Z
+Q122960340,The Macklin Bible -- Christ and Zebedee's Children,54119,3D,inception prior to copyright cutoff,1798-01-01T00:00:00Z
+Q122960315,The Macklin Bible -- Peter's Repentance,54054,3D,inception prior to copyright cutoff,1799-01-01T00:00:00Z
+Q122960299,The Macklin Bible -- The Vision of the White Horse,54040,3D,inception prior to copyright cutoff,1800-01-01T00:00:00Z
+Q122960312,The Macklin Bible -- Nicodemus Came to Jesus by Night,54051,3D,inception prior to copyright cutoff,1800-01-01T00:00:00Z
+Q122960342,The Macklin Bible -- Jesus Betrayed,54122,3D,inception prior to copyright cutoff,1800-01-01T00:00:00Z
