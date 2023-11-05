@@ -1,0 +1,293 @@
+# ----------------
+# General settings
+# ----------------
+
+# Behavoir
+# --------
+
+# The following settings control which parts of the upload process will be done by the script.
+# The first two control the major upload functions: 
+# whether to do a commons upload and whether to load into a IIIF server and create a manifest for the work.
+perform_commons_upload: true
+perform_iiif_upload: true
+
+# The next settings allow you to suppress particular parts of the major upload functions. This would 
+# typically only be done if part of an upload fails and needs to be redone, or if some parts need to
+# be redone (such as uploading a new file to the IIIF server, redo the manifest, etc.). They will be
+# ignored if the major functions are disabled by the settings above. These need to be used with caution,
+# particularly if they only need to be done on a single file. The script may fail if a later part 
+# requires the result of an earlier part that has never been completed.
+suppress_media_upload_to_commons: false
+suppress_uploading_structured_data_to_commons: false
+suppress_uploading_media_to_iiif_server: false
+suppress_create_upload_iiif_manifest: false
+suppress_outputing_updated_upload_records: false
+
+# Places a limit on the number of Wikidata items whose images will be uploaded in a session. 
+# To remove the limit, use zero or a negative value.
+max_items_to_upload: 1
+
+# Controls whether the newly created Commons media page opens in a new browser window. 
+# Useful when testing on a few images, but may be annoying if uploading many media items.
+open_browser_tab_after_upload: true
+
+# Controls whether to show works that have been skipped over and the reason for skipping.
+# true shows the information and false suppresses display.
+verbose: false
+
+
+# Wikimedia Commons API login credentials
+# -----------
+
+# The format of the credentials file is as follows (disregarding the initial "# " in each line):
+
+# endpointUrl=https://commons.wikimedia.org
+# username=User@bot
+# password=465jli90dslhgoiuhsaoi9s0sj5ki3lo
+
+# Username and password are for a bot that you've created.
+# The file must be plain text. 
+
+# The credentials_path value (below) specifies location of the Wikimedia login credentials file. It may be a simple 
+# file name or may be an absolute or relative path. 
+# You must take care to isolate that file from the code and configuration files if they are publicly 
+# exposed (e.g. on GitHub). 
+# Setting the credentials_path_relative_to_home_directory to true appends the value of credentials_path to the path 
+# to the home directory as determined by the operating system. In that case, you should either provide a simple file 
+# name if that file is placed in the home directory, or provide a path relative to the home directory (no leading slash), 
+# ending in the file name. 
+# If you want to specify an absolute path, set credentials_path_relative_to_home_directory to false and provide the
+# full path to the file as the value of credentials_path. 
+# Warning: If you set credentials_path_relative_to_home_directory to false, it is dangerous to set a path relative to
+# the working directory since the working directory and its subdirectories may be exposed publicly if they are published.
+credentials_path: commons_credentials.txt
+credentials_path_relative_to_home_directory: true
+
+
+# File names and locations
+# --------------
+
+# When value is present, sets path value as working directory. To leave working directory as is, leave blank.
+# Data files are relative to this directory. The error log is in this directory.
+# The commons_images.csv file that logs data about the uploaded images is also in this directory.
+working_directory_path: /users/baskausj/github/vandycite/act/richardson_upload/
+
+# Paths of the following four files are relative to the working directory path above.
+
+# Input file with data on qid, local identifier, dimension (2D or 3D), and status (copyright) of artworks.
+# Any other columns are unused.
+artwork_items_metadata_file: artwork_metadata.csv
+
+# Input file with image metadata (file size, creation date, pixel dimensions, foreign key to accession, etc.)
+# Some of these data can be extracted automatically from the EXIF data of the file in a pre-prossing step.
+image_metadata_file: images.csv
+
+# Output file for record keeping of Commons uploads. It isn't necessarily needed as input to any other script.
+# It is also opened at the start and used to determine which images have already been uploaded.
+existing_uploads_file: commons_images.csv
+
+# File used by VanderBot to add image and IIIF manifest claims (used only by transfer_to_vanderbot.py)
+vanderbot_upload_file: act_artworks.csv
+
+# Controls whether paths for images to upload are relative to the home directory or not. 
+# If not, they may be absolute or relative to the current working directory.
+path_is_relative_to_home_directory: true
+local_image_directory_path: act_upload/ # location of raw images to upload
+
+
+# Screening criteria
+# ----------------------------------------------------------------------
+
+# If a particular screening criterion is set to false, the subsequent values are irrelevant
+screen_by_copyright: true
+public_domain_categories:
+  # 100 years or more after author's death
+  - reason: artist died before copyright cutoff
+    applies: Q60332278
+    method: Q29940705
+  # 100 years or more after author's death
+  - reason: artist was born before 1800
+    applies: Q60332278
+    method: Q29940705
+  # determined by GLAM institution and stated at its website
+  - reason: assessed to be out of copyright
+    applies: Q60332278
+    method: Q61848113
+  # published more than 95 years ago
+  - reason: from style or period that ended prior to copyright cutoff
+    applies: Q30
+    method: Q47246828
+  # published more than 95 years ago
+  - reason: inception prior to copyright cutoff
+    applies: Q30
+    method: Q47246828
+copyright_cutoff_date: 1926
+
+screen_by_file_characterstic: false
+# size_filter options are pixsquared or filesize (filetype not yet implemented)
+size_filter: pixsquared
+#size_filter:
+minimum_filesize: 100 # minimum filesize in kilobytes, only used for filesize filter (originally used 1000)
+minimum_pixel_squared: 100000 # minimum (pixelWidth x pixelHeight) value, only used for pixsquared filter (originally used 1000000)
+requrired_filetype: tiff # required filetype, only used for filetype filter (not yet implemented)
+
+# ---------------------------
+# Settings required for Commons uploads
+# ---------------------------
+
+# Currently only affects language tag designation for the caption for structured data on Commons
+default_language: en
+
+# Provides the text value to be used in the source field of the Artwork template.
+# As of 2022-09-01, leaving this out generates the warning 
+# "This file is lacking source information. Please edit this file's description and provide a source. "
+# Including the image source in the structured data doesn't seem to be enough.
+source: Vanderbilt Libraries Art in the Christian Traditions database
+
+# Providing information about the image file source is strongly suggested for artworks. See 
+# https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling/Visual_artworks#Basic_structured_data_(SDC)
+# For suggested values see https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling/Source
+
+# Can use "file available on the internet" (Q74228490), but then need to provide qualifiers P973 (described at URL) 
+# and P137 (operator).
+# Q66458942 (original creation by uploader) doesn't really seem to fit in our circumstance since Baskaufs 
+# is doing the uploading but the images are created by Vanderbilt as an institution. So as of
+# 2022-09-01 I'm using the Vanderbilt Q ID (Q29052) to match what's given in the license for 3D works.
+source_qid: Q74228490
+
+# The following values are only necessary if source_qid has a value of "file available on the internet" (Q74228490).
+# Otherwise they are ignored. The unique ID (value in the column identified by local_identifier_column_name)
+# will be appended to the end of the URL root to form the value for P973.
+described_at_url_root: https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=  # root URL for the image page
+operator_qid: Q16849893 # Vanderbilt Heard Libraries
+
+# The name of the institution to be inserted between the descriptive text and the local filename to form
+# the Commons filename. Example: 
+# Four Studies of a Draped Torso - Vanderbilt Fine Arts Gallery - 1973.016.med.jpg
+filename_institution: Vanderbilt ACT
+
+# Commons categories to be added to the images.
+category_strings:
+  - Art in the Christian Tradition
+
+# Copyright and license configuration
+# -----------------------------------
+
+# Page wikitext templates
+
+# NOTE: The PD-old-100-expired tag provides notices for both US: more than 95 years (Q47246828)
+# and countries where copyright expires 100 or fewer years after author's death (Q29940705)
+# It's used here because all works to be posted from the Vanderbilt Fine Arts Gallery are
+# covered in one or the other of these categories. However, the called function allows other reasons
+# that could vary from work to work and would require modification of this value.
+artwork_license_text_3d: PD-old-100-expired
+
+# Refer to https://commons.wikimedia.org/wiki/Commons:Licensing#License_information
+# https://commons.wikimedia.org/wiki/Commons:Credit_line#Creative_Commons
+# and https://commons.wikimedia.org/wiki/Template:Cc-by-4.0
+photo_license_text_3d: Cc-by-sa-4.0 |1=photo © Jim Womack and Anne Richardson [https://creativecommons.org/licenses/by-sa/4.0/ CC BY-SA 4.0]
+
+# The PD-Art tag provides the justification for saying that the photo isn't covered by copyright.
+# See the note above about PD-old-100-expired.
+artwork_license_text_2d: PD-Art|PD-old-100-expired
+
+# Structured data on Commons (SDC) values
+
+# Note that SDC values apply to the media item and not the underlying artwork. Licensing information for the
+# artwork is given on the Wikidata page for the artwork. So these values are only used for photos of 3D artwork
+# since 2D artwork is considered to lack creative input and therefore not be copyrightable.
+
+# Copyright status of photograph of a 3D work, value for P6216
+# copyrighted (Q50423863) or 
+# copyrighted, dedicated to the public domain by copyright holder (Q88088423, use with CC0),
+# or public domain (Q19652, needs qualifier for why it's in the public domain)
+photo_copyright_qid: Q50423863
+
+# License of copyrighted photo, value for P275
+# Typically a Creative Commons License, for example CC BY (Q6905323), CC BY-SA (Q18199165)
+photo_license_qid: Q18199165
+
+# For photographer structured data. For a single photographer, provide a Q ID (no quotes required). For multiple authors,
+# provide a JSON array of Q IDs (quotes required, comma separated, enclosed in square brackets).
+photographer_of_work: ["Q113821490", "Q121435965"] # Anne C. Richardson, Jim Womack
+
+
+# ----------------------------------
+# Settings required for IIIF uploads
+# ----------------------------------
+
+# Attribution for IIIF manifest
+iiif_manifest_attribution: Provided by Vanderbilt Art in the Christian Tradition database
+
+# URL of logo to include in IIIF manifest. Leave blank to omit.
+iiif_manifest_logo_url: https://iiif.library.vanderbilt.edu/iiif/2/vanderbilt_logo.png/full/!100,100/0/default.jpg
+
+# Also controlled by the path_is_relative_to_home_directory value
+# For large TIFF files, this format is important for the files to load quickly
+tiff_image_directory_path: act_pyramidal_tiffs/ # location of pyramidal tiled TIFF images
+
+# File locations in AWS S3
+s3_iiif_bucket_name: iiif-library-cantaloupe-storage
+s3_manifest_bucket_name: iiif-manifest.library.vanderbilt.edu
+# The s3_iiif_project_directory is a subdirectory of these buckets. No trailing slash.
+# The subdir value in the image data is a subdirectory of this one.
+s3_iiif_project_directory: act
+
+# Root URLs for IIIF-related files
+iiif_server_url_root: https://iiif.library.vanderbilt.edu/iiif/2/
+manifest_iri_root: https://iiif-manifest.library.vanderbilt.edu/
+
+# Column in the artwork metadata file to be used as the local identifier in the manifest IRI
+local_identifier_column_name: act_id
+
+# If this setting is enabled, IIIF manifests will be organized within subdirectories based
+# on the first part of the work local identifier (preceding the first split character in the identifier). 
+# This is reflected in the manifest IRIs. If disabled, no subdirectory is used.
+organize_manifests_in_subdirectories: false
+# Character to be used to split the local identifier
+subdirectory_split_character: "."
+
+# If true, the inventory number will be retrieved from Wikidata and included as accession number in manifest.
+supply_accession_number: false
+# The collection Q ID is used to specify the institution whose inventory number will be used (in the case where
+# several institutions have assigned inventory numbers to the same work). Ignored if supply_accession_number is
+# false.
+collection_qid: Q18563658
+
+# ----------------------------------------------------------------------
+# DO NOT MESS WITH VALUES BELOW THIS UNLESS YOU KNOW WHAT YOU ARE DOING!
+# ----------------------------------------------------------------------
+
+# Non-critical edits to commons should be made no faster than once every 5 seconds. 
+# See https://commons.wikimedia.org/wiki/Commons:Bots#Bot_speed
+# Therefore a waiting time of at least 5 seconds is enforced between file uploads to commons by the value of commons_sleep.
+
+# IMPORTANT NOTE: If you hack this script to upload media to Commons, you MUST NOT decrease the delay time between
+# Commons API uploads to less than 5 seconds in order to speed up writing. If you do, then your script isn't 
+# BaskaufCommonsBot and you need to change the user_agent_string_template to use your own URL and email address.
+# The same holds true if you make other substantive changes to the way that the script interacts with the API.
+# This script attempts to respect the "good citizen" guidelines for using the API and you should too.
+
+# Because the ASW IIIF s3 bucket upload of the media file is slow, more than 5 seconds may elapse before the next Commons
+# file upload. If that occurrs, then no additional delay is added prior to the next Commons file upload. However, if you  
+# do not use the IIIF server features of the script, or if the file is small and takes less than 5 seconds to upload, 
+# the script will automatically sleep long enough to impose a total delay of the number of seconds given in the 
+# commons_sleep setting.
+
+# NOTE: upload rate limits for structured data in Commons are controlled by a different mechanism (maxlag). If the server is 
+# lagged when uploading structured data, this may also cause more than 5 seconds to elapse and also eliminate the need for
+# an additional delay before the next Commons media upload.
+commons_sleep: 5
+
+# Set the value of the maxlag parameter to back off when the Commons API server is lagged.
+# This applies only to uploads to the structured data on Commons Wikibase instance.
+# see https://www.mediawiki.org/wiki/Manual:Maxlag_parameter
+# The recommended value is 5 seconds.
+# To not use maxlang, set the value to 0
+# To test the maxlag handler code, set maxlag to a very low number like .1
+# If you don't know what you are doing, leave this value alone. In any case, it is rude to use a value greater than 5.
+maxlag: 5
+
+# If you change these values or significantly modify the software, you need to use your own user-agent string.
+# %s will be replaced with the current script_version value from the script global variables.
+user_agent_string_template: CommonsTool/%s (https://github.com/HeardLibrary/linked-data/tree/master/commonsbot; mailto:steve.baskauf@vanderbilt.edu)
