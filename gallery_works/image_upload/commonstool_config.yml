@@ -36,12 +36,36 @@ open_browser_tab_after_upload: true
 verbose: false
 
 
+# Wikimedia Commons API login credentials
+# -----------
+
+# The format of the credentials file is as follows (disregarding the initial "# " in each line):
+
+# endpointUrl=https://commons.wikimedia.org
+# username=User@bot
+# password=465jli90dslhgoiuhsaoi9s0sj5ki3lo
+
+# Username and password are for a bot that you've created.
+# The file must be plain text. 
+
+# The credentials_path value (below) specifies location of the Wikimedia login credentials file. It may be a simple 
+# file name or may be an absolute or relative path. 
+# You must take care to isolate that file from the code and configuration files if they are publicly 
+# exposed (e.g. on GitHub). 
+# Setting the credentials_path_relative_to_home_directory to true appends the value of credentials_path to the path 
+# to the home directory as determined by the operating system. In that case, you should either provide a simple file 
+# name if that file is placed in the home directory, or provide a path relative to the home directory (no leading slash), 
+# ending in the file name. 
+# If you want to specify an absolute path, set credentials_path_relative_to_home_directory to false and provide the
+# full path to the file as the value of credentials_path. 
+# Warning: If you set credentials_path_relative_to_home_directory to false, it is dangerous to set a path relative to
+# the working directory since the working directory and its subdirectories may be exposed publicly if they are published.
+credentials_path: commons_credentials.txt
+credentials_path_relative_to_home_directory: true
+
+
 # File names and locations
 # --------------
-
-# Note: the location of the Wikimedia login credentials is hard-coded to be the file "commons_credentials.txt"
-# located in the user's home directory. This can be changed, but if so you must take care to isolate
-# that file from the code and configuration files if they are publicly exposed (e.g. on GitHub).
 
 # When value is present, sets path value as working directory. To leave working directory as is, leave blank.
 # Data files are relative to this directory. The error log is in this directory.
@@ -124,13 +148,18 @@ source: Vanderbilt University
 # https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling/Visual_artworks#Basic_structured_data_(SDC)
 # For suggested values see https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling/Source
 
-# Can use "file available on the internet" (Q74228490), but so far the script doesn't do qualifiers, 
-# so need to fix that.
-
+# Can use "file available on the internet" (Q74228490), but then need to provide qualifiers P973 (described at URL) 
+# and P137 (operator).
 # Q66458942 (original creation by uploader) doesn't really seem to fit in our circumstance since Baskaufs 
 # is doing the uploading but the images are created by Vanderbilt as an institution. So as of
 # 2022-09-01 I'm using the Vanderbilt Q ID (Q29052) to match what's given in the license for 3D works.
 source_qid: Q29052
+
+# The following values are only necessary if source_qid has a value of "file available on the internet" (Q74228490).
+# Otherwise they are ignored. The unique ID (value in the column identified by local_identifier_column_name)
+# will be appended to the end of the URL root to form the value for P973.
+described_at_url_root: https://diglib.library.vanderbilt.edu/act-imagelink.pl?RC=  # root URL for the image page
+operator_qid: Q16849893 # Vanderbilt Heard Libraries
 
 # The name of the institution to be inserted between the descriptive text and the local filename to form
 # the Commons filename. Example: 
@@ -178,7 +207,8 @@ photo_copyright_qid: Q50423863
 # Typically a Creative Commons License, for example CC BY (Q6905323), CC BY-SA (Q18199165)
 photo_license_qid: Q6905323
 
-# For photographer structured data
+# For photographer structured data. For a single photographer, provide a Q ID (no quotes required). For multiple authors,
+# provide a JSON array of Q IDs (quotes required, comma separated, enclosed in square brackets).
 photographer_of_work: Q29052 # Vanderbilt University
 
 
@@ -260,4 +290,4 @@ maxlag: 5
 
 # If you change these values or significantly modify the software, you need to use your own user-agent string.
 # %s will be replaced with the current script_version value from the script global variables.
-user_agent_string_template: BaskaufCommonsBot/%s (https://github.com/HeardLibrary/linked-data/tree/master/commonsbot; mailto:steve.baskauf@vanderbilt.edu)
+user_agent_string_template: CommonsTool/%s (https://github.com/HeardLibrary/linked-data/tree/master/commonsbot; mailto:steve.baskauf@vanderbilt.edu)
