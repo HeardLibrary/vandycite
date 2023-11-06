@@ -142,7 +142,7 @@ default_language: en
 # As of 2022-09-01, leaving this out generates the warning 
 # "This file is lacking source information. Please edit this file's description and provide a source. "
 # Including the image source in the structured data doesn't seem to be enough.
-source: Vanderbilt Libraries Art in the Christian Traditions database
+source: Vanderbilt Libraries Art in the Christian Tradition database
 
 # Providing information about the image file source is strongly suggested for artworks. See 
 # https://commons.wikimedia.org/wiki/Commons:Structured_data/Modeling/Visual_artworks#Basic_structured_data_(SDC)
