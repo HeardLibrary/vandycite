@@ -1,40 +1,45 @@
 qid,label_en,act,artist1_qid,artist1_name,artist2_qid,artist2_name
-Q122960298,The Macklin Bible -- The Angel Binding Satan,54038,,,,
-Q122960299,The Macklin Bible -- The Vision of the White Horse,54040,,,,
-Q122960300,The Macklin Bible -- The Shipwreck of St. Paul,54041,,,,
-Q122960301,The Macklin Bible -- Paul expelling the Evil Spirit from the Damsel of Philippi,54042,,,,
-Q122960302,The Macklin Bible -- The Angel Appearing to Cornelius,54043,,,,
-Q122960303,The Macklin Bible -- The Conversion of St. Paul,54044,,,,
-Q122960304,The Macklin Bible -- The Angel Freeing the Apostles,54045,,,,
-Q122960306,The Macklin Bible -- The Death of Sapphira,54046,,,,
-Q122960308,The Macklin Bible -- Christ and Mary Magdalene,54047,,,,
-Q122960309,The Macklin Bible -- The Woman Wiping Jesus’s Feet,54048,,,,
-Q122960310,The Macklin Bible -- The Woman Accused of Adultery,54049,,,,
-Q122960311,The Macklin Bible -- The Woman of Samaria,54050,,,,
-Q122960312,The Macklin Bible -- Nicodemus Came to Jesus by Night,54051,,,,
-Q122960313,The Macklin Bible -- Christ at Emmaus,54052,,,,
-Q122960314,The Macklin Bible -- Christ's Passion,54053,,,,
-Q122960315,The Macklin Bible -- Peter's Repentance,54054,,,,
-Q122960316,The Macklin Bible -- The Widow's Mite,54055,,,,
-Q122960317,The Macklin Bible -- The Transfiguration,54058,,,,
-Q122960319,The Macklin Bible -- St. John (John the Baptist),54059,,,,
-Q122960320,The Macklin Bible -- The Presentation in the Temple,54060,,,,
-Q122960322,The Macklin Bible -- The Angels Appearing to the Shepherds,54062,,,,
-Q122960323,The Macklin Bible -- The Annunciation,54063,,,,
-Q122960324,The Macklin Bible -- The Marys at the Sepulchre,54065,,,,
-Q122960325,The Macklin Bible -- Of Such is the Kingdom of Heaven,54066,,,,
-Q122960326,The Macklin Bible -- Christ Walking on the Sea,54067,,,,
-Q122960327,The Macklin Bible -- The Raising of Jairus’s Daughter,54068,,,,
-Q122960328,The Macklin Bible -- Christ Appearing to the Marys,54069,,,,
-Q122960329,The Macklin Bible -- Peter Denying Christ,54072,,,,
+Q122960298,The Macklin Bible -- The Angel Binding Satan,54038,Q1970087,Philip James de Loutherbourg,Q6243939,John Landseer
+Q122960299,The Macklin Bible -- The Vision of the White Horse,54040,Q1970087,Philip James de Loutherbourg,Q6243939,John Landseer
+Q122960300,The Macklin Bible -- The Shipwreck of St. Paul,54041,Q1970087,Philip James de Loutherbourg,Q18759239,Benjamin Thomas Pouncy
+Q122960301,The Macklin Bible -- Paul expelling the Evil Spirit from the Damsel of Philippi,54042,Q2481088,John Opie�,Q6133916,James Fittler
+Q122960302,The Macklin Bible -- The Angel Appearing to Cornelius,54043,Q15472,William Hamilton,Q123378992,Paton Thomson
+Q122960303,The Macklin Bible -- The Conversion of St. Paul,54044,Q1300643,Francis Bourgeois,Q123378992,Paton Thomson
+Q122960304,The Macklin Bible -- The Angel Freeing the Apostles,54045,Q7791550,Thomas Kirk,Q8018483,William Skelton
+Q122960306,The Macklin Bible -- The Death of Sapphira,54046,Q2481088,John Opie�,Q6237323,John Hall 
+Q122960308,The Macklin Bible -- Christ and Mary Magdalene,54047,Q15472,William Hamilton,Q123378992,Paton Thomson
+Q122960309,The Macklin Bible -- The Woman Wiping Jesus’s Feet,54048,Q15472,William Hamilton,Q8005977,William Bromley
+Q122960310,The Macklin Bible -- The Woman Accused of Adultery,54049,Q8004568,William Artaud,Q123378992,Paton Thomson
+Q122960311,The Macklin Bible -- The Woman of Samaria,54050,Q15472,William Hamilton,Q734889,Francesco Bartolozzi
+Q122960312,The Macklin Bible -- Nicodemus Came to Jesus by Night,54051,Q5729304,Henry Tresham,Q123379048,Robert Shipster
+Q122960313,The Macklin Bible -- Christ at Emmaus,54052,Q1970087,Philip James de Loutherbourg,Q6133916,James Fittler
+Q122960314,The Macklin Bible -- Christ's Passion,54053,Q2539929,Richard Cosway,Q3568948),William Sharp
+Q122960315,The Macklin Bible -- Peter's Repentance,54054,Q6281352,Joseph Barney,Q18559777,Jean-Marie Delatre
+Q122960316,The Macklin Bible -- The Widow's Mite,54055,Q8004568,William Artaud,Q18559777,Jean-Marie Delatre
+Q122960317,The Macklin Bible -- The Transfiguration,54058,Q10658585,Robert Smirke,Q18559777,Jean-Marie Delatre
+Q122960319,The Macklin Bible -- St. John (John the Baptist),54059,Q313498,Benjamin West,Q6243939,John Landseer
+Q122960320,The Macklin Bible -- The Presentation in the Temple,54060,Q2481088,John Opie�,Q8005977,William Bromley
+Q122960322,The Macklin Bible -- The Angels Appearing to the Shepherds,54062,Q2427494,"	
+Thomas Stothard",Q8018483,"	
+William Skelton"
+Q122960323,The Macklin Bible -- The Annunciation,54063,Q15472,William Hamilton,Q734889,"	
+Francesco Bartolozzi"
+Q122960324,The Macklin Bible -- The Marys at the Sepulchre,54065,Q10658585,Robert Smirke,Q3568948),William Sharp
+Q122960325,The Macklin Bible -- Of Such is the Kingdom of Heaven,54066,Q313498,Benjamin West,Q6237323,John Hall 
+Q122960326,The Macklin Bible -- Christ Walking on the Sea,54067,Q1970087,Philip James de Loutherbourg,Q6133916,James Fittler
+Q122960327,The Macklin Bible -- The Raising of Jairus’s Daughter,54068,Q326066,John Hoppner,Q123378992,Paton Thomson
+Q122960328,The Macklin Bible -- Christ Appearing to the Marys,54069,Q123098,Angelica Kauffmann,Q1300643,Francis Bourgeois
+Q122960329,The Macklin Bible -- Peter Denying Christ,54072,Q3034755,Domenico Pellegrini,Q52231962,John Chapman
 Q122960331,Macklin Bible - The Resurrection,54073,,,,
-Q122960333,The Macklin Bible -- The Lord of the Vineyard,54075,,,,
-Q122960334,The Macklin Bible -- Touching the Hem of the Garment,54076,,,,
-Q122960335,The Macklin Bible -- Christ Appeasing the Storm,54077,,,,
-Q122960336,The Macklin Bible -- The Devil Leaving Christ,54079,,,,
-Q122960337,The Macklin Bible -- John Preaching in the Wilderness,54080,,,,
-Q122960338,The Macklin Bible -- The Holy Family - Frontispiece of the New Testament,54081,,,,
-Q122960339,The Macklin Bible -- Departure of Hagar,54092,,,,
-Q122960340,The Macklin Bible -- Christ and Zebedee's Children,54119,,,,
-Q122960341,The Macklin Bible -- St. John's Vision,54121,,,,
-Q122960342,The Macklin Bible -- Jesus Betrayed,54122,,,,
+Q122960333,The Macklin Bible -- The Lord of the Vineyard,54075,Q2481088,John Opie�,Q6237323,John Hall 
+Q122960334,The Macklin Bible -- Touching the Hem of the Garment,54076,Q15472,William Hamilton,Q6143734,James Stow
+Q122960335,The Macklin Bible -- Christ Appeasing the Storm,54077,Q1970087,Philip James de Loutherbourg,Q8005977,William Bromley
+Q122960336,The Macklin Bible -- The Devil Leaving Christ,54079,Q1300643,Francis Bourgeois,Q8005977,William Bromley
+Q122960337,The Macklin Bible -- John Preaching in the Wilderness,54080,Q2427494,Thomas Stothard,Q8018483,William Skelton
+Q122960338,The Macklin Bible -- The Holy Family - Frontispiece of the New Testament,54081,Q194402,"	
+Joshua Reynolds",Q3568948),William Sharp
+Q122960339,The Macklin Bible -- Departure of Hagar,54092,Q15472,William Hamilton,Q734889,"	
+Francesco Bartolozzi"
+Q122960340,The Macklin Bible -- Christ and Zebedee's Children,54119,Q7790762,Thomas Holloway,,
+Q122960341,The Macklin Bible -- St. John's Vision,54121,Q122382,Henry Fuseli,Q123378992,Paton Thomson
+Q122960342,The Macklin Bible -- Jesus Betrayed,54122,Q1970087,Philip James de Loutherbourg,Q6133916,James Fittler
