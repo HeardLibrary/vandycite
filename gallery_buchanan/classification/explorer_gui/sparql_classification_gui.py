@@ -421,8 +421,18 @@ query_text_box.insert(END, PREFIXES + 'http://www.wikidata.org/entity/Q613972')
 
 
 # Create a button object for sending the query
-send_query_button = Button(mainframe, text = "Send Query", width = 30, command = lambda: send_query_button_click() )
-send_query_button.grid(column=3, row=20, sticky=W)
+broader_button = Button(mainframe, text = "Broader category", width = 30, command = lambda: send_query_button_click() )
+broader_button.grid(column=2, row=1, sticky=W)
+
+left_button = Button(mainframe, text = "Switch to Nomenclature", width = 30, command = lambda: send_query_button_click() )
+left_button.grid(column=1, row=2, sticky=W)
+
+right_button = Button(mainframe, text = "Switch to Getty AAT", width = 30, command = lambda: send_query_button_click() )
+right_button.grid(column=3, row=2, sticky=W)
+
+current_classification_text = StringVar()
+Label(mainframe, textvariable=current_classification_text).grid(column=2, row=2, sticky=(W, E))
+current_classification_text.set('placeholder class')
 
 def main():	
     root.mainloop()
