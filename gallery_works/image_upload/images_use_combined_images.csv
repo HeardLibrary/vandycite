@@ -7096,3 +7096,17 @@ Q106577317,1971.022.tif,1971.022,primary,,,79362,4201,3223,2011-07-11,1971
 Q106577317,1971-022.tiff,1971.022,secondary,in frame,,88399,4490,6720,2020-11-10,1971
 Q106577317,1971-022.dng,1971.022,suppress,in frame,not really an improvement over the other framed one,33895,171,256,2020-08-12,1971
 Q106577317,1971.022.jpg,1971.022,suppress,,,170,500,384,2011-07-11,1971
+Q103301130,1956.005_p-1814btverso.tif,1956.005,secondary,"before conservation, verso",,78604,4485,2990,2019-06-03,1956
+Q103301130,1956.005_p-1814btrecto.tif,1956.005,secondary,"before conservation, recto",,78608,4485,2990,2019-06-03,1956
+Q103301130,1956.005_p-1814atrecto.tif,1956.005,primary,"after conservation, recto",,78609,4485,2990,2019-06-03,1956
+Q103301130,1956.005_p-1814atverso.tif,1956.005,secondary,"after conservation, verso",,78604,4485,2990,2019-06-03,1956
+Q103300233,1996.176d.pct.tif,1996.176d,primary,body,converted from pct,9825,2100,1581,2010-02-23,1996
+Q103300233,1996.176d.pct,1996.176d,suppress,,"leslie dills, hands should be a, body is part d, part c is a back photo, neck is b // also how would these individual prints be titled",9825,0,0,2010-02-23,1996
+Q103300233,1996.176d.tif,1996.176d,suppress,,treat like others in a collection,9682,2100,1573,2003-11-21,1996
+Q103300233,1996.176d.jpg,1996.176d,secondary,hands,hands (part c),181,500,376,2011-07-10,1996
+Q102962251,"2001.159a,b&c.jpg","2001.159a,b,c",primary,,,45,126,360,2011-07-10,2001
+Q102962251,"2001.159a,b&c.pct","2001.159a,b,c",suppress,,,134,0,0,2010-02-23,2001
+Q105095763,2001.160a&b.jpg,"2001.160a,b",primary,,,115,270,360,2011-07-10,2001
+Q105095763,2001.160a&b.pct,"2001.160a,b",suppress,,,285,0,0,2010-02-23,2001
+Q103306250,1986.050A_B.pdf.tif,1986.050a&b,primary,,converted from PDF,2875,3295,2430,2015-12-16,1986
+Q103306250,1986.050A&B.pdf,1986.050a&b,suppress,,PDF,2875,0,0,2015-12-16,1986
