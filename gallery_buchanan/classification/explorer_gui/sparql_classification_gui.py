@@ -27,6 +27,7 @@ import datetime
 import time
 import json
 import csv
+from typing import List, Dict, Tuple, Any, Optional
 
 # ------------
 # Global variables
@@ -38,6 +39,31 @@ DEFAULT_METHOD = 'get' # arg: --method or -M
 CSV_OUTPUT_PATH = 'sparql_results.csv' # arg: --results or -R
 PREFIXES_DOC_PATH = 'prefixes.txt' # arg: --prefixes or -P
 USER_AGENT = 'sparql_gui/' + SCRIPT_VERSION + ' (https://github.com/HeardLibrary/linked-data/tree/master/sparql/sparql_gui.py; mailto:steve.baskauf@vanderbilt.edu)'
+
+starting_classification_label = 'tray'
+starting_current_scheme = 'wikidata'
+
+# Starting values of variables common to all functions
+CURRENT_SCHEME_ORIENTATION = {
+    'wikidata': {'left': 'nomenclature', 'right': 'aat', 'current': 'wikidata'},
+    'aat': {'left': 'wikidata', 'right': 'nomenclature', 'current': 'aat'},
+    'nomenclature': {'left': 'aat', 'right': 'wikidata', 'current': 'nomenclature'}
+}
+
+# Initial values for match types
+MATCH_TYPE = {'left': 'exactMatch',
+                'right': 'exactMatch'
+    }
+
+SCHEME = CURRENT_SCHEME_ORIENTATION[starting_current_scheme]
+CLASSIFICATION = {'nomenclature': 'https://www.nomenclature.info/nom/11781', 
+                  'aat': 'http://vocab.getty.edu/aat/300043071',
+                  'wikidata': 'http://www.wikidata.org/entity/Q613972',
+                  'broader': 'http://www.wikidata.org/entity/Q987767'}
+LABEL = {'nomenclature': 'tray', 
+                  'aat': 'trays',
+                  'wikidata': 'tray',
+                  'broader': 'container'}
 
 # ------------
 # Support command line arguments
@@ -115,18 +141,19 @@ except:
 # Functions
 # ------------
 
-def send_query_button_click():
-    """Handle the click of the "Send Query" button"""
+def change_scheme_button(new_scheme: str) -> None:
+    """Handle the click of the "Switch to ..." buttons"""
+    # Load and process data from the input text box
     search_string = query_text_box.get("1.0","end") # Gets all text from first character to last
     search_string = search_string.strip() # Removes leading and trailing whitespace
     #print(query_string)
-    query_string = '''SELECT DISTINCT *
+    query_string = '''SELECT DISTINCT ?o ?p ?label
 FROM <https://art-classification-crosswalks>
 WHERE {
 <''' + search_string + '''> ?p ?o.
 }
 '''
-    #print(query_string)
+    print(query_string)
 
     # Create a Sparqler object
     # A User-Agent header is equried for Wikidata Query Service.
@@ -136,21 +163,36 @@ WHERE {
     # Send the query to the endpoint
     data = neptune.query(query_string)
     print(json.dumps(data, indent=2))
-    """
-    # Extract results from JSON and save them in a CSV file
-    with open(CSV_OUTPUT_PATH, 'w', newline='') as csvfile:
-        if len(data) > 0:
-            fieldnames = data[0].keys()
-            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            writer.writeheader()
-            for row in data:
-                for field in fieldnames:
-                    row[field] = row[field]['value']
-                writer.writerow(row)
-            print('Results written to', CSV_OUTPUT_PATH)
-        else:
-            print('No results to write to file')
-    """
+    print()
+
+    for equivalent in data:
+        concept_iri = equivalent['o']['value'] # Get the IRI of the equivalent concept
+
+        # Next step is to make this into a function, then call it for 'left' and 'right'.
+        
+        if SCHEME['left'] in concept_iri: # Check of the concept is in the domain name for the left scheme
+            MATCH_TYPE['left'] = equivalent['p']['value'].split('#')[1] # Match type is the local name
+            CLASSIFICATION['left'] = concept_iri
+            print(concept_iri)
+            print(len(concept_iri))
+
+            # Query to get the label for the concept
+            query_string = '''SELECT DISTINCT ?label
+        WHERE {
+            {<''' + concept_iri + '''> <http://www.w3.org/2004/02/skos/core#prefLabel> ?label}
+        UNION
+            {<''' + concept_iri + '''> <http://www.w3.org/2000/01/rdf-schema#label> ?label}
+        FILTER (lang(?label) = "en")
+        }
+        '''
+            #print(query_string)
+            #print()
+            label_data = neptune.query(query_string)
+            #print(json.dumps(label_data, indent=2))
+
+            # Get the label from the query results
+            LABEL['left'] = label_data[0]['label']['value']
+
 
 # ------------
 # Classes
@@ -421,18 +463,18 @@ query_text_box.insert(END, PREFIXES + 'http://www.wikidata.org/entity/Q613972')
 
 
 # Create a button object for sending the query
-broader_button = Button(mainframe, text = "Broader category", width = 30, command = lambda: send_query_button_click() )
+broader_button = Button(mainframe, text = 'Broader ' + SCHEME['current'] + '\nterm: ' + LABEL['broader'], width = 30, command = lambda: change_scheme_button() )
 broader_button.grid(column=2, row=1, sticky=W)
 
-left_button = Button(mainframe, text = "Switch to Nomenclature", width = 30, command = lambda: send_query_button_click() )
+left_button = Button(mainframe, text = 'Switch to ' + SCHEME['left'] + '\nterm: ' + LABEL[SCHEME['left']], width = 30, command = lambda: change_scheme_button('nomenclature') )
 left_button.grid(column=1, row=2, sticky=W)
 
-right_button = Button(mainframe, text = "Switch to Getty AAT", width = 30, command = lambda: send_query_button_click() )
+right_button = Button(mainframe, text = 'Switch to ' + SCHEME['right'] + '\nterm: ' + LABEL[SCHEME['right']], width = 30, command = lambda: change_scheme_button('aat') )
 right_button.grid(column=3, row=2, sticky=W)
 
 current_classification_text = StringVar()
 Label(mainframe, textvariable=current_classification_text).grid(column=2, row=2, sticky=(W, E))
-current_classification_text.set('placeholder class')
+current_classification_text.set(SCHEME['current'] + '\nterm: ' + LABEL[SCHEME['current']])
 
 def main():	
     root.mainloop()
