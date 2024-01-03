@@ -21,6 +21,7 @@ VERSION_MODIFIED = '2023-08-16'
 # ------------
 
 from tkinter import *
+import tkinter.scrolledtext as tkst
 import sys
 import requests
 import datetime
@@ -44,7 +45,9 @@ starting_classification_label = 'tray'
 starting_current_scheme = 'wikidata'
 
 # Starting values of variables common to all functions
-CURRENT_SCHEME_ORIENTATION = {
+
+# Designate the orientation of the scheme buttons for each current scheme.
+SCHEME_ORIENTATIONS = {
     'wikidata': {'left': 'nomenclature', 'right': 'aat', 'current': 'wikidata'},
     'aat': {'left': 'wikidata', 'right': 'nomenclature', 'current': 'aat'},
     'nomenclature': {'left': 'aat', 'right': 'wikidata', 'current': 'nomenclature'}
@@ -55,12 +58,12 @@ MATCH_TYPE = {'left': 'exactMatch',
                 'right': 'exactMatch'
     }
 
-SCHEME = CURRENT_SCHEME_ORIENTATION[starting_current_scheme]
-CLASSIFICATION = {'nomenclature': 'https://www.nomenclature.info/nom/11781', 
+CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[starting_current_scheme]
+CLASSIFICATION = {'nomenclature': 'https://nomenclature.info/nom/11781', 
                   'aat': 'http://vocab.getty.edu/aat/300043071',
                   'wikidata': 'http://www.wikidata.org/entity/Q613972',
                   'broader': 'http://www.wikidata.org/entity/Q987767'}
-LABEL = {'nomenclature': 'tray', 
+LABEL = {'nomenclature': 'Tray', 
                   'aat': 'trays',
                   'wikidata': 'tray',
                   'broader': 'container'}
@@ -140,58 +143,177 @@ except:
 # ------------
 # Functions
 # ------------
-
 def change_scheme_button(new_scheme: str) -> None:
+    """Handle the click of the "Switch to ..." buttons"""
+    # The current scheme orientation will be set to the new_scheme for the button that was clicked.
+    CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[new_scheme]
+
+    # Reset the labels for the buttons and text box, and commands for the buttons
+    left_button.config(text='Switch to ' + CURRENT_SCHEME_ORIENTATION['left'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['left']], command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['left']))
+    right_button.config(text='Switch to ' + CURRENT_SCHEME_ORIENTATION['right'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['right']], command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['right']))
+    current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['current']])
+
+    # Query to find the new broader category for the current classification.
+    broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: change_scheme_button())
+
+    # Find the artworks that are included in the current classification
+    retrieve_included_artworks(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+
+def retrieve_included_artworks(superclass: str) -> None:
+    """Retrieve the artworks that are included in the specified superclass."""
+
+    # NOTE: Need to watch to see if AAT picks up both gvp:broaderPreferred and skos:broader. May need to query
+    # specially for AAT and Nomenclature.
+    query_string = '''PREFIX wd:      <http://www.wikidata.org/entity/>
+PREFIX wdt:     <http://www.wikidata.org/prop/direct/>
+PREFIX gvp:     <http://vocab.getty.edu/ontology#>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+
+SELECT DISTINCT ?artwork ?artworkLabel ?wdClass ?wdClassLabel
+WHERE
+{
+BIND (<''' + superclass + '''> as ?superclass)
+
+    {
+        {?class gvp:broaderPreferred* ?superclass.} # AAT
+    UNION
+        {?class skos:broader* ?superclass.} # Nomenclature
+
+        {?wdClass skos:exactMatch ?class.} 
+    UNION 
+        {?wdClass skos:broadMatch ?class.}
+    UNION
+        {?wdClass skos:closeMatch ?class.}
+    }
+UNION
+    {
+    ?wdClass wdt:P279* ?superclass. # Wikidata
+    }
+
+?wdClass rdfs:label ?wdClassLabel.
+?artwork wdt:P31 ?wdClass.
+?artwork rdfs:label ?artworkLabel.
+filter(lang(?artworkLabel) = "en")
+}
+order by ?wdClassLabel ?artworkLabel
+'''
+    #print(query_string)
+
+    # Send the query to the endpoint
+    data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
+    #print(json.dumps(data, indent=2))
+    output_string = ''
+    for result in data:
+        artwork_qid = result['artwork']['value']
+        artwork_label = result['artworkLabel']['value']
+        class_qid = result['wdClass']['value']
+        class_label = result['wdClassLabel']['value']
+
+        output_string += '(' + class_label + ')' + artwork_qid + ' ' + artwork_label + '\n'
+    update_results(output_string)
+
+def retrieve_broader_classification(search_string: str) -> Tuple[str, str]:
+    """Retrieve the broader classification for a concept.
+    Returned values are (label, IRI)."""
+    # Query string to find the broader classification for AAT, nom, or Wikidata
+    query_string = '''PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX wdt:     <http://www.wikidata.org/prop/direct/>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosxl:  <http://www.w3.org/2008/05/skos-xl#>
+PREFIX gvp:     <http://vocab.getty.edu/ontology#>
+SELECT DISTINCT ?parent ?parentLabel
+WHERE {
+
+{<''' + search_string + '''> wdt:P279 ?parent.
+?parent rdfs:label ?parentLabel.}
+UNION
+{<''' + search_string + '''> gvp:broaderPreferred ?parent.
+?parent skosxl:prefLabel ?l.
+?l skosxl:literalForm ?parentLabel.}
+UNION
+{<''' + search_string + '''> skos:broader ?parent.
+?parent skos:prefLabel ?parentLabel.}
+
+filter(lang(?parentLabel)="en")
+}
+'''
+    #print(query_string)
+    #update_results(search_string)
+
+    # Send the query to the endpoint
+    data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
+    #print(json.dumps(data, indent=2))
+    #print()
+    
+    # Note: Only Wikidata can return multiple results. The others return only one result.
+    # So for the Wikidata result, only the first one will be used.
+    label = data[0]['parentLabel']['value']
+    iri = data[0]['parent']['value']
+
+    return(label, iri)
+
+def change_scheme_button_deprecated(new_scheme: str) -> None:
     """Handle the click of the "Switch to ..." buttons"""
     # Load and process data from the input text box
     search_string = query_text_box.get("1.0","end") # Gets all text from first character to last
     search_string = search_string.strip() # Removes leading and trailing whitespace
-    #print(query_string)
+
+    # Create a query string to get the equivalent concepts for the current scheme.
     query_string = '''SELECT DISTINCT ?o ?p ?label
 FROM <https://art-classification-crosswalks>
 WHERE {
 <''' + search_string + '''> ?p ?o.
 }
 '''
-    print(query_string)
-
-    # Create a Sparqler object
-    # A User-Agent header is equried for Wikidata Query Service.
-    # For other endpoints, it's optional.
-    neptune = Sparqler(useragent=USER_AGENT)
+    #print(query_string)
 
     # Send the query to the endpoint
-    data = neptune.query(query_string)
-    print(json.dumps(data, indent=2))
-    print()
+    data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
+    #print(json.dumps(data, indent=2))
+    #print()
 
+    # Go through each of the equivalent concepts in the results and check if it's for the left or right button.
+    # If it is, set the match type, concept IRI and label for the button.
     for equivalent in data:
-        concept_iri = equivalent['o']['value'] # Get the IRI of the equivalent concept
+        set_equivalent_button_concept_data(equivalent, 'left')
+        set_equivalent_button_concept_data(equivalent, 'right')
 
-        # Next step is to make this into a function, then call it for 'left' and 'right'.
-        
-        if SCHEME['left'] in concept_iri: # Check of the concept is in the domain name for the left scheme
-            MATCH_TYPE['left'] = equivalent['p']['value'].split('#')[1] # Match type is the local name
-            CLASSIFICATION['left'] = concept_iri
-            print(concept_iri)
-            print(len(concept_iri))
+def set_equivalent_button_concept_data(equivalent: Dict, button_position: str) -> None:
+    """Retrieve and set the match type, concept IRI and label of the concept in the specified button position.
+    """
+    print(button_position)
+    concept_iri = equivalent['o']['value'] # Get the IRI of the equivalent concept
+    if CURRENT_SCHEME_ORIENTATION[button_position] in concept_iri: # Check if the scheme name is in the domain name for the left scheme
+        MATCH_TYPE[button_position] = equivalent['p']['value'].split('#')[1] # Match type is the local name
+        print(MATCH_TYPE[button_position])
+        CLASSIFICATION[button_position] = concept_iri
+        print(concept_iri)
 
-            # Query to get the label for the concept
-            query_string = '''SELECT DISTINCT ?label
-        WHERE {
-            {<''' + concept_iri + '''> <http://www.w3.org/2004/02/skos/core#prefLabel> ?label}
-        UNION
-            {<''' + concept_iri + '''> <http://www.w3.org/2000/01/rdf-schema#label> ?label}
-        FILTER (lang(?label) = "en")
-        }
-        '''
-            #print(query_string)
-            #print()
-            label_data = neptune.query(query_string)
-            #print(json.dumps(label_data, indent=2))
+        # Query to get the label for the concept. rdfs:label for Wikidata, skos:prefLabel for nom, skosxl:prefLabel for AAT.
+        # Don't specify a graph, since the labels come from various graphs.
+        query_string = '''SELECT DISTINCT ?label
+    WHERE {
+        {<''' + concept_iri + '''> <http://www.w3.org/2004/02/skos/core#prefLabel> ?label} 
+    UNION
+        {<''' + concept_iri + '''> <http://www.w3.org/2000/01/rdf-schema#label> ?label}
+    UNION
+        {<''' + concept_iri + '''> <http://www.w3.org/2008/05/skos-xl#prefLabel> ?labelObject.
+        ?labelObject <http://www.w3.org/2008/05/skos-xl#literalForm> ?label.}
+    FILTER (lang(?label) = "en")
+    }
+    '''
+        #print(query_string)
+        #print()
+        label_data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
+        #print(json.dumps(label_data, indent=2))
 
-            # Get the label from the query results
-            LABEL['left'] = label_data[0]['label']['value']
+        # Get the label from the query results
+        LABEL[button_position] = label_data[0]['label']['value']
+        print(LABEL[button_position])
+        print()
+
+
 
 
 # ------------
@@ -450,31 +572,49 @@ mainframe.columnconfigure(0, weight=1)
 mainframe.rowconfigure(0, weight=1)
 
 # Create a label object for instructions
-instruction_text = StringVar()
-Label(mainframe, textvariable=instruction_text).grid(column=3, row=10, sticky=(W, E))
-instruction_text.set('Enter SELECT query below and click the "Send Query" button')
+#instruction_text = StringVar()
+#Label(mainframe, textvariable=instruction_text).grid(column=3, row=10, sticky=(W, E))
+#instruction_text.set('Enter SELECT query below and click the "Send Query" button')
 
 # Create a text box object for the SPARQL query, 100 characters wide and 25 lines high
-query_text_box = Text(mainframe, width=100, height=1)
-query_text_box.grid(column=3, row=11, sticky=(W, E))
+#query_text_box = Text(mainframe, width=100, height=1)
+#query_text_box.grid(column=3, row=11, sticky=(W, E))
 
 # Insert the generic query text
-query_text_box.insert(END, PREFIXES + 'http://www.wikidata.org/entity/Q613972')
+#query_text_box.insert(END, PREFIXES + 'http://www.wikidata.org/entity/Q613972')
 
 
 # Create a button object for sending the query
-broader_button = Button(mainframe, text = 'Broader ' + SCHEME['current'] + '\nterm: ' + LABEL['broader'], width = 30, command = lambda: change_scheme_button() )
-broader_button.grid(column=2, row=1, sticky=W)
+broader_button = Button(mainframe, text = 'Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL['broader'], width = 30, command = lambda: change_scheme_button() )
+broader_button.grid(column=2, row=1)
 
-left_button = Button(mainframe, text = 'Switch to ' + SCHEME['left'] + '\nterm: ' + LABEL[SCHEME['left']], width = 30, command = lambda: change_scheme_button('nomenclature') )
+left_button = Button(mainframe, text = 'Switch to ' + CURRENT_SCHEME_ORIENTATION['left'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['left']], width = 30, command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['left']) )
 left_button.grid(column=1, row=2, sticky=W)
 
-right_button = Button(mainframe, text = 'Switch to ' + SCHEME['right'] + '\nterm: ' + LABEL[SCHEME['right']], width = 30, command = lambda: change_scheme_button('aat') )
+right_button = Button(mainframe, text = 'Switch to ' + CURRENT_SCHEME_ORIENTATION['right'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['right']], width = 30, command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['right']) )
 right_button.grid(column=3, row=2, sticky=W)
 
 current_classification_text = StringVar()
 Label(mainframe, textvariable=current_classification_text).grid(column=2, row=2, sticky=(W, E))
-current_classification_text.set(SCHEME['current'] + '\nterm: ' + LABEL[SCHEME['current']])
+current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['current']])
+
+results_text = StringVar()
+Label(mainframe, textvariable=results_text).grid(column=1, row=22, sticky=(W, E))
+results_text.set('Items in collection:')
+
+#scrolling text box hacked from https://www.daniweb.com/programming/software-development/code/492625/exploring-tkinter-s-scrolledtext-widget-python
+edit_space = tkst.ScrolledText(master = mainframe, width  = 100, height = 25)
+# the padx/pady space will form a frame
+edit_space.grid(column=2, row=22, padx=8, pady=8)
+edit_space.insert(END, '')
+
+def update_results(result):
+    #print(result)
+    edit_space.delete('1.0', END)
+    edit_space.insert(INSERT, result + '\n')
+    #edit_space.see(END) #causes scroll up as text is added
+    root.update_idletasks() # causes update to log window, see https://stackoverflow.com/questions/6588141/update-a-tkinter-text-widget-as-its-written-rather-than-after-the-class-is-fini
+
 
 def main():	
     root.mainloop()
