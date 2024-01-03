@@ -1,0 +1,10 @@
+From the text in the provided CSV
+-----------------------------------
+-----------------------------------
+Based on the name of each artwork in the label_en, do the following. Provide only the names of the depicted objects and do not describe them. The artwork object itself is listed first. Do not include the name of the artwork object. Provide the list of depicted objects as a singe string formed by concatenating the depicted objects by vertical bar characters with no spaces.
+-----------------------------------
+-----------------------------------
+Extract the following columns:
+qid, depicted object
+-----------------------------------
+Extracted Data in a "csv" block:
