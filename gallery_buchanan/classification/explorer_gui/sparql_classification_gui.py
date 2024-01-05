@@ -157,8 +157,6 @@ def change_scheme_button(new_scheme: str) -> None:
     broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
     CLASSIFICATION['broader'] = broader_iri
     LABEL['broader'] = broader_label
-    # !!!!! The problem is probably in this next line
-    print('scheme name before broder_button.config:', CURRENT_SCHEME_ORIENTATION['current'])
     broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(new_scheme))
 
     # Find the artworks that are included in the current classification
@@ -173,8 +171,6 @@ def parent_concept_button(scheme_name: str) -> None:
     #print('broader label', LABEL['broader'])
     CLASSIFICATION[scheme_name] = CLASSIFICATION['broader']
     LABEL[scheme_name] = LABEL['broader']
-    #print('scheme name after parent_concept_button press:', scheme_name)
-    #print('CURRENT_SCHEME_ORIENTATION:', CURRENT_SCHEME_ORIENTATION)
     # I thought it should not be necessary to set this since it's a global variable and already set. But apparently it is getting a value from some previous state.
     CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[scheme_name]
 
@@ -198,7 +194,8 @@ def parent_concept_button(scheme_name: str) -> None:
     for subclass in subclass_list:
         subclass_string += subclass['label'] + ' ' + subclass['qid'] + '\n'
         
-    update_subclasses(subclass_string)
+    #update_subclasses_box(subclass_string)
+    generate_subclass_buttons(subclass_list)
 
     # Find the artworks that are included in the higher classification
     retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
@@ -718,31 +715,49 @@ current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm:
 
 results_text = StringVar()
 Label(mainframe, textvariable=results_text).grid(column=3, row=3, sticky=(W, E))
-results_text.set('Subclasses')
+results_text.set('Click a subclass button below')
 
-#scrolling text box hacked from https://www.daniweb.com/programming/software-development/code/492625/exploring-tkinter-s-scrolledtext-widget-python
-subclass_list_box = tkst.ScrolledText(master = mainframe, width  = 100, height = 25)
-# the padx/pady space will form a frame
-subclass_list_box.grid(column=2, row=3, padx=8, pady=8)
-subclass_list_box.insert(END, '')
+# Create a scrolling text box to display the subclasses
 
-def update_subclasses(result):
+#subclass_list_box = tkst.ScrolledText(master = mainframe, width  = 100, height = 25)
+# The padx/pady space will form a frame.
+#subclass_list_box.grid(column=2, row=3, padx=8, pady=8)
+#subclass_list_box.insert(END, '')
+
+#def update_subclasses_box(result):
     #print(result)
-    subclass_list_box.delete('1.0', END)
-    subclass_list_box.insert(INSERT, result + '\n')
+#    subclass_list_box.delete('1.0', END)
+#    subclass_list_box.insert(INSERT, result + '\n')
     #subclass_list_box.see(END) #causes scroll up as text is added
-    root.update_idletasks() # causes update to log window, see https://stackoverflow.com/questions/6588141/update-a-tkinter-text-widget-as-its-written-rather-than-after-the-class-is-fini
+#    root.update_idletasks() # causes update to log window, see https://stackoverflow.com/questions/6588141/update-a-tkinter-text-widget-as-its-written-rather-than-after-the-class-is-fini
+
+# Get the subclasses for the current classification, then display them.
 
 subclass_list = retrieve_narrower_concepts(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
-update_subclasses(json.dumps(subclass_list, indent=2))
+#subclass_string = ''
+#for subclass in subclass_list:
+#    subclass_string += subclass['label'] + ' ' + subclass['qid'] + '\n'
+#update_subclasses_box(subclass_string)
+
+def generate_subclass_buttons(subclass_list: List[Dict[str, str]]) -> List[Button]:
+    """Generate buttons for the subclasses of the current classification."""
+    subclass_buttons = []
+    for index, subclass in enumerate(subclass_list):
+        button = Button(mainframe, text = subclass['label'] + '\nterm: ' + subclass['qid'], width = 30, command = lambda: parent_concept_button(CURRENT_SCHEME_ORIENTATION['current']) )
+        button.grid(column=3, row=index+4)
+        subclass_buttons.append(button)
+    return subclass_buttons
+
+generate_subclass_buttons(subclass_list)
 
 results_text = StringVar()
-Label(mainframe, textvariable=results_text).grid(column=1, row=4, sticky=(W, E))
-results_text.set('Items in collection:')
+Label(mainframe, textvariable=results_text).grid(column=1, row=3, sticky=(W, E))
+results_text.set('Items in collection (at right)')
 
+# Scrolling text box hacked from https://www.daniweb.com/programming/software-development/code/492625/exploring-tkinter-s-scrolledtext-widget-python
 artworks_list = tkst.ScrolledText(master = mainframe, width  = 100, height = 25)
 # the padx/pady space will form a frame
-artworks_list.grid(column=2, row=4, padx=8, pady=8)
+artworks_list.grid(column=2, row=3, padx=8, pady=8)
 artworks_list.insert(END, '')
 
 def update_artworks(result):
