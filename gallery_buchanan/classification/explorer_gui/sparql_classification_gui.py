@@ -1,17 +1,17 @@
-# sparql_gui, a script for making SPARQL queries from a graphical interface.  sparql_gui.py
-SCRIPT_VERSION = '0.1.0'
-VERSION_MODIFIED = '2023-08-16'
+# sparql_classification_gui, an app to explore artworks via SPARQL queries.  sparql_classification_gui.py
+SCRIPT_VERSION = '0.0.1'
+VERSION_MODIFIED = '2024-01-04'
 
-# (c) 2023 Vanderbilt University. This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
+# (c) 2024 Vanderbilt University. This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
 # Author: Steve Baskauf
-# For more information, see https://github.com/HeardLibrary/linked-data/tree/master/sparql
+# For more information, see 
 
 # The Sparqler class code is (c) 2022-2023 Steven J. Baskauf
 # and released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
 # For more information, see https://github.com/HeardLibrary/digital-scholarship/blob/master/code/wikidata/sparqler.py
 
 # -----------------------------------------
-# Version 0.1.0 change notes: 
+# Version 0.0.1 change notes: 
 # - Initial version
 # -----------------------------------------
 
@@ -39,7 +39,7 @@ DEFAULT_ENDPOINT = 'https://sparql.vanderbilt.edu/sparql' # arg: --endpoint or -
 DEFAULT_METHOD = 'get' # arg: --method or -M
 CSV_OUTPUT_PATH = 'sparql_results.csv' # arg: --results or -R
 PREFIXES_DOC_PATH = 'prefixes.txt' # arg: --prefixes or -P
-USER_AGENT = 'sparql_gui/' + SCRIPT_VERSION + ' (https://github.com/HeardLibrary/linked-data/tree/master/sparql/sparql_gui.py; mailto:steve.baskauf@vanderbilt.edu)'
+USER_AGENT = 'sparql_classification_gui/' + SCRIPT_VERSION + ' ()'
 
 starting_classification_label = 'tray'
 starting_current_scheme = 'wikidata'
@@ -48,9 +48,9 @@ starting_current_scheme = 'wikidata'
 
 # Designate the orientation of the scheme buttons for each current scheme.
 SCHEME_ORIENTATIONS = {
-    'wikidata': {'left': 'nomenclature', 'right': 'aat', 'current': 'wikidata'},
-    'aat': {'left': 'wikidata', 'right': 'nomenclature', 'current': 'aat'},
-    'nomenclature': {'left': 'aat', 'right': 'wikidata', 'current': 'nomenclature'}
+    'wikidata': {'left': 'nomenclature', 'right': 'aat', 'current': 'wikidata', 'broader': 'wikidata'},
+    'aat': {'left': 'wikidata', 'right': 'nomenclature', 'current': 'aat', 'broader': 'aat'},
+    'nomenclature': {'left': 'aat', 'right': 'wikidata', 'current': 'nomenclature', 'broader': 'nomenclature'}
 }
 
 # Initial values for match types
@@ -155,16 +155,59 @@ def change_scheme_button(new_scheme: str) -> None:
 
     # Query to find the new broader category for the current classification.
     broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
-    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: change_scheme_button())
+    CLASSIFICATION['broader'] = broader_iri
+    LABEL['broader'] = broader_label
+    # !!!!! The problem is probably in this next line
+    print('scheme name before broder_button.config:', CURRENT_SCHEME_ORIENTATION['current'])
+    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(new_scheme))
 
     # Find the artworks that are included in the current classification
-    retrieve_included_artworks(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+    retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
 
-def retrieve_included_artworks(superclass: str) -> None:
+def parent_concept_button(scheme_name: str) -> None:
+    """Handle the click of the "Broader ..." button by making the parent concept the current classification.
+    NOTE: Only the lowest level in the hierarchy can have equivalent concepts in the other schemes. So moving up
+    to the parent concept will always disable the left and right buttons for the other classification schemes."""
+    # Set the current classification IRI and label to the broader classification
+    #print('broader classification', CLASSIFICATION['broader'])
+    #print('broader label', LABEL['broader'])
+    CLASSIFICATION[scheme_name] = CLASSIFICATION['broader']
+    LABEL[scheme_name] = LABEL['broader']
+    #print('scheme name after parent_concept_button press:', scheme_name)
+    #print('CURRENT_SCHEME_ORIENTATION:', CURRENT_SCHEME_ORIENTATION)
+    # I thought it should not be necessary to set this since it's a global variable and already set. But apparently it is getting a value from some previous state.
+    CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[scheme_name]
+
+    # Reset the label for the text box.
+    current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['current']])
+    # Make the left and right buttons invisible.
+    left_button.grid_forget()
+    right_button.grid_forget()
+
+    # Query to find the new broader category for the current classification.
+    # Note: needs to handle the case where there is no broader classification.
+    broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+    CLASSIFICATION['broader'] = broader_iri
+    LABEL['broader'] = broader_label
+    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(scheme_name))
+
+    # Find the artworks that are included in the current classification
+    #retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+    subclass_list = retrieve_narrower_concepts(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+    subclass_string = ''
+    for subclass in subclass_list:
+        subclass_string += subclass['label'] + ' ' + subclass['qid'] + '\n'
+        
+    update_subclasses(subclass_string)
+
+    # Find the artworks that are included in the higher classification
+    retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+
+
+def retrieve_included_artworks(current_scheme: str, superclass: str) -> None:
     """Retrieve the artworks that are included in the specified superclass."""
+    #print(current_scheme, superclass)
 
-    # NOTE: Need to watch to see if AAT picks up both gvp:broaderPreferred and skos:broader. May need to query
-    # specially for AAT and Nomenclature.
     query_string = '''PREFIX wd:      <http://www.wikidata.org/entity/>
 PREFIX wdt:     <http://www.wikidata.org/prop/direct/>
 PREFIX gvp:     <http://vocab.getty.edu/ontology#>
@@ -174,24 +217,33 @@ SELECT DISTINCT ?artwork ?artworkLabel ?wdClass ?wdClassLabel
 WHERE
 {
 BIND (<''' + superclass + '''> as ?superclass)
+'''
 
-    {
-        {?class gvp:broaderPreferred* ?superclass.} # AAT
-    UNION
-        {?class skos:broader* ?superclass.} # Nomenclature
-
+    # Insert the specific part of the query string for the current scheme superclass relationship.
+    # Do this instead of UNION because AAT has both gvp:broaderPreferred and skos:broader (which 
+    # we don't want to use).
+    if current_scheme == 'wikidata':
+        query_string += '''?wdClass wdt:P279* ?superclass. # Wikidata
+'''
+    elif current_scheme == 'aat':
+        query_string += '''?class gvp:broaderPreferred* ?superclass. # AAT
         {?wdClass skos:exactMatch ?class.} 
     UNION 
         {?wdClass skos:broadMatch ?class.}
     UNION
         {?wdClass skos:closeMatch ?class.}
-    }
-UNION
-    {
-    ?wdClass wdt:P279* ?superclass. # Wikidata
-    }
+'''
+    elif current_scheme == 'nomenclature':
+        query_string += '''?class skos:broader* ?superclass. # Nomenclature
+        {?wdClass skos:exactMatch ?class.} 
+    UNION 
+        {?wdClass skos:broadMatch ?class.}
+    UNION
+        {?wdClass skos:closeMatch ?class.}
+'''
 
-?wdClass rdfs:label ?wdClassLabel.
+    # Add the rest of the query string
+    query_string += '''?wdClass rdfs:label ?wdClassLabel.
 ?artwork wdt:P31 ?wdClass.
 ?artwork rdfs:label ?artworkLabel.
 filter(lang(?artworkLabel) = "en")
@@ -211,7 +263,73 @@ order by ?wdClassLabel ?artworkLabel
         class_label = result['wdClassLabel']['value']
 
         output_string += '(' + class_label + ')' + artwork_qid + ' ' + artwork_label + '\n'
-    update_results(output_string)
+    update_artworks(output_string)
+
+def retrieve_narrower_concepts(current_scheme: str, parent_class: str) -> List[Dict[str, str]]:
+    """Retrieve the narrower concepts for a concept.
+    Returned values are (label, IRI)."""
+    # Query string to find the narrower concepts for AAT, nom, or Wikidata
+    query_string = '''PREFIX wd:      <http://www.wikidata.org/entity/>
+PREFIX wdt:     <http://www.wikidata.org/prop/direct/>
+PREFIX gvp:     <http://vocab.getty.edu/ontology#>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+PREFIX skosxl:  <http://www.w3.org/2008/05/skos-xl#>
+
+SELECT DISTINCT ?superclass ?superclassLabel
+WHERE
+{
+BIND (<''' + parent_class + '''> as ?parentClass)
+'''
+
+    # Insert the specific part of the query string for the current scheme superclass relationship.
+    # Do this instead of UNION because AAT has both gvp:broaderPreferred and skos:broader (which 
+    # we don't want to use).
+    if current_scheme == 'wikidata':
+        query_string += '''?superclass wdt:P279 ?parentClass. # Parent class is one level above the test superclass
+?wdClass wdt:P279* ?superclass. # The test superclass is required to be linked to at least one artwork through any level.
+?superclass rdfs:label ?superclassLabel.
+'''
+    elif current_scheme == 'aat':
+        query_string += '''?superclass gvp:broaderPreferred ?parentClass.
+?superclass skosxl:prefLabel ?l.
+?l skosxl:literalForm ?superclassLabel.
+?class gvp:broaderPreferred* ?superclass.
+    {?wdClass skos:exactMatch ?class.} 
+UNION 
+    {?wdClass skos:broadMatch ?class.}
+UNION
+    {?wdClass skos:closeMatch ?class.}
+'''
+    elif current_scheme == 'nomenclature':
+        query_string += '''?superclass skos:broader ?parentClass.
+?superclass skos:prefLabel ?superclassLabel.
+?class skos:broader* ?superclass.
+    {?wdClass skos:exactMatch ?class.} 
+UNION 
+    {?wdClass skos:broadMatch ?class.}
+UNION
+    {?wdClass skos:closeMatch ?class.}
+'''
+
+    # Add the rest of the query string
+    query_string += '''?artwork wdt:P31 ?wdClass. # The wikidata class must be linked to at least one artwork.
+filter(lang(?superclassLabel) = "en")
+}
+order by ?superclassLabel
+'''
+    #print(query_string)
+
+    # Send the query to the endpoint
+    data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
+    #print(json.dumps(data, indent=2))
+
+    # Get the superclass QIDs and labels and put them in a list of dictionaries.
+    superclasses = []
+    for result in data:
+        superclass_qid = result['superclass']['value']
+        superclass_label = result['superclassLabel']['value']
+        superclasses.append({'qid': superclass_qid, 'label': superclass_label})
+    return superclasses
 
 def retrieve_broader_classification(search_string: str) -> Tuple[str, str]:
     """Retrieve the broader classification for a concept.
@@ -239,7 +357,7 @@ filter(lang(?parentLabel)="en")
 }
 '''
     #print(query_string)
-    #update_results(search_string)
+    #update_artworks(search_string)
 
     # Send the query to the endpoint
     data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
@@ -585,7 +703,7 @@ mainframe.rowconfigure(0, weight=1)
 
 
 # Create a button object for sending the query
-broader_button = Button(mainframe, text = 'Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL['broader'], width = 30, command = lambda: change_scheme_button() )
+broader_button = Button(mainframe, text = 'Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL['broader'], width = 30, command = lambda: parent_concept_button(CURRENT_SCHEME_ORIENTATION['current']) )
 broader_button.grid(column=2, row=1)
 
 left_button = Button(mainframe, text = 'Switch to ' + CURRENT_SCHEME_ORIENTATION['left'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['left']], width = 30, command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['left']) )
@@ -599,22 +717,42 @@ Label(mainframe, textvariable=current_classification_text).grid(column=2, row=2,
 current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['current']])
 
 results_text = StringVar()
-Label(mainframe, textvariable=results_text).grid(column=1, row=22, sticky=(W, E))
-results_text.set('Items in collection:')
+Label(mainframe, textvariable=results_text).grid(column=3, row=3, sticky=(W, E))
+results_text.set('Subclasses')
 
 #scrolling text box hacked from https://www.daniweb.com/programming/software-development/code/492625/exploring-tkinter-s-scrolledtext-widget-python
-edit_space = tkst.ScrolledText(master = mainframe, width  = 100, height = 25)
+subclass_list_box = tkst.ScrolledText(master = mainframe, width  = 100, height = 25)
 # the padx/pady space will form a frame
-edit_space.grid(column=2, row=22, padx=8, pady=8)
-edit_space.insert(END, '')
+subclass_list_box.grid(column=2, row=3, padx=8, pady=8)
+subclass_list_box.insert(END, '')
 
-def update_results(result):
+def update_subclasses(result):
     #print(result)
-    edit_space.delete('1.0', END)
-    edit_space.insert(INSERT, result + '\n')
-    #edit_space.see(END) #causes scroll up as text is added
+    subclass_list_box.delete('1.0', END)
+    subclass_list_box.insert(INSERT, result + '\n')
+    #subclass_list_box.see(END) #causes scroll up as text is added
     root.update_idletasks() # causes update to log window, see https://stackoverflow.com/questions/6588141/update-a-tkinter-text-widget-as-its-written-rather-than-after-the-class-is-fini
 
+subclass_list = retrieve_narrower_concepts(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+update_subclasses(json.dumps(subclass_list, indent=2))
+
+results_text = StringVar()
+Label(mainframe, textvariable=results_text).grid(column=1, row=4, sticky=(W, E))
+results_text.set('Items in collection:')
+
+artworks_list = tkst.ScrolledText(master = mainframe, width  = 100, height = 25)
+# the padx/pady space will form a frame
+artworks_list.grid(column=2, row=4, padx=8, pady=8)
+artworks_list.insert(END, '')
+
+def update_artworks(result):
+    #print(result)
+    artworks_list.delete('1.0', END)
+    artworks_list.insert(INSERT, result + '\n')
+    #artworks_list.see(END) #causes scroll up as text is added
+    root.update_idletasks() # causes update to log window, see https://stackoverflow.com/questions/6588141/update-a-tkinter-text-widget-as-its-written-rather-than-after-the-class-is-fini
+
+retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
 
 def main():	
     root.mainloop()
