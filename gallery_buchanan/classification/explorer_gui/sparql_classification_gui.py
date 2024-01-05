@@ -143,26 +143,26 @@ except:
 # ------------
 # Functions
 # ------------
-def change_scheme_button(new_scheme: str) -> None:
+def change_scheme_button(new_scheme: str, existing_subclass_buttons: List[Button]) -> None:
     """Handle the click of the "Switch to ..." buttons"""
     # The current scheme orientation will be set to the new_scheme for the button that was clicked.
     CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[new_scheme]
 
     # Reset the labels for the buttons and text box, and commands for the buttons
-    left_button.config(text='Switch to ' + CURRENT_SCHEME_ORIENTATION['left'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['left']], command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['left']))
-    right_button.config(text='Switch to ' + CURRENT_SCHEME_ORIENTATION['right'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['right']], command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['right']))
+    left_button.config(text='Switch to ' + CURRENT_SCHEME_ORIENTATION['left'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['left']], command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['left'], existing_subclass_buttons))
+    right_button.config(text='Switch to ' + CURRENT_SCHEME_ORIENTATION['right'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['right']], command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['right'], existing_subclass_buttons))
     current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['current']])
 
     # Query to find the new broader category for the current classification.
     broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
     CLASSIFICATION['broader'] = broader_iri
     LABEL['broader'] = broader_label
-    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(new_scheme))
+    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(new_scheme, existing_subclass_buttons))
 
     # Find the artworks that are included in the current classification
     retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
 
-def parent_concept_button(scheme_name: str) -> None:
+def parent_concept_button(scheme_name: str, existing_subclass_buttons: List[Button]) -> None:
     """Handle the click of the "Broader ..." button by making the parent concept the current classification.
     NOTE: Only the lowest level in the hierarchy can have equivalent concepts in the other schemes. So moving up
     to the parent concept will always disable the left and right buttons for the other classification schemes."""
@@ -185,7 +185,6 @@ def parent_concept_button(scheme_name: str) -> None:
     broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
     CLASSIFICATION['broader'] = broader_iri
     LABEL['broader'] = broader_label
-    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(scheme_name))
 
     # Find the artworks that are included in the current classification
     #retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
@@ -194,8 +193,16 @@ def parent_concept_button(scheme_name: str) -> None:
     for subclass in subclass_list:
         subclass_string += subclass['label'] + ' ' + subclass['qid'] + '\n'
         
-    #update_subclasses_box(subclass_string)
-    generate_subclass_buttons(subclass_list)
+    # Destroy the existing subclass buttons
+    print(len(existing_subclass_buttons))
+    for button in existing_subclass_buttons:
+        button.grid_forget()
+
+    # Create new subclass buttons
+    existing_subclass_buttons = generate_subclass_buttons(subclass_list)
+
+    # Create the new broader button after it has the updated subclass buttons.
+    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(scheme_name, existing_subclass_buttons))
 
     # Find the artworks that are included in the higher classification
     retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
@@ -698,17 +705,6 @@ mainframe.rowconfigure(0, weight=1)
 # Insert the generic query text
 #query_text_box.insert(END, PREFIXES + 'http://www.wikidata.org/entity/Q613972')
 
-
-# Create a button object for sending the query
-broader_button = Button(mainframe, text = 'Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL['broader'], width = 30, command = lambda: parent_concept_button(CURRENT_SCHEME_ORIENTATION['current']) )
-broader_button.grid(column=2, row=1)
-
-left_button = Button(mainframe, text = 'Switch to ' + CURRENT_SCHEME_ORIENTATION['left'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['left']], width = 30, command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['left']) )
-left_button.grid(column=1, row=2, sticky=W)
-
-right_button = Button(mainframe, text = 'Switch to ' + CURRENT_SCHEME_ORIENTATION['right'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['right']], width = 30, command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['right']) )
-right_button.grid(column=3, row=2, sticky=W)
-
 current_classification_text = StringVar()
 Label(mainframe, textvariable=current_classification_text).grid(column=2, row=2, sticky=(W, E))
 current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['current']])
@@ -748,7 +744,17 @@ def generate_subclass_buttons(subclass_list: List[Dict[str, str]]) -> List[Butto
         subclass_buttons.append(button)
     return subclass_buttons
 
-generate_subclass_buttons(subclass_list)
+existing_subclass_buttons = generate_subclass_buttons(subclass_list)
+
+# Generate buttons after the subclass buttons are created.
+broader_button = Button(mainframe, text = 'Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL['broader'], width = 30, command = lambda: parent_concept_button(CURRENT_SCHEME_ORIENTATION['current'], existing_subclass_buttons) )
+broader_button.grid(column=2, row=1)
+
+left_button = Button(mainframe, text = 'Switch to ' + CURRENT_SCHEME_ORIENTATION['left'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['left']], width = 30, command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['left'], existing_subclass_buttons) )
+left_button.grid(column=1, row=2, sticky=W)
+
+right_button = Button(mainframe, text = 'Switch to ' + CURRENT_SCHEME_ORIENTATION['right'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['right']], width = 30, command = lambda: change_scheme_button(CURRENT_SCHEME_ORIENTATION['right'], existing_subclass_buttons) )
+right_button.grid(column=3, row=2, sticky=W)
 
 results_text = StringVar()
 Label(mainframe, textvariable=results_text).grid(column=1, row=3, sticky=(W, E))
