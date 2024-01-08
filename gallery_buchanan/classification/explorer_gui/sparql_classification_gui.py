@@ -151,6 +151,13 @@ def change_scheme_button(new_scheme: str) -> None:
     # Indicate that EXISTING_SUBCLASS_BUTTONS is a global variable
     global EXISTING_SUBCLASS_BUTTONS
 
+    # Determine whether the existing broader classification is empty or not. If empty, the broader
+    # button will be hidden and needs to be redisplayed.
+    if CLASSIFICATION['broader'] == '':
+        need_to_display_broader_button = True
+    else:
+        need_to_display_broader_button = False
+
     # The current scheme orientation will be set to the new_scheme for the button that was clicked.
     CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[new_scheme]
 
@@ -163,7 +170,12 @@ def change_scheme_button(new_scheme: str) -> None:
     broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
     CLASSIFICATION['broader'] = broader_iri
     LABEL['broader'] = broader_label
-    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(new_scheme))
+    if broader_label == '': # Handle the case where there is no broader classification.
+        broader_button.grid_forget()
+    else:
+        broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(new_scheme))
+        if need_to_display_broader_button:
+            broader_button.grid(column=2, row=1)
 
     # Find the artworks that are included in the current classification
     retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
@@ -174,6 +186,13 @@ def parent_concept_button(scheme_name: str) -> None:
     to the parent concept will always disable the left and right buttons for the other classification schemes."""
     # Indicate that EXISTING_SUBCLASS_BUTTONS is a global variable
     global EXISTING_SUBCLASS_BUTTONS
+
+    # Determine whether the existing broader classification is empty or not. If empty, the broader
+    # button will be hidden and needs to be redisplayed.
+    if CLASSIFICATION['broader'] == '':
+        need_to_display_broader_button = True
+    else:
+        need_to_display_broader_button = False
 
     # Set the current classification IRI and label to the broader classification
     #print('broader classification', CLASSIFICATION['broader'])
@@ -190,7 +209,6 @@ def parent_concept_button(scheme_name: str) -> None:
     right_button.grid_forget()
 
     # Query to find the new broader category for the current classification.
-    # Note: needs to handle the case where there is no broader classification.
     broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
     CLASSIFICATION['broader'] = broader_iri
     LABEL['broader'] = broader_label
@@ -212,8 +230,13 @@ def parent_concept_button(scheme_name: str) -> None:
     # Create new subclass buttons
     EXISTING_SUBCLASS_BUTTONS = generate_subclass_buttons(subclass_list)
 
-    # Create the new broader button after it has the updated subclass buttons.
-    broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(scheme_name))
+    if broader_label == '': # Handle the case where there is no broader classification.
+        broader_button.grid_forget()
+    else:
+        # Create the new broader button after it has the updated subclass buttons.
+        broader_button.config(text='Broader ' + CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + broader_label, command = lambda: parent_concept_button(scheme_name))
+        if need_to_display_broader_button:
+            broader_button.grid(column=2, row=1)
 
     # Find the artworks that are included in the higher classification
     retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
@@ -378,6 +401,8 @@ filter(lang(?parentLabel)="en")
     #print(json.dumps(data, indent=2))
     #print()
     
+    if len(data) == 0: # Handle the case where there is no broader classification.
+        return ('', '')
     # Note: Only Wikidata can return multiple results. The others return only one result.
     # So for the Wikidata result, only the first one will be used.
     label = data[0]['parentLabel']['value']
@@ -406,12 +431,21 @@ def move_to_subclass(subclass_iri: str) -> None:
     # I thought it should not be necessary to set this since it's a global variable and already set. But apparently it is getting a value from some previous state.
     CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[scheme_name]
 
+    # Determine whether the existing broader classification is empty or not. If empty, the broader
+    # button will be hidden and needs to be redisplayed.
+    if CLASSIFICATION['broader'] == '':
+        need_to_display_broader_button = True
+    else:
+        need_to_display_broader_button = False
+
     # Move the CLASSIFICATION and LABEL values for the former current classification to the broader classification.
     CLASSIFICATION['broader'] = CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']]
     LABEL['broader'] = LABEL[CURRENT_SCHEME_ORIENTATION['current']]
 
     # Change the values of the broader button to the new broader classification.
     broader_button.config(text='Broader ' + CLASSIFICATION['broader'] + '\nterm: ' + LABEL['broader'], command = lambda: parent_concept_button(scheme_name))
+    if need_to_display_broader_button:
+        broader_button.grid(column=2, row=1)
 
     # Move the values of CLASSIFICATION for the chosen subclass to the current classification.
     CLASSIFICATION[scheme_name] = subclass_iri
