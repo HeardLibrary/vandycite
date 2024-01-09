@@ -1,6 +1,6 @@
 # sparql_classification_gui, an app to explore artworks via SPARQL queries.  sparql_classification_gui.py
 SCRIPT_VERSION = '0.0.1'
-VERSION_MODIFIED = '2024-01-04'
+VERSION_MODIFIED = '2024-01-08'
 
 # (c) 2024 Vanderbilt University. This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
 # Author: Steve Baskauf
