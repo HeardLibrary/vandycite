@@ -177,6 +177,18 @@ def change_scheme_button(new_scheme: str) -> None:
         if need_to_display_broader_button:
             broader_button.grid(column=2, row=1)
 
+    # Determine the subclasses of the new current concept and create any buttons for them.
+    subclass_list = retrieve_narrower_concepts(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+        
+    # Destroy the existing subclass buttons
+    for button in EXISTING_SUBCLASS_BUTTONS:
+        #button.grid_forget() # removes button from grid but doesn't destroy it
+        button.destroy() # removes button from grid and destroys it
+    EXISTING_SUBCLASS_BUTTONS = [] # Not sure if this is necessary.
+
+    # Create new subclass buttons
+    EXISTING_SUBCLASS_BUTTONS = generate_subclass_buttons(subclass_list)
+
     # Find the artworks that are included in the current classification
     retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
 
