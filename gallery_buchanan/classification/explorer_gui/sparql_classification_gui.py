@@ -181,9 +181,7 @@ def change_scheme_button(new_scheme: str) -> None:
     retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
 
 def parent_concept_button(scheme_name: str) -> None:
-    """Handle the click of the "Broader ..." button by making the parent concept the current classification.
-    NOTE: Only the lowest level in the hierarchy can have equivalent concepts in the other schemes. So moving up
-    to the parent concept will always disable the left and right buttons for the other classification schemes."""
+    """Handle the click of the "Broader ..." button by making the parent concept the current classification."""
     # Indicate that EXISTING_SUBCLASS_BUTTONS is a global variable
     global EXISTING_SUBCLASS_BUTTONS
 
@@ -195,33 +193,33 @@ def parent_concept_button(scheme_name: str) -> None:
         need_to_display_broader_button = False
 
     # Set the current classification IRI and label to the broader classification
-    #print('broader classification', CLASSIFICATION['broader'])
-    #print('broader label', LABEL['broader'])
     CLASSIFICATION[scheme_name] = CLASSIFICATION['broader']
     LABEL[scheme_name] = LABEL['broader']
     # I thought it should not be necessary to set this since it's a global variable and already set. But apparently it is getting a value from some previous state.
     CURRENT_SCHEME_ORIENTATION = SCHEME_ORIENTATIONS[scheme_name]
 
-    # Reset the label for the text box.
+    # Reset the label for the current classification text box.
     current_classification_text.set(CURRENT_SCHEME_ORIENTATION['current'] + '\nterm: ' + LABEL[CURRENT_SCHEME_ORIENTATION['current']])
-    # Make the left and right buttons invisible.
-    left_button.grid_forget()
-    right_button.grid_forget()
 
-    # Query to find the new broader category for the current classification.
-    broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
-    CLASSIFICATION['broader'] = broader_iri
-    LABEL['broader'] = broader_label
+    # Make the left and right buttons invisible and clear the data for them.
+    #left_button.grid_forget()
+    #CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['left']] = ''
+    #LABEL[CURRENT_SCHEME_ORIENTATION['left']] = ''
+    #MATCH_TYPE['left'] = ''
 
-    # Find the artworks that are included in the current classification
-    #retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+    #right_button.grid_forget()
+    #CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['right']] = ''
+    #LABEL[CURRENT_SCHEME_ORIENTATION['right']] = ''
+    #MATCH_TYPE['right'] = ''
+
+    # If there are equivalent concepts, find them and change the left and right buttons. 
+    # If an equivalent concept is not found, make the button invisible.
+    find_equivalent_concepts_and_set_buttons(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']], CURRENT_SCHEME_ORIENTATION)
+
+    # Determine the subclasses of the new current concept and create any buttons for them.
     subclass_list = retrieve_narrower_concepts(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
-    #subclass_string = ''
-    #for subclass in subclass_list:
-    #    subclass_string += subclass['label'] + ' ' + subclass['iri'] + '\n'
         
     # Destroy the existing subclass buttons
-    #print(len(EXISTING_SUBCLASS_BUTTONS))
     for button in EXISTING_SUBCLASS_BUTTONS:
         #button.grid_forget() # removes button from grid but doesn't destroy it
         button.destroy() # removes button from grid and destroys it
@@ -229,6 +227,11 @@ def parent_concept_button(scheme_name: str) -> None:
 
     # Create new subclass buttons
     EXISTING_SUBCLASS_BUTTONS = generate_subclass_buttons(subclass_list)
+
+    # Query to find the new broader category for the current classification.
+    broader_label, broader_iri = retrieve_broader_classification(CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+    CLASSIFICATION['broader'] = broader_iri
+    LABEL['broader'] = broader_label
 
     if broader_label == '': # Handle the case where there is no broader classification.
         broader_button.grid_forget()
@@ -487,11 +490,20 @@ FILTER (lang(?label) = "en")
     # Create new subclass buttons
     EXISTING_SUBCLASS_BUTTONS = generate_subclass_buttons(subclass_list)
 
+    # If there are equivalent concepts, find them and change the left and right buttons. 
+    # If an equivalent concept is not found, make the button invisible.
+    find_equivalent_concepts_and_set_buttons(subclass_iri, CURRENT_SCHEME_ORIENTATION)
+
+    # Update the artworks that are included in the current classification
+    retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
+
+def find_equivalent_concepts_and_set_buttons(classification_iri: str, scheme_orientation: Dict[str, str]) -> None:
+    """Perform a SPARQL query to look for equivalent concepts and set the left and right buttons."""
     # Create a query string to try to get the equivalent concepts for the current scheme.
     query_string = '''SELECT DISTINCT ?o ?p ?label
 FROM <https://art-classification-crosswalks>
 WHERE {
-<''' + subclass_iri + '''> ?p ?o.
+<''' + classification_iri + '''> ?p ?o.
 }
 '''
     #print(query_string)
@@ -501,60 +513,75 @@ WHERE {
     #print(json.dumps(data, indent=2))
     #print()
 
-    # Go through each of the equivalent concepts in the results and check if it's for the left or right button.
-    # If it is, set the match type, concept IRI and label for the button.
-    # If there are no equivalents, nothing will happen and the buttons will remain in their same state.
-    for equivalent in data:
-        set_equivalent_button_concept_data(CURRENT_SCHEME_ORIENTATION, equivalent, 'left')
-        set_equivalent_button_concept_data(CURRENT_SCHEME_ORIENTATION, equivalent, 'right')
+    # Based on the data from the query, set the match type, concept IRI and label of the concept in the specified button position.
+    for side in ['left', 'right']:
+        set_equivalent_button_concept_data(scheme_orientation, data, side)
 
-    # Update the artworks that are included in the current classification
-    retrieve_included_artworks(CURRENT_SCHEME_ORIENTATION['current'], CLASSIFICATION[CURRENT_SCHEME_ORIENTATION['current']])
-
-def set_equivalent_button_concept_data(scheme_orientation: Dict[str, str], equivalent: Dict, button_position: str) -> None:
+def set_equivalent_button_concept_data(scheme_orientation: Dict[str, str], data: List, button_position: str) -> None:
     """Retrieve and set the match type, concept IRI and label of the concept in the specified button position.
     """
     # Indicate that EXISTING_SUBCLASS_BUTTONS is a global variable
     global EXISTING_SUBCLASS_BUTTONS
 
-    concept_iri = equivalent['o']['value'] # Get the IRI of the equivalent concept
-    if scheme_orientation[button_position] in concept_iri: # Check if the scheme name is in the domain name for the given scheme
-        #print('button_position:', button_position)
-        MATCH_TYPE[button_position] = equivalent['p']['value'].split('#')[1] # Match type is the local name
-        #print('match type:', MATCH_TYPE[button_position])
-        CLASSIFICATION[button_position] = concept_iri
-        #print('concept IRI:', concept_iri)
+    if CLASSIFICATION[scheme_orientation[button_position]] == '':
+        need_to_display_button = True
+    else:
+        need_to_display_button = False
 
-        # Query to get the label for the concept. rdfs:label for Wikidata, skos:prefLabel for nom, skosxl:prefLabel for AAT.
-        # Don't specify a graph, since the labels come from various graphs.
-        query_string = '''SELECT DISTINCT ?label
-    WHERE {
-        {<''' + concept_iri + '''> <http://www.w3.org/2004/02/skos/core#prefLabel> ?label} 
-    UNION
-        {<''' + concept_iri + '''> <http://www.w3.org/2000/01/rdf-schema#label> ?label}
-    UNION
-        {<''' + concept_iri + '''> <http://www.w3.org/2008/05/skos-xl#prefLabel> ?labelObject.
-        ?labelObject <http://www.w3.org/2008/05/skos-xl#literalForm> ?label.}
-    FILTER (lang(?label) = "en")
-    }
-    '''
-        #print(query_string)
-        #print()
-        label_data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
-        #print(json.dumps(label_data, indent=2))
+    # Keep track of whether a match was found for the side.
+    found_match_for_side = False
 
-        # Get the label from the query results
-        LABEL[button_position] = label_data[0]['label']['value']
-        #print('label:', LABEL[button_position])
-        #print()
+    for equivalent in data:
+        concept_iri = equivalent['o']['value'] # Get the IRI of the equivalent concept
+        if scheme_orientation[button_position] in concept_iri: # Check if the scheme name is in the domain name for the given scheme
+            found_match_for_side = True
+            MATCH_TYPE[button_position] = equivalent['p']['value'].split('#')[1] # Match type is the local name
+            #print('match type:', MATCH_TYPE[button_position])
+            CLASSIFICATION[scheme_orientation[button_position]] = concept_iri
+            #print('concept IRI:', concept_iri)
 
-        # Set the button label to the label of the concept, then make the button visible.
+            # Query to get the label for the concept. rdfs:label for Wikidata, skos:prefLabel for nom, skosxl:prefLabel for AAT.
+            # Don't specify a graph, since the labels come from various graphs.
+            query_string = '''SELECT DISTINCT ?label
+        WHERE {
+            {<''' + concept_iri + '''> <http://www.w3.org/2004/02/skos/core#prefLabel> ?label} 
+        UNION
+            {<''' + concept_iri + '''> <http://www.w3.org/2000/01/rdf-schema#label> ?label}
+        UNION
+            {<''' + concept_iri + '''> <http://www.w3.org/2008/05/skos-xl#prefLabel> ?labelObject.
+            ?labelObject <http://www.w3.org/2008/05/skos-xl#literalForm> ?label.}
+        FILTER (lang(?label) = "en")
+        }
+        '''
+            #print(query_string)
+            #print()
+            label_data = Sparqler().query(query_string) # default to DEFAULT_ENDPOINT
+            #print(json.dumps(label_data, indent=2))
+
+            # Get the label from the query results
+            LABEL[scheme_orientation[button_position]] = label_data[0]['label']['value']
+            #print('label:', LABEL[button_position])
+            #print()
+
+            # Set the button label to the label of the concept, then make the button visible.
+            if button_position == 'left':
+                left_button.config(text='Switch to ' + scheme_orientation['left'] + '\nterm: ' + LABEL[scheme_orientation['left']], command = lambda: change_scheme_button(scheme_orientation['left']))
+                if need_to_display_button:
+                    left_button.grid(column=1, row=2, sticky=W)
+            elif button_position == 'right':
+                right_button.config(text='Switch to ' + scheme_orientation['right'] + '\nterm: ' + LABEL[scheme_orientation['right']], command = lambda: change_scheme_button(scheme_orientation['right']))
+                if need_to_display_button:
+                    right_button.grid(column=3, row=2, sticky=W)
+
+    if not found_match_for_side:
+        # If no match was found, clear the button data.
+        MATCH_TYPE[button_position] = ''
+        CLASSIFICATION[scheme_orientation[button_position]] = ''
+        LABEL[scheme_orientation[button_position]] = ''
         if button_position == 'left':
-            left_button.config(text='Switch to ' + scheme_orientation[button_position] + '\nterm: ' + LABEL[button_position], command = lambda: change_scheme_button(scheme_orientation[button_position]))
-            left_button.grid(column=1, row=2, sticky=W)
+            left_button.grid_forget()
         elif button_position == 'right':
-            right_button.config(text='Switch to ' + scheme_orientation[button_position] + '\nterm: ' + LABEL[button_position], command = lambda: change_scheme_button(scheme_orientation[button_position]))
-            right_button.grid(column=3, row=2, sticky=W)
+            right_button.grid_forget()
 
 # ------------
 # Classes
