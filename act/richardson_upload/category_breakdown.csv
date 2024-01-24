@@ -1,20 +1,21 @@
-type	instances
-Relief sculpture	295
-Stained glass	96
-Print (mostly Macklin Bible)	63
-Fresco	9
-Sarcophagus	9
-Painting, panel	5
-Carving	5
-Architecture	5
-Furniture	2
-Sculpture, freestanding	2
-Mural	1
-Manuscript illumination	1
-Books and manuscripts	1
-Baptismal font	1
-Altarpiece	1
-Tiles	1
-(not classified)	491
-	
-A glance at titles indicates that a lot of the unclassified works are frescos, sarcophogi, and relief sculptures.	
+type,instances,qid,classification_label,subclass_of
+Relief sculpture,295,Q245117,relief sculpture,sculpture/two-dimensional visual artwork
+Stained glass,96,Q21061279,stained glass window,window/work of art
+Print (mostly Macklin Bible),63,Q11060274,print,
+Fresco,9,Q22669139,fresco,wall painting
+Sarcophagus,9,Q48634,sarcophagus,coffin
+Painting,4,Q3305213,painting,two-dimensional artwork
+"Painting, panel",5,Q55439,painting,two-dimensional artwork
+Carving,5,Q97570030,carving,sculpture
+Architecture,5,,,
+Furniture,2,,,
+"Sculpture, freestanding",2,Q860861,sculpture,
+Mural,1,,,
+Manuscript illumination,1,,,
+Books and manuscripts,1,,,
+Baptismal font,1,,,
+Altarpiece,1,,,
+Tiles,1,,,
+(not classified),491,,,
+,,,,
+"A glance at titles indicates that a lot of the unclassified works are frescos, sarcophogi, and relief sculptures.",,,,

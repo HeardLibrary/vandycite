@@ -260,6 +260,13 @@
                 "value_type": "date"
               }
             ]
+        },
+        {
+          "pid": "P5008",
+          "variable": "focus_of",
+          "value_type": "item",
+          "qual": [],
+          "ref": []
         }
       ]
     }

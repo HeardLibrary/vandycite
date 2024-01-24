@@ -763,6 +763,22 @@
             "datatype": "integer",
             "aboutUrl": "http://example.com/.well-known/genid/{part_of_ref1_retrieved_nodeId}",
             "propertyUrl": "http://wikiba.se/ontology#timePrecision"
+          },
+          {
+            "titles": "focus_of_uuid",
+            "name": "focus_of_uuid",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/{qid}",
+            "propertyUrl": "http://www.wikidata.org/prop/P5008",
+            "valueUrl": "http://www.wikidata.org/entity/statement/{qid}-{focus_of_uuid}"
+          },
+          {
+            "titles": "focus_of",
+            "name": "focus_of",
+            "datatype": "string",
+            "aboutUrl": "http://www.wikidata.org/entity/statement/{qid}-{focus_of_uuid}",
+            "propertyUrl": "http://www.wikidata.org/prop/statement/P5008",
+            "valueUrl": "http://www.wikidata.org/entity/{focus_of}"
           }
         ]
       }
