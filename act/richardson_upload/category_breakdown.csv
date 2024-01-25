@@ -5,17 +5,19 @@ Print (mostly Macklin Bible),63,Q11060274,print,
 Fresco,9,Q22669139,fresco,wall painting
 Sarcophagus,9,Q48634,sarcophagus,coffin
 Painting,4,Q3305213,painting,two-dimensional artwork
-"Painting, panel",5,Q55439,painting,two-dimensional artwork
+"Painting, panel",5,Q3305213,painting,two-dimensional artwork
 Carving,5,Q97570030,carving,sculpture
 Architecture,5,,,
 Furniture,2,,,
 "Sculpture, freestanding",2,Q860861,sculpture,
 Mural,1,,,
-Manuscript illumination,1,,,
+Manuscript illumination,1,Q48498,illuminated manuscript,
 Books and manuscripts,1,,,
 Baptismal font,1,,,
 Altarpiece,1,,,
 Tiles,1,,,
 (not classified),491,,,
-,,,,
+,,Q179700,statue,sculpture
+,,Q811979,architectural structure,artificial physical structure
+,,Q1640824,inscription,design element
 "A glance at titles indicates that a lot of the unclassified works are frescos, sarcophogi, and relief sculptures.",,,,
