@@ -2,7 +2,26 @@
 # (c) 2024 Vanderbilt University, except Sparqler class: (c) Steven J. Baskauf (same license)
 # This program is released under a GNU General Public License v3.0 http://www.gnu.org/licenses/gpl-3.0
 # Author: Steve Baskauf
-# Date: 2024-02-27
+# Date: 2024-02-28
+# Version: 0.1.1
+
+# -----------------------------------------
+# Version 0.1.0 change notes (2024-02-27):
+# - Initial version created from load_neptune.ipynb .
+# - Modified the Sparqler class to use urllib3 instead of requests since requests is not supported in AWS Lambda.
+# - Removed support for parameters other than "update" or "query" in the Sparqler class (didn't work with urllib3).
+# - Change table type from pandas dataframe to list of dicts since pandas is not supported in AWS Lambda.
+# - Changed file loads from local directories to S3 buckets.
+# - Removed code to upload files to S3 since it's not needed in this context.
+# - Changed configuration file from YAML to JSON since pyyaml is not supported in AWS Lambda.
+# - Replaced all escaped newline characters with triple-quoted strings since the former caused errors in AWS Lambda.
+# - Removed print statements and replaced with log_string to be saved to a log file in the S3 bucket.
+# - Trigger lambda by PUT of trigger.txt into the s3_bucket_name bucket. Delete trigger file at start of script.
+# -----------------------------------------
+# Version 0.1.1 change notes (2024-02-28):
+# - generate column header string for named_graphs_df_fields from the config_data.
+# - added support for "initialize" operation to initialize the graph of graphs and service metadata.
+# - added support for "drop" operation to drop listed named graphs and their metadata.
 
 # ----------------
 # Configuration
@@ -31,7 +50,6 @@ loader_endpoint_url = 'https://triplestore1.cluster-cml0hq81gymg.us-east-1.neptu
 reader_endpoint_url = 'https://sparql.vanderbilt.edu/sparql'
 s3_bucket_name = 'triplestore-upload'
 utc_offset = '-05:00'
-named_graphs_df_fields = ['sd:name', 'dcterms:issued', 'dc:publisher', 'rdf:type', 'dcterms:isPartOf', 'tdwgutility:status', 'load_status']
 graph_file_associations_df_fields = ['sd:name', 'sd:graph', 'filename', 's3_upload_status', 'graph_load_status']
 
 # ----------------
@@ -89,7 +107,7 @@ def save_string_to_file_in_bucket(text_string: str, filename: str, content_type 
     s3_resource = boto3.resource('s3')
     s3_resource.Object(bucket, s3_path).put(Body=text_string, ContentType=content_type)
 
-def update_upload_status(row_index, dataframe, field, filename, message, fieldnames):
+def update_upload_status(row_index: int, dataframe: List, field: str, filename: str, message: str, fieldnames: List[str]) -> None:
     """Adds status message to list of dicts and saves out to CSV in case of crash."""
     dataframe[row_index][field] = message
     file_string = write_dicts_to_string(dataframe, fieldnames)
@@ -436,16 +454,17 @@ class Sparqler:
         data = self.update(request_string, verbose=verbose)
         return data
  
- # -----------------
+# -----------------
 # main script
 # -----------------
 
 def lambda_handler(event, context):
     print_dump = False
-    
-    # Delete the trigger file
+
+    # Read the command from the trigger file
     s3 = boto3.resource('s3')
-    s3.Object(s3_bucket_name, 'trigger.txt').delete()
+    trigger_file = s3.Object(s3_bucket_name, 'trigger.txt')
+    trigger_text = trigger_file.get()['Body'].read().decode('utf-8').strip() # Remove leading/trailing whitespace or newline
     
     upload_start_time = datetime.datetime.now()
     log_string = 'started at ' + upload_start_time.isoformat() + utc_offset + '''
@@ -454,14 +473,108 @@ def lambda_handler(event, context):
     save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
     
     neptune = Sparqler(endpoint=loader_endpoint_url, sleep=0)
+
+    # Determine the type of operation to be performed
+    if trigger_text == 'drop':
+        # Note that drop operations can take a very long time, especially if the graph is large.
+        pass # continue with the update operation (the rest of the code in this script)
+    elif trigger_text == 'initialize':
+        # This option should only be used once to initialize the metadata about the graph of graphs, service, and GraphCollection.
+        # As of 2024-02-28, these triples are already loaded into the triplestore. This option is included in the case that a 
+        # clean instance of Neptune is initialized and the service-level metadata need to be reloaded. 
+        # Note: there is no great harm done if this option is used more than once, but it's not necessary. 
+        dcterms_modified = datetime.datetime.now().isoformat() + utc_offset
+        request_string = '''prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix dc: <http://purl.org/dc/elements/1.1/>
+prefix dcterms: <http://purl.org/dc/terms/>
+prefix sd: <http://www.w3.org/ns/sparql-service-description#>
+prefix tdwgutility: <http://rs.tdwg.org/dwc/terms/attributes/>
+
+insert data {
+graph <https://sparql.vanderbilt.edu/graphs> {
+<https://sparql.vanderbilt.edu/graphs> dcterms:modified "''' + dcterms_modified + '''"^^xsd:dateTime;
+    sd:name <https://sparql.vanderbilt.edu/graphs>;
+    dc:publisher "Vanderbilt Heard Libraries";
+    a sd:NamedGraph;
+    tdwgutility:status "production".
+<https://sparql.vanderbilt.edu/sparql#service> a sd:Service;
+    sd:endpoint <https://sparql.vanderbilt.edu/sparql>;
+    sd:availableGraphs <https://sparql.vanderbilt.edu/graphs#collection>.
+<https://sparql.vanderbilt.edu/graphs#collection> a sd:GraphCollection;
+    sd:namedGraph <https://sparql.vanderbilt.edu/graphs>.
+}}
+'''
+        data = neptune.update(request_string, verbose=False)
+        log_string += 'Initialized graph of graphs at ' + datetime.datetime.now().isoformat() + utc_offset + '''
+'''
+        save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
+        return log_string
+    elif trigger_text == 'load':
+        pass # continue with the load operation (the rest of the code in this script)
+    else:
+        log_string += 'Invalid trigger file content: ' + trigger_text + '''
+'''
+        save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
+        return log_string
     
     # Load data
     prefixes_text = load_file_from_bucket('prefixes.txt', path = 'config/')
     config_data_text = load_file_from_bucket('named_graphs_config.json', path = 'config/')
     config_data = json.loads(config_data_text)
+
+    # Generate the named_graphs_df_fields list from the config_data
+    named_graphs_df_fields = []
+    for column in config_data:
+        named_graphs_df_fields.append(column['column_header'])
+    named_graphs_df_fields.append('load_status')
     
     # Load the data about named graphs to be updated
     named_graphs_df = string_to_list_of_dicts(load_file_from_bucket('named_graphs.csv'))
+
+    # Determine if the operation is drop and handle that separately.
+    # This operation uses the same CSV file as the update operation, but ignores all data except for the graph name.
+    if trigger_text == 'drop':
+        for index, graph in enumerate(named_graphs_df):
+            named_graph_iri = graph['sd:name']
+            log_string += 'Dropping named graph: ' + named_graph_iri + '''
+'''
+            save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
+
+            # Drop the existing version of the graph
+            start_time = datetime.datetime.now()
+            update_upload_status(index, named_graphs_df, 'load_status', 'named_graphs.csv', 'dropping graph', named_graphs_df_fields)
+            data = neptune.drop(named_graph_iri, verbose=False)
+            elapsed_time = (datetime.datetime.now() - start_time).total_seconds()
+            update_upload_status(index, named_graphs_df, 'load_status', 'named_graphs.csv', 'dropped graph in ' + str(elapsed_time) + 's', named_graphs_df_fields)
+            log_string += 'dropped graph in ' + str(elapsed_time) + 's' + '''
+'''     
+
+            # Delete old metadata about that graph if any.
+            request_string = '''delete where {
+graph <https://sparql.vanderbilt.edu/graphs> {
+'<''' + named_graph_iri + '''> ?o ?p.
+}}
+'''    
+            log_string += '''Deleting previous graph metadata
+'''
+            save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
+            data = neptune.update(request_string, verbose=False)
+            log_string += '''Deleted previous metadata
+
+'''
+            save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
+        log_string += 'Dropped all named graphs at ' + datetime.datetime.now().isoformat() + utc_offset + '''
+'''
+        save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
+
+        # Delete the trigger file
+        s3 = boto3.resource('s3')
+        s3.Object(s3_bucket_name, 'trigger.txt').delete()    
+
+        return log_string
+
+    # If the operation is not drop, execution continues here for the load operation.
 
     # Load the data relating the graph names to the datafiles that contain the serializations
     graph_file_associations_df = string_to_list_of_dicts(load_file_from_bucket('graph_file_associations.csv'))
@@ -647,6 +760,8 @@ Elapsed time (s):''' + str(elapsed_time) + '''
 '''
     save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
     
-    
+    # Delete the trigger file
+    s3 = boto3.resource('s3')
+    s3.Object(s3_bucket_name, 'trigger.txt').delete()    
     
     return log_string
