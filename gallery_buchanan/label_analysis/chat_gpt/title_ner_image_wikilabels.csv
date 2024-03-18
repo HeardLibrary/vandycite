@@ -1,0 +1,16 @@
+title,ner_output,wikidata_item,no_item
+Paul Verlaine,['Paul Verlaine'],Paul Verlaine,
+St. Jacob,['St. Jacob'],St. Jacob,
+St. Thomas,['St. Thomas'],St. Thomas,
+Summer Afternoon,['afternoon'],afternoon,
+The Harbor of Niigata: Joko-Ji Temple at Mt. Kinpazan,"['temple', 'Niigata', 'Mt. Kinpazan', 'landscape', 'harbor']","temple, Niigata, landscape, harbor",Mt. Kinpazan
+Abschied (Parting),['parting'],,parting
+An Apostle Reading,"['religious', 'apostle']","religious, apostle",
+Kabuki actor Ichikawa Mennosuke II,"['Ichikawa Mennosuke II', 'portrait', 'kabuki actor']","portrait, kabuki actor",Ichikawa Mennosuke II
+"Melchisedech Blessing Abraham, after Francesco Bassano","['Melchisedech', 'Abraham', 'Francesco Bassano', 'religious', 'blessing']","Abraham, Francesco Bassano, religious, blessing",Melchisedech
+"Rouen (also called ""The Cathedral of Notre Dame, From the South)","['Rouen', 'landscape', 'cathedral']","Rouen, landscape, cathedral",
+The Divers,"['genre', 'divers']",genre,divers
+The Bead Necklace,"['necklace', 'still life', 'bead']","necklace, still life, bead",
+"The Israelite's Cruel Bondage in Egypt, after a design by Gerard Hoet","['Egypt', 'Gerard Hoet', 'historical', 'bondage']","Egypt, Gerard Hoet, bondage",historical
+"Moses drawn out of the water, after design by Gerard Hoet","['Moses', 'Gerard Hoet', 'religious', 'water']","Moses, Gerard Hoet, religious, water",
+Unknown,[],,
