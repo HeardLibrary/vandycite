@@ -1,0 +1,31 @@
+title,ner_output,wikidata_item,no_item
+Pipe Smoker,['pipe'],pipe,
+Unsigned album paintings depicting Taoist immortals,"['album', 'paintings', 'Taoist immortals', 'unsigned']","album, paintings","Taoist immortals, unsigned"
+The Love Letter,"['letter', 'love']","letter, love",
+Marine view with three-masted black schooner in misty weather,"['schooner', 'marine', 'marine view', 'misty weather']","schooner, marine","marine view, misty weather"
+Angry Cat,"['cat', 'angry']","cat, angry",
+Shinnecock Cloudburst,"['Shinnecock', 'cloudburst']","Shinnecock, cloudburst",
+At the Spring,['spring'],spring,
+Fishermen,['fishermen'],fishermen,
+Bird on a Fruit Tree Branch (Lychee),"['bird', 'fruit tree branch', 'Lychee']","bird, Lychee",fruit tree branch
+Model in landscape,"['model', 'landscape']","model, landscape",
+The Genius on the Streets of Berlin (The Young Albert Einstein),"['Berlin', 'Albert Einstein', 'genius', 'young']","Berlin, Albert Einstein, genius",young
+Brothers Karamazov: Nude Female Dreaming,"['Brothers Karamazov', 'nude', 'dreaming']","Brothers Karamazov, nude, dreaming",
+The Two Gossips,['gossips'],,gossips
+"Three Chinese Boys with a Broken Wine Jar, from the series Yoshitoshi ryakuga (Sketches by Yoshitoshi)","['wine jar', 'Yoshitoshi', 'Chinese Boys', 'series', 'Sketches by Yoshitoshi']","Yoshitoshi, series","wine jar, Chinese Boys, Sketches by Yoshitoshi"
+Sleeping Child,"['child', 'sleeping']","child, sleeping",
+The Empty Jug,['jug'],jug,
+Self Portrait and Model,"['self portrait', 'model']","self portrait, model",
+A Sailor's Infancy,['sailor'],sailor,
+Large Green Swiss,['swiss'],,swiss
+"L'Arrêt, Habitant du Marais (from ""Le Plaisirs de la Chasse"")","['Marais', ""l'arret"", 'habitant', 'chasse']","Marais, chasse","l'arret, habitant"
+Damascus Road,"['Damascus', 'road']","Damascus, road",
+Vintage poster for LMS Express & Cunard Liner,"['poster', 'liner', 'vintage', 'LMS Express', 'Cunard']","poster, liner, vintage, Cunard",LMS Express
+LAUS 91,['LAUS'],LAUS,
+Perpetual Obscurity Records Presents Paul Thorn - Trailer Park Philosopher (and more),"['Paul Thorn', 'Perpetual Obscurity Records', 'Trailer Park Philosopher']",Paul Thorn,"Perpetual Obscurity Records, Trailer Park Philosopher"
+Cherry 2000,"['cherry', '2000']","cherry, 2000",
+Der Fluch des Schlangentals (The Curse of Snake Valley),"['Schlangentals', 'Snake Valley', 'Fluch', 'Curse']","Snake Valley, Curse","Schlangentals, Fluch"
+"In Person Blues Recording Artist B.B. King, The King of the Blues World Wide!","['B.B. King', 'blues', 'Recording Artist', 'King of the Blues', 'World Wide']","B.B. King, blues, Recording Artist, King of the Blues",World Wide
+ENNCA Bi-plane,"['bi-plane', 'ENNCA']",,"bi-plane, ENNCA"
+Commit. Act. Demand. We CAN end violence against women.,"['Commit', 'Act', 'Demand', 'violence against women']","Commit, Act, Demand, violence against women",
+"Alison Krauss and Union Station, featuring Jerry Douglas","['Alison Krauss', 'Jerry Douglas', 'Union Station', 'featuring']","Alison Krauss, Jerry Douglas, Union Station, featuring",

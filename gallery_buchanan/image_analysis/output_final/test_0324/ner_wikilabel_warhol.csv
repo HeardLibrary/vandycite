@@ -1,0 +1,11 @@
+title,ner_output,wikidata_item,no_item
+Sean McKeon,['Sean McKeon'],Sean McKeon,
+Sam Bolton,['Sam Bolton'],Sam Bolton,
+Karen Lerner (5 of 10),['Karen Lerner'],,Karen Lerner
+O.J. Simpson,['O.J. Simpson'],O.J. Simpson,
+"Unidentified Woman (Short Blonde Hair, 9 of 16)","['Unidentified Woman', 'Short Blonde Hair']",,"Unidentified Woman, Short Blonde Hair"
+Jon Gould and Unidentified Men,"['Jon Gould', 'Unidentified Men']",Jon Gould,Unidentified Men
+Georgia O'Keefe and Juan Hamilton,"[""Georgia O'Keefe"", 'Juan Hamilton']","Georgia O'Keefe, Juan Hamilton",
+Fashion,['Fashion'],Fashion,
+"Unidentified Woman (Short Blonde Hair, 8 of 16)","['Unidentified Woman', 'Short Blonde Hair']",,"Unidentified Woman, Short Blonde Hair"
+Bed,['Bed'],Bed,
