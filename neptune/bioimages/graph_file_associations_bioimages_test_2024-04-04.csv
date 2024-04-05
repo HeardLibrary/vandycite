@@ -1,0 +1,3 @@
+sd:name,sd:graph,filename,elapsed_time,graph_load_status,triples
+http://bioimages.vanderbilt.edu/organisms,http://bioimages.vanderbilt.edu/organisms#dataset,organisms.rdf,,load complete in 100.002312s,300178
+http://bioimages.vanderbilt.edu/images,http://bioimages.vanderbilt.edu/images#dataset,images.rdf,802.409097,load complete in 300.945804s,
