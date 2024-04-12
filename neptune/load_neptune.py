@@ -23,9 +23,11 @@
 # - added support for "initialize" operation to initialize the graph of graphs and service metadata.
 # - added support for "drop" operation to drop listed named graphs and their metadata.
 # -----------------------------------------
-# Version 0.1.2 change notes (2024-04-03):
+# Version 0.1.2 change notes (2024-04-11):
 # - deleted trigger.txt file immediately after loading since if the script timed out, it would be triggered again,
 #   causing an infinite loop.
+# - added elapsed_time field to graph_file_associations_df to track the time taken to load each file.
+# - bug fixes
 
 # ----------------
 # Configuration
@@ -597,12 +599,17 @@ graph <https://sparql.vanderbilt.edu/graphs> {
         # Create a new list of dicts that contains only the dicts of graph_file_associations_df 
         # which have a value in the sd:name value that matches the current named_graph_iri
         matching_files_df = []
-        for file in graph_file_associations_df:
+        row_number_list = []
+        for row_number, file in enumerate(graph_file_associations_df):
             if file['sd:name'] == named_graph_iri:
                 matching_files_df.append(file)
+                row_number_list.append(row_number)
 
         # Drop the existing version of the graph
         update_upload_status(index, named_graphs_df, 'load_status', 'named_graphs.csv', 'dropping previous version', named_graphs_df_fields)
+        log_string += '''Deleting previous version of graph
+'''
+        save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
         start_time = datetime.datetime.now()
         data = neptune.drop(named_graph_iri, verbose=False)
         elapsed_time = (datetime.datetime.now() - start_time).total_seconds()
@@ -630,20 +637,28 @@ graph <https://sparql.vanderbilt.edu/graphs> {\n'''
             print()
 
         # Step through each file to be loaded into that graph
-        for i, matching_file in enumerate(matching_files_df):
-        
+        for row, matching_file in enumerate(matching_files_df):
+            row_number = row_number_list[row]
+
             # Load file from S3 bucket to triplestore
             #print('Loading file', matching_file['filename'])
-            log_string += 'Loading file ' + matching_file['filename'] + '''
+            log_string += 'Loading file ' + str(row_number) + ' ' + matching_file['filename'] + '''
 '''
             save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
-            
-            update_upload_status(i, graph_file_associations_df, 'graph_load_status', 'graph_file_associations.csv', 'load initiated', graph_file_associations_df_fields)
+
+            update_upload_status(row_number, graph_file_associations_df, 'graph_load_status', 'graph_file_associations.csv', 'load initiated', graph_file_associations_df_fields)
             start_time = datetime.datetime.now()
             data = neptune.load(matching_file['filename'], named_graph_iri, s3=s3_bucket_name, verbose=False)
+            #log_string += neptune.response + '''
+#'''
             elapsed_time = (datetime.datetime.now() - start_time).total_seconds()
-            update_upload_status(i, graph_file_associations_df, 'graph_load_status', 'graph_file_associations.csv', 'load complete in ' + str(elapsed_time) + 's', graph_file_associations_df_fields)
-            update_upload_status(i, graph_file_associations_df, 'elapsed_time', 'graph_file_associations.csv', str((datetime.datetime.now() - upload_start_time).total_seconds()), graph_file_associations_df_fields)
+
+            log_string += 'load complete in ' + str(elapsed_time) + '''s
+'''
+            save_string_to_file_in_bucket(log_string, 'log.txt', bucket = s3_bucket_name, content_type = 'text/plain')
+
+            update_upload_status(row_number, graph_file_associations_df, 'graph_load_status', 'graph_file_associations.csv', 'load complete in ' + str(elapsed_time) + 's', graph_file_associations_df_fields)
+            update_upload_status(row_number, graph_file_associations_df, 'elapsed_time', 'graph_file_associations.csv', str((datetime.datetime.now() - upload_start_time).total_seconds()), graph_file_associations_df_fields)
             if print_dump:
                 print(json.dumps(data, indent=2))
                 print()

@@ -1,0 +1,2 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status
+http://bioimages.vanderbilt.edu/images,2020-05-06,Vanderbilt Heard Libraries,sd:NamedGraph,http://bioimages.vanderbilt.edu,production,dropped graph in 327.149801s
