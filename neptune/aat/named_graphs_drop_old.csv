@@ -1,0 +1,15 @@
+sd:name,dcterms:issued,dc:publisher,rdf:type,dcterms:isPartOf,tdwgutility:status,load_status,triples
+http://AATOut_Notations,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 1.705931s,115
+http://AATOut_LCSHAlignment,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 5.315715s,849
+http://AATOut_Lang_sameAs,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 3.90228s,1522
+http://AATOut_Contribs,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 3.859257s,1764
+http://AATOut_ObsoleteSubjects,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 2.554936s,4651
+http://AATOut_OrderedCollections,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 4.598857s,14031
+http://AATOut_WikidataCoref,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 15.631602s,15496
+http://AATOut_AssociativeRels,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 43.407594s,109677
+http://AATOut_SemanticLinks,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 34.24325s,119364
+http://AATOut_HierarchicalRels,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 36.266962s,122275
+http://AATOut_Sources,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 101.921214s,438235
+http://AATOut_1Subjects,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 234.247716s,509561
+http://AATOut_ScopeNotes,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropped graph in 205.280904s,642954
+http://AATOut_ContribRels,2024-04-12,J. Paul Getty Trust,sd:NamedGraph,https://www.getty.edu/,production,dropping graph,954840

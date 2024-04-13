@@ -1,0 +1,2 @@
+sd:name,sd:graph,filename,elapsed_time,graph_load_status,triples
+http://vocab.getty.edu/aat/ScopeNotes/,http://AATOut_ScopeNotes,AATOut_ScopeNotes.nt,246.756806,load complete in 234.265266s,642954
