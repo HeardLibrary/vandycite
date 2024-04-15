@@ -1,0 +1,423 @@
+title,ner_output
+A Mother Holding a Child,"['child', 'Mother']"
+a Yuri G,['Yuri G']
+Adoration of the Sheperds,['Sheperds']
+Album painting of two men in a cottage in a mountain landscape,"['cottage', 'mountain', 'two men', 'Album painting']"
+An Old Water Mill,"['Water Mill', 'Old']"
+Ante Bellum #2,['Ante Bellum']
+Antique scene after David,['David']
+Aquarelle #21,['Aquarelle']
+Autumn River,['River']
+Balance,[]
+Battle Scene,['Battle']
+Beached Boat,"['Boat', 'Beached']"
+Between the Acts,['Acts']
+Big Yellow,['Big Yellow']
+Bird on a Branch,"['Bird', 'Branch']"
+Bird on a Fruit Tree Branch (Lychee),"['fruit tree branch', 'Lychee']"
+Birds on a Branch,['branch']
+Blue Ovals,['ovals']
+Boat Landing,"['boat', 'landing']"
+Caney Fork Cabin,"['cabin', 'Caney Fork']"
+Captivity,['captivity']
+Cat Asleep,"['cat', 'asleep']"
+"Cat Looking Up, Facing Front","['cat', 'looking up', 'facing front']"
+Chinese Boat,['boat']
+Coast Scene in Italy,['Italy']
+Composition,[]
+"Composition in Yellow, Green and Orange","['yellow', 'green', 'orange']"
+Copy of Orpheus and Eurydice by Nicolas Poussin,"['Orpheus', 'Eurydice', 'Nicolas Poussin', 'copy']"
+Cows in a Stream,"['cows', 'stream']"
+Dos Cuadros,['Dos Cuadros']
+"Earth, Air, Fire, and Water","['Earth', 'Air', 'Fire', 'Water']"
+Figures in Marsh Lands,"['Marsh Lands', 'Figures']"
+"Fisherman: Provincetown, Mass.","['Provincetown, Mass.', 'Fisherman']"
+Fishermen,['Fishermen']
+Folding Fan Painted with a Design of Two Eggplants,"['Eggplants', 'Folding Fan', 'Design']"
+"Folding Fan Painted with a Design of Water, a Pair of Cranes","['Water', 'Cranes', 'Folding Fan', 'Design']"
+"Folding Fan Painted with a Japanese Nightingale Flying in Front of a Full Moon on one Side, and a Landscape with Two Birds on the Other","['Nightingale', 'Full Moon', 'Birds', 'Folding Fan', 'Japanese', 'Landscape']"
+"Folding Fan Painted with a Man, Standing with an Umbrella, Looking at Secret Painting to Viewer's Left","['Umbrella', 'Secret Painting', 'Folding Fan', 'Man']"
+"Folding Fan Painted with Bodhidharma and Calligraphic Inscription, translation: Congratulations to Kuo Tsan-ch'ang!","['Bodhidharma', 'Calligraphic Inscription', ""Kuo Tsan-ch'ang"", 'Folding Fan', 'Translation']"
+"Folding Fan Painted with Reproduction of Calligraphy by the Tokugawa Shogun Ietatsu, Translated ""Everyone has Equal Rights"" (Isshi dojin)","['Calligraphy', 'Tokugawa Shogun Ietatsu', 'Folding Fan', 'Translation']"
+Folding fan painted with scenes painted on both sides with different subjects,"['Folding Fan', 'Scenes']"
+Folding Fan Painted with Waves on Both Sides,"['Waves', 'Folding Fan']"
+Forest Scene,['Forest']
+Forest Scene,['Forest']
+"Formal Garden, Versailles","['Versailles', 'Formal Garden']"
+Four Mythological figures,['figures']
+Girl in Bed Reading a Newspaper,"['newspaper', 'girl', 'bed']"
+Girl in Red Blouse on a Path,"['girl', 'blouse', 'path']"
+Harbor Scene,['Harbor']
+"Harwichport, Cape Cod","['Harwichport', 'Cape Cod']"
+Head in Profile,"['head', 'profile']"
+Interior Scene,['interior']
+Italian Lake Scene,['Italian Lake']
+Journey,['journey']
+"Juno and Argus, Guardian of the Jupitern Herds","['Juno', 'Argus', 'Guardian', 'Jupitern', 'Herds']"
+K'o-ssu tapestry silk roundels depicting flowers in vases,"['flowers', 'vases', ""K'o-ssu"", 'silk', 'roundels', 'depicting']"
+Kabuki Theater Signboard Showing an Actor in a Feature Role,"['Signboard', 'Actor', 'Kabuki Theater', 'Kabuki', 'Showing', 'Feature Role']"
+Kimono coat with a design of peonies and cherry blossoms done in the Yuzen dye technique,"['coat', 'peonies', 'cherry blossoms', 'Kimono', 'design', 'Yuzen dye technique']"
+La Eojida de Ibiza,"['Ibiza', 'La Eojida']"
+La Forêt,['La Forêt']
+Lake George,['Lake George']
+Lake Landscape with Dock,['dock']
+Landscape,[]
+Landscape,[]
+Landscape,[]
+Landscape and river,['river']
+Landscape Painting,['painting']
+Landscape with Cows,['cows']
+Landscape with Figures,['figures']
+Landscape with Figures,['figures']
+Landscape with Harbor and Men on Horseback,"['harbor', 'horseback', 'men']"
+Landscape with Moon,['moon']
+Landscape with Shepherds,['Shepherds']
+Landscape with Two Figures,['figures']
+"Landscape, Purple Sky",['Purple Sky']
+Leeds Woods,"['Woods', 'Leeds']"
+Man in a Boat and Man in a Building Over Water,"['Boat', 'Building', 'Water']"
+Man in a Boat Viewing a Waterfall,"['Boat', 'Waterfall']"
+"Man in Building, Viewing Water","['Building', 'Water']"
+Man with a Staff Viewing a Waterfall,"['Staff', 'Waterfall']"
+Man with a Staff Walking Towards Buildings in Hills,"['Staff', 'Buildings', 'Hills']"
+Marine view with three-masted black schooner in misty weather,"['Schooner', 'Weather']"
+"Marine View, Teutonic Rescuing the Crew of the Josie Reeves","['Teutonic', 'Crew', 'Josie Reeves']"
+"Marine view, white brigantine, pilot boat #2","['Brigantine', 'Pilot Boat #2']"
+Matthew 7:19,[]
+Mercury and Argus,"['Mercury', 'Argus']"
+Model in landscape,"['Model', 'landscape']"
+Moonlight Nymphs,['Nymphs']
+Mount Fuji and the Pine Beach at Miho,"['Mount Fuji', 'Pine Beach', 'Miho']"
+Night: Sea and Cliff Scene,"['Sea', 'Cliff']"
+North African Battle Scene,"['Battle Scene', 'North African']"
+"Ocean Scene Harbor, Brittany","['Ocean Scene', 'Harbor', 'Brittany']"
+October 14th Corn,"['Corn', 'October 14th']"
+Odalisque,[]
+Opus 87,['Opus 87']
+Opus 88,['Opus 88']
+Paisaje Cireolar,"['Paisaje', 'Cireolar']"
+Paris Garden,"['Garden', 'Paris']"
+Peasants in a Landscape,"['Peasants', 'Landscape']"
+Pembroke,['Pembroke']
+Portrait of George Peabody,['George Peabody']
+Portrait of Julián Trujillo Largacha,['Julián Trujillo Largacha']
+"Rakuchu-Rakugai (View of Daily Life in Kyoto), six panel screen","['six panel screen', 'Kyoto', 'Rakuchu-Rakugai', 'Daily Life']"
+Recess #1,"['Recess', '#1']"
+Reclining Nude (after Titian),"['Nude', 'Titian', 'after']"
+Rest on the Flight into Egypt,['Egypt']
+Restaurant Scene,"['Scene', 'Restaurant']"
+Road Accident by a Windmill,"['Windmill', 'Road Accident']"
+Rockport (Bearskin Neck),"['Rockport', 'Bearskin Neck']"
+Rockport (Front Beach),"['Rockport', 'Front Beach']"
+Roentgenologist's Nightmare,['Roentgenologist']
+Scene in Haiti #1,"['Haiti', 'Scene']"
+Scene in Haiti #2,"['Haiti', 'Scene']"
+"Screen painting of five cranes (three flying), with a rushing stream on the left and the bank on the right","['cranes', 'stream', 'bank']"
+"Screen painting of four cranes (three flying), with flowing water, bamboo, and cherry blossoms","['cranes', 'water', 'bamboo', 'cherry blossoms']"
+Shinnecock Cloudburst,"['Shinnecock', 'Cloudburst']"
+Singer's Fan Painted with a Design of Two Goldfish,"['Fan', 'Goldfish', 'Singer', 'Design']"
+Six Figures,['Figures']
+Six panel screen with scenes from the Tale of Genji,"['screen', 'scenes', 'Tale of Genji']"
+Small City,['City']
+The Jungfrau,['Jungfrau']
+The Legend of Virgil the Sorcerer,"['Virgil', 'sorcerer']"
+The Martyred,[]
+The Monks,['Monks']
+"The Old Homestead, Wyoming Valley","['Wyoming Valley', 'Homestead']"
+The Orchard,[]
+"The Picnic, Vermont","['Vermont', 'Picnic']"
+The Repentance of Mary Magdalene,"['Mary Magdalene', 'Repentance']"
+Two Men Conversing on a Bluff by Water,"['Men', 'Bluff', 'Water']"
+Two Personages,['Personages']
+Village scene with a mill on the right,"['mill', 'Village', 'right']"
+Village Street,['Village Street']
+Woman and Parrot,"['Parrot', 'Woman']"
+Woman and Two Children in a Kitchen,"['Kitchen', 'Woman', 'Two Children']"
+Woman Gathering Fagots,"['Fagots', 'Woman', 'Gathering']"
+Woman Reading,['book']
+"""A scene from Laurence Sterne's novel 'A Sentimental Journey Through France and Italy.'""","['France', 'Italy', 'Laurence Sterne']"
+A Turkish Cafe,['Turkish']
+A Young Woman,[]
+American Icon/ Road Sign,"['road sign', 'American Icon']"
+American Icon/24 Karat Rabbit,"['rabbit', 'American Icon']"
+American Icon/Insignia,['American Icon']
+Angel Posed,['Angel']
+Architectural Scene with Still Life,['still life']
+At the Spring,['Spring']
+Aura,[]
+Bacchante,[]
+Black and Etc. #4,[]
+Blue Arc,[]
+Bright Squares,[]
+Cat with Fish in its Mouth,"['fish', 'cat']"
+Cheek,[]
+Come Let Us...,[]
+"Composition, Trees",['trees']
+Corps and Visage (18),"['Corps', 'Visage']"
+Cumaean Sibyl (after Domenichino),"['Domenichino', 'Cumaean Sibyl']"
+Day  Dreams or The Puritan Maiden,"['Day Dreams', 'The Puritan Maiden']"
+Decorative Study,['Decorative Study']
+Dutch Interior,['Dutch']
+Dutch Marine (copy of an 18th century original),"['Dutch', '18th century original']"
+Encounters (6),['Encounters']
+Entombment of Christ,"['Christ', 'Entombment']"
+"Female Mask, empty case for shikishi","['mask', 'shikishi', 'Female', 'empty case']"
+Flowers,['flowers']
+Girl in a Brown Dress (after Agnolo Bronzino),"['Agnolo Bronzino', 'Girl in a Brown Dress']"
+Gypsy Girl,['Gypsy Girl']
+Icon with Images of the Virgin and Standing Saints,"['Virgin', 'Saints']"
+Louise Nevelson Spraying Oil on Canvas,"['oil', 'canvas', 'Louise Nevelson', 'Spraying']"
+Luz Morada,['Luz Morada']
+Madonna and Child with St. Elizabeth and infant John the Baptist,"['Madonna', 'St. Elizabeth', 'John the Baptist', 'Child', 'infant']"
+Madonna and Christ Child,"['Madonna', 'Christ Child']"
+Madonna of the Harpies (copy),"['Madonna', 'Harpies', 'copy']"
+Mister Hasting,['Mister Hasting']
+Multi-Generational Family Portrait,['Family']
+Mystic Marriage of St. Catherine,"['St. Catherine', 'Mystic', 'Marriage']"
+Number 38,['Number']
+Parlor Scene,['Parlor']
+Parvati on Nandi,"['Parvati', 'Nandi']"
+Pastoral Couple,"['Pastoral', 'Couple']"
+Pincer,['Pincer']
+Pipe Smoker,['pipe']
+Portrait,[]
+Portrait of a Lady,['lady']
+Portrait of a Lady with Rose,"['rose', 'lady']"
+Portrait of a Man,['man']
+Portrait of a Man,['man']
+Portrait of a Man,['man']
+Portrait of a Man in Armor,"['armor', 'man']"
+Portrait of a Man in Red,"['red', 'man']"
+Portrait of a Woman,['woman']
+Portrait of a Woman,['woman']
+Portrait of a Young Girl,['young girl']
+Portrait of a Young Man (Peabody Official),"['Peabody Official', 'young man']"
+Portrait of a Young Woman,['young woman']
+Portrait of Confederate General Edmund Kirby Smith,"['Confederate General Edmund Kirby Smith', 'general']"
+Portrait of Edward Bridgen,['Edward Bridgen']
+"Portrait of Jacob McGavock Dickinson, Peabody Trustee, 1909-1928","['Jacob McGavock Dickinson', 'Peabody Trustee']"
+Portrait of Joseph Montgomery Peters,['Joseph Montgomery Peters']
+"Portrait of Judge James C. Bradford (1852-1914), First Chairman of the Executive Board of Directors of Peabody College","['Judge James C. Bradford', 'First Chairman', 'Executive Board of Directors', 'Peabody College']"
+Portrait of Mrs. Algernon Sidney Sullivan (Mary Mildred Hammond),"['Mrs. Algernon Sidney Sullivan', 'Mary Mildred Hammond']"
+Portrait of Robert C. Winthrup,['Robert C. Winthrup']
+Primaries,[]
+Rural Landscape with Cows,"['Cows', 'Rural']"
+Scituate Harbor,['Scituate Harbor']
+Seascape,[]
+Seated Woman,['Woman']
+Ships in Moonlight,"['Ships', 'Moonlight']"
+Ski Jumpers,['Jumpers']
+Spirit of the Flowers,"['Flowers', 'Spirit']"
+St. John Consoling the Virgin,"['St. John', 'Virgin', 'Consoled']"
+Starting the Day,['day']
+"Sunrise, San Remo","['San Remo', 'sunrise']"
+The Countess of Kildare after Sir Peter Lely,"['The Countess of Kildare', 'Sir Peter Lely']"
+The Edge of the Forest,"['Forest', 'edge']"
+The Harling Gate,['Harling Gate']
+The Love Letter,"['letter', 'love']"
+The Pianist,['Pianist']
+The Skyscraper Window,"['window', 'skyscraper']"
+The Three Judges,['Three Judges']
+The Wilderness of Waters,"['wilderness', 'waters']"
+Three Dimensional Plaster/Painting,"['Plaster/Painting', 'Three Dimensional']"
+Three Female Figures in a Landscape,['Female Figures']
+Three Masted Black Schooner,"['Schooner', 'Three Masted', 'Black']"
+View near Thorpe; Moonlight scene,"['Thorpe', 'Moonlight scene']"
+Village scene with two men and a woman,"['Village', 'two men', 'a woman', 'scene']"
+Virgin,[]
+Woman and Child Begging,['child']
+Woman Looking to Right,[]
+Woman Winding Yarn,['yarn']
+Woman's Head (taken from a larger painting),[]
+Young Man with Two Geese (Copy of a Dutch Old Master),"['geese', 'Dutch Old Master', 'Young Man']"
+The Green House,['house']
+Family Totem,['family']
+Indomeneo: Echo,"['Indomeneo', 'Echo']"
+Scene in Florida,"['Florida', 'scene']"
+Composition,[]
+Gypsy Encampment,"['Gypsy', 'encampment']"
+Landscape,[]
+Lunar Circuit II,['Lunar Circuit II']
+Picture Album of Twelve Chinese Men,"['Chinese Men', 'Picture Album']"
+Picture Album of Twelve Chinese Men,"['album', 'Chinese Men']"
+Portrait of a Young Woman,['Young Woman']
+Portrait of George Peabody,['George Peabody']
+Still Life with Fish,['fish']
+Unsigned album paintings depicting Taoist immortals,"['album', 'paintings', 'Taoist immortals', 'Unsigned']"
+Unsigned album paintings depicting Taoist immortals,"['album paintings', 'Taoist immortals', 'unsigned']"
+A Pair of Work Gloves,"['Work Gloves', 'Pair']"
+A Street Scene,[]
+Amco,['Amco']
+"Apostle Paul, from the Church of the Trinity, Monastery of Sopocani, Serbia (copy)","['Church of the Trinity', 'Monastery of Sopocani', 'Serbia', 'Apostle Paul', 'copy']"
+"Apostle Peter, from the Church of the Trinity, Monastery of Sopocani, Serbia (copy)","['Church of the Trinity', 'Monastery of Sopocani', 'Serbia', 'Apostle Peter', 'copy']"
+"Archangel,  from The Ascension, from the Cathedral of St. Sophia, Ochrid, Macedonia, (copy)","['The Ascension', 'Cathedral of St. Sophia', 'Ochrid', 'Macedonia', 'Archangel', 'copy']"
+Autumn Swamp,"['Swamp', 'Autumn']"
+Blue Surge,"['Surge', 'Blue']"
+Brownstone All-Stars,"['Brownstone', 'All-Stars']"
+Burning Tree,"['Tree', 'Burning']"
+Burton's Violet,"['Violet', 'Burton']"
+Chalice,['Chalice']
+"Composition: Sword, Bull and Fruit","['Sword', 'Bull', 'Fruit']"
+"Cow, Fruit, Shirt, Straps","['Cow', 'Fruit', 'Shirt', 'Straps']"
+Crystalline,[]
+Cup with Fruits,"['Cup', 'Fruits']"
+Dilemma,[]
+Easter,[]
+End of Seasons and Days,[]
+Exterior Still Life with Figure,"['Still Life', 'Figure']"
+Family Group,['Family']
+Festival,[]
+Fille,[]
+Flight of Germination,[]
+Flower Vision,['Flower']
+Grassy Landscape,"['landscape', 'grassy']"
+Hunting Scene (Dogs Attacking a Fox at Bay),"['dogs', 'fox']"
+"Icon of St. John the Baptist from the Church of the Virgin, Monastery of Gracanica, Serbia (copy)","['icon', 'Church of the Virgin', 'Monastery of Gracanica', 'Serbia', 'St. John the Baptist', 'copy']"
+"Icon of the Virgin and Child ""Studenicka"", from the Church of the Virgin, Monastery of Studenica, Serbia (copy)","['icon', 'Church of the Virgin', 'Monastery of Studenica', 'Serbia', 'Virgin', 'Child', 'copy']"
+Incident at My Lai,['My Lai']
+Kitchen Interior,['kitchen']
+Landscape,['landscape']
+Landscape with Woman,"['landscape', 'woman']"
+Marchand de Poissons,"['poissons', 'Marchand']"
+Moorish Painting,['painting']
+My Toscanini,['Toscanini']
+Nine Pieces of Everything,['pieces']
+Panoramic Figres,['figres']
+Permanent Record of an Unusual Leaf,"['leaf', 'record', 'unusual']"
+Pilar,[]
+Portrait of a Lady,['Lady']
+Portrait of a Nobleman with Cap,"['cap', 'Nobleman']"
+Still-life with Blue Coffee Pot,"['coffee pot', 'blue']"
+Still-life with Fish and Kettle,"['fish', 'kettle']"
+Still-Life with Flowers in Vase,"['flowers', 'vase']"
+Tennessee Hillside,['Tennessee Hillside']
+The Breakwater,['Breakwater']
+The Green Umbrella,"['umbrella', 'Green']"
+The Jester,['Jester']
+"The Lamentation of Christ, from the Church of St. Panteleimon, Monastery of Nerezi, Macedonia (copy)","['Church of St. Panteleimon', 'Monastery of Nerezi', 'Macedonia', 'Christ', 'copy']"
+The Lovers,['Lovers']
+"The Marriage at Cana, from the Church of the Presentation of the Virgin, Monastery of Kalenic, Serbia (copy)","['Church of the Presentation of the Virgin', 'Monastery of Kalenic', 'Serbia', 'copy']"
+"The Presentation of the Virgin, from the Chapel of Joachim and Anna, Monastery of Studenica, Serbia (copy)","['Chapel of Joachim and Anna', 'Monastery of Studenica', 'Serbia', 'Virgin', 'copy']"
+The Time of Singing is Come; Song of Songs:  2:12,['Song of Songs']
+The Waterfalls,['waterfalls']
+There Is No Time,[]
+Tomco,['Tomco']
+Torrin,['Torrin']
+Tulip,['tulip']
+"""View of the Woolworth Building in Winter Through the Arch of the Municipal Building, New York City""","['Woolworth Building', 'Municipal Building', 'New York City', 'Winter', 'Arch']"
+Watching CNN,['CNN']
+Winter in the Highlands,"['Highlands', 'Winter']"
+Winter Landscape,['Winter']
+Young Lady,['Young Lady']
+Green Abstract Painting,['Green']
+Noon,['Noon']
+Caught on a Merry-go-Round,"['Merry-go-Round', 'Caught']"
+Oil Sketch of Florida,"['Oil Sketch', 'Florida']"
+Oil Sketch of Florida,"['sketch', 'Florida']"
+Oil Sketch of Florida,"['sketch', 'Florida']"
+Oil Sketch of Florida,"['sketch', 'Florida']"
+Oil Sketch of Florida,"['sketch', 'Florida']"
+Oil Sketch of Florida,"['sketch', 'Florida']"
+Oil Sketch,['sketch']
+Oil Sketch,['sketch']
+Oil Sketch,['sketch']
+Reflected Man,['Reflected Man']
+Expansion,[]
+The Family,[]
+Taupe #1,['Taupe']
+Blue Vase with Flowers,"['vase', 'flowers']"
+Child with a Book,"['book', 'Child']"
+Portrait of a Lady,['Lady']
+Trees by a River,"['Trees', 'River']"
+River and Woods,"['River', 'Woods']"
+Sunset,[]
+Self-Portrait,[]
+The Continuous Crucifixion,[]
+Composition,[]
+Poissons et Huitres,"['Poissons', 'Huitres']"
+Love Bridges All,[]
+Constructionist Watercolor,[]
+"Fisherman at night, lighting a pipe","['Fisherman', 'pipe', 'night']"
+Nativity (after Peter Paul Rubens),"['Peter Paul Rubens', 'Nativity']"
+Nude,[]
+Diligence in a Belgian Town,"['Diligence', 'Belgian Town']"
+Landscape with Cattle,"['Landscape', 'Cattle']"
+"Tromp l'oeil, still-life","['still-life', ""Tromp l'oeil""]"
+Save for the Sun at Superbank,"['Sun', 'Superbank']"
+Iris or Goat Flower,"['Iris', 'Goat Flower']"
+Castle and Bridge,"['Castle', 'Bridge']"
+Landscape with Cattle,['Cattle']
+"Dutch Interior, Woman by a Cradle","['Cradle', 'Woman']"
+Venice Canal,"['Canal', 'Venice']"
+Venice Church,"['Church', 'Venice']"
+Venice Scene,['Venice']
+Venice Scene,['Venice']
+Venice Scene,['Venice']
+Venice Scene with Bridge,"['Bridge', 'Venice']"
+Haiti,['Haiti']
+Portrait of a Woman,['Woman']
+Spring Day in Early Morning,"['Spring Day', 'Early Morning']"
+Portrait of Algernon Sidney Sullivan,['Algernon Sidney Sullivan']
+Two in the Gallery,['Gallery']
+"Country Lane, Two Figures and Sunset","['Country Lane', 'Sunset']"
+"Largely white, abstract painting of ghosts","['painting', 'ghosts', 'white']"
+Reclining Nude,['Reclining']
+Woman in Red,"['Woman', 'Red']"
+Georgia Barn,"['Barn', 'Georgia']"
+"Original Illustration for Saturday Evening Post, ""What happened to MAB""","['Illustration', 'MAB', 'Original', 'Saturday Evening Post', 'What happened']"
+Pumpkin Harvest,"['Pumpkin', 'Harvest']"
+"New Year's Greeting, Year of the Sheep","[""New Year's Greeting"", 'Sheep']"
+"New Year's Greeting, Year of the Horse","[""New Year's Greeting"", 'Horse']"
+"New Year's Greeting, Year of the Horse","[""New Year's Greeting"", 'Horse']"
+"New Year's Greeting, Year of the Boar","[""New Year's Greeting"", 'Boar']"
+Passerelle des Arts,['Passerelle des Arts']
+"New Year's Greeting, Year of the Ox","[""New Year's Greeting"", 'Ox']"
+Folding fan,"['fan', 'Folding']"
+"New Year's Greeting, Year of the Horse","[""New Year's Greeting"", 'Year of the Horse']"
+"New Year's Greeting, Year of the Boar","[""New Year's Greeting"", 'Year of the Boar']"
+Passerelle des Arts,['Passerelle des Arts']
+"New Year's Greeting, Year of the Ox","[""New Year's Greeting"", 'Year of the Ox']"
+Folding fan,['Folding fan']
+"New Year's Greeting, Year of the Rat","[""New Year's Greeting"", 'Year of the Rat']"
+"New Year's Greeting, Year of the Rat","[""New Year's Greeting"", 'Year of the Rat']"
+"New Year's Greeting, Year of the Snake","[""New Year's Greeting"", 'Year of the Snake']"
+"New Year's Greeting, Year of the Monkey","[""New Year's Greeting"", 'Year of the Monkey']"
+"New Year's Greeting, Year of the Rooster","[""New Year's Greeting"", 'Year of the Rooster']"
+"New Year's Greeting, Year of the Dog","[""New Year's Greeting"", 'Year of the Dog']"
+"New Year's Greeting, Year of the Dragon","[""New Year's Greeting"", 'Year of the Dragon']"
+"Demon Playing a Samisen, With Wine Bottle and Drinking Cup in Foreground","['Samisen', 'Wine Bottle', 'Drinking Cup', 'Demon']"
+Stooping Man with Cherub Sitting on His Right,"['Stooping Man', 'Cherub']"
+An Artist's Studio,['Artist']
+Appleman,['apple']
+Barn and Snow Scene,"['barn', 'snow']"
+Copy of a Rubens Self-Portrait,['Rubens']
+Dancing Couple,[]
+En la Casa de Pilatosi,['Casa de Pilatosi']
+Greek Dancers,[]
+Half-Figure Man,[]
+Homeostasis,[]
+Landscape of Greece,['Greece']
+Madonna in Clouds (copy of Madonna and Child with Music Making Angels by Correggio),"['clouds', 'Madonna', 'Child', 'Angels', 'Correggio']"
+Pink Shift,[]
+Redwall,[]
+Visiting the Poor,['Poor']
+"""Wakakusa, Album of bird studies""",['bird']
+Madonna and Child with Apollonia and Another Female Saint,"['Madonna', 'Apollonia', 'Female Saint']"
+Marine Landscape,['landscape']
+Portrait of a Gentleman,[]
+"The Crucifixion with the Virgin Mary, St. Mary Magdalene, St. John the Evangelist, and a Female Saint","['Virgin Mary', 'St. Mary Magdalene', 'St. John the Evangelist', 'Female Saint']"
+Crucifixion of St. Andrew,['St. Andrew']
+Madonna and Child with St. Anne,"['Madonna', 'Child', 'St. Anne']"
+Madonna with Three Saints and John,"['Madonna', 'Three Saints', 'John']"
+St. Sebastian,['St. Sebastian']
+Madonna and Child,"['Madonna', 'Child']"
+Madonna and Child with the Holy Trinity and the Annunciation; Anonymous Martyr Saint; Resurrection; Noli me tangere,"['Madonna', 'Child', 'Holy Trinity', 'Annunciation', 'Anonymous Martyr Saint', 'Resurrection', 'Noli me tangere']"
+St. Louis of Toulouse,['St. Louis of Toulouse']
+Madonna and Child,"['Madonna', 'Child']"
+"The Crucifixion with the Virgin, Mary Magdalene and St. John the Evangelist","['Virgin', 'Mary Magdalene', 'St. John the Evangelist']"
+A Baptismal Ceremony,['Baptismal']
+St. Sebastian,['St. Sebastian']
+Still-life with Poppies,['Poppies']
+Reclining Nude,['nude']
+Angry Cat,"['cat', 'angry']"
+The Infant Shakespeare Attended by Nature and the Passions,"['Shakespeare', 'infant', 'nature', 'passions']"
