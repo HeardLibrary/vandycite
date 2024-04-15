@@ -1,2 +1,2 @@
-sd:name,sd:graph,filename,elapsed_time,graph_load_status
-https://nomenclature.info/nom/,https://nomenclature.info/nom/#dataset,datadump-20240412.ttl,,
+sd:name,sd:graph,filename,elapsed_time,graph_load_status,triples
+https://nomenclature.info/nom/,https://nomenclature.info/nom/#dataset,datadump-20240412.ttl,,,1622808

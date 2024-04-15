@@ -1,0 +1,2 @@
+sd:name,sd:graph,filename,elapsed_time,graph_load_status,triples
+http://vocab.getty.edu/aat/Subjects/,http://AATOut_1Subjects,AATOut_1Subjects.nt,194.718786,load complete in 179.717836s,509561
